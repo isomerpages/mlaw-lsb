@@ -1,0 +1,58 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/
+- title: Practitioners And Companies
+  url: /Practitioners-and-companies/licensed-companies/
+  sub-links:
+  - title: Licensed Companies
+    url: /Practitioners-and-companies/licensed-companies/
+  - title: Practicing Registered Surveyors
+    url: /Practitioners-and-companies/practicing-registered-surveyors/
+- title: Becoming A Surveyor
+  url: /becoming-a-surveyor/overview/
+  sub-links:
+  - title: Overview
+    url: /becoming-a-surveyor/overview/
+  - title: Applying Practicing Certificate
+    url: /becoming-a-surveyor/applying-practicing-certificate/
+  - title: Applying For Licence
+    url: /becoming-a-surveyor/applying-for-licence/
+  - title: Professional Practice Exam
+    url: /becoming-a-surveyor/professional-practice-exam/
+  - title: Education Qualifications
+    url: /becoming-a-surveyor/education-qualifications/
+  - title: Professional Interview
+    url: /becoming-a-surveyor/professional-interview/
+  - title: Applying Certificate Of Registration
+    url: /becoming-a-surveyor/applying-certificate-of-registration/
+- title: Acts And Rules
+  url: /acts-and-rules/directives/
+  sub-links:
+  - title: Directives
+    url: /acts-and-rules/directives/
+  - title: Land Surveyors Act
+    url: /acts-and-rules/land-surveyors-act/
+  - title: Notice
+    url: /acts-and-rules/notice/
+  - title: Circular
+    url: /acts-and-rules/circular/
+  - title: Forms
+    url: /acts-and-rules/forms/
+  - title: Cpd
+    url: /acts-and-rules/cpd/
+- title: News
+  url: /resource-room/
+  sub-links:
+  - title: All
+    url: /resource-room/
+  - title: Subcategory A
+    url: /resource-room/subcategory-A/
+  - title: Subcategory B
+    url: /resource-room/subcategory-B/
+  - title: Subcategory C
+    url: /resource-room/subcategory-C/
