@@ -3,7 +3,6 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-
 - title: Home
   url: https://mlaw-lsb-staging.netlify.com
 - title: About Us
@@ -22,13 +21,13 @@
   - title: Annual Reports
     url: /about-us/annual-reports/
   - title: Contact Us
-    url: /about-us/contact-us/      
+    url: /about-us/contact-us/
 - title: Find a Surveyor
   sub-links:
   - title: List of Licenced Companies
     url: /find-a-surveyor/list-of-licenced-companies/
   - title: List of Practicing Registerd Surveyors
-    url: /find-a-surveyor/list-of-practicing-registered-surveyors/    
+    url: /find-a-surveyor/list-of-practicing-registered-surveyors/
 - title: Register to be a Surveyor
   url: /register-to-be-a-surveyor/
   sub-links:
@@ -45,7 +44,7 @@
   - title: Professional Interview
     url: /register-to-be-a-surveyor/professional-interview/
   - title: Applying for a Certificate of Registration
-    url: /register-to-be-a-surveyor/applying-for-a-certificate-of-registration/  
+    url: /register-to-be-a-surveyor/applying-for-a-certificate-of-registration/
 - title: Guidelines and Polices
   url: /guidelines-and-policies/
   sub-links:
