@@ -40,10 +40,15 @@ custom_print_css_path: "/assets/css/print.css"
 
 
 collections:
-  Practitioners-and-companies:
+  about-us:
     output: true
-  becoming-a-surveyor:
+  find-a-surveyor:
     output: true
-  acts-and-rules:
+  register-to-be-a-surveyor:
     output: true
-resources_name: resource-room
+  guidelines-and-policies:
+    output: true
+  notice-and-announcements
+    output: true
+  forms
+    output: true
