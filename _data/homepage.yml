@@ -18,22 +18,22 @@ hero-banner: /images/Hero Banner-LSB.jpg
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /about-us/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com.sg
+  - title: Know the Latest
+    description: Notice and Announcement
+    url: /notice-and-announcement/
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com.sg
+  - title: Find a Surveyor
+    description: List of Practicing Registered Surveyors
+    url: /list-of-practicing-registered-surveyors/
     external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: Register as a Surveyor
+    description: Requirements and Information
+    url: /register-to-be-a-surveyor/
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
+resources-title: Guidelines and Policies
+resources-subtitle: Get More Information
+resources-more-button: More 
+resources-more-button-url: /guidelines-and-policies/
