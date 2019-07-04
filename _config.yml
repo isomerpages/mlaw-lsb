@@ -50,5 +50,5 @@ collections:
     output: true
   notice-and-announcements:
     output: true
-  forms
+  forms:
     output: true
