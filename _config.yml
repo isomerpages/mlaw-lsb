@@ -48,7 +48,7 @@ collections:
     output: true
   guidelines-and-policies:
     output: true
-  notice-and-announcements
+  notice-and-announcements:
     output: true
   forms
     output: true
