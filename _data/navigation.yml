@@ -8,53 +8,57 @@
   url: https://mlaw-lsb-staging.netlify.com
 - title: About Us
   url: /about-us/
-- title: Practitioners And Companies
-  url: /Practitioners-and-companies/licensed-companies/
-  sub-links:
-  - title: Licensed Companies
-    url: /Practitioners-and-companies/licensed-companies/
-  - title: Practicing Registered Surveyors
-    url: /Practitioners-and-companies/practicing-registered-surveyors/
-- title: Becoming A Surveyor
-  url: /becoming-a-surveyor/overview/
   sub-links:
   - title: Overview
-    url: /becoming-a-surveyor/overview/
-  - title: Applying Practicing Certificate
-    url: /becoming-a-surveyor/applying-practicing-certificate/
-  - title: Applying For Licence
-    url: /becoming-a-surveyor/applying-for-licence/
-  - title: Professional Practice Exam
-    url: /becoming-a-surveyor/professional-practice-exam/
+    url: /about-us/overview/
+  - title: What We Do
+    url: /about-us/what-we-do/
+  - title: Board Members
+    url: /about-us/board-members/
+  - title: History of Land Surveyors Board
+    url: /about-us/history-of-land-surveyors-board/
+  - title: Promotional Video
+    url: /about-us/promotional-video/
+  - title: Annual Reports
+    url: /about-us/annual-reports/
+  - title: Contact Us
+    url: /about-us/contact-us/      
+- title: Find a Surveyor
+  sub-links:
+  - title: List of Licenced Companies
+    url: /find-a-surveyor/list-of-licenced-companies/
+  - title: List of Practicing Registerd Surveyors
+    url: /find-a-surveyor/list-of-practicing-registered-surveyors/    
+- title: Register to be a Surveyor
+  url: /register-to-be-a-surveyor/
+  sub-links:
+  - title: Overview
+    url: /register-to-be-a-surveyor/overview/
+  - title: Applying for a Practicing Certificate
+    url: /register-to-be-a-surveyor/applying-for-a-practicing-certificate/
+  - title: Applying for a Licence
+    url: /register-to-be-a-surveyor/applying-for-a-licence/
+  - title: Professional Practice Examination
+    url: /register-to-be-a-surveyor/professional-practice-examination/
   - title: Education Qualifications
-    url: /becoming-a-surveyor/education-qualifications/
+    url: /register-to-be-a-surveyor/education-qualifications/
   - title: Professional Interview
-    url: /becoming-a-surveyor/professional-interview/
-  - title: Applying Certificate Of Registration
-    url: /becoming-a-surveyor/applying-certificate-of-registration/
-- title: Acts And Rules
-  url: /acts-and-rules/directives/
+    url: /register-to-be-a-surveyor/professional-interview/
+  - title: Applying for a Certificate of Registration
+    url: /register-to-be-a-surveyor/applying-for-a-certificate-of-registration/  
+- title: Guidelines and Polices
+  url: /guidelines-and-policies/
   sub-links:
   - title: Directives
-    url: /acts-and-rules/directives/
+    url: /guidelines-and-policies/directives/
   - title: Land Surveyors Act
-    url: /acts-and-rules/land-surveyors-act/
-  - title: Notice
-    url: /acts-and-rules/notice/
+    url: /guidelines-and-policies/land-surveyors-act/
   - title: Circular
-    url: /acts-and-rules/circular/
-  - title: Forms
-    url: /acts-and-rules/forms/
-  - title: Cpd
-    url: /acts-and-rules/cpd/
-- title: News
-  url: /resource-room/
-  sub-links:
-  - title: All
-    url: /resource-room/
-  - title: Subcategory A
-    url: /resource-room/subcategory-A/
-  - title: Subcategory B
-    url: /resource-room/subcategory-B/
-  - title: Subcategory C
-    url: /resource-room/subcategory-C/
+    url: /guidelines-and-policies/circular/
+  - title: CPD
+    url: /guidelines-and-policies/cpd/
+  - title: Disciplinary Cases
+    url: /guidelines-and-policies/disciplinary-cases
+- title: Notice and Announcements
+  url: /notice-and-announcements/
+  
