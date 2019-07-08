@@ -28,7 +28,7 @@ Until 31 December of the year of issue
 
 * If he is not applying for the first time after registration, the surveyor must also have obtained the requisite Continuing Professional Development (CPD) units by successfully completing any survey related activity or non-survey related activity 12 months prior to the date on which he applies for a Practising Certificate.
 
-* Please submit the [CPD Summary](/files/linkclick895a.doc){:target="_blank"} Form which states the number of CPD units together with Form 5 for the renewal of your Practicing Certificate.
+* Please submit the [CPD Summary Form](/files/linkclick895a.doc){:target="_blank"} which states the number of CPD units together with Form 5 for the renewal of your Practicing Certificate.
 
 Please submit your applications and fees to:
 
