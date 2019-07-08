@@ -21,7 +21,6 @@ ANNUAL REPORTS
 [Land Surveyors Board : 2002 Annual Report - 455 KB](/files/LSBAnnualReport2002.pdf) <br>
 [Land Surveyors Board : 2003 Annual Report - 389 KB](/files/LSBAnnualReport2003.pdf) <br>
 <br>
-
 ---
 
 **Page:**  
