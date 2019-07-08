@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: List of Licenced companies
-permalink: /register-to-be-a-surveyor/list-of-licenced-companies/
+permalink: /find-a-surveyor/list-of-licenced-companies/
 breadcrumb: List of Licenced companies
-collection_name: register-to-be-a-surveyor
+collection_name: find-a-surveyor
 ---
 
 
