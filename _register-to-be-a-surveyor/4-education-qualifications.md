@@ -58,7 +58,38 @@ b. <u>AUSTRALIA</u>
    * vi. University of Southern Queensland,<br>
        &nbsp;&nbsp; Bachelor of Spatial Science (Honours) (Surveying);
        
-   * vii. University of Tasmania,
+   * vii. University of Tasmania,<br>
        &nbsp;&nbsp; Bachelor of Surveying.
        
 c. <u>CANADA</u>
+   * i. University of Calgary,<br>
+       &nbsp;&nbsp; Bachelor of Geomatics Engineering;
+       
+   * ii. University of New Brunswick,<br>
+       &nbsp;&nbsp; Bachelor of Science in Engineering (Geomatics Engineering).
+       
+d. <u>MALAYSIA</u>
+   * i. University of Technology Malaysia,<br>
+       &nbsp;&nbsp; Bachelor of Surveying (Land); and Bachelor of Engineering (Geomatics).
+       
+Note:<br>
+UTM grads are required to take and pass the APTIS test administered by the British Council. This is in reference to LSB’s 20th March 2014 LSB Notice on Requirement Of English Language Proficiency For Land Surveyors Board Professional Practice Examinations.
+
+e. <u>NEW ZEALAND</u>
+   * i. University of Otago,<br>
+       &nbsp;&nbsp; Bachelor of Surveying.
+       
+f. <u>UNITED KINGDOM</u>
+   * i. Royal Institute of Chartered Surveyors (RICS),<br>
+       &nbsp;&nbsp; Professional Members who have passed final examinations of RICS; 
+       
+   * ii. University College London,<br>
+        &nbsp;&nbsp; Bachelor of Engineering in Geoinformatics;
+        
+   * iii. University of East London,<br>
+        &nbsp;&nbsp; Bachelor of Surveying and Mapping Sciences (Honours);
+        
+   * iv. University of Newcastle upon Tyne,<br>
+        &nbsp;&nbsp; Bachelor of Science, Surveying Science (Honours).
+        
+<b><sup>*</sup> <i>List is subject to periodic review and update.</i></b>
