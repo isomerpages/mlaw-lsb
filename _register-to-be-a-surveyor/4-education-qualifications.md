@@ -50,7 +50,7 @@ b. <u>AUSTRALIA</u>
        &nbsp;&nbsp; or with Bachelor of Environements (Spatial Systems Major).<br>
        
    * iv. University of New South Wales,<br>
-       &nbsp;&nbsp; Bachelor of Surveying; <br>
+       &nbsp;&nbsp; Bachelor of Surveying;<br>
        
    * v. University of Newcastle,<br>
        &nbsp;&nbsp; Bachelor of Surveying;<br>
