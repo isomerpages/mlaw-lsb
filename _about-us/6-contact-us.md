@@ -9,8 +9,8 @@ collection_name: about-us
 
 CONTACT US
 ---
-**LAND SURVEYORS BOARD** 
-c/o Singapore Land Authority<br>
+**LAND SURVEYORS BOARD** <br>
+c/o Singapore Land Authority <br>
 55 Newton Road, #12-01,<br>
 Revenue House, Singapore 307987<br>
 <br>
