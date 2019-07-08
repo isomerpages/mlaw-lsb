@@ -30,7 +30,7 @@ collection_name: find-a-surveyor
     <td>No. 35 Jalan Pemimpin<br>#05-02<br>Singapore 577176<br>Tel: -</td>
   </tr>
   <tr>
-    <td><a name="H">HKS SURVEYORS PTE LTD</td>
+    <td name="H">HKS SURVEYORS PTE LTD</td>
     <td>33 Ubi Avenue 3 #04-61<br>Vertex (Tower A)<br>Singapore 408868<br>Tel: 62817122</td>
   </tr>
   <tr>
