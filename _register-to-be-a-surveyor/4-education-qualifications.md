@@ -32,19 +32,19 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
 
 a. <u>SINGAPORE</u>
    * i. Nanyang Technological University,<br>
-        &nbsp; Master of Engineering in land surveying-related thesis.
+        &nbsp;&nbsp; Master of Engineering in land surveying-related thesis.
                 
 b. <u>AUSTRALIA</u>
    * i. Curtin University,<br>
-       &nbsp; Bachelor of Surveying;
+       &nbsp;&nbsp; Bachelor of Surveying;
 
    * ii. Royal Melbourne Institute of Technology,<br>
-       &nbsp; Bachelor of Applied Sciences (Land Surveying);
+       &nbsp;&nbsp; Bachelor of Applied Sciences (Land Surveying);
 
    * iii. University of Melbourne,<br>
-       &nbsp; Bachelor of Surveying (till 2011);
+       &nbsp;&nbsp; Bachelor of Surveying (till 2011);
        
-       &nbsp; Bachelor of Geomatic Engineering (Honours) (till 2012);
+       &nbsp;&nbsp; Bachelor of Geomatic Engineering (Honours) (till 2012);
        
-       &nbsp; Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major)<br>
-       &nbsp; or with Bachelor of Environements (Spatial Systems Major).
+       &nbsp;&nbsp; Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major)<br>
+       &nbsp;&nbsp; or with Bachelor of Environements (Spatial Systems Major).
