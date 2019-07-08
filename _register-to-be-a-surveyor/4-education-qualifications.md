@@ -39,4 +39,4 @@ b. <u>AUSTRALIA</u>
                 Bachelor of Surveying;
 
    * ii. Royal Melbourne Institute of Technology,<br>
-                Bachelor of Applied Sciences (Land Surveying); 
+                Bachelor of Applied Sciences (Land Surveying); x
