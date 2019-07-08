@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: Annual Reports               
 permalink: /about-us/annual-reports-2/
 breadcrumb: Annual Reports
