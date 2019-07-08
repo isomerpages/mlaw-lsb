@@ -41,7 +41,7 @@ b. <u>AUSTRALIA</u>
    * ii. Royal Melbourne Institute of Technology,<br>
        &nbsp; Bachelor of Applied Sciences (Land Surveying);
 
-   * iii. University of Melbourne,
+   * iii. University of Melbourne,<br>
        &nbsp; Bachelor of Surveying (till 2011);
        
        &nbsp; Bachelor of Geomatic Engineering (Honours) (till 2012);
