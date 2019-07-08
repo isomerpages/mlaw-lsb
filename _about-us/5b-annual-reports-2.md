@@ -17,7 +17,6 @@ ANNUAL REPORTS
 [Land Surveyors Board : 2011 Annual Report - 3 MB](/files/2_LSBAnnualReport2011.pdf) <br>
 [Land Surveyors Board: 2016 Annual Report - 5 MB](/files/2_LSBAnnualReport2016.pdf) <br>
 [Land Surveyors Board: 2017 Annual Report - 1 MB](/files/2_LSBAnnualReport2017.pdf) <br>
-<br>
 
 ---
 
