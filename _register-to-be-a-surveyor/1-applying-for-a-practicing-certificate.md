@@ -6,7 +6,7 @@ breadcrumb: Applying for a Practicing Certificate
 collection_name: register-to-be-a-surveyor
 ---
 
-Applying for a Practicing Certificate
+APPLYING FOR A PRACTICING CERTIFICATE
 ---
 
 **1. Application for or Renewing a Practicing Certificate**
