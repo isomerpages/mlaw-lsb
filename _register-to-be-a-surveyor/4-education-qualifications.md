@@ -10,7 +10,7 @@ EDUCATIONAL QUALIFICATIONS
 ---
 <style>
 u b sup{
-    border-bottom:solid 1px black;
+    border-bottom:solid 2px black;
     display:inline-block;
     line-height:30px;
 }
