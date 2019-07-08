@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: History of Land Surveyor Board 
-permalink: /about-us/board-members/
+permalink: /about-us/history-of-land-surveyor-board/
 breadcrumb: History of Land Surveyor Board 
 collection_name: about-us
 
