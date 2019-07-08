@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: &nbsp;&nbsp;    
+title: &nbsp;   
 permalink: /about-us/annual-reports/
 breadcrumb: Annual Reports
 collection_name: about-us
