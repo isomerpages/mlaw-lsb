@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Applying for a Practicing Certificate
-permalink: /register-to-be-a-surveyor/applying-for-a-practicing-certificate/
-breadcrumb: Applying for a Practicing Certificate
+title: Professional Practice Examination
+permalink: /register-to-be-a-surveyor/professional-practice-examination/
+breadcrumb: Professional Practice Examination
 collection_name: register-to-be-a-surveyor
 ---
