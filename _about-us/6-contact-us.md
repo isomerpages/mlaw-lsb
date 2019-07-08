@@ -23,4 +23,4 @@ Email: <mlaw_lsb_enquiry@mlaw.gov.sg> <br>
 
 **Our Location**
 
-<iframe title="Minlaw iframe" width="300" scrolling="no" height="250" frameborder="0" data-auto-height="true" data-aspect-ratio="1.33333333333333" src="https://www.onemap.sg/minimap/mm.html?mWidth=370&amp;mHeight=250&amp;searchval=307987" id="iframe_551" class="" style="" data-auto-resized="true">Alternative Content</iframe>
+<div class="mapouter"><div class="gmap_canvas"><iframe width="370" height="250" id="gmap_canvas" src="https://maps.google.com/maps?q=c%2Fo%20Singapore%20Land%20Authority%2055%20Newton%20Road%2C%20%2312-01%2C%20Revenue%20House%2C%20Singapore%20307987&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.enable-javascript.net">enable-javascript.net</a></div><style>.mapouter{position:relative;text-align:right;height:250px;width:370px;}.gmap_canvas {overflow:hidden;background:none!important;height:250px;width:370px;}</style></div>
