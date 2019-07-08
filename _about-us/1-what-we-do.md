@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /about-us/overview/
+permalink: /about-us/what-we-do/
 breadcrumb: Overview
 collection_name: about-us
 
