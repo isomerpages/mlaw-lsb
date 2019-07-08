@@ -32,64 +32,64 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
 
 a. <u>SINGAPORE</u>
    * i. Nanyang Technological University,<br>
-        &nbsp;&nbsp; Master of Engineering in land surveying-related thesis.<br>
+        &nbsp;&nbsp; Master of Engineering in land surveying-related thesis.<br><br>
                 
 b. <u>AUSTRALIA</u>
    * i. Curtin University,<br>
        &nbsp;&nbsp; Bachelor of Surveying;<br>
 
    * ii. Royal Melbourne Institute of Technology,<br>
-       &nbsp;&nbsp; Bachelor of Applied Sciences (Land Surveying);<br>
+       &nbsp;&nbsp; Bachelor of Applied Sciences (Land Surveying);<br><br>
 
    * iii. University of Melbourne,<br>
-       &nbsp;&nbsp; Bachelor of Surveying (till 2011);<br>
+       &nbsp;&nbsp; Bachelor of Surveying (till 2011);<br><br>
        
-       &nbsp;&nbsp; Bachelor of Geomatic Engineering (Honours) (till 2012);<br>
+       &nbsp;&nbsp; Bachelor of Geomatic Engineering (Honours) (till 2012);<br><br>
        
        &nbsp;&nbsp; Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major)<br>
-       &nbsp;&nbsp; or with Bachelor of Environements (Spatial Systems Major).<br>
+       &nbsp;&nbsp; or with Bachelor of Environements (Spatial Systems Major).<br><br>
        
    * iv. University of New South Wales,<br>
-       &nbsp;&nbsp; Bachelor of Surveying;<br>
+       &nbsp;&nbsp; Bachelor of Surveying;<br><br>
        
    * v. University of Newcastle,<br>
-       &nbsp;&nbsp; Bachelor of Surveying;<br>
+       &nbsp;&nbsp; Bachelor of Surveying;<br><br>
        
    * vi. University of Southern Queensland,<br>
-       &nbsp;&nbsp; Bachelor of Spatial Science (Honours) (Surveying);<br>
+       &nbsp;&nbsp; Bachelor of Spatial Science (Honours) (Surveying);<br><br>
        
    * vii. University of Tasmania,<br>
-       &nbsp;&nbsp; Bachelor of Surveying.<br>
+       &nbsp;&nbsp; Bachelor of Surveying.<br><br>
        
 c. <u>CANADA</u>
    * i. University of Calgary,<br>
-       &nbsp;&nbsp; Bachelor of Geomatics Engineering;<br>
+       &nbsp;&nbsp; Bachelor of Geomatics Engineering;<br><br>
        
    * ii. University of New Brunswick,<br>
-       &nbsp;&nbsp; Bachelor of Science in Engineering (Geomatics Engineering).<br>
+       &nbsp;&nbsp; Bachelor of Science in Engineering (Geomatics Engineering).<br><br>
        
 d. <u>MALAYSIA</u>
    * i. University of Technology Malaysia,<br>
-       &nbsp;&nbsp; Bachelor of Surveying (Land); and Bachelor of Engineering (Geomatics).<br>
+       &nbsp;&nbsp; Bachelor of Surveying (Land); and Bachelor of Engineering (Geomatics).<br><br>
        
 Note:<br>
 UTM grads are required to take and pass the APTIS test administered by the British Council. This is in reference to LSB’s 20th March 2014 LSB Notice on Requirement Of English Language Proficiency For Land Surveyors Board Professional Practice Examinations.
 
 e. <u>NEW ZEALAND</u>
    * i. University of Otago,<br>
-       &nbsp;&nbsp; Bachelor of Surveying.<br>
+       &nbsp;&nbsp; Bachelor of Surveying.<br><br>
        
 f. <u>UNITED KINGDOM</u>
    * i. Royal Institute of Chartered Surveyors (RICS),<br>
-       &nbsp;&nbsp; Professional Members who have passed final examinations of RICS;<br>
+       &nbsp;&nbsp; Professional Members who have passed final examinations of RICS;<br><br>
        
    * ii. University College London,<br>
-        &nbsp;&nbsp; Bachelor of Engineering in Geoinformatics;<br>
+        &nbsp;&nbsp; Bachelor of Engineering in Geoinformatics;<br><br>
         
    * iii. University of East London,<br>
-        &nbsp;&nbsp; Bachelor of Surveying and Mapping Sciences (Honours);<br>
+        &nbsp;&nbsp; Bachelor of Surveying and Mapping Sciences (Honours);<br><br>
         
    * iv. University of Newcastle upon Tyne,<br>
-        &nbsp;&nbsp; Bachelor of Science, Surveying Science (Honours).<br>
+        &nbsp;&nbsp; Bachelor of Science, Surveying Science (Honours).<br><br>
         
 <b><sup>*</sup> <i>List is subject to periodic review and update.</i></b>
