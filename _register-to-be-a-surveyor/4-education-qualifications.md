@@ -48,3 +48,17 @@ b. <u>AUSTRALIA</u>
        
        &nbsp;&nbsp; Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major)<br>
        &nbsp;&nbsp; or with Bachelor of Environements (Spatial Systems Major).
+       
+   * iv. University of New South Wales,<br>
+       &nbsp;&nbsp; Bachelor of Surveying; 
+       
+   * v. University of Newcastle,<br>
+       &nbsp;&nbsp; Bachelor of Surveying;
+       
+   * vi. University of Southern Queensland,<br>
+       &nbsp;&nbsp; Bachelor of Spatial Science (Honours) (Surveying);
+       
+   * vii. University of Tasmania,
+       &nbsp;&nbsp; Bachelor of Surveying.
+       
+c. <u>CANADA</u>
