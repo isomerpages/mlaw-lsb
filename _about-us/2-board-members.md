@@ -67,7 +67,7 @@ YJP Surveyors Pte Ltd <br>
 #05-00 The Blue Building <br>
 Singapore 349473 <br>
 Tel: (65) 67430938 <br>
-Email: <andrewyap@yjpsurveyors.com> <br>
+Email: <andrewyap@yjpsurveyors.com> 
 <br> 
 
 ##### **Registrar**
