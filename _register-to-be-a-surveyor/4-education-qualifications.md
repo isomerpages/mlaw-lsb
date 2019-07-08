@@ -22,8 +22,8 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
 
 (c) In selecting an overseas university for undergraduate degree studies with the intention to seek registration as a registered surveyor in Singapore, it is advisable that students check whether the institution that awards the qualification is recognised for the purpose of registration by the Board.
 
-**List<sup>*</sup> of Educational Qualifications in Land Surveying recognised by Land Surveyors Board Singapore**
+<u><b>List<sup>*</sup> of Educational Qualifications in Land Surveying recognised by Land Surveyors Board Singapore</b></u>
 
-a. SINGAPORE
+a. <u>SINGAPORE</u>
    * i. Nanyang Technological University,
                 Master of Engineering in land surveying-related thesis.
