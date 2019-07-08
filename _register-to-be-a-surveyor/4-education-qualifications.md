@@ -11,7 +11,6 @@ EDUCATIONAL QUALIFICATIONS
 <style>
 u b sup{
 display:inline-block;
-border-bottom:1px solid #000;
 }
 </style>
 
