@@ -66,8 +66,10 @@ Candidates are expected to have a working knowledge of regulations and case laws
 * the written paper in the subject Cadastral Law;
 
 * the practical Examinations in the following subjects:
- * Land Lot survey; and
- * Strata survey, and
+
+   * Land Lot survey; and
+   
+   * Strata survey, and
  
 * Oral Examination.
 
