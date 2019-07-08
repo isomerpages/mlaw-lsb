@@ -20,7 +20,6 @@ Fax: (65) 6323 9791<br>
 Email: <mlaw_lsb_enquiry@mlaw.gov.sg> <br>
 <br> 
 
-
 **Our Location**
 
 <div class="mapouter"><div class="gmap_canvas">
