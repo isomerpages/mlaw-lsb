@@ -15,7 +15,7 @@ A registered surveyor who wishes to practise cadastral surveys in Singapore is r
 
 **Application form & fee**
 
-* [Form 5](/files/linkclick5d0c.doc)(46kb)
+* [Form 5](/files/linkclick5d0c.doc) (46kb)
 * S$300
 
 **Validity of Practicing Certificate**
