@@ -6,7 +6,7 @@
 - title: Home
   url: https://mlaw-lsb-staging.netlify.com
 - title: About Us
-  url: /about-us/
+  url: /about-us/overview/
   sub-links:
   - title: Overview
     url: /about-us/overview/
