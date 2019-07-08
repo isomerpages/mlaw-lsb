@@ -10,7 +10,7 @@ EDUCATIONAL QUALIFICATIONS
 ---
 <style>
 u b sup{
-    border-bottom:solid 2px black;
+    border-bottom:solid 2px #7C7C7C;
     display:inline-block;
     line-height:27px;
 }
@@ -28,7 +28,7 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
 
 (c) In selecting an overseas university for undergraduate degree studies with the intention to seek registration as a registered surveyor in Singapore, it is advisable that students check whether the institution that awards the qualification is recognised for the purpose of registration by the Board.
 
-<u><b>List<sup>*</sup>of Educational Qualifications in Land Surveying recognised by Land Surveyors Board Singapore</b></u>
+<u><b>List<sup>*</sup> of Educational Qualifications in Land Surveying recognised by Land Surveyors Board Singapore</b></u>
 
 a. <u>SINGAPORE</u>
    * i. Nanyang Technological University,<br>
@@ -42,6 +42,8 @@ b. <u>AUSTRALIA</u>
                 Bachelor of Applied Sciences (Land Surveying);
 
    * iii. University of Melbourne,
-                 Bachelor of Surveying (till 2011);<br>
-                 Bachelor of Geomatic Engineering (Honours) (till 2012);<br>
-                 Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major) or with Bachelor of Environements (Spatial Systems Major).
+       Bachelor of Surveying (till 2011);
+       
+       Bachelor of Geomatic Engineering (Honours) (till 2012);
+       
+       Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major) or with Bachelor of Environements (Spatial Systems Major).
