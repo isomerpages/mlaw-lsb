@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /Register-to-be-a Surveyor/overview/
+permalink: /register-to-be-a surveyor/overview/
 breadcrumb: Overview
 collection_name: register-to-be-a-surveyor
 ---
