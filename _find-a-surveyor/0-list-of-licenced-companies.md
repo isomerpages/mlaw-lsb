@@ -66,7 +66,7 @@ collection_name: find-a-surveyor
     <td>1092 Lower Delta Road<br>#03-01/03<br>Singapore 169203<br>Tel: 62789985</td>
   </tr>
   <tr>
-    <td><a name="W">WISESCAN ENGINEERING SERVICES PTE LTD</a></td>
+    <td name="W">WISESCAN ENGINEERING SERVICES PTE LTD</a></td>
     <td>14 Little Road<br>#02-01<br>Singapore 536987<br>Tel: 68410880</td>
   </tr>
   <tr>
