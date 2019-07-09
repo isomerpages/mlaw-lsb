@@ -25,6 +25,8 @@ second_nav_title: "2018"
 4 Field technical officers picked boundary marks along the front portion of the lots. No marks were picked at the rear of the properties to envelope the sites.<br>
 5 The datum establishment was done in Cassini Datum based on PO-New methods. The Office Technical staff did not use all the marks and only considered three marks lying approximately along a straight line (along the front of the boundary) for computation. The 3 marks adopted were not boundary marks and caused the computed boundary to shift 1m (refer to redacted sketch plan below).
 
+![image](/images/1554360406338.jpg)
+
 6 Prior to setting out survey, the technical field team was instructed to carry out additional survey of more marks but there is no evidence that these were being analysed.<br>
 7 The RS in charge of the project only reviewed the finished computation plan but did not review the PO & NEW analysis. There were insufficient checks in the company processes to prevent such an error.<br>
 8 The errors caused the buildings to be constructed 1m shortfall in setback and the perimeter walls 1m beyond the boundaries (encroaching 1m into State Land).<br>
