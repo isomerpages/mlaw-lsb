@@ -2,7 +2,7 @@
 layout: post
 title:  Circular 2/2018
 date:   2018-12-04
-permalink: /news/visits/minister-for-law-hosts-meng-jianzhu
+permalink: /_guidelines-and-policies/circular/circular-2-2018
 ---
 
 CIRCULAR 2/2018
