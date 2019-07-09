@@ -13,7 +13,7 @@ Our Ref : LSB 112<br>
 TO WHOM IT MAY CONCERN<br>
 Dear Sirs / Madams
 
-LSB NOTICE: LAND SURVEYORS BOARD EXAMINATIONS TO BE CONDUCTED ONCE A YEAR
+**LSB NOTICE: LAND SURVEYORS BOARD EXAMINATIONS TO BE CONDUCTED ONCE A YEAR**
 
 1. The Land Surveyors Act requires every practicing land surveyor, and not only land surveyors who conduct cadastral surveys, to be registered with the Board. Those who have been providing survey services other than cadastral surveys were allowed to practice for 4 years with effect from 1 Mar 2000 under S(10) of the Land Surveyors (Amendment) Act. On expiry of the transitional period of 4 years, a further period not exceeding 2 years were granted by the Minister on a case-by-case basis. The 4+2 years grace period would enable persons affected by the provision to sit and pass the examinations for registration with the Board. For this reason, the Board has been conducting examinations twice a year.
 
@@ -21,7 +21,6 @@ LSB NOTICE: LAND SURVEYORS BOARD EXAMINATIONS TO BE CONDUCTED ONCE A YEAR
 
 Yours faithfully,
 
-GEORGE CHUAH KIAN SENG Registrar Land Surveyors Board Singapore
-
-c/o Singapore Land Authority 6323-9797 (DID) 6323-9791 (Fax) http://www.minlaw.gov.sg/lsb
+GEORGE CHUAH KIAN SENG Registrar Land Surveyors Board Singapore<br>
+c/o Singapore Land Authority 6323-9797 (DID) 6323-9791 (Fax) [http://www.minlaw.gov.sg/lsb](http://www.minlaw.gov.sg/lsb)
 
