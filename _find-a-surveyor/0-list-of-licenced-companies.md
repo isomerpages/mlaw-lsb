@@ -15,7 +15,7 @@ li{
   }
 </style>
 
-List of Licenced companies
+List of Licenced Companies
 ---
 
 
