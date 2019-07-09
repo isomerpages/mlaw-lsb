@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: 2018
-permalink: /guidelines-and-policies/disciplinary-cases-2018/
+permalink: /guidelines-and-policies/2018/
 breadcrumb: 2018
 collection_name: guidelines-and-policies
 second_nav_title: "Disciplinary Cases"
