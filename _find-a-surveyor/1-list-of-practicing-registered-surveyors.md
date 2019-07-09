@@ -262,7 +262,7 @@ li{
     <td></td>
   </tr>
   <tr>
-    <td><a name="N">>Ng Kwok Khuan</a></td>
+    <td><a name="N">Ng Kwok Khuan</a></td>
     <td></td>
     <td></td>
   </tr>
