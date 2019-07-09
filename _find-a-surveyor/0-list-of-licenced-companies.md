@@ -14,6 +14,7 @@ li{
     display: inline;
   }
 </style>
+
 <ol>
   <li><a href="#A">A </a></li>
   <li>|</li>
