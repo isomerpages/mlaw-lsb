@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Land Surveyors Act
-permalink: /guidelines-and-policies/directives/
-breadcrumb: Land Surveyors Act
+title: Circular
+permalink: /guidelines-and-policies/circular/
+breadcrumb: Circular
 collection_name: guidelines-and-policies
-
 ---
 
 Circular
