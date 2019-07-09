@@ -50,7 +50,7 @@ A corporation or partnership which intends to provide cadastral survey services 
 
 * a list of the partners of the limited liability partnership containing particulars as to whether the partners are registered surveyors, allied professionals, licensed corporations or licensed limited liability partnerships, and such other particulars as the Board may require.
 
-**(d)** he type of limited liability partnership which may apply for a licence is one where at least one of its partners is a practising registered surveyor and the other partner or each of the other partners is -
+**(d)** The type of limited liability partnership which may apply for a licence is one where at least one of its partners is a practising registered surveyor and the other partner or each of the other partners is -
 
 * a registered surveyor or a practising allied professional; or
 
