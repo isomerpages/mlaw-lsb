@@ -40,7 +40,6 @@ The examination’s structure has been revised. With immediate effect, a candida
   <tr>
     <td><u>Practical Examination</u><br>Land Lot Survey<br>Strata Survey</td>
     <td>5 weeks for both subjects from date of commencement</td>
-    <td></td>
   </tr>
 </table><br>
 
