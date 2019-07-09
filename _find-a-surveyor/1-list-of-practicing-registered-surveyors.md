@@ -333,7 +333,7 @@ li{
   </tr>
   <tr>
     <td><a name="T">Tan Eng Liang</a></td>
-    <td>109</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -343,7 +343,7 @@ li{
   </tr>
   <tr>
     <td><a name="T">Tan Huck Jin</a></td>
-    <td>84</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
