@@ -166,7 +166,7 @@ List of Licenced companies
         Tel: 63399660</td>
   </tr>
   <tr>
-    <td><a id="T" name="T"></a>TRITECH ENGINEERING & TESTING (SINGAPORE) PTE LTD</td>
+    <td><a id="T"></a>TRITECH ENGINEERING & TESTING (SINGAPORE) PTE LTD</td>
     <td>
         31 Changi South Avenue 2<br>
         Tritech Building<br>
