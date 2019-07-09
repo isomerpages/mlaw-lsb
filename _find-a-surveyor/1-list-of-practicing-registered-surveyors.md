@@ -546,7 +546,7 @@ li{
         Email: lokping_ong@yahoo.com</td>
   </tr>
     <tr>
-    <td><a name="P"></a>Pang Choon Chew</a></td>
+    <td><a name="P"></a>Pang Choon Chew</td>
     <td>90</td>
     <td>
         S C Ang Consortium Pte Ltd<br>
@@ -557,7 +557,7 @@ li{
         Email: pang@scangpl.com</td>
   </tr>
   <tr>
-    <td><a name="P"></a>Paul James O'Connor</a></td>
+    <td><a name="P"></a>Paul James O'Connor</td>
     <td>70</td>
     <td>
         Geometra International (Pte) Ltd<br>
@@ -593,7 +593,7 @@ li{
         Email : qksrs@singnet.com.sg</td>
   </tr>
   <tr>
-    <td><a name="S"></a>See Seng Guan</a></td>
+    <td><a name="S"></a>See Seng Guan</td>
     <td>31</td>
     <td>
         Surbana Jurong Consultants Pte Ltd<br>
@@ -628,7 +628,7 @@ li{
         Email: jerrytbt@hotmail.com</td>
   </tr>
   <tr>
-    <td><a name="T"></a>Tan Boong Ping</a></td>
+    <td><a name="T"></a>Tan Boong Ping</td>
     <td>92</td>
     <td>
         BP Tan Registered Surveyor<br>
@@ -699,7 +699,7 @@ li{
         Email: usurv@singnet.com.sg</td>
   </tr>
   <tr>
-    <td><a name="T"></a>Tan Huck Jin</a></td>
+    <td><a name="T"></a>Tan Huck Jin</td>
     <td>26</td>
     <td>
         United Surveyors Pte Ltd<br>
@@ -733,7 +733,7 @@ li{
         Email: surveyor@singnet.com.sg</td>
   </tr>
   <tr>
-    <td><a name="T"></a>Teo Oon Hock</a></td>
+    <td><a name="T"></a>Teo Oon Hock</td>
     <td>25</td>
     <td>1Survey Associates<br>
         Blk 212 Hougang Street 21<br>
