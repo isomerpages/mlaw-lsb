@@ -78,7 +78,7 @@ li{
   </tr>
   <tr>
     <td><a name="A">Ang Phar Teng</a></td>
-    <td>73</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -322,7 +322,7 @@ li{
     <td></td>
   </tr>
   <tr>
-    <t><a name="T">Tan Chwee Hock Jimmy</a>/td>
+    <td><a name="T">Tan Chwee Hock Jimmy</a></td>
     <td></td>
     <td></td>
   </tr>
