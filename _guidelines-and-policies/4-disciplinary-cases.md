@@ -14,14 +14,14 @@ second_nav_title: "2018"
 
 **Improper Conduct of a Registered Surveyor**
 
-<u>The Case</u>
+<u>The Case</u><br>
 1 This is a case of a datum establishment wrongly done causing errors in the positions of the constructed buildings and boundary walls.<br>
 
-<u>The Background</u> 
+<u>The Background</u><br>
 2 A complaint was raised to the LSB by URA about firm (‘X’). Firm ‘X’ was engaged by the contractor to conduct controls, topographical, pre-computation and setting out survey for the construction of 2 pairs of semi-detached houses on 2 plots of land under two separate jobs. These were to be subdivided into 4 plots. In response to the complaint, a full set of survey report (duly signed), photos and email chain were submitted by URA which were subsequently submitted to LSB.<br>
 3 The errors were discovered by another RS during the subdivision survey.
 
-<u>Facts Established in the Investigation</u> 
+<u>Facts Established in the Investigation</u><br>
 4 Field technical officers picked boundary marks along the front portion of the lots. No marks were picked at the rear of the properties to envelope the sites.<br>
 5 The datum establishment was done in Cassini Datum based on PO-New methods. The Office Technical staff did not use all the marks and only considered three marks lying approximately along a straight line (along the front of the boundary) for computation. The 3 marks adopted were not boundary marks and caused the computed boundary to shift 1m (refer to redacted sketch plan below).
 
