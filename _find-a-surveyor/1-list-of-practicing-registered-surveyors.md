@@ -711,38 +711,83 @@ li{
   </tr>
   <tr>
     <td><a name="T">Tan Sek Leng</a></td>
-    <td></td>
-    <td></td>
+    <td>57</td>
+    <td>
+        Land Transport Authority<br>
+        1 Hampshire Road<br>
+        Singapore 219428<br>
+        Tel : 63961747<br>
+        Fax : 63961136<br>
+        Email: Tan_Sek_Leng@lta.gov.sg</td>
   </tr>
   <tr>
     <td><a name="T">Tang Tuck Kim</a></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>
+        Tang Tuck Kim Registered Surveyor Pte Ltd<br>
+        190 Middle Road<br>
+        #18-03 Fortune Centre<br>
+        Singapore 188979<br>
+        Tel: 63399660<br> 
+        Fax: 63388377<br>
+        Email: surveyor@singnet.com.sg</td>
   </tr>
   <tr>
     <td><a name="T">Teo Oon Hock</a></td>
-    <td></td>
-    <td></td>
+    <td>25</td>
+    <td>1Survey Associates<br>
+        Blk 212 Hougang Street 21<br>
+        #02-345<br>
+        Singapore 530212<br>
+        Tel: 6285 6182<br>
+        Fax: 6285 6182<br>
+        Email: onesurvey@singnet.com.sg</td>
   </tr>
   <tr>
     <td><a name="T">Toh Say Leong</a></td>
-    <td></td>
-    <td></td>
+    <td>111</td>
+    <td>
+        Land Transport Authority<br>
+        1 Hampshire Road<br>
+        Singapore 219428<br>
+        Tel: 91296980<br>
+        Fax: 63961136<br>
+        Email: Toh_Say_Leong@lta.gov.sg</td>
   </tr>
   <tr>
     <td><a name="T">Tor Yam Khoon (Dr)</a></td>
-    <td></td>
-    <td></td>
+    <td>44</td>
+    <td>
+        Tritech Engineering & Testing (Singapore) Pte Ltd<br>
+        31, Changi South Avenue 2<br> 
+        Tritech Building<br>
+        Singapore 486478<br>
+        Tel: 6848 2567 Ext 431<br>
+        Fax: 6848 2568<br>
+        Email: toryk@tritech.com.sg</td>
   </tr>
   <tr>
     <td><a name="W">Wilson Cheng</a></td>
-    <td></td>
-    <td></td>
+    <td>108</td>
+    <td>
+        Housing & Development Board<br>
+        HDB Hub<br>
+        480 Lorong 6 Toa Payoh<br>
+        Singapore 310480<br>
+        Tel: 64903449<br>
+        Fax: 64903007<br>
+        Email: Wilson_Cheng@hdb.gov.sg</td>
   </tr>
   <tr>
     <td><a name="Y">Yap Chee Ming Andrew</a></td>
-    <td></td>
-    <td></td>
+    <td>96</td>
+    <td>YJP Surveyors Pte Ltd<br>
+        10 Genting Road<br>
+        #05-00 The Blue Building<br>
+        Singapore 349473<br>
+        Tel: 67430938<br>
+        Fax: 67436732<br>
+        Email: andrewyap@yjpsurveyors.com</td>
   </tr>
 </table><br>
 
