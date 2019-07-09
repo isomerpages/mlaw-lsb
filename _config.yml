@@ -2,6 +2,7 @@ title: Title
 title-abbreviated: Title
 description: >- # this means to ignore newlines until "baseurl:"
   Description
+baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -47,7 +48,7 @@ collections:
     output: true
   guidelines-and-policies:
     output: true
-  notice-and-announcements:
-    output: true
   forms:
     output: true
+
+resources_name: "notice-and-announcements"
