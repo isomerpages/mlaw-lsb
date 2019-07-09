@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: List of Licenced Companies
-permalink: /find-a-surveyor/list-of-licenced-companies/
-breadcrumb: List of Licenced Companies
+title: List of Licensed Companies
+permalink: /find-a-surveyor/list-of-licensed-companies/
+breadcrumb: List of Licensed Companies
 collection_name: find-a-surveyor
 ---
 <style>
@@ -15,7 +15,7 @@ li{
   }
 </style>
 
-List of Licenced Companies
+List of Licensed Companies
 ---
 
 
