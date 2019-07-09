@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Disciplinary Cases
+title: 2018
 permalink: /guidelines-and-policies/disciplinary-cases/
 breadcrumb: Disciplinary Cases
 collection_name: guidelines-and-policies
-second_nav_title: "2018"
+second_nav_title: "Disciplinary Cases"
 
 ---
 
