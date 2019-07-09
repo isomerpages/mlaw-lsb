@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: List of Licenced companies
+title: List of Licenced Companies
 permalink: /find-a-surveyor/list-of-licenced-companies/
-breadcrumb: List of Licenced companies
+breadcrumb: List of Licenced Companies
 collection_name: find-a-surveyor
 ---
 <style>
