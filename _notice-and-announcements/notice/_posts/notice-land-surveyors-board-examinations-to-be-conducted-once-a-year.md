@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Notice Land Surveyors Board Examinations to be conducted once a year
-permalink: /notice-and-announcements/notice/notice-land-surveyors-board-examinations-to-be-conducted-once-a-year/
-breadcrumb: Notice Land Surveyors Board Examinations to be conducted once a year
-collection_name: notice-and-announcements
+title:  Notice Land Surveyors Board Examinations to be conducted once a year
+date:   2013-04-30
+permalink:  /notice-and-announcements/notice/notice-land-surveyors-board-examinations-to-be-conducted-once-a-year/
 ---
+
 
 NOTICE: LAND SURVEYORS BOARD EXAMINATIONS TO BE CONDUCTED ONCE A YEAR
 ---
