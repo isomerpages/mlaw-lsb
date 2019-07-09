@@ -4,7 +4,7 @@ title: Disciplinary Cases
 permalink: /guidelines-and-policies/disciplinary-cases/
 breadcrumb: Disciplinary Cases
 collection_name: guidelines-and-policies
-second_nav_title: "Disciplinary Cases"
+second_nav_title: "2018"
 
 ---
 
