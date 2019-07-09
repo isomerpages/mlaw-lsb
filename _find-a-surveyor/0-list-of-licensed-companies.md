@@ -21,7 +21,7 @@ List of Licensed Companies
 
 <ol>
   <li><a href="#A">A </a></li>
-  <li>|</li>
+  <li>||</li>
   <li><a href="#B">B </a></li>
   <li>|</li>
   <li><a href="#C">C </a></li>
