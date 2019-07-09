@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Circular 2/2018
-permalink: /guidelines-and-policies/circulars/circular-2-2018/
-breadcrumb: Circular 2/2018
+title: Disciplinary Cases
+permalink: /guidelines-and-policies/disciplinary_cases/
+breadcrumb: Disciplinary Cases
 collection_name: guidelines-and-policies
-second_nav_title: "2018"
 
 ---
 
