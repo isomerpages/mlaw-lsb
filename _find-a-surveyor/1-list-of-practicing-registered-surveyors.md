@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: ist of Practicing Registered Surveyors
+title: List of Practicing Registered Surveyors
 permalink: /find-a-surveyor/list-of-practicing-registered-surveyors/
 breadcrumb: List of Practicing Registered Surveyors
 collection_name: find-a-surveyor
