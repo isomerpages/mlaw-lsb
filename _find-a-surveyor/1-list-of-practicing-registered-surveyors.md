@@ -78,63 +78,143 @@ li{
   </tr>
   <tr>
     <td><a name="A">Ang Phar Teng</a></td>
-    <td></td>
-    <td></td>
+    <td>73</td>
+    <td>
+        Chartered Survey Services Consultants<br>
+        Block 7030 Ang Mo Kio Avenue 5<br>
+        #07-44 Northstar@AMK<br>
+        Singapore 569880<br>
+        Tel: 63583282<br>
+        Fax: 63583283<br>
+        Email: chartsvy@singnet.com.sg</td>
   </tr>
   <tr>
     <td><a name="A">Ang Soo Cheng</a></td>
-    <td></td>
-    <td></td>
+    <td>91</td>
+    <td>
+        S C Ang Consortium Pte Ltd<br>
+        Blk 123 Bukit Merah Lane 1 #04-96<br>
+        Singapore 150123<br>
+        Tel: 62731096<br>
+        Fax: 62731097<br>
+        Email: scangpl@yahoo.com</td>
   </tr>
   <tr>
     <td><a name="C">Chai Kok Vui Christopher</a></td>
-    <td></td>
-    <td></td>
+    <td>77</td>
+    <td>
+        Christopher Chai Registered Surveyor<br>
+        231 Joo Chiat Road #03-01<br>
+        Singapore 427490<br>
+        Tel: 64406098<br>
+        Fax: 64406083<br>
+        Email: chrisckvrs@gmail.com</td>
   </tr>
   <tr>
     <td><a name="C">Chan Fook Onn</a></td>
-    <td></td>
-    <td></td>
+    <td>54</td>
+    <td>
+        HKS Surveyors Pte Ltd<br>
+        33 Ubi Avenue 3 #04-61<br>
+        Vertex (Tower A)<br>
+        Singapore 408868<br>
+        Tel: 62817122<br>
+        Fax:66592308<br>
+        Email: hksls@singnet.com.sg</td>
   </tr>
   <tr>
     <td><a name="C">Chia Aik Kok</a></td>
-    <td></td>
-    <td></td>
+    <td>23</td>
+    <td>
+        CAK & FG Survey Pte Ltd<br>
+        701 Sims Drive<br>
+        #05-02 LHK Building<br>
+        Singapore 387383<br>
+        Tel: 62991776<br>
+        Fax: 62991416<br>
+        Email:cadasvy@cak-fg.com.sg</td>
   </tr>
   <tr>
     <td><a name="C">Chua Keng Guan</a></td>
-    <td></td>
-    <td></td>
+    <td>99</td>
+    <td>
+        Wisescan Engineering Services Pte Ltd<br>
+        14 Little Road #02-01<br>
+        Singapore 536987<br>
+        Tel: 68410880<br>
+        Fax: 68410770<br>
+        Email: kgchua@wisescan.com</td>
   </tr>
   <tr>
     <td><a name="C">Chua Limin</a></td>
-    <td></td>
-    <td></td>
+    <td>114</td>
+    <td>
+        Wisescan Engineering Services Pte Ltd<br>
+        14 Little Road #02-01<br>
+        Singapore 536987<br>
+        Tel: 68410880<br>
+        Fax: 68410770<br>
+        Email: clara@wisescan.com</td>
   </tr>
   <tr>
     <td><a name="F">Foo Jong Kan</a></td>
-    <td></td>
-    <td></td>
+    <td>34</td>
+    <td>
+        J K Foo Consortium Pte Ltd<br>
+        18 Kaki Bukit Road 3 #03-04<br>
+        Entrepreneur Business Centre<br>
+        Singapore 415978<br>
+        Tel: 6742797<br> 
+        Fax: 67429792<br>
+        Email: jkfoo@jkfoosurvey.com.sg</td>
   </tr>
   <tr>
     <td><a name="G">Gerry Ong Kim Sun</a></td>
-    <td></td>
-    <td></td>
+    <td>116</td>
+    <td>
+        GPS Lands (S) Pte Ltd<br>
+        No. 35 Jalan Pemimpin<br>
+        #05-02<br>
+        Singapore 577176<br>
+        Tel: -<br>
+        Fax: -<br>
+        Email:Gerry@gpslands.com</td>
   </tr>
   <tr>
     <td><a name="G">Goh Chin Cheng</a></td>
-    <td></td>
-    <td></td>
+    <td>85</td>
+    <td>
+        Advance Survey Consultant Pte Ltd<br>
+        40 Jalan Pemimpin,<br>
+        #02-07, Tat Ann Building,<br> 
+        Singapore 577185<br>
+        Tel: 63963570<br>
+        Fax: 63967459<br>
+        Email: advancesurvey@singnet.com.sg</td>
   </tr>
     <tr>
     <td><a name="G">Goh Swee Cheh</a></td>
-    <td></td>
-    <td></td>
+    <td>83</td>
+    <td>
+        CAK & FG Survey Pte Ltd<br>
+        701 Sims Drive<br>
+        #05-02 LHK Building<br>
+        Singapore 387383<br>
+        Tel: 62991776<br>
+        Fax: 62991416<br>
+        Email: cadasvy@cak-fg.com.sg</td>
   </tr>
   <tr>
     <td><a name="H">Han Boon Juan</a></td>
-    <td></td>
-    <td></td>
+    <td>107</td>
+    <td>
+        Atlas Consulting Surveyors<br>
+        Blk 9003 Tampines Street 93<br>
+        #03-150<br>
+        Singapore 528837<br> 
+        Office: 62602778<br>
+        Fax: 62602778<br>
+        Email: hbj@atlascs.com.sg</td>
   </tr>
   <tr>
     <td><a name="H">Heng Fook Hai</a></td>
