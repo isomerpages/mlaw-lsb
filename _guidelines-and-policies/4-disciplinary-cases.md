@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Disciplinary Cases
-permalink: /guidelines-and-policies/disciplinary_cases/
+permalink: /guidelines-and-policies/disciplinar-cases/
 breadcrumb: Disciplinary Cases
 collection_name: guidelines-and-policies
 second_nav_title: "Disciplinary Cases"
