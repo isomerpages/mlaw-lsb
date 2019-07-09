@@ -70,7 +70,7 @@ collection_name: find-a-surveyor
     <td>14 Little Road<br>#02-01<br>Singapore 536987<br>Tel: 68410880</td>
   </tr>
   <tr>
-    <td><a id="Y" name="Y"></a>YJP SURVEYORS PTE LTD</td>
+    <td><a name="Y"></a>YJP SURVEYORS PTE LTD</td>
     <td>10 Genting Road<br>#05-00 The Blue Building<br>Singapore 349473<br>Tel: 67430938</td>
   </tr>
 </table><br>
