@@ -383,143 +383,331 @@ li{
   </tr>
   <tr>
     <td><a name="L">Lew Tek Fart</a></td>
-    <td></td>
-    <td></td>
+    <td>66</td>
+    <td>
+        Lew Registered Surveyor<br>
+        71 Bukit Batok Crescent<br>
+        #11-02 Prestige Centre<br>
+        Singapore 658071<br>
+        Tel: 68997971<br>
+        Fax: 68997972<br>
+        Email: lew8kath@singnet.com.sg</td>
   </tr>
   <tr>
     <td><a name="L">Lim Chin Tian</a></td>
-    <td></td>
-    <td></td>
+    <td>52</td>
+    <td>
+        Land Transport Authority<br>
+        1 Hampshire Road<br>
+        Singapore 219428<br>
+        Tel: 63962483<br>
+        Fax: 63961136<br>
+        Email: Lim_Chin_Tian@lta.gov.sg</td>
   </tr>
   <tr>
     <td><a name="L">Lim Loy Chin</a></td>
-    <td></td>
-    <td></td>
+    <td>98</td>
+    <td>
+        Housing & Development Board<br>
+        HDB Hub<br>
+        480 Lorong 6 Toa Payoh<br>
+        Singapore 310480<br>
+        Tel: 64903061<br>
+        Fax: 64903007<br>
+        Email: Lim_Loy_Chin@hdb.gov.sg</td>
   </tr>
   <tr>
     <td><a name="L">Lim Pia Lian</a></td>
-    <td></td>
-    <td></td>
+    <td>101</td>
+    <td>
+        Land Transport Authority<br>
+        1 Hampshire Road<br>
+        Singapore 219428<br>
+        Office: 64343579<br>
+        Fax: 63961136<br>
+        Email: LIM_Pia_Lian@lta.gov.sg</td>
   </tr>
     <tr>
     <td><a name="L">Liu Nam Thiam</a></td>
-    <td></td>
-    <td></td>
+    <td>74</td>
+    <td>
+        A-GEO. Survey Consultants<br>
+        1 Pemimpin Drive<br>
+        #06-04 One Pemimpin<br>
+        Singapore 576151<br>
+        Tel: 6694 5801/6694 5802<br>
+        Fax: 66945803<br>
+        Email: ageosvy@singnet.com.sg</td>
   </tr>
   <tr>
     <td><a name="L">Loh Suat Yen</a></td>
-    <td></td>
-    <td></td>
+    <td>79</td>
+    <td>Housing & Development Board<br>
+        HDB Hub<br>
+        480 Lorong 6 Toa Payoh<br>
+        Singapore 310480<br>
+        Tel: 64903062<br>
+        Fax: 64903007<br>
+        Email: Loh_Suat_Yen@hdb.gov.sg</td>
   </tr>
   <tr>
     <td><a name="L">Loi Hwee Yong</a></td>
-    <td></td>
-    <td></td>
+    <td>45</td>
+    <td>
+        H Y Loi Consultants<br>
+        20C Lorong Ampas<br>
+        G S Building<br>
+        Singapore 328780<br>
+        Tel: 62525902<br>
+        Fax: 62525903<br>
+        Email: loi@hyloi.com.sg</td>
   </tr>
   <tr>
     <td><a name="L">Low Lee Luang</a></td>
-    <td></td>
-    <td></td>
+    <td>56</td>
+    <td>
+        L&T Surveyors<br>
+        Blk 808 French Road<br>
+        #07-155 Kitchener Complex<br>
+        Singapore 200808<br>
+        Tel: 63921398<br>
+        Fax: 63921397<br>
+        Email: ltsurvey@singnet.com.sg</td>
   </tr>
   <tr>
     <td><a name="M">Maik Seck Hoe</a></td>
-    <td></td>
-    <td></td>
+    <td>36</td>
+    <td>
+        J K Foo Consortium Pte Ltd<br>
+        18, Kaki Bukit Road 3,<br>
+        #03-04, Entrepreneur Business Centre,<br> 
+        Singapore 415978<br> 
+        Tel: 67427973<br> 
+        Fax: 67429792<br> 
+        Email: jkfoo@jkfoosurvey.com.sg</td>
   </tr>
   <tr>
     <td><a name="M">Mak Weng Tat</a></td>
-    <td></td>
-    <td></td>
+    <td>60</td>
+    <td>
+        Chartered Survey Services Consultants<br>
+        Block 7030 Ang Mo Kio Avenue 5<br> 
+        #07-44 Northstar@AMK<br>
+        Singapore 569880<br>
+        Tel: 63583282<br> 
+        Fax: 63583283<br>
+        Email: chartsvy@singnet.com.sg</td>
   </tr>
   <tr>
     <td><a name="M">Michael Lim</a></td>
-    <td></td>
-    <td></td>
+    <td>113</td>
+    <td>
+        Eagle Point Surveying & Engineering<br>
+        747 Geylang Road<br>
+        #02-05<br>
+        Singapore 389654<br>
+        Tel: 62808044<br>
+        Email: Michael.Lim@EaglePoint.com.sg</td>
   </tr>
   <tr>
     <td><a name="N">Ng Kwok Khuan</a></td>
-    <td></td>
-    <td></td>
+    <td>105</td>
+    <td>
+        Housing & Development Board<br>
+        HDB Hub<br>
+        480 Lorong 6 Toa Payoh<br>
+        Singapore 310480<br>
+        Tel: 64903447<br>
+        Fax: 64903007<br>
+        Email: Ng_Kwok_Khuan@hdb.gov.sg</td>
   </tr>
   <tr>
     <td><a name="O">Ong Ban Soon</a></td>
-    <td></td>
-    <td></td>
+    <td>86</td>
+    <td>
+        BS Registered Surveyor<br>
+        3 Soon Lee Street<br> 
+        #06-25 , Pioneer Junction<br> 
+        Singapore 627606<br> 
+        Tel: 66844838<br> 
+        Fax: 66844858<br> 
+        Email: bssurvey@singnet.com.sg</td>
   </tr>
   <tr>
     <td><a name="O">Ong Lok Ping</a></td>
-    <td></td>
-    <td></td>
+    <td>80</td>
+    <td>
+        L P Ong & Associates<br>
+        510 Geylang Road<br>
+        #04-03 The Sunflower<br>
+        Singapore 389466<br>
+        Tel: 67428506<br>
+        Fax : 67425906<br>
+        Email: lokping_ong@yahoo.com</td>
   </tr>
     <tr>
     <td><a name="P">Pang Choon Chew</a></td>
-    <td></td>
-    <td></td>
+    <td>90</td>
+    <td>
+        S C Ang Consortium Pte Ltd<br>
+        Blk 123 Bukit Merah Lane 1 #04-96<br> 
+        Singapore 150123<br> 
+        Tel: 62731096<br> 
+        Fax: 62731097<br> 
+        Email: pang@scangpl.com</td>
   </tr>
   <tr>
     <td><a name="P">Paul James O'Connor</a></td>
-    <td></td>
-    <td></td>
+    <td>70</td>
+    <td>
+        Geometra International (Pte) Ltd<br>
+        71 Ubi Crescent<br>
+        #02-10 Excalibur Centre<br>
+        Singapore 408571<br>
+        Tel: 67437262<br>
+        Fax: 67461941<br>
+        Email: paul@geometra.com.sg</td>
   </tr>
   <tr>
     <td><a name="P">Peh Cheng Kiat</a></td>
-    <td></td>
-    <td></td>
+    <td>94</td>
+    <td>
+        Sembcorp Architects & Engineers Pte Ltd<br>
+        167 Jalan Bukit Merah<br>
+        #13-10 Tower 5<br>
+        Singapore 150167<br>
+        Tel: 63052743<br>
+        Fax: 63052708<br>
+        Email: peh.chengkiat@sembcorp.com</td>
   </tr>
   <tr>
     <td><a name="Q">Quah Kee Soo</a></td>
-    <td></td>
-    <td></td>
+    <td>39</td>
+    <td>
+        Quah Kee Soo Registered Surveyor<br>
+        6 Ubi Road 1 #02-04<br> 
+        Wintech Centre<br> 
+        Singapore 408726<br> 
+        Tel: 64418998<br> 
+        Fax : 64410990<br> 
+        Email : qksrs@singnet.com.sg</td>
   </tr>
   <tr>
     <td><a name="S">See Seng Guan</a></td>
-    <td></td>
-    <td></td>
+    <td>31</td>
+    <td>
+        Surbana Jurong Consultants Pte Ltd<br>
+        168 Jalan Bukit Merah<br>
+        #01-01 Surbana One<br>
+        Singapore 150168<br>
+        Tel: 62481418<br>
+        Fax: 62481293<br>
+        Email: sengguan.see@surbanajurong.com</td>
   </tr>
   <tr>
     <td><a name="S">Suey Hueh King</a></td>
-    <td></td>
-    <td></td>
+    <td>103</td>
+    <td>
+        Eddyswee Consultants & Registered Surveyor<br>
+        81 Joo Chiat Road #02-03<br> 
+        Singapore 427725<br> 
+        Tel: 62977808<br> 
+        Fax: 62973503<br> 
+        Email: eddyswee2013@gmail.com</td>
   </tr>
   <tr>
     <td><a name="T">Tan Boon Teck</a></td>
-    <td></td>
-    <td></td>
+    <td>65</td>
+    <td>
+        BT Survey Consultant<br>
+        54, Serangoon North Avenue 4<br>
+        #03-02, Cyberhub North<br>
+        Singapore 555854<br>
+        Tel: 62565725<br> 
+        Fax: 62565725<br>
+        Email: jerrytbt@hotmail.com</td>
   </tr>
   <tr>
     <td><a name="T">Tan Boong Ping</a></td>
-    <td></td>
-    <td></td>
+    <td>92</td>
+    <td>
+        BP Tan Registered Surveyor<br>
+        18 Boon Lay Way<br> 
+        #06-121 TradeHub 21<br>
+        Singapore 609966<br>
+        Tel: 64676108<br>
+        Fax: 65611882<br>
+        Email: bptan899@gmail.com</td>
   </tr>
   <tr>
     <td><a name="T">Tan Choo Haw</a></td>
-    <td></td>
-    <td></td>
+    <td>69</td>
+    <td>
+        United Surveyors Pte Ltd<br>
+        1092 Lower Delta Road #03-01/03<br>
+        Singapore 169203<br>
+        Tel: 62789985<br>
+        Fax: 62787572<br>
+        Email: usurv@singnet.com.sg</td>
   </tr>
   <tr>
     <td><a name="T">Tan Chwee Hock Jimmy</a></td>
-    <td></td>
-    <td></td>
+    <td>89</td>
+    <td>
+        JTRS Registered Surveyor<br>
+        14 Arumugam Road #03-09<br>
+        LTC Building C<br>
+        Singapore 409959<br>
+        Tel: 67431216<br>
+        Fax: 67431275<br>
+        Email: jimmy@jtrs.com.sg</td>
   </tr>
     <tr>
     <td><a name="T">Tan Eng Fei</a></td>
-    <td></td>
-    <td></td>
+    <td>49</td>
+    <td>
+        Wang & EF Tan Associates<br>
+        Consulting & Registered Surveyors<br>
+        Blk 5000 Ang Mo Kio Ave 5<br>
+        #03-13 Techplace II<br>
+        Singapore 569870<br>
+        Tel: 62890400<br>
+        Fax : 62814484<br>
+        Email: admin@wangeftan.com</td>
   </tr>
   <tr>
     <td><a name="T">Tan Eng Liang</a></td>
-    <td></td>
-    <td></td>
+    <td>84</td>
+    <td>
+        Geometra International (Pte) Ltd<br>
+        71 Ubi Crescent<br>
+        #02-10 Excalibur Centre<br>
+        Singapore 408571<br>
+        Tel: 67437262<br>
+        Fax: 67461941<br>
+        Email: alantanel@geometra.com.sg</td>
   </tr>
   <tr>
     <td><a name="T">Tan Gregory Verne</a></td>
-    <td></td>
-    <td></td>
+    <td>109</td>
+    <td>
+        United Surveyors Pte Ltd<br>
+        1092 Lower Delta Road #03-01/03<br>
+        Singapore 169203<br>
+        Tel: 62789985<br>
+        Fax: 62787572<br>
+        Email: usurv@singnet.com.sg</td>
   </tr>
   <tr>
     <td><a name="T">Tan Huck Jin</a></td>
-    <td></td>
-    <td></td>
+    <td>26</td>
+    <td>
+        United Surveyors Pte Ltd<br>
+        1092 Lower Delta Road #03-01/03<br>
+        Singapore 169203<br>
+        Tel: 62789985<br>
+        Fax: 62787572<br>
+        Email: usurv@singnet.com.sg</td>
   </tr>
   <tr>
     <td><a name="T">Tan Sek Leng</a></td>
