@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Circular
-permalink: /circular/circular-page-2/
+permalink: /guidelines-and-policies/circular-page-2/
 breadcrumb: Circular
 collection_name: circular
 ---
@@ -29,11 +29,6 @@ CIRCULAR
     <td>Circular 4/2005</td>
     <td>31 Mar 2005</td>
     <td><a href="/files/linkclickc01b.pdf" target="_blank"></a></td>
-  </tr>
-  <tr>
-    <td>Circular 1/2004</td>
-    <td>8 Jan 2004</td>
-    <td><a href="/files/linkclick8881.pdf" target="_blank"></a></td>
   </tr>
   <tr>
     <td>Circular 3/2002</td>
