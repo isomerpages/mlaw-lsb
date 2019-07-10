@@ -48,22 +48,22 @@ CIRCULAR
   <tr>
     <td>Circular 2/2006</td>
     <td>1 Mar 2006</td>
-    <td><a href="/files/linkclick573aa.pdf"></a></td>
+    <td><a href="/files/linkclick573aa.pdf" target="_blank"></a></td>
   </tr>
   <tr>
     <td>Circular 1/2006</td>
     <td>23 Feb 2006</td>
-    <td><a href="/files/linkclick5acc.pdf"></a></td>
+    <td><a href="/files/linkclick5acc.pdf" target="_blank"></a></td>
   </tr>
   <tr>
     <td>Circular 1/2005</td>
     <td>31 Mar 2005</td>
-    <td><a href="/files/linkclick057c.pdf"></a></td>
+    <td><a href="/files/linkclick057c.pdf" target="_blank"></a></td>
   </tr>
   <tr>
     <td>Circular 5/2005</td>
     <td>31 Mar 2005</td>
-    <td><a href="/files/linkclickb881.pdf"></a></td>
+    <td><a href="/files/linkclickb881.pdf" target="_blank"></a></td>
   </tr>
 </table><br>
 
