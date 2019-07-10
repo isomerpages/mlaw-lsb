@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Circular
 permalink: /guidelines-and-policies/circular-page-2/
 breadcrumb: Circular
-collection_name: circular
+collection_name: guidelines-and-policies
 ---
 
 CIRCULAR
