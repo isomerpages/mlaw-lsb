@@ -64,11 +64,5 @@
   sub-links:
   - title: All
     url: /notice-and-announcements/
-  - title: Subcategory A
-    url: /notice-and-announcements/subcategory-a/
-  - title: Subcategory B
-    url: /notice-and-announcements/subcategory-b/
-  - title: Subcategory C
-    url: /notice-and-announcements/subcategory-c/
   - title: Latest News
     url: /notice-and-announcements/latest-news/
