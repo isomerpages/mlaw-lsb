@@ -11,9 +11,9 @@ CIRCULAR
 
 <table>
   <tr>
-    <td>Circular</td>
-    <td>Date</td>
-    <td>Link</td>
+    <td><b>Circular</b></td>
+    <td><b>Date</b></td>
+    <td><b>Link</b></td>
   </tr>
   <tr>
     <td>Circular 2/2018</td>
