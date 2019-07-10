@@ -70,10 +70,10 @@ CIRCULAR
 
 
   <div class="pagination">
-    <a class="pagination disabled" href="#">First </a>
-    <a class="pagination disabled" href="#">Previous </a>
-    <a class="pagination disabled" href="#">1 </a>
-    <a href="#">2 </a>
-    <a href="#">Next </a>
-    <a href="#">Last</a>
+    <a href="https://mlaw-lsb-staging.netlify.com/guidelines-and-policies/circular/">First </a>
+    <a href="https://mlaw-lsb-staging.netlify.com/guidelines-and-policies/circular/">Previous </a>
+    <a href="https://mlaw-lsb-staging.netlify.com/guidelines-and-policies/circular/">1 </a>
+    <a class="pagination disabled" href="#">2 </a>
+    <a class="pagination disabled" href="#">Next </a>
+    <a class="pagination disabled" href="#">Last</a>
   </div>
