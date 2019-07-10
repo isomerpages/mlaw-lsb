@@ -28,22 +28,22 @@ CIRCULAR
   <tr>
     <td>Circular 1/2016</td>
     <td>28 Nov 2016</td>
-    <td><a href="/circular/circular-1-2016/"></a></td>
+    <td><a href="/circular/circular-1-2016/">click here</a></td>
   </tr>
   <tr>
     <td>Circular 1/2007</td>
     <td>2 May 2009</td>
-    <td><a href="/circular/circular-1-2007/"</td>
+    <td><a href="/circular/circular-1-2007/">click here</a></td>
   </tr>
   <tr>
     <td>Circular 4/2006</td>
     <td>2 Oct 2006</td>
-    <td><a href="/circular/circular-4-2006/"></a></td>
+    <td><a href="/circular/circular-4-2006/">click here</a></td>
   </tr>
   <tr>
     <td>Circular 3/2006</td>
     <td>3 Jul 2006</td>
-    <td><a href="/circular/circular-3-2006/"</td>
+    <td><a href="/circular/circular-3-2006/">click here</a></td>
   </tr>
   <tr>
     <td>Circular 2/2006</td>
