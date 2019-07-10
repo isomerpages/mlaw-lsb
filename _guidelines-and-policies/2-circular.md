@@ -71,7 +71,7 @@ CIRCULAR
     <a class="pagination disabled" href="#">First </a>
     <a class="pagination disabled" href="#">Previous </a>
     <a class="pagination disabled" href="#">1 </a>
-    <a href="/circular/circular-page-2/">2 </a>
-    <a href="#">Next </a>
-    <a href="#">Last</a>
+    <a href="/guidelines-and-policies/circular-page-2/">2 </a>
+    <a href="/guidelines-and-policies/circular-page-2/">Next </a>
+    <a href="/guidelines-and-policies/circular-page-2/">Last</a>
   </div>
