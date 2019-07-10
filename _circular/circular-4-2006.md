@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: Circular 4/2006
 permalink: /circular/circular-4-2006/
 breadcrumb: Circular 4/2006
