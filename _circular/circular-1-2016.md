@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Circular 1/2016 
-permalink: /motor-accident-cases/statistics/
+permalink: /circular/circular-1-2016/
 breadcrumb: Circular 1/2016 
 collection_name: circular
 ---
