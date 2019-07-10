@@ -50,5 +50,6 @@ collections:
     output: true
   forms:
     output: true
-
+  circular:
+    output: true
 resources_name: "notice-and-announcements"
