@@ -27,7 +27,7 @@ TO WHOM IT MAY CONCERN <br>
 
  
 
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For candidates who fall under this category, we require you to take the following Aptis test conducted by the British Council. The Registration Form can be downloaded from Land Surveyors Board website. Once Land Surveyors Board receives the completed form, we will forward to British Council. For more information on the test and its registration process, visit the British Council Aptis website at http://www.britishcouncil.org.sg/aptis
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For candidates who fall under this category, we require you to take the following Aptis test conducted by the British Council. The Registration Form can be downloaded from Land Surveyors Board website. Once Land Surveyors Board receives the completed form, we will forward to British Council. For more information on the test and its registration process, visit the British Council Aptis website at [http://www.britishcouncil.org.sg/aptis](http://www.britishcouncil.org.sg/aptis)
 
 <table>
   <tr>
