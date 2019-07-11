@@ -61,14 +61,14 @@ The requisite forms are attached and may also be downloaded from Land Surveyors 
 Payment for the following prescribed fees is to be made by cheque drawn in favour of "Land Surveyors Board Singapore":
 
 <table>
-  <td>
-    <tr>Renewal application made and <u>received BEFORE</u> 1st December 2015</tr>
-    <tr>SGD$300</tr>
-  </td>
-  <td>
-    <tr>Renewal application made and <u>received on and AFTER</u> 1st December 2015</tr>
-    <tr>SGD$350</tr>
-  </td>
+  <tr>
+    <td>Renewal application made and <u>received BEFORE</u> 1st December 2015</td>
+    <td>SGD$300</td>
+  </tr>
+  <tr>
+    <td>Renewal application made and <u>received on and AFTER</u> 1st December 2015</td>
+    <td>SGD$350</td>
+  </tr>
 </table><br>
 
 **4. To Note**
