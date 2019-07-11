@@ -27,7 +27,8 @@ Singapore 307987<br>
 
 3. Mode of payments:<br>
 
-   **a. Cheque**
+   **a. Cheque**<br>
+   
 <u>In person</u><br>
 Registrar Land Surveyors Board<br>
 c/o Singapore Land Authority<br>
