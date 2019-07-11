@@ -23,6 +23,9 @@ Your current Practising Certificate will expire on 31st Dec 2015 and you may sub
 <table>
   <tr>
     <td><b>In Person</b></td>
+    <td><b>By Post</b></td>
+  </tr>
+  <tr>
     <td>
       Registrar<br>
       Land Surveyors Board<br>
@@ -32,9 +35,6 @@ Your current Practising Certificate will expire on 31st Dec 2015 and you may sub
       Singapore 307987<br>
       Attention: Ms Janet Koh
     </td>
-  </tr>
-  <tr>
-    <td><b>By Post</b></td>
     <td>
       Registrar<br>
       Land Surveyors Board<br>
