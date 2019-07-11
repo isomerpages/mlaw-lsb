@@ -21,9 +21,9 @@ To: All Registered Surveyors
 Your current Practising Certificate will expire on 31st Dec 2015 and you may submit your renewal application in person or by post:
 
 <table>
-  <td>
-    <tr><b>In Person</b></tr>
-    <tr>
+  <tr>
+    <td><b>In Person</b></td>
+    <td>
       Registrar<br>
       Land Surveyors Board<br>
       c/o Singapore Land Authority<br>
@@ -31,11 +31,11 @@ Your current Practising Certificate will expire on 31st Dec 2015 and you may sub
       #<b>17-01</b> Revenue House<br>
       Singapore 307987<br>
       Attention: Ms Janet Koh
-    </tr>
-  </td>
-  <td>
-    <tr><b>By Post</b></tr>
-    <tr>
+    </td>
+  </tr>
+  <tr>
+    <td><b>By Post</b></td>
+    <td>
       Registrar<br>
       Land Surveyors Board<br>
       c/o Singapore Land Authority<br>
@@ -43,8 +43,8 @@ Your current Practising Certificate will expire on 31st Dec 2015 and you may sub
       #<b>12-01</b> Revenue House<br>
       Singapore 307987<br>
       Attention: Ms Janet Koh
-    </tr>
-  </td>
+    </td>
+  </tr>
 </table>
 
 **2. Documents Required**
