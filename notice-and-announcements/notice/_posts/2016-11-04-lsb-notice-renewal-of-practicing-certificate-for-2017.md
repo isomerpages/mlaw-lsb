@@ -40,7 +40,6 @@ The requisite forms are attached and may also be downloaded from Land Surveyors 
 (\*Arising from the recent CPD review presented at the LSB-SISV Joint Seminar 2016 on Sat, 8th October 2016, an updated CPD summary form will be announced in due time for the renewal of practicing certificates for year 2018 onwards).
 {:start="3"}
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Fees** <br>
-
 Payment for the following prescribed fees is to be made by cheque drawn in favor of "Land Surveyors Board Singapore": <br>
 <table>
   <tr>
