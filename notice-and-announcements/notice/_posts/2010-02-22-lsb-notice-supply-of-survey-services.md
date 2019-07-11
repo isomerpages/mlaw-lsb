@@ -1,8 +1,8 @@
 ---
 layout: post
-title: LSB Notice: Supply of Survey Services
+title: LSB Notice - Supply of Survey Services
 permalink: /notice-and-announcements/notice/lsb-notice-supply-of-survey-services/
-breadcrumb: LSB Notice: Supply of Survey Services
+breadcrumb: LSB Notice - Supply of Survey Services
 date: 2010-02-22
 ---
 
