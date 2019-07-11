@@ -16,7 +16,7 @@ TO WHOM IT MAY CONCERN
 
 **LSB NOTICE: LAND SURVEYORS BOARD EXAMINATIONS TO BE HELD ON TUESDAY, 4TH SEPTEMBER 2018 (PRACTICAL FOR LAND LOT & STRATA SURVEY)**
 
-Application to sit for the Land Surveyors Board Practical Examinations 201 8 for eligible candidates has opened. The examinations are scheduled to be held on **Tuesday, 4th September 2018 for practical (Land Lot Survey & Strata Survey)** as follows:
+Application to sit for the Land Surveyors Board Practical Examinations 201 8 for eligible candidates has opened. The examinations are scheduled to be held on **Tuesday, 4th September 2018 for practical (Land Lot Survey & Strata Survey)** as follows:<br>
 
 <table>
   <tr>
@@ -37,6 +37,12 @@ Application to sit for the Land Surveyors Board Practical Examinations 201 8 for
 
 2. Eligible candidates may apply to sit for the examinations by completing and submitting the attached registration form together with the examination fees. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.<br>
 
+3. For candidates applying to sit for the practical examination, completed application and fees must reach the Registrar by the **closing date Wednesday, 4th July 2018**. Incomplete, late, and faxed applications will not be considered and shall stand rejected automatically.<br>
 
+4. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you.<br>
+
+Derek Chan<br>
+Registrar<br>
+Land Surveyors Board
 
  
