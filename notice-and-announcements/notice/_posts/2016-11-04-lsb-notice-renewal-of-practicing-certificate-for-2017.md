@@ -9,7 +9,7 @@ date: 2016-11-04
 LSB NOTICE: RENEWAL OF PRACTICING CERTIFICATE FOR 2017
 ---
 
-4th Nov 2016 <br>
+4<sup>th</sup> Nov 2016 <br>
 LSB74 V23 <br>
 <br>
 To: All Registered Surveyors
