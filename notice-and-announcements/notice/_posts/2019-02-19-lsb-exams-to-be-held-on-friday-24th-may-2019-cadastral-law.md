@@ -27,7 +27,7 @@ Singapore 307987<br>
 
 2. Mode of payments:<br>
 
-    **2.1. Cheque**<br>
+   **Cheque**<br>
    
 <u>In person</u><br>
 Registrar Land Surveyors Board<br>
@@ -43,7 +43,7 @@ c/o Singapore Land Authority<br>
 Singapore 307987<br>
 Attn: Ms Mitsy Ng<br>
 
-   **2.2. E-payment (bank transfer via Internet Banking)**
+   **E-payment (bank transfer via Internet Banking)**
 
 Transfer the amount to LSB corporate account number
 UOB 201-319-249-0. Notify LSB that you have transferred
@@ -53,7 +53,7 @@ Alternatively, you can take a screenshot of the bank
 transfer transaction page and send to Ms Mitsy Ng
 (<Mitsy_Ng@sla.gov.sg>).<br>
 
-   **2.3. PayNow Corporate**<br>
+   **PayNow Corporate**<br>
 
 You can make PayNow payments to LSB through UEN
 number T08GB0026H. Include your name for reference
