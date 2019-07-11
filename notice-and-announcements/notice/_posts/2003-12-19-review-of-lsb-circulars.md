@@ -29,6 +29,6 @@ The subject matters of the 6 circulars are in the attachment.
 **3)** The LSB website has been updated accordingly.
 
 (Transmitted via email)<br>
-TAN KOK TIONG
-REGISTRAR
+TAN KOK TIONG<br>
+REGISTRAR<br>
 LAND SURVEYORS BOARD
