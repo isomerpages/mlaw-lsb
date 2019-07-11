@@ -29,14 +29,13 @@ Your current Practicing Certificate will expire on 31st Dec 2016 and you may sub
     <td>Registrar<br>Land Surveyors Board<br>c/o Singapore Land Authority<br>55 Newton Road<br><b>#12-01</b> Revenue House<br>Singapore 307987<br><u>Attention</u>: Ms Janet Koh</td>
   </tr>
 </table>
-<br> {:start="2"}
+<br> 
+{:start="2"}
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Documents Required** <br>
-
 The requisite forms are attached and may also be downloaded from Land Surveyors Board's website (attached above for easy ref): <br>
 
-(a) Application for Practicing Certificate Form 5, and <br>
-
-(b) CPD Summary Form (ANNEX E)* <br>
+(a) [Application for Practicing Certificate Form 5](/files/LSBForm5-Application-for-Practising-Certificate.doc), and <br>
+(b) [CPD Summary Form (ANNEX E)](/files/LSBANNEXE-CPD-Summary-Form.doc)* <br>
 
 (\*Arising from the recent CPD review presented at the LSB-SISV Joint Seminar 2016 on Sat, 8th October 2016, an updated CPD summary form will be announced in due time for the renewal of practicing certificates for year 2018 onwards).
 {:start="3"}
