@@ -25,7 +25,7 @@ Application to sit for the Land Surveyors Board Practical Examinations 201 8 for
     <td><b>Venue</b></td>
   </tr>
   <tr>
-    <td><u>Practical Examination</u>Land Lot SurveyStrata Survey</td>
+    <td><u>Practical Examination</u><br>Land Lot SurveyStrata Survey</td>
     <td>From 11:00am for 5 weeks for both subjects (5 weeks total including Sundays and PH regardless of one or two subjects) from date of commencement</td>
     <td>
     Singapore Land Authority Training Room 1 & 2, Level 13<br>
