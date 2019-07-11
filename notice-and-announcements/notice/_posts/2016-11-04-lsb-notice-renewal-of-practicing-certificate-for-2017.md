@@ -29,7 +29,7 @@ Your current Practicing Certificate will expire on 31st Dec 2016 and you may sub
     <td>Registrar<br>Land Surveyors Board<br>c/o Singapore Land Authority<br>55 Newton Road<br><b>#12-01</b> Revenue House<br>Singapore 307987<br><u>Attention</u>: Ms Janet Koh</td>
   </tr>
 </table>
-<br>
+<br> {:start="2"}
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Documents Required** <br>
 
 The requisite forms are attached and may also be downloaded from Land Surveyors Board's website (attached above for easy ref): <br>
@@ -39,7 +39,7 @@ The requisite forms are attached and may also be downloaded from Land Surveyors 
 (b) CPD Summary Form (ANNEX E)* <br>
 
 (\*Arising from the recent CPD review presented at the LSB-SISV Joint Seminar 2016 on Sat, 8th October 2016, an updated CPD summary form will be announced in due time for the renewal of practicing certificates for year 2018 onwards).
-
+{:start="3"}
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Fees** <br>
 
 Payment for the following prescribed fees is to be made by cheque drawn in favor of "Land Surveyors Board Singapore": <br>
@@ -53,7 +53,7 @@ Payment for the following prescribed fees is to be made by cheque drawn in favor
     <td>SGD$350</td>
   </tr>
 </table>
-
+{:start="4"}
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**To Note** <br>
 
 (a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All application forms must be carefully and LEGIBLY <u>completed</u> before submission; <br>
@@ -63,7 +63,7 @@ Payment for the following prescribed fees is to be made by cheque drawn in favor
 (c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any **application** that is **not signed** or is **not accompanied** by the correct fee at time of receipt and the completed CPD Summary Form **will be rejected**; and <br>
 
 (d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Application deadlines with respect to the amount of fee payable will be *strictly enforced*. If you are sending in your application via regular mail, proof of posting is not proof of receipt; the receipt date will be considered as the application date, and the fee payable will be the amount applicable on the receipt date. <br>
-
+{:start="5"}
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Collection** <br>
 
 The Registrar will inform you once practicing certificate 2017 is ready for collection which will commence from the last week of December 2016. <br>
