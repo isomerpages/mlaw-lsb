@@ -20,11 +20,11 @@ To: All Licenced Corporations
 
 3. It has come to the Board’s attention that a number of recent applications did not comply the requirements, in particular:
 
-  * the memorandum of association of the corporation provides that a primary object of the corporation is to supply survey services
+    * the memorandum of association of the corporation provides that a primary object of the corporation is to supply survey services
 
    * the articles of association of the corporation provide that a prescribed number or proportion of the directors of the corporation shall be registered surveyors or allied professionals, who each has in force a practising certificate
 
-  * the business of the corporation, so far as it relates to survey work in Singapore, will be under the control and management of a director of the corporation who —
+    * the business of the corporation, so far as it relates to survey work in Singapore, will be under the control and management of a director of the corporation who —
 
     i. is a registered surveyor who has in force a practicing certificate; and<br>
 
