@@ -20,15 +20,15 @@ To: All Registered Surveyors
 
 **2)** This is to inform you that the Board has made further review of the 13 Circulars and decided to:
 
-(a) Expunge 3 circulars, viz LSB Circular Nos. 3/99, 1/2000 & 5/2001.
-(b) Transfer 4 circulars, viz LSB Circular Nos. 4/91, 3/96, 1/97 & 12/2000 to the CS Directive on Cadastral Survey Practices.
+(a) Expunge 3 circulars, viz LSB Circular Nos. 3/99, 1/2000 & 5/2001.<br>
+(b) Transfer 4 circulars, viz LSB Circular Nos. 4/91, 3/96, 1/97 & 12/2000 to the CS Directive on Cadastral Survey Practices.<br>
 (c) Retain 6 circulars viz LSB Circular Nos. [2/2000](/files/linkclick9189.pdf){:target="_blank"}, [3/2000](/files/linkclickabd8.pdf){:target="_blank"}, [4/2000](/files/linkclick9269.pdf){:target="_blank"}, [6/2001](/files/linkclick4a6e.pdf){:target="_blank"}, [1/2002](/files/linkclickefec.pdf){:target="_blank"} & [3/2002](/files/linkclick4a45.pdf){:target="_blank"}.
 
 The subject matters of the 6 circulars are in the attachment.
 
 **3)** The LSB website has been updated accordingly.
 
-(Transmitted via email)
+(Transmitted via email)<br>
 TAN KOK TIONG
 REGISTRAR
 LAND SURVEYORS BOARD
