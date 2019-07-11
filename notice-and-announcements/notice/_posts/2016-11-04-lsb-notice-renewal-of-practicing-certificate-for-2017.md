@@ -55,13 +55,9 @@ Payment for the following prescribed fees is to be made by cheque drawn in favor
 </table>
 {:start="4"}
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**To Note** <br>
-
 (a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All application forms must be carefully and LEGIBLY <u>completed</u> before submission; <br>
-
 (b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firms with more than one practicing Registered Surveyors are to ensure that the name and address of practice are the same on all its application forms, unless otherwise intended; <br>
-
 (c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any **application** that is **not signed** or is **not accompanied** by the correct fee at time of receipt and the completed CPD Summary Form **will be rejected**; and <br>
-
 (d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Application deadlines with respect to the amount of fee payable will be *strictly enforced*. If you are sending in your application via regular mail, proof of posting is not proof of receipt; the receipt date will be considered as the application date, and the fee payable will be the amount applicable on the receipt date. <br>
 {:start="5"}
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Collection** <br>
@@ -70,6 +66,5 @@ The Registrar will inform you once practicing certificate 2017 is ready for coll
 
 
 **Richard Ho • Registrar • Land Surveyors Board Singapore** <br>
-
 **c/o Singapore Land Authority • 6478-3592 (DID) • 6323-9937 (Fax) •** <br>
 http://www.mlaw.gov.sg/content/lsb/en.html
