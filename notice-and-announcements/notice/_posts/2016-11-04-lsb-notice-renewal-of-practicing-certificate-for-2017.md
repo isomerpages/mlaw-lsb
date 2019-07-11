@@ -30,7 +30,7 @@ Your current Practicing Certificate will expire on 31st Dec 2016 and you may sub
   </tr>
 </table>
 <br>
-2.         **Documents Required** <br>
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Documents Required** <br>
 
 The requisite forms are attached and may also be downloaded from Land Surveyors Board's website (attached above for easy ref): <br>
 
@@ -40,7 +40,7 @@ The requisite forms are attached and may also be downloaded from Land Surveyors 
 
 (\*Arising from the recent CPD review presented at the LSB-SISV Joint Seminar 2016 on Sat, 8th October 2016, an updated CPD summary form will be announced in due time for the renewal of practicing certificates for year 2018 onwards).
 
-3.         **Fees** <br>
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Fees** <br>
 
 Payment for the following prescribed fees is to be made by cheque drawn in favor of "Land Surveyors Board Singapore": <br>
 <table>
@@ -54,7 +54,7 @@ Payment for the following prescribed fees is to be made by cheque drawn in favor
   </tr>
 </table>
 
-4.         **To Note** <br>
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**To Note** <br>
 
 (a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All application forms must be carefully and LEGIBLY <u>completed</u> before submission; <br>
 
