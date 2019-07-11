@@ -21,11 +21,11 @@ Your current Practicing Certificate will expire on 31st Dec 2016 and you may sub
 
 <table>
   <tr>
-    <th><span style="font-weight:bold">In Person</span></th>
-    <th><span style="font-weight:bold">By Post</span></th>
+    <th>In Person</th>
+    <th>By Post</th>
   </tr>
   <tr>
-    <td>Registrar<br>Land Surveyors Board<br>c/o Singapore Land Authority<br>55 Newton Road<br><span style="font-weight:bold">#17-01</span> Revenue House<br>Singapore 307987<br><span style="text-decoration:underline">Attention</span>: Ms Janet Koh</td>
-    <td>Registrar<br>Land Surveyors Board<br>c/o Singapore Land Authority<br>55 Newton Road<br><span style="font-weight:bold">#12-01</span> Revenue House<br>Singapore 307987<br><span style="text-decoration:underline">Attention</span>: Ms Janet Koh</td>
+    <td>Registrar<br>Land Surveyors Board<br>c/o Singapore Land Authority<br>55 Newton Road<br><b>#17-01</b> Revenue House<br>Singapore 307987<br><u>Attention</u>: Ms Janet Koh</td>
+    <td>Registrar<br>Land Surveyors Board<br>c/o Singapore Land Authority<br>55 Newton Road<br><b>#12-01</b> Revenue House<br>Singapore 307987<br><u>Attention</u>: Ms Janet Koh</td>
   </tr>
 </table>
