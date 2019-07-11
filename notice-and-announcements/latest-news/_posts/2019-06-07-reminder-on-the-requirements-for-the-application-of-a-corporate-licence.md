@@ -20,25 +20,25 @@ To: All Licenced Corporations
 
 3. It has come to the Board’s attention that a number of recent applications did not comply the requirements, in particular:
 
-* the memorandum of association of the corporation provides that a primary object of the corporation is to supply survey services
+   * the memorandum of association of the corporation provides that a primary object of the corporation is to supply survey services
 
-* the articles of association of the corporation provide that a prescribed number or proportion of the directors of the corporation shall be registered surveyors or allied professionals, who each has in force a practising certificate
+   * the articles of association of the corporation provide that a prescribed number or proportion of the directors of the corporation shall be registered surveyors or allied professionals, who each has in force a practising certificate
 
-* the business of the corporation, so far as it relates to survey work in Singapore, will be under the control and management of a director of the corporation who —
+   * the business of the corporation, so far as it relates to survey work in Singapore, will be under the control and management of a director of the corporation who —
 
-   i. is a registered surveyor who has in force a practicing certificate; and<br>
+    i. is a registered surveyor who has in force a practicing certificate; and<br>
 
-   ii. is authorised under a resolution of the board of directors of the corporation to make all final survey decisions on behalf of the corporation with respect to the requirements of this Act or any other law relating to the supply of survey services by the corporation<br>
+    ii. is authorised under a resolution of the board of directors of the corporation to make all final survey decisions on behalf of the corporation with respect to the requirements of this Act or any other law relating to the supply of survey services by the corporation<br>
 
 4. Some of the applications we have received also did not come with complete documentation, in particular:
 
-* Documents that need to be certified true copies
+  * Documents that need to be certified true copies
 
-* Certificate of incorporation
+  * Certificate of incorporation
 
    * Where the certificate of incorporation was submitted in previous applications with no changes, the Biz file from ACRA of less than 3 months from printed date by itself is sufficient for your renewal application
 
-* Resolution passed by the board of directors of the corporation under section 17(1)(d)(ii) or (2)(c)(iii) of the Land Surveyors Act<br>
+  * Resolution passed by the board of directors of the corporation under section 17(1)(d)(ii) or (2)(c)(iii) of the Land Surveyors Act<br>
 
 5. This Notice serves as reminder to all Licenced Corporations during the renewal of their licences.
 
