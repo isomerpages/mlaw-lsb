@@ -7,18 +7,18 @@ date: 2016-02-05
 ---
 
 <table>
-  <td>
-    <tr>Our ref: LSB 112<br>(Please quote our reference in your reply)</tr>
-    <tr>Tel: 64783699</tr>
-  </td>
-  <td>
-    <tr></tr>
-    <tr>Fax: 63239791</tr>
-  </td>
-  <td>
-    <tr>Date: 5th Feb 2016</tr>
-    <tr></tr>
-  </td>
+  <tr>
+    <td>Our ref: LSB 112<br>(Please quote our reference in your reply)</td>
+    <td>Tel: 64783699</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Fax: 63239791</td>
+  </tr>
+  <tr>
+    <td>Date: 5th Feb 2016</td>
+    <td></td>
+  </tr>
 </table>
 
 **LSB NOTICE ON SINGAPORE HEIGHT DATUM (SHD) IN SURVEY PLANS – IMPLEMENTATION ADVICE**
