@@ -22,7 +22,7 @@ To: All Registered Surveyors
 
 (a) Expunge 3 circulars, viz LSB Circular Nos. 3/99, 1/2000 & 5/2001.
 (b) Transfer 4 circulars, viz LSB Circular Nos. 4/91, 3/96, 1/97 & 12/2000 to the CS Directive on Cadastral Survey Practices.
-(c) Retain 6 circulars viz LSB Circular Nos. [2/2000](/files/linkclick9189.pdf), [3/2000](/files/linkclickabd8.pdf), [4/2000](/files/linkclick9269.pdf), [6/2001](/files/linkclick4a6e.pdf), [1/2002](/files/linkclickefec.pdf) & [3/2002](/files/linkclick4a45.pdf).
+(c) Retain 6 circulars viz LSB Circular Nos. [2/2000](/files/linkclick9189.pdf){:target="_blank"}, [3/2000](/files/linkclickabd8.pdf){:target="_blank"}, [4/2000](/files/linkclick9269.pdf){:target="_blank"}, [6/2001](/files/linkclick4a6e.pdf){:target="_blank"}, [1/2002](/files/linkclickefec.pdf){:target="_blank"} & [3/2002](/files/linkclick4a45.pdf){:target="_blank"}.
 
 The subject matters of the 6 circulars are in the attachment.
 
