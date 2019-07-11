@@ -64,4 +64,4 @@ The Registrar will inform you once practicing certificate 2017 is ready for coll
 
 **Richard Ho • Registrar • Land Surveyors Board Singapore** <br>
 **c/o Singapore Land Authority • 6478-3592 (DID) • 6323-9937 (Fax) •** <br>
-http://www.mlaw.gov.sg/content/lsb/en.html
+[http://www.mlaw.gov.sg/content/lsb/en.html](http://www.mlaw.gov.sg/content/lsb/en.html)
