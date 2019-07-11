@@ -48,7 +48,7 @@ TO WHOM IT MAY CONCERN <br>
 <br>
  
 
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The test scores are subject to a 2-year validity period from the date of the test to the date of the examinations that you are registering for and must be achieved from one sitting of the test. We will not accept individual component scores from multiple tests. The minimum requirements are listed below: <br>
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The test scores are subject to a **2-year validity period from the date of the test to the date of the examinations that you are registering for and** must be achieved from one sitting of the test. We will not accept individual component scores from multiple tests. The minimum requirements are listed below: <br>
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Candidate must obtain a pass in each of the four skill components, and <br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Candidate must obtain a minimum Final Scale Score of at least 140 out of 200 <br>
@@ -63,10 +63,10 @@ Land Surveyors Board <br>
 
 Cc:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;British Council <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Napier Road Centre <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attn: Mr Louis Yong <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Attn</u>: Mr Louis Yong <br>
 
 SISV <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Surveying Division <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attn: Ms Manisah Jalil <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Attn</u>: Ms Manisah Jalil <br>
 
 **GEORGE CHUAH KIAN SENG • Registrar • Land Surveyors Board Singapore**
