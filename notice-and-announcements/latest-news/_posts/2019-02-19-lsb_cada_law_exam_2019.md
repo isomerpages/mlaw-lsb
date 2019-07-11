@@ -3,7 +3,7 @@ layout: post
 title: LSB - NOTICE LAND SURVEYORS BOARD EXAMINATIONS TO BE HELD ON FRIDAY 24TH MAY 2019 (CAD LAW)
 permalink: /notice-and-announcements/latest-news/lsb_cada_law_exam_2019/
 breadcrumb: LSB - NOTICE LAND SURVEYORS BOARD EXAMINATIONS TO BE HELD ON FRIDAY 24TH MAY 2019 (CAD LAW)
-date: 2019-03-24
+date: 2019-02-19
 ---
 
 
