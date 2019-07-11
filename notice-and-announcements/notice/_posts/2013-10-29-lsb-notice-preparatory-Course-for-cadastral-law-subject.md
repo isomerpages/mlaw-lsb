@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  LSB Notice - Preparatory Course for Cadastral Law subject in LSB Examinations
-permalink: /notice-and-announcements/notice/lsb-notice-land-surveyors-board-examinations-to-be-held-on-frid/
+permalink: /notice-and-announcements/notice/lsb-notice-preparatory-course-for-cadastral-law-subject/
 breadcrumb: LSB Notice - Preparatory Course for Cadastral Law subject in LSB Examinations
 date: 2013-10-29
 ---
