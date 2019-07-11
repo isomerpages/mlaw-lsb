@@ -60,7 +60,6 @@ Payment for the following prescribed fees is to be made by cheque drawn in favor
 (d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Application deadlines with respect to the amount of fee payable will be *strictly enforced*. If you are sending in your application via regular mail, proof of posting is not proof of receipt; the receipt date will be considered as the application date, and the fee payable will be the amount applicable on the receipt date. <br>
 {:start="5"}
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Collection** <br>
-
 The Registrar will inform you once practicing certificate 2017 is ready for collection which will commence from the last week of December 2016. <br>
 
 
