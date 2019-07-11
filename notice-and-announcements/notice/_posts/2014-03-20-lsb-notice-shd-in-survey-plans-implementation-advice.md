@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "LSB Notice: Requirement of English Language Profienciency"
+title: LSB Notice - Requirement of English Language Profienciency
 permalink: /notice-and-announcement/notice/lsb-notice--requirement-of-english-language-profienciency/
-breadcrumb: "LSB Notice: Requirement of English Language Profienciency"
+breadcrumb: LSB Notice - Requirement of English Language Profienciency
 date: 2014-03-20
 ---
 
