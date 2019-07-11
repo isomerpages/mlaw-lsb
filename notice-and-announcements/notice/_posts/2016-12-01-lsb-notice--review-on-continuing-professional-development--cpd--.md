@@ -15,7 +15,7 @@ LSB NOTICE: REVIEW ON CONTINUING PROFESSIONAL DEVELOPMENT (CPD) FOR QUALIFYING P
     <td>Email: <a href="mailto:Richard_Ho@sla.gov.sg">Richard_Ho@sla.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Date: 1st Dec 2016</td>
+    <td>Date: 1<sup>st</sup> Dec 2016</td>
     <td></td>
   </tr>
 </table><br>
