@@ -40,7 +40,7 @@ Singapore 307987<br>
      Singapore 307987<br>
      Attn: Ms Mitsy Ng<br>
      
-     <u>By Post</u>
+     <u>By Post</u><br>
      Registrar Land Surveyors Board<br>
      c/o Singapore Land Authority<br>
      55 Newton Road #13-01 Revenue House<br>
