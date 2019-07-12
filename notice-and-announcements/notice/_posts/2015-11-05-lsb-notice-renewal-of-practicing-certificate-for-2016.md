@@ -44,7 +44,6 @@ Your current Practising Certificate will expire on 31st Dec 2015 and you may sub
     </td>
   </tr>
 </table>
-
 **2. Documents Required**<br>
 The requisite forms are attached and may also be downloaded from Land Surveyors Board's website (attached above for easy ref):<br>
 (a) Application for Practising Certificate Form 5, and<br>
