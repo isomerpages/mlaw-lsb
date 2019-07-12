@@ -112,8 +112,8 @@ Land Surveyors Board<br>
 Cc:  
 BCA Academy of Built Environment<br>
 School of Building & Development<br>
-Attn: Mr Tan Kim Leong<br>
+<u>Attn</u>: Mr Tan Kim Leong<br>
 
 SISV<br>
 Land Surveying Division<br>
-Attn: Ms Manisah Jalil
+<u>Attn</u>: Ms Manisah Jalil
