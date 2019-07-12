@@ -46,7 +46,7 @@ b. <u>AUSTRALIA</u>
        
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Geomatic Engineering (Honours) (till 2012);<br>
        
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major)<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major)<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or with Bachelor of Environments (Spatial Systems Major).<br><br>
        
    * iv. University of New South Wales,<br>
