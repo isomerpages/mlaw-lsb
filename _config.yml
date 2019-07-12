@@ -52,5 +52,6 @@ collections:
     output: true
   circular:
     output: true
-    future: true
+
+future: true
 resources_name: "notice-and-announcements"
