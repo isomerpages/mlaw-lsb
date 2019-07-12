@@ -47,7 +47,7 @@ The examination’s structure has been revised. With immediate effect, a candida
 
 Eligible candidates may apply to sit for the examinations by completing and submitting the attached application form together with the examination fees. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.<br>
 
-LSB Exam Regsitration Form_2013<br>
+LSB Exam Registration Form_2013<br>
 
 **4 CLOSING DATE**
 
