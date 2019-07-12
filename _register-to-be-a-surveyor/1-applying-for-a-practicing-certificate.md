@@ -24,7 +24,7 @@ Until 31 December of the year of issue
 
 **Renewal guidelines**
 
-* Application for ensuing year must be submitted to LSB on Form 5 by 1st December of the current year, otherwise, a late fee of S$50 will be imposed.
+* Application for ensuing year must be submitted to LSB on [Form 5](/files/linkclick5d0c.doc) by 1st December of the current year, otherwise, a late fee of S$50 will be imposed.
 
 * If he is not applying for the first time after registration, the surveyor must also have obtained the requisite Continuing Professional Development (CPD) units by successfully completing any survey related activity or non-survey related activity 12 months prior to the date on which he applies for a Practising Certificate.
 
