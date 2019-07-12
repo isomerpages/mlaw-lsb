@@ -14,8 +14,7 @@ LSB13 V4<br>
 **LAND SURVEYORS BOARD CIRCULAR NO. 4/2006**<br>
 
 
-To: All Registered Surveyors
-
+To: All Registered Surveyors<br>
 **CONTINUING PROFESSIONAL DEVELOPMENT REQUIREMENTS FOR REGISTERED SURVEYORS**
 
 I attach Land Surveyors Board Circular No.4/2006 for your information.
