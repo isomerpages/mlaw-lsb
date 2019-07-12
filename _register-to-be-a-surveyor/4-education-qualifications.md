@@ -32,7 +32,7 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
 
 a. <u>SINGAPORE</u>
    * i. Nanyang Technological University,<br>
-        &nbsp;&nbsp; Master of Engineering in land surveying-related thesis.<br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master of Engineering in land surveying-related thesis.<br><br>
                 
 b. <u>AUSTRALIA</u>
    * i. Curtin University,<br>
