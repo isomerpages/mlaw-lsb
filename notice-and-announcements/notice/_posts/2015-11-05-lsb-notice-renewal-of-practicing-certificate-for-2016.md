@@ -49,8 +49,7 @@ The requisite forms are attached and may also be downloaded from Land Surveyors 
 (a) [Application for Practising Certificate Form 5](LSBForm5-Application-for-Practising-Certificate.doc), and<br>
 (b) [CPD Summary Form (ANNEX E)](/files/CPDSummaryForm_AnnexE.pdf)<br>
 **3. Fees**<br>
-Payment for the following prescribed fees is to be made by cheque drawn in favour of "Land Surveyors Board Singapore":
-
+Payment for the following prescribed fees is to be made by cheque drawn in favour of "Land Surveyors Board Singapore": <br>
 <table>
   <tr>
     <td>Renewal application made and <u>received BEFORE</u> 1st December 2015</td>
