@@ -16,7 +16,6 @@ LSB74 V23
 To: All Registered Surveyors
 
 **LSB NOTICE: RENEWAL OF PRACTISING CERTIFICATE FOR 201 6**<br>
-
 Your current Practising Certificate will expire on 31st Dec 2015 and you may submit your renewal application in person or by post:
 
 <table>
