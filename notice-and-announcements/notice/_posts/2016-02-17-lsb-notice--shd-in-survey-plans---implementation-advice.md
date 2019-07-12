@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LSB Notice - SHD in Survey Plans - Implementation Advice
-permalink: /notice-and-announcements/notice/lsb-notice-land-surveyors-board-examinations-to-be-held-on-frid/
+permalink: /notice-and-announcements/notice/lsb-notice--shd-in-survey-plans---implementation-advice/
 breadcrumb: LSB Notice - SHD in Survey Plans - Implementation Advice
 date: 2016-02-17
 ---
