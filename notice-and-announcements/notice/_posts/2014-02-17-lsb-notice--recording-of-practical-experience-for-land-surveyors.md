@@ -25,7 +25,6 @@ Land Surveyors Board (“the Board”) holds examinations to allow suitably qual
 
 4. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you
 
-
 LSB Log Book and Explanatory Notes
 
 GEORGE CHUAH<br>
