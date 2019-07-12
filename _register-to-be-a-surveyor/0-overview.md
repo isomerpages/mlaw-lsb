@@ -16,4 +16,4 @@ To qualify as a Registered Surveyor, one must:
 * Fulfill 1 year’s practical survey work experience under the supervision of a surveyor with a Practicing Certificate
 * Pass the Professional Practice Examination
 * Pass the Professional Interview
-* Apply to LSB to be a registered surveyor (issued with a certificate of registration)
+* Apply to LSB to be a registered surveyor (issued with a [certificate of registration](/register-to-be-a-surveyor/applying-for-a-certificate-of-registration/))
