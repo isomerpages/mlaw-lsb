@@ -59,8 +59,7 @@ Payment for the following prescribed fees is to be made by cheque drawn in favou
     <td>Renewal application made and <u>received on and AFTER</u> 1st December 2015</td>
     <td>SGD$350</td>
   </tr>
-</table><br>
-
+</table>
 **4. To Note**<br>
 (a) All application forms must be carefully and LEGIBLY <u>completed</u> before submission;<br>
 (b) Firms with more than one practising Registered Surveyors are to ensure that the name and address of practice are the same on all its application forms, unless otherwise intended;<br>
