@@ -54,7 +54,7 @@ transfer transaction page and send to Ms Mitsy Ng
 You can make PayNow payments to LSB through UEN
 number T08GB0026H. Include your name for reference
 when making payment.<br>
-
+{:start="3"} 
 3. For candidates applying to sit for the cadastral law exam*, completed applications and fees must reach the Registrar by the **closing date Tuesday, 23rd April 2019**.<br>
 
 4. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you.
