@@ -23,15 +23,15 @@ button:
 key-highlights:
   - title: Know the Latest
     description: Notice and Announcement
-    url: /notice-and-announcement/
+    url: /notice-and-announcements/
     external: true
   - title: Find a Surveyor
     description: List of Practicing Registered Surveyors
-    url: /list-of-practicing-registered-surveyors/
+    url: /find-a-surveyor/list-of-practicing-registered-surveyors/
     external: true
   - title: Register as a Surveyor
     description: Requirements and Information
-    url: /register-to-be-a-surveyor/
+    url: /register-to-be-a-surveyor/overview/
 
 resources-title: Guidelines and Policies
 resources-subtitle: Get More Information
