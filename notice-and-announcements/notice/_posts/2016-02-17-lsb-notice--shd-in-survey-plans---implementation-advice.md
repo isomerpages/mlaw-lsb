@@ -33,7 +33,7 @@ LSB NOTICE: SHD IN SURVEY PLANS - IMPLEMENTATION ADVICE
 To Registered Surveyors (RS),<br>
 
 The Land Surveyors Board (LSB) had recently sent a notice on the above to the relevant agencies/authorities on the adoption of SHD.<br>
-
+{:start="2"} 
 2. A copy of the LSB Notice is attached for your information.<br>
 
 3. Whilst LSB do anticipate that the notice may not be complied with at times i.e. the false datum of +100m still being used in the contract specifications, it will be good that RSs:<br>
@@ -41,7 +41,7 @@ The Land Surveyors Board (LSB) had recently sent a notice on the above to the re
 (i) Advise the Agencies’ Superintending Officer (SO) on the SHD and the LSB Notice;<br>
 
 (ii) Get the SOs confirmation if the false datum of +100m is to be adopted.<br>
-
+{:start="4"} 
 4. Please note that LSB is not expecting RSs to be policing the subject matter but to help raise the awareness amongst the calling agencies and to respond professionally i.e. alerting / advising the SOs on the subject matter above. It is for the SOs to decide on their requirements after RSs have done their due diligence in advising the SOs.<br> 
 
 5. The Board looks forward to your participation and contribution to bring our industry forward.<br>
@@ -81,7 +81,7 @@ TO AGENCIES IN CC LIST
 Dear Sir,<br>
 
 The subject matter refers.<br>
-
+{:start="2"} 
 2. The following notice issued by the Land Surveyors Board (LSB) is to ensure that all survey plans submitted to Agencies are based on the Singapore Height Datum (SHD) of 0.000m where measurements of vertical distances are concerned.<br>
 
 3. This is to address topographical, engineering and building contracts currently specifying the use of false datum of +100m (also known as ‘PWD Datum’).<br>
