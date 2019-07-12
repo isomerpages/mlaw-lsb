@@ -98,9 +98,7 @@ Yours sincerely,<br>
 Soh Kheng Peng<br>
 PRESIDENT<br>
 LAND SURVEYORS BOARD<br>
-
 cc<br>
-
 Mr Loi Hwee Yong<br>
 President, Land Surveying<br>
 Singapore Institute of Surveyors & Valuers<br>
