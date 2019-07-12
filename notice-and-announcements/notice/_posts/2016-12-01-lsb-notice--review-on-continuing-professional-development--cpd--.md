@@ -48,6 +48,7 @@ e) For authorship of published work (Activity code F), the maximum CPD units awa
 
    2.4  The CPD Summary form is simplified with the removal of non-survey related activities – see Annex E.<br>
    
+{:start="3"}  
 3. The new requirements will take effect in 2017 for the renewal of practicing certificate for year 2018.<br>
 
 Regards,<br>
