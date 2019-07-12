@@ -33,6 +33,7 @@ LSB NOTICE: SHD IN SURVEY PLANS - IMPLEMENTATION ADVICE
 To Registered Surveyors (RS),<br>
 
 The Land Surveyors Board (LSB) had recently sent a notice on the above to the relevant agencies/authorities on the adoption of SHD.<br>
+
 {:start="2"} 
 2. A copy of the LSB Notice is attached for your information.<br>
 
@@ -81,6 +82,7 @@ TO AGENCIES IN CC LIST
 Dear Sir,<br>
 
 The subject matter refers.<br>
+
 {:start="2"} 
 2. The following notice issued by the Land Surveyors Board (LSB) is to ensure that all survey plans submitted to Agencies are based on the Singapore Height Datum (SHD) of 0.000m where measurements of vertical distances are concerned.<br>
 
