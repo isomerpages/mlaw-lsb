@@ -42,6 +42,7 @@ The Land Surveyors Board (LSB) had recently sent a notice on the above to the re
 (i) Advise the Agencies’ Superintending Officer (SO) on the SHD and the LSB Notice;<br>
 
 (ii) Get the SOs confirmation if the false datum of +100m is to be adopted.<br>
+
 {:start="4"} 
 4. Please note that LSB is not expecting RSs to be policing the subject matter but to help raise the awareness amongst the calling agencies and to respond professionally i.e. alerting / advising the SOs on the subject matter above. It is for the SOs to decide on their requirements after RSs have done their due diligence in advising the SOs.<br> 
 
