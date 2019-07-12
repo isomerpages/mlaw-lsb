@@ -14,7 +14,7 @@ LSB13 V4<br>
 **LAND SURVEYORS BOARD CIRCUULAR NO. 1/2007**<br>
 
 
-To: All Registered Surveyors
+To: All Registered Surveyors <br>
 **LAND SURVEYORS (AMENDMENT) ACT 2007 AND RELATED AND CONSEQUENTIAL AMENDMENTS TO THE RULES**
 
 I attach Land Surveyors Board Circular No. 1/2007 for your information. You can also obtain the Circular at the Board's website.
