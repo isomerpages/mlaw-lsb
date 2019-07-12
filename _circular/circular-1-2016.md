@@ -40,21 +40,21 @@ Dear Sir / Madam,
 The subject matter refers.
 
 {:start="2"} 
-2. Lately, Land Surveyors Board (LSB) have received feedbacks and complaints on unprofessional work by Registered Surveyors (RS) especially in non-cadastral surveys e.g. topographical and engineering surveys. There were instances where the coordinates for the survey done in SVY21 datum were not verified on ground resulting in encroachments and disputes between private owners / agencies and RSs. While some cases can be rectified at a cost, they are counter-productive and go against the code of professional conduct expected of an RS.<br>
+2.       Lately, Land Surveyors Board (LSB) have received feedbacks and complaints on unprofessional work by Registered Surveyors (RS) especially in non-cadastral surveys e.g. topographical and engineering surveys. There were instances where the coordinates for the survey done in SVY21 datum were not verified on ground resulting in encroachments and disputes between private owners / agencies and RSs. While some cases can be rectified at a cost, they are counter-productive and go against the code of professional conduct expected of an RS.<br>
 
-3. LSB would like to remind RSs on the need to verify the SVY21 coordinates of the land lot boundaries on the ground for refinement purposes prior to their adoption on site. In this regard, LSB would like to draw RSs’ attention to the following when undertaking a non-cadastral survey work:<br>
+3.       LSB would like to remind RSs on the need to verify the SVY21 coordinates of the land lot boundaries on the ground for refinement purposes prior to their adoption on site. In this regard, LSB would like to draw RSs’ attention to the following when undertaking a non-cadastral survey work:<br>
 
-    3.1 RSs shall not use the Real Time Kinematic (RTK) survey to install markers as control stations;<br>
+3.1      RSs shall not use the Real Time Kinematic (RTK) survey to install markers as control stations;<br>
 
-    3.2  RSs shall not use the Cadastral Map or cadastral information in the Road Line Plan (RLP) in lieu of the SVY21 coordinates where survey of land lot boundaries are concerned i.e. RS must obtain the SVY21 coordinates of the land lot boundary from SLA and execute a verification survey of the land lot boundary to verify these SVY21 coordinates;<br>
+3.2      RSs shall not use the Cadastral Map or cadastral information in the Road Line Plan (RLP) in lieu of the SVY21 coordinates where survey of land lot boundaries are concerned i.e. RS must obtain the SVY21 coordinates of the land lot boundary from SLA and execute a verification survey of the land lot boundary to verify these SVY21 coordinates;<br>
 
-    3.3  RSs shall advise their client/s on the need and rationale to modernize the survey in the SVY21 datum instead of only in the Cassini system where land lot boundaries are concerned.<br>
+3.3      RSs shall advise their client/s on the need and rationale to modernize the survey in the SVY21 datum instead of only in the Cassini system where land lot boundaries are concerned.<br>
 
-4. LSB would also like to draw RSs’ attention to CS Directive on Cadastral Survey Practices for a similar requirement under cadastral survey in particular item 2.14 on the ‘Need for Coordinates Verification for Refinement Purposes’. For easy reference, please refer to the link via [http://www.sla.gov.sg/Portals/0/SurveyServices/CS%20Directives/CS%20Directive%20V4.0.pdf](http://www.sla.gov.sg/Portals/0/SurveyServices/CS%20Directives/CS%20Directive%20V4.0.pdf)<br>
+4.       LSB would also like to draw RSs’ attention to CS Directive on Cadastral Survey Practices for a similar requirement under cadastral survey in particular item 2.14 on the ‘Need for Coordinates Verification for Refinement Purposes’. For easy reference, please refer to the link via [http://www.sla.gov.sg/Portals/0/SurveyServices/CS%20Directives/CS%20Directive%20V4.0.pdf](http://www.sla.gov.sg/Portals/0/SurveyServices/CS%20Directives/CS%20Directive%20V4.0.pdf)<br>
 
-5. RSs shall conduct themselves professionally at all times when dealing with their clients.<br>
+5.       RSs shall conduct themselves professionally at all times when dealing with their clients.<br>
 
-6. Thank You.<br>
+6.       Thank You.<br>
 
 Richard Ho<br>
 (computer-generated-deemed-signed)<br>
