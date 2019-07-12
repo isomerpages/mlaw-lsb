@@ -10,9 +10,9 @@ date: 2003-12-19
 NOTICE: REVIEW OF LSB CIRCULARS
 ---
 
-Our Ref: LSB 13 V4 & 112
-19 Dec 2003
-To: All Registered Surveyors
+Our Ref: LSB 13 V4 & 112<br>
+19 Dec 2003<br>
+To: All Registered Surveyors<br>
 
 **NOTICE: REVIEW OF LSB CIRCULARS**
 
