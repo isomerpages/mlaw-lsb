@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LSB Notice - Land Surveyors Board Examinations to be held on Friday, 2 August 2013
-permalink: /notice-and-announcements/notice/lsb-notice-land-surveyors-board-examinations-to-be-held-on-frid/
+permalink: /notice-and-announcements/notice/lsb-notice-land-surveyors-board-examinations-to-be-held-on-friday/
 breadcrumb: LSB Notice - Land Surveyors Board Examinations to be held on Friday, 2 August 2013
 date: 2018-04-30
 ---
