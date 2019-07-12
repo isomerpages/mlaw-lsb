@@ -19,15 +19,15 @@ TO WHOM IT MAY CONCERN
 
 Land Surveyors Board (LSB) holds examinations to allow suitably qualified candidates to be registered under section 12(1)(a) of the Land Surveyors Act.
 
-<ol><li>1. The prescribed examinations consist of the following subjects:<br>
+<ol><li>The prescribed examinations consist of the following subjects:<br>
 (i) The written examination in the subject Cadastral Law; and<br>
 (ii) The oral and practical examinations in the following subjects:<br>
   (a) Land Lot Survey; and<br>
   (b) Strata Survey.</li>
 
-<li>2. To assist candidates prepare for the Cadastral Law subject, LSB is collaborating with the BCA Academy to offer the Principles of Land Administration as an optional part-time Certificate of Attendance (COA) individual refresher course under the GT418 Diploma in Geo-Spatial Information and Technology course as non-graduating students.<br></li>
+<li>To assist candidates prepare for the Cadastral Law subject, LSB is collaborating with the BCA Academy to offer the Principles of Land Administration as an optional part-time Certificate of Attendance (COA) individual refresher course under the GT418 Diploma in Geo-Spatial Information and Technology course as non-graduating students.<br></li>
 
-<li>3. <u>Course Details</u>
+<li><u>Course Details</u>
 
 <table>
   <tr>
@@ -71,7 +71,7 @@ Land Surveyors Board (LSB) holds examinations to allow suitably qualified candid
   </tr>
 </table><br></li>
 
-<li>4. <u>Administration Details</u>
+<li><u>Administration Details</u>
 <table>
   <tr>
     <td>Course Fee</td>
@@ -101,9 +101,9 @@ Land Surveyors Board (LSB) holds examinations to allow suitably qualified candid
       <i>	BCA Academy reserves the right to amend the details of any course or program, revise the course or program fees without prior notice, cancel or postpone the course or program and change the venue of the course or program. Please contact BCA Academy staff should you have any queries on this notice.</i>
     </td>
   </tr>   
-</table><br></li></ol>
+</table><br></li>
 
-5. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you<br>
+<li>I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you<br></li></ol>
 
 GEORGE CHUAH<br>
 Registrar<br>
