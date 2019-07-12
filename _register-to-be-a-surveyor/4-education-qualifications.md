@@ -36,15 +36,15 @@ a. <u>SINGAPORE</u>
                 
 b. <u>AUSTRALIA</u>
    * i. Curtin University,<br>
-       &nbsp;&nbsp; Bachelor of Surveying;<br>
+       &nbsp;&nbsp; Bachelor of Surveying;<br><br>
 
    * ii. Royal Melbourne Institute of Technology,<br>
        &nbsp;&nbsp; Bachelor of Applied Sciences (Land Surveying);<br><br>
 
    * iii. University of Melbourne,<br>
-       &nbsp;&nbsp; Bachelor of Surveying (till 2011);<br><br>
+       &nbsp;&nbsp; Bachelor of Surveying (till 2011);<br>
        
-       &nbsp;&nbsp; Bachelor of Geomatic Engineering (Honours) (till 2012);<br><br>
+       &nbsp;&nbsp; Bachelor of Geomatic Engineering (Honours) (till 2012);<br>
        
        &nbsp;&nbsp; Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major)<br>
        &nbsp;&nbsp; or with Bachelor of Environments (Spatial Systems Major).<br><br>
