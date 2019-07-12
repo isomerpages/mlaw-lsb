@@ -26,7 +26,7 @@ Singapore 307987<br>
 i. Eligible candidates may apply to sit for the examinations by completing and submitting the attached registration form together with the examination fees. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.<br>
 
 ii. Mode of payments:<br>
-   **Cheque**<br>
+   **a. Cheque**<br>
 <u>In person</u><br>
 Registrar Land Surveyors Board<br>
 c/o Singapore Land Authority<br>
@@ -41,7 +41,7 @@ c/o Singapore Land Authority<br>
 Singapore 307987<br>
 Attn: Ms Mitsy Ng<br>
 
-   **E-payment (bank transfer via Internet Banking)**<br>
+   **b. E-payment (bank transfer via Internet Banking)**<br>
 Transfer the amount to LSB corporate account number
 UOB 201-319-249-0. Notify LSB that you have transferred
 the money by noting down the bank transaction number
@@ -50,7 +50,7 @@ Alternatively, you can take a screenshot of the bank
 transfer transaction page and send to Ms Mitsy Ng
 (<Mitsy_Ng@sla.gov.sg>).<br>
 
-   **PayNow Corporate**<br>
+   **c. PayNow Corporate**<br>
 You can make PayNow payments to LSB through UEN
 number T08GB0026H. Include your name for reference
 when making payment.<br>
