@@ -41,8 +41,7 @@ c/o Singapore Land Authority<br>
 Singapore 307987<br>
 Attn: Ms Mitsy Ng<br>
 
-   **E-payment (bank transfer via Internet Banking)**
-
+   **E-payment (bank transfer via Internet Banking)**<br>
 Transfer the amount to LSB corporate account number
 UOB 201-319-249-0. Notify LSB that you have transferred
 the money by noting down the bank transaction number
@@ -52,7 +51,6 @@ transfer transaction page and send to Ms Mitsy Ng
 (<Mitsy_Ng@sla.gov.sg>).<br>
 
    **PayNow Corporate**<br>
-
 You can make PayNow payments to LSB through UEN
 number T08GB0026H. Include your name for reference
 when making payment.<br>
