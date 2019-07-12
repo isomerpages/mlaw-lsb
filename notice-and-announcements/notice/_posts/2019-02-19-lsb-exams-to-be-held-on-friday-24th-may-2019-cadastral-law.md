@@ -23,9 +23,9 @@ Venue: Singapore Land Authority Training Room 1, Level 13<br>
 Revenue House 55 Newton Road<br>
 Singapore 307987<br>
 
-i. Eligible candidates may apply to sit for the examinations by completing and submitting the attached registration form together with the examination fees. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.<br>
+1.  Eligible candidates may apply to sit for the examinations by completing and submitting the attached registration form together with the examination fees. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.<br>
 
-ii. Mode of payments:<br>
+2. Mode of payments:<br>
    **a. Cheque**<br>
 <u>In person</u><br>
 Registrar Land Surveyors Board<br>
@@ -55,9 +55,9 @@ You can make PayNow payments to LSB through UEN
 number T08GB0026H. Include your name for reference
 when making payment.<br>
 
-iii. For candidates applying to sit for the cadastral law exam*, completed applications and fees must reach the Registrar by the **closing date Tuesday, 23rd April 2019**.<br>
+3. For candidates applying to sit for the cadastral law exam*, completed applications and fees must reach the Registrar by the **closing date Tuesday, 23rd April 2019**.<br>
 
-iv. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you.
+4. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you.
 
 <sup>*</sup>First time candidates are required to possess at least one year’s post-graduate practical experience in survey practices before registering to sit for the cadastral law examinations. To ensure candidates have sufficient practical experience in surveying practice, candidates are required to submit a log book with their application as proof of their one year’s past practical experience. Please refer to LSB’s Notice 17th February 2014.<br>
 
