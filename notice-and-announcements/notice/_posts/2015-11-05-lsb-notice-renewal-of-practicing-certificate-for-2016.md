@@ -64,7 +64,7 @@ Payment for the following prescribed fees is to be made by cheque drawn in favou
 </table><br>
 
 **4. To Note**<br>
-(a) All application forms must be carefully and LEGIBLY completed before submission;<br>
+(a) All application forms must be carefully and LEGIBLY <u>completed</u> before submission;<br>
 (b) Firms with more than one practising Registered Surveyors are to ensure that the name and address of practice are the same on all its application forms, unless otherwise intended;<br>
 (c) Any application that is not signed or is not accompanied by the correct fee at time of receipt and the completed CPD Summary Form will be rejected; and<br>
 (d) Application deadlines with respect to the amount of fee payable will be strictly enforced. If you are sending in your application via regular mail, proof of posting is not proof of receipt; the receipt date will be considered as the application date, and the fee payable will be the amount applicable on the receipt date.<br>
