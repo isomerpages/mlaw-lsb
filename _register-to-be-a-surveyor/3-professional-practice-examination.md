@@ -47,7 +47,7 @@ Any application to sit for the Examination in any subject must be:
 
 * made in through the LSB Examination Registration Form
 
-* reach LSB before the closing date stated in the Examination Notice
+* reach LSB before the closing date stated in the [Examination Notice](https://mlaw-lsb-staging.netlify.com/notice-and-announcements/notice/)
 
 * paid at the prevailing Examination fee.
 
