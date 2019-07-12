@@ -19,15 +19,15 @@ TO WHOM IT MAY CONCERN
 
 Land Surveyors Board (LSB) holds examinations to allow suitably qualified candidates to be registered under section 12(1)(a) of the Land Surveyors Act.
 
-2. The prescribed examinations consist of the following subjects:<br>
+1. The prescribed examinations consist of the following subjects:<br>
 (i) The written examination in the subject Cadastral Law; and<br>
 (ii) The oral and practical examinations in the following subjects:<br>
   (a) Land Lot Survey; and<br>
   (b) Strata Survey.
 
-3. To assist candidates prepare for the Cadastral Law subject, LSB is collaborating with the BCA Academy to offer the Principles of Land Administration as an optional part-time Certificate of Attendance (COA) individual refresher course under the GT418 Diploma in Geo-Spatial Information and Technology course as non-graduating students.<br>
+2. To assist candidates prepare for the Cadastral Law subject, LSB is collaborating with the BCA Academy to offer the Principles of Land Administration as an optional part-time Certificate of Attendance (COA) individual refresher course under the GT418 Diploma in Geo-Spatial Information and Technology course as non-graduating students.<br>
 
-4. <u>Course Details</u>
+3. <u>Course Details</u>
 
 <table>
   <tr>
@@ -71,7 +71,7 @@ Land Surveyors Board (LSB) holds examinations to allow suitably qualified candid
   </tr>
 </table><br>
 
-<u>4. Administration Details</u>
+4. <u>Administration Details</u>
 <table>
   <tr>
     <td>Course Fee</td>
@@ -103,7 +103,7 @@ Land Surveyors Board (LSB) holds examinations to allow suitably qualified candid
   </tr>   
 </table><br>
 
-6. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you<br>
+5. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you<br>
 
 GEORGE CHUAH<br>
 Registrar<br>
