@@ -28,7 +28,6 @@ CIRCULAR 1/2016
   </tr>
 </table><br>
 
-
 **LSB CIRCULAR NO. 1/2016**
 
 To: All Registered Surveyors
