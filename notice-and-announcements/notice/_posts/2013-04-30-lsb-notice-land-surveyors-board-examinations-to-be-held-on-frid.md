@@ -42,8 +42,7 @@ The examination’s structure has been revised. With immediate effect, a candida
     <td><u>Practical Examination</u><br>Land Lot Survey Strata Survey</td>
     <td>5 weeks for both subjects from date of commencement</td>
   </tr>
-</table><br>
-
+</table>
 **3 APPLICATION**
 
 Eligible candidates may apply to sit for the examinations by completing and submitting the attached application form together with the examination fees. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.<br>
