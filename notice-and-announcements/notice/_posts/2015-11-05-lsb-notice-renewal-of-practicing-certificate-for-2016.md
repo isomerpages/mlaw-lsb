@@ -31,7 +31,7 @@ Your current Practising Certificate will expire on 31st Dec 2015 and you may sub
       55 Newton Road<br>
       #<b>17-01</b> Revenue House<br>
       Singapore 307987<br>
-      Attention: Ms Janet Koh
+      <u>Attention</u>: Ms Janet Koh
     </td>
     <td>
       Registrar<br>
@@ -40,7 +40,7 @@ Your current Practising Certificate will expire on 31st Dec 2015 and you may sub
       55 Newton Road<br>
       #<b>12-01</b> Revenue House<br>
       Singapore 307987<br>
-      Attention: Ms Janet Koh
+      <u>Attention</u>: Ms Janet Koh
     </td>
   </tr>
 </table>
