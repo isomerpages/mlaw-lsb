@@ -45,7 +45,7 @@ Yours sincerely,
 Soh Kheng Peng<br>
 PRESIDENT<br>
 LAND SURVEYORS BOARD<br>
-[http://www.minlaw.gov.sg/lsb](https://mlaw-lsb-staging.netlify.com/)<br>
+[https://mlaw-lsb-staging.netlify.com/](https://mlaw-lsb-staging.netlify.com/)<br>
 
 cc
 
