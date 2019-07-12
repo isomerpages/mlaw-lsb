@@ -33,7 +33,7 @@ To: All Licenced Corporations
 
     * Certificate of incorporation
 
-   * Where the certificate of incorporation was submitted in previous applications with no changes, the Biz file from ACRA of less than 3 months from printed date by itself is sufficient for your renewal application
+      * Where the certificate of incorporation was submitted in previous applications with no changes, the Biz file from ACRA of less than 3 months from printed date by itself is sufficient for your renewal application
 
     * Resolution passed by the board of directors of the corporation under section 17(1)(d)(ii) or (2)(c)(iii) of the Land Surveyors Act<br>
 
