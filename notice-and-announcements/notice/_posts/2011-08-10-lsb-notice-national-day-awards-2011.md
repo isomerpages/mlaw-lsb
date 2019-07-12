@@ -3,7 +3,7 @@ layout: post
 title: LSB Notice - National Day Awards 2011
 permalink: /notice-and-announcements/notice/lsb-notice-national-day-awards-2011/
 breadcrumb: LSB Notice - National Day Awards 2011
-date: 2019-08-10
+date: 2011-08-10
 ---
 
 LSB NOTICE: NATIONAL DAY AWARDS 2011
