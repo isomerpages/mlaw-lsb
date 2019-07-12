@@ -19,9 +19,9 @@ TO WHOM IT MAY CONCERN
 
 Land Surveyors Board (“the Board”) holds examinations to allow suitably qualified candidates to be registered under section 12(1)(a) of the Land Surveyors Act.
 
-2. Candidates are aware they need to possess at least one year’s post-graduate practical experience in survey practices before registering to sit for the examinations. The Board has reviewed and aims to streamline this current practice to make sure candidates have indeed achieved an acceptable degree of awareness, understanding and competency in practical experience activities.
+2. Candidates are aware they need to possess at least one year’s post-graduate practical experience in survey practices before registering to sit for the examinations. The Board has reviewed and aims to streamline this current practice to make sure candidates have indeed achieved an acceptable degree of awareness, understanding and competency in practical experience activities.<br>
 
-3. To ensure that candidates have sufficient practical experience in surveying practice, candidates are required to submit a Log Book with their application as proof of their one year’s past practical experience. Candidates shall make use of the attached Log Book template and reference shall be made to the explanatory notes for details on practice and practical experience requirements.
+3. To ensure that candidates have sufficient practical experience in surveying practice, candidates are required to submit a Log Book with their application as proof of their one year’s past practical experience. Candidates shall make use of the attached Log Book template and reference shall be made to the explanatory notes for details on practice and practical experience requirements.<br>
 
 4. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you
 
