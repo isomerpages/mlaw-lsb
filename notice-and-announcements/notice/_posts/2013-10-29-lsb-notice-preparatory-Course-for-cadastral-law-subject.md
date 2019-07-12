@@ -71,7 +71,7 @@ Land Surveyors Board (LSB) holds examinations to allow suitably qualified candid
   </tr>
 </table><br>
 
-5. <u>Administration Details</u>
+<u>4. Administration Details</u>
 <table>
   <tr>
     <td>Course Fee</td>
