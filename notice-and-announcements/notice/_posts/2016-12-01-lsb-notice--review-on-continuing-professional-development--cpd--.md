@@ -25,6 +25,7 @@ To: All Registered Surveyors
 
 Land Surveyors Board has reviewed the Continuing Professional Development (CPD) for Registered Surveyors (RS) for year 2017.<br>
 
+{:start="2"}  
 2. The following changes are made to emphasize more on survey related activities:
 
   2.1 The required CPD is only for survey related activities with the yearly CPD quota reduced from 30 to 20 CPD units;
