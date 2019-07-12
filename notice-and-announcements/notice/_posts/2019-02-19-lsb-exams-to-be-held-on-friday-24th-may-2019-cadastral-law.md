@@ -26,9 +26,7 @@ Singapore 307987<br>
 i. Eligible candidates may apply to sit for the examinations by completing and submitting the attached registration form together with the examination fees. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.<br>
 
 ii. Mode of payments:<br>
-
    **Cheque**<br>
-   
 <u>In person</u><br>
 Registrar Land Surveyors Board<br>
 c/o Singapore Land Authority<br>
