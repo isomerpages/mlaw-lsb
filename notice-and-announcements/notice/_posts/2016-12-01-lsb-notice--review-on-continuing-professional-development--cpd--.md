@@ -18,8 +18,7 @@ LSB NOTICE: REVIEW ON CONTINUING PROFESSIONAL DEVELOPMENT (CPD) FOR QUALIFYING P
     <td>Date: 1<sup>st</sup> Dec 2016</td>
     <td></td>
   </tr>
-</table><br>
-
+</table>
 To: All Registered Surveyors
 
 **LSB NOTICE: REVIEW ON CONTINUING PROFESSIONAL DEVELOPMENT (CPD) FOR QUALIFYING PERIOD 2017**
@@ -32,7 +31,7 @@ Land Surveyors Board has reviewed the Continuing Professional Development (CPD) 
 
   2.2 The non-survey related activities are removed;
 
-  2.3 The CPD Units for Survey Related Activities have been revised - see Annex B,
+  2.3 The CPD Units for Survey Related Activities have been revised - see Annex B, <b>
   
   where:
   a) For seminars and conferences (Activity code A2), the maximum CPD units awarded per conference / seminar is 10 CPD units;
