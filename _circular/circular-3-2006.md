@@ -20,7 +20,7 @@ To: All Registered Surveyors
 [LSB Circular 3-2006.pdf](/files/linkclicka4e01.pdf){:target="_blank"}
 
 
-*Attachments
+*Attachments*
 
 [LSB Circular 3-2006 Annex B.pdf](/files/linkclickaca7.pdf){:target="_blank"}
 
