@@ -38,6 +38,7 @@ To: All Registered Surveyors
 Dear Sir / Madam,
 
 The subject matter refers.
+
 {:start="2"} 
 2. Lately, Land Surveyors Board (LSB) have received feedbacks and complaints on unprofessional work by Registered Surveyors (RS) especially in non-cadastral surveys e.g. topographical and engineering surveys. There were instances where the coordinates for the survey done in SVY21 datum were not verified on ground resulting in encroachments and disputes between private owners / agencies and RSs. While some cases can be rectified at a cost, they are counter-productive and go against the code of professional conduct expected of an RS.<br>
 
