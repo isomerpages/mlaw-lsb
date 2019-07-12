@@ -90,6 +90,6 @@ f. <u>UNITED KINGDOM</u>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Surveying and Mapping Sciences (Honours);<br><br>
         
    * iv. University of Newcastle upon Tyne,<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Science, Surveying Science (Honours).<br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Science, Surveying Science (Honours).<br>
         
 <b><sup>*</sup> <i>List is subject to periodic review and update.</i></b>
