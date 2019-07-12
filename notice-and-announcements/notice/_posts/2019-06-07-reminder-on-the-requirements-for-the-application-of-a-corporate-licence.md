@@ -18,7 +18,7 @@ To: All Licenced Corporations
 
 2. The Board would like to remind all applications for a Licence Corporation to comply with 17(1)(a) to (d) for the Land Surveyors Act and submit all necessary documents under section 16(1)(a) to (e) of the Land Surveyors Rules.<br>
 
-3. It has come to the Board’s attention that a number of recent applications did not comply the requirements, in particular:<br>
+3. It has come to the Board’s attention that a number of recent applications did not comply the requirements, in particular:
     * the memorandum of association of the corporation provides that a primary object of the corporation is to supply survey services
 
     * the articles of association of the corporation provide that a prescribed number or proportion of the directors of the corporation shall be registered surveyors or allied professionals, who each has in force a practising certificate
