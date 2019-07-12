@@ -23,7 +23,7 @@ To: All Licenced Corporations
 
     * the articles of association of the corporation provide that a prescribed number or proportion of the directors of the corporation shall be registered surveyors or allied professionals, who each has in force a practising certificate
 
-    * the business of the corporation, so far as it relates to survey work in Singapore, will be under the control and management of a director of the corporation who —
+    * the business of the corporation, so far as it relates to survey work in Singapore, will be under the control and management of a director of the corporation who —<br>
      (i). is a registered surveyor who has in force a practicing certificate; and<br>
      (ii). is authorised under a resolution of the board of directors of the corporation to make all final survey decisions on behalf of the corporation with respect to the requirements of this Act or any other law relating to the supply of survey services by the corporation<br>
 
