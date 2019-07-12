@@ -32,7 +32,6 @@ Land Surveyors Board has reviewed the Continuing Professional Development (CPD) 
   2.2 The non-survey related activities are removed;
 
   2.3 The CPD Units for Survey Related Activities have been revised - see Annex B, <br>
-  
   where:<br>
   
   a) For seminars and conferences (Activity code A2), the maximum CPD units awarded per conference / seminar is 10 CPD units;
