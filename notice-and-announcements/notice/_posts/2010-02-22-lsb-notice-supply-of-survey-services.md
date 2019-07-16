@@ -41,11 +41,11 @@ Dear Sir / Madam
  
 Under Section 10 of the Land Surveyors Act, no person may supply or offer to supply survey services unless he is a registered surveyor who has in force a practising certificate or is a licensed corporation. The specified provisions aim to protect and better serve the interests of the public and calling entities inviting quotations and tenders in procurement exercises.<br>
  
-2 Any person who is not a registered surveyor with a valid pratising certificate or any corporation that is not licensed by the Board contravenes or cause these provisions to be contravened if he provides such survey services, including any form of advertisement for providing such services or tendering for contracts to provide such services.<br>
+1 Any person who is not a registered surveyor with a valid pratising certificate or any corporation that is not licensed by the Board contravenes or cause these provisions to be contravened if he provides such survey services, including any form of advertisement for providing such services or tendering for contracts to provide such services.<br>
  
-3 Calling entities could look up the Land Surveyors Board website at www.minlaw.gov.sg/lsb for the list of registered surveyors who have practising certificates to engage in survey work and the corporations licensed to supply survey services.<br>
+2 Calling entities could look up the Land Surveyors Board website at www.minlaw.gov.sg/lsb for the list of registered surveyors who have practising certificates to engage in survey work and the corporations licensed to supply survey services.<br>
  
-4 I would appreciate it if you could disseminate the contents of this notice to the members of your organisation. Please contact me if you need further clarification.<br>
+3 I would appreciate it if you could disseminate the contents of this notice to the members of your organisation. Please contact me if you need further clarification.<br>
 
 Thank you.
  
