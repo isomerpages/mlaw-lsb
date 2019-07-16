@@ -19,7 +19,7 @@ TO WHOM IT MAY CONCERN
 
 Application to sit for the Land Surveyors Board Examinations 2013 has opened. The examinations are scheduled to be held on Friday, 2 August 2013.<br>
 
-**2 NEW STRUCTURE OF EXAMINATION**
+**1 NEW STRUCTURE OF EXAMINATION**
 
 The examination’s structure has been revised. With immediate effect, a candidate is required to sit for and pass the Cadastral Law subject in the Written Examination before he can register to sit for the Land Lot Survey and Strata Survey subjects in the Practical Examination.<br>
 
@@ -43,17 +43,17 @@ The examination’s structure has been revised. With immediate effect, a candida
     <td>5 weeks for both subjects from date of commencement</td>
   </tr>
 </table>
-**3 APPLICATION**
+**2 APPLICATION**
 
 Eligible candidates may apply to sit for the examinations by completing and submitting the attached application form together with the examination fees. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.<br>
 
 LSB Exam Registration Form_2013<br>
 
-**4 CLOSING DATE**
+**3 CLOSING DATE**
 
 Completed applications and fees must reach the Registrar by the closing date, **Friday 31 May 2013**. Incomplete, late, and faxed applications will not be considered and shall stand rejected automatically.<br>
 
-**5** I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you.<br>
+**4** I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you.<br>
 
 GEORGE CHUAH<br>
 Registrar<br>
