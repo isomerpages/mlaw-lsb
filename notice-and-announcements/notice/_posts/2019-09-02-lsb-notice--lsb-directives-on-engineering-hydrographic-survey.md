@@ -21,7 +21,7 @@ Land Surveyors Board is pleased to announce the release of Version 4.0 of the LS
 The Version 4.0 has incorporated a section on the technology on Multibeam echo sounding surveys as they are now the standard requirements in most hydrographic surveys.<br>
 
 The Directives are available on the LSB website at <br>
-URL:http//www.minlaw.gov.sg/lsb.<br>
+URL: [http://www.minlaw.gov.sg/lsb](http://www.minlaw.gov.sg/lsb).<br>
 
 Thank you.<br>
 
