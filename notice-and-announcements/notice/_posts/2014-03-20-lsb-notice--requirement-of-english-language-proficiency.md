@@ -23,11 +23,11 @@ TO WHOM IT MAY CONCERN <br>
 
  
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Candidates whose language of instruction for their professional degree is not English or whose degree has not been taught entirely in English are required to provide evidence of their English language ability before they register in order to be confident that they can participate optimally in the examinations.
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Candidates whose language of instruction for their professional degree is not English or whose degree has not been taught entirely in English are required to provide evidence of their English language ability before they register in order to be confident that they can participate optimally in the examinations.
 
  
 
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For candidates who fall under this category, we require you to take the following Aptis test conducted by the British Council. The Registration Form can be downloaded from Land Surveyors Board website. Once Land Surveyors Board receives the completed form, we will forward to British Council. For more information on the test and its registration process, visit the British Council Aptis website at [http://www.britishcouncil.org.sg/aptis](http://www.britishcouncil.org.sg/aptis)
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For candidates who fall under this category, we require you to take the following Aptis test conducted by the British Council. The Registration Form can be downloaded from Land Surveyors Board website. Once Land Surveyors Board receives the completed form, we will forward to British Council. For more information on the test and its registration process, visit the British Council Aptis website at [http://www.britishcouncil.org.sg/aptis](http://www.britishcouncil.org.sg/aptis)
 
 <table>
   <tr>
@@ -48,14 +48,14 @@ TO WHOM IT MAY CONCERN <br>
 <br>
  
 
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The test scores are subject to a **2-year validity period from the date of the test to the date of the examinations that you are registering for and** must be achieved from one sitting of the test. We will not accept individual component scores from multiple tests. The minimum requirements are listed below: <br>
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The test scores are subject to a **2-year validity period from the date of the test to the date of the examinations that you are registering for and** must be achieved from one sitting of the test. We will not accept individual component scores from multiple tests. The minimum requirements are listed below: <br>
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Candidate must obtain a pass in each of the four skill components, and <br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Candidate must obtain a minimum Final Scale Score of at least 140 out of 200 <br>
 
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Surveyors Board may also, with a view to determining the proficiency of an candidate’s English language, conduct an interview with the candidate. <br>
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Surveyors Board may also, with a view to determining the proficiency of an candidate’s English language, conduct an interview with the candidate. <br>
 
-6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you <br>
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you <br>
 
 GEORGE CHUAH <br>
 Registrar <br>
