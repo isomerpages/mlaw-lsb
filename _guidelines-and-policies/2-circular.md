@@ -18,12 +18,12 @@ CIRCULAR
   <tr>
     <td>Circular 2/2018</td>
     <td>4 Dec 2018</td>
-    <td><a href="/files/LSBCir2-2018_AWARENESSONADOPTIONOFNEWTECHNOLOGIES.pdf"></a></td>
+    <td><a href="/files/LSBCir2-2018_AWARENESSONADOPTIONOFNEWTECHNOLOGIES.pdf">(191KB)</a></td>
   </tr>
   <tr>
     <td>Circular 1/2018</td>
     <td>4 Dec 2018</td>
-    <td><a href="/files/page1.pdf"></a></td>
+    <td><a href="/files/page1.pdf">(203KB)</a></td>
   </tr>
   <tr>
     <td>Circular 1/2016</td>
@@ -48,22 +48,22 @@ CIRCULAR
   <tr>
     <td>Circular 2/2006</td>
     <td>1 Mar 2006</td>
-    <td><a href="/files/linkclick573aa.pdf" target="_blank"></a></td>
+    <td><a href="/files/linkclick573aa.pdf" target="_blank">(56.6KB)</a></td>
   </tr>
   <tr>
     <td>Circular 1/2006</td>
     <td>23 Feb 2006</td>
-    <td><a href="/files/linkclick5acc.pdf" target="_blank"></a></td>
+    <td><a href="/files/linkclick5acc.pdf" target="_blank">(60.8KB)</a></td>
   </tr>
   <tr>
     <td>Circular 1/2005</td>
     <td>31 Mar 2005</td>
-    <td><a href="/files/linkclick057c.pdf" target="_blank"></a></td>
+    <td><a href="/files/linkclick057c.pdf" target="_blank">(70.1KB)</a></td>
   </tr>
   <tr>
     <td>Circular 5/2005</td>
     <td>31 Mar 2005</td>
-    <td><a href="/files/linkclickb881.pdf" target="_blank"></a></td>
+    <td><a href="/files/linkclickb881.pdf" target="_blank">(57.3KB)</a></td>
   </tr>
 </table><br>
 
