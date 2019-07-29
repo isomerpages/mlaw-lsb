@@ -9,4 +9,4 @@ collection_name: guidelines-and-policies
 
 CPD
 ---
-[CPD - 19 KB](/files/CPDActivityCode-Updated26.02.2018.docx)
+[CPD](/files/CPDActivityCode-Updated26.02.2018.docx)(19kb)
