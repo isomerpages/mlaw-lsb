@@ -19,13 +19,13 @@ To: All Registered Surveyors<br>
 
 I attach Land Surveyors Board Circular No.4/2006 for your information.
 
-[LSB Circular 4-2006](/files/linkclick3e5c.pdf){:target="_blank"}
+[LSB Circular 4-2006(49.5KB)](/files/linkclick3e5c.pdf){:target="_blank"}
 
 <u>Attachments</u><br>
 
-[LSB Circular 3-2005](/files/linkclick0206.pdf){:target="_blank"}
+[LSB Circular 3-2005(81.9KB)](/files/linkclick0206.pdf){:target="_blank"}
 
-[LSB Circular 3-2006](/files/linkclicka4e0.pdf){:target="_blank"}
+[LSB Circular 3-2006(98.9KB)](/files/linkclicka4e0.pdf){:target="_blank"}
 
 **GEORGE CHUAH KIAN SENG Registrar Land Surveyors Board Singapore**<br>
 **c/o Singapore Land Authority 6323-9797 (DID) 6323-9791 (Fax)**<br>
