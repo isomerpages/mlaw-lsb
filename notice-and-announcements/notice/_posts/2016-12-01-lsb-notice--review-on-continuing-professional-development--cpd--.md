@@ -46,7 +46,7 @@ d) For reading of articles, paper etc. (Activity code E), the maximum CPD units 
 e) For authorship of published work (Activity code F), the maximum CPD units awarded is 12 CPD Units per year.
 
 
-   1.4  The CPD Summary form is simplified with the removal of non-survey related activities – see [Annex E](/files/CPDSummaryForm_AnnexE.pdf).<br>
+   1.4  The CPD Summary form is simplified with the removal of non-survey related activities – see [Annex E(42.1KB)](/files/CPDSummaryForm_AnnexE.pdf).<br>
    
 {:start="2"}  
 2. The new requirements will take effect in 2017 for the renewal of practicing certificate for year 2018.<br>
