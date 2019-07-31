@@ -23,7 +23,3 @@ ANNUAL REPORTS
 
 ---
 
-<div class="pagination">
-    <a class="pagination disabled" href="#">1 </a>
-    <a href="https://mlaw-lsb-staging.netlify.com/about-us/annual-reports-2/">2 </a>
- </div>
