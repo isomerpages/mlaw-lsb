@@ -12,11 +12,11 @@ ANNUAL REPORTS
 [Land Surveyors Board : 2007 Annual Report](/files/2_LSBAnnualReport2007.pdf){:target="_blank"}(721KB) <br>
 [Land Surveyors Board : 2005 Annual Report](/files/2_LSBAnnualReport2005.pdf){:target="_blank"}(220KB)<br>
 [Land Surveyors Board : 2001 Annual Report](/files/2_LSBAnnualReport2001.pdf){:target="_blank"}(433KB)<br>
-[Land Surveyors Board : 2004 Annual Report](/files/2_LSBAnnualReport2004.pdf){:target="_blank"}(246 KB) <br>
-[Land Surveyors Board : 2006 Annual Report](/files/2_LSBAnnualReport2006.pdf){:target="_blank"}(316 KB)<br>
-[Land Surveyors Board : 2011 Annual Report](/files/2_LSBAnnualReport2011.pdf){:target="_blank"}(3 MB) <br>
-[Land Surveyors Board : 2016 Annual Report](/files/2_LSBAnnualReport2016.pdf){:target="_blank"}(5 MB) <br>
-[Land Surveyors Board : 2017 Annual Report](/files/2_LSBAnnualReport2017.pdf){:target="_blank"}(1 MB)<br>
+[Land Surveyors Board : 2004 Annual Report](/files/2_LSBAnnualReport2004.pdf){:target="_blank"}(246KB)<br>
+[Land Surveyors Board : 2006 Annual Report](/files/2_LSBAnnualReport2006.pdf){:target="_blank"}(316KB)<br>
+[Land Surveyors Board : 2011 Annual Report](/files/2_LSBAnnualReport2011.pdf){:target="_blank"}(3MB)<br>
+[Land Surveyors Board : 2016 Annual Report](/files/2_LSBAnnualReport2016.pdf){:target="_blank"}(5MB)<br>
+[Land Surveyors Board : 2017 Annual Report](/files/2_LSBAnnualReport2017.pdf){:target="_blank"}(1MB)<br>
 
 ---
 
