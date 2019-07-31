@@ -18,7 +18,7 @@ hero-banner: /images/Hero Banner-LSB.jpg
 #Call to Action Button
 button:
   - text: Learn More
-    url: /about-us/
+    url: /about-us/overview/
     
 key-highlights:
   - title: Know the Latest
