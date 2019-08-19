@@ -127,6 +127,14 @@ List of Licensed Companies
         Tel: 67427973</td>
   </tr>
   <tr>
+    <td><a id="L"></a>LEE BOON HAW REGISTERED SURVEYORS PTE LTD</td>
+    <td>
+      150 Changi Road<br>
+      #03-06 Guthrie Building<br>
+      Singapore 419973<br>
+      Tel: 63466296</td>
+  </tr>
+  <tr>
     <td><a id="P"></a>PRECISION SURVEY CONSULTANTS PTE LTD</td>
     <td>
         7 Gambas Crescent #08-17<br>
