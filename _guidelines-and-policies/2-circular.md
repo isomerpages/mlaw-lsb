@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Circular
+title: Circulars
 permalink: /guidelines-and-policies/circular/
-breadcrumb: Circular
+breadcrumb: Circulars
 collection_name: guidelines-and-policies
 ---
 
@@ -11,7 +11,7 @@ CIRCULAR
 
 <table>
   <tr>
-    <td><b>Circular</b></td>
+    <td><b>Circulars</b></td>
     <td><b>Date</b></td>
     <td><b>Link</b></td>
   </tr>
