@@ -1,13 +1,13 @@
 ---
 layout: leftnav-page-content
-title: History of Land Surveyor Board 
+title: History of Land Surveyors Board 
 permalink: /about-us/history-of-land-surveyor-board/
-breadcrumb: History of Land Surveyor Board 
+breadcrumb: History of Land Surveyors Board 
 collection_name: about-us
 
 ---
 
-HISTORY OF LAND SURVEYOR BOARD
+HISTORY OF LAND SURVEYORS BOARD
 ---
 The Land Surveyors Act was enacted to provide a system of registration of surveyors to meet the demand for cadastral surveys in Singapore. Since the Act came into operation on 1 September 1972, registered surveyors are allowed to undertake cadastral surveys which before could only be carried out by the Chief Surveyor.
 
