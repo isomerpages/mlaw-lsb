@@ -22,7 +22,7 @@ CIRCULARS
   </tr>
   <tr>
     <td>Circular 1/2018</td>
-    <td>4 Dec 2018</td>
+    <td>26 Oct 2018 </td>
     <td><a href="/files/page1.pdf">(203KB)</a></td>
   </tr>
   <tr>
