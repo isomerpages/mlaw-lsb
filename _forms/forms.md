@@ -15,7 +15,7 @@ FORMS
 
 [Aptis Registration Form](/files/Aptis.pdf/){:target="_blank"} - 208 KB
 
-[LSB Log Book and Explanatory Notes](/files/LSB Log Book and Explanatory Notes.doc/){:target="_blank"} - 71 KB
+[LSB Log Book and Explanatory Notes](/files/LSBLogBookandExplanatoryNotes.doc/){:target="_blank"} - 71 KB
 
 [CPD Summary Form – Requirement for renewal of practising certificate](/files/linkclick8293.pdf/){:target="_blank"} - 10 KB
 
