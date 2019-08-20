@@ -3,8 +3,6 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-- title: Home
-  url: https://mlaw-lsb-staging.netlify.com
 - title: About Us
   url: /about-us/overview/
   sub-links:
