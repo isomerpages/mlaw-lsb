@@ -6,7 +6,7 @@ breadcrumb: Circulars
 collection_name: guidelines-and-policies
 ---
 
-CIRCULAR
+CIRCULARS
 ---
 
 <table>
