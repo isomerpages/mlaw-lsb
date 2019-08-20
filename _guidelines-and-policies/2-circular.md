@@ -32,7 +32,7 @@ CIRCULARS
   </tr>
   <tr>
     <td>Circular 1/2007</td>
-    <td>2 May 2009</td>
+    <td>2 May 2007</td>
     <td><a href="/circular/circular-1-2007/">Link</a></td>
   </tr>
   <tr>
