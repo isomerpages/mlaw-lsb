@@ -97,7 +97,7 @@ f. <u>UNITED KINGDOM</u>
             <ul class="no-style">
                 <li>Master of Engineering in land surveying-related thesis.</li>
             </ul>
-        <ul>
+        </ul>
     </li>
     <li><u>AUSTRALIA</u>
         <ul>
