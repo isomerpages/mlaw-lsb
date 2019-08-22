@@ -14,7 +14,7 @@ u b sup{
     display:inline-block;
     line-height:27px;
 }
-.a {
+.a li {
     list-style-type: lower-alpha;
    }
 .a li .no-style {
