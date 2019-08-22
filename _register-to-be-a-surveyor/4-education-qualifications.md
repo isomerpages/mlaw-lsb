@@ -30,66 +30,6 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
 
 <u><b>List<sup>*</sup> of Educational Qualifications in Land Surveying recognised by Land Surveyors Board Singapore</b></u>
 
-a. <u>SINGAPORE</u>
-   * i. Nanyang Technological University,<br>
-   Master of Engineering in land surveying-related thesis.<br><br>
-                
-b. <u>AUSTRALIA</u>
-   * i. Curtin University,<br>
-   Bachelor of Surveying;<br><br>
-
-   * ii. Royal Melbourne Institute of Technology,<br>
-   Bachelor of Applied Sciences (Land Surveying);<br><br>
-
-   * iii. University of Melbourne,<br>
-   Bachelor of Surveying (till 2011);<br>Bachelor of Geomatic Engineering (Honours) (till 2012);<br>Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major)<br>
-   or with Bachelor of Environments (Spatial Systems Major).<br><br>
-       
-   * iv. University of New South Wales,<br>
-   Bachelor of Surveying;<br><br>
-       
-   * v. University of Newcastle,<br>
-   Bachelor of Surveying;<br><br>
-       
-   * vi. University of Southern Queensland,<br>
-   Bachelor of Spatial Science (Honours) (Surveying);<br><br>
-       
-   * vii. University of Tasmania,<br>
-   Bachelor of Surveying.<br><br>
-       
-c. <u>CANADA</u>
-   * i. University of Calgary,<br>
-   Bachelor of Geomatics Engineering;<br><br>
-       
-   * ii. University of New Brunswick,<br>
-   Bachelor of Science in Engineering (Geomatics Engineering).<br><br>
-       
-d. <u>MALAYSIA</u>
-   * i. University of Technology Malaysia,<br>
-   Bachelor of Surveying (Land); and Bachelor of Engineering (Geomatics).<br><br>
-       
-Note:<br>
-UTM grads are required to take and pass the APTIS test administered by the British Council. This is in reference to LSB’s 20th March 2014 LSB Notice on Requirement Of English Language Proficiency For Land Surveyors Board Professional Practice Examinations.
-
-e. <u>NEW ZEALAND</u>
-   * i. University of Otago,<br>
-   Bachelor of Surveying.<br><br>
-       
-f. <u>UNITED KINGDOM</u>
-   * i. Royal Institute of Chartered Surveyors (RICS),<br>
-   Professional Members who have passed final examinations of RICS;<br><br>
-       
-   * ii. University College London,<br>
-   Bachelor of Engineering in Geoinformatics;<br><br>
-        
-   * iii. University of East London,<br>
-   Bachelor of Surveying and Mapping Sciences (Honours);<br><br>
-        
-   * iv. University of Newcastle upon Tyne,<br>
-   Bachelor of Science, Surveying Science (Honours).<br>
-        
-<b><sup>*</sup> <i>List is subject to periodic review and update.</i></b>
-
 <ul>
     <li><u>SINGAPORE</u>
         <ul>
@@ -150,7 +90,7 @@ f. <u>UNITED KINGDOM</u>
             <li>i. University of Technology Malaysia,</li>
             <ul class="no-style">
                 <li>Bachelor of Surveying (Land); and Bachelor of Engineering (Geomatics).</li>
-            </ul><br>
+            </ul>
             <p>Note:<br>UTM grads are required to take and pass the APTIS test administered by the British Council. This is in reference to LSB’s 20th March 2014 LSB Notice on Requirement Of English Language Proficiency For Land Surveyors Board Professional Practice Examinations. </p>
         </ul>
     </li>
