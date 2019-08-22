@@ -44,33 +44,33 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
             <li>i. Curtin University</li>
             <ul class="no-style">
                 <li>Bachelor of Surveying;</li>
-            </ul><br>
+            </ul>
             <li>ii. Royal Melbourne Institute of Technology,</li>
             <ul class="no-style">
                 <li>Bachelor of Applied Sciences (Land Surveying);</li>
-            </ul><br>
+            </ul>
             <li>iii. University of Melbourne,</li>
             <ul class="no-style">
                 <li>Bachelor of Surveying (till 2011);</li>
                 <li>Bachelor of Geomatic Engineering (Honours) (till 2012);</li>
                 <li>Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major) or with Bachelor of Environements (Spatial Systems Major).</li>
-            </ul><br>
+            </ul>
             <li>iv. University of New South Wales,</li>
             <ul class="no-style">
                 <li>Bachelor of Surveying;</li>
-            </ul><br>
+            </ul>
             <li>v. University of Newcastle,</li>
             <ul class="no-style">
                 <li>Bachelor of Surveying;</li>
-            </ul><br>
+            </ul>
             <li>vi. University of Southern Queensland,</li>
             <ul class="no-style">
                 <li>Bachelor of Spatial Science (Honours) (Surveying); </li>
-            </ul><br>
+            </ul>
             <li>vii. University of Tasmania,</li>
             <ul class="no-style">
                 <li>Bachelor of Surveying. </li>
-            </ul><br>
+            </ul>
         </ul>
     </li>
     <li><u>CANADA</u>
