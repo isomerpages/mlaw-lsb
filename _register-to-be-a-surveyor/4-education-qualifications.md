@@ -147,7 +147,10 @@ f. <u>UNITED KINGDOM</u>
     </li>
     <li><u>MALAYSIA</u>
         <ul>
-            <li></li>
+            <li>i. University of Technology Malaysia,</li>
+            <ul class="no-style">
+                <li>Bachelor of Surveying (Land); and Bachelor of Engineering (Geomatics).</li>
+            </ul>
         </ul>
     </li>
     <li>
