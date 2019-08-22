@@ -25,7 +25,7 @@ Those entering the profession should have:
 
 LSB conducts the Examination at least once a year under Rule 22 of the Land Surveyors Rules. The written and practical Examinations are usually held in the month of August or September.
 
-The Board will [issue a notice of the Examination](https://mlaw-lsb-staging.netlify.com/notice-and-announcements/notice/) three months before the date of the Examination, usually in the months of May or June and closing in October. Candidates should check with LSB to ascertain the dates of the Examination and the closing dates for application.
+The Board will [issue a notice of the Examination](/notice-and-announcements/notice/) three months before the date of the Examination, usually in the months of May or June and closing in October. Candidates should check with LSB to ascertain the dates of the Examination and the closing dates for application.
 
 **3. Eligibility criteria**
 
@@ -47,7 +47,7 @@ Any application to sit for the Examination in any subject must be:
 
 * made in through the LSB Examination Registration Form
 
-* reach LSB before the closing date stated in the [Examination Notice](https://mlaw-lsb-staging.netlify.com/notice-and-announcements/notice/)
+* reach LSB before the closing date stated in the [Examination Notice](/notice-and-announcements/notice/)
 
 * paid at the prevailing Examination fee.
 
