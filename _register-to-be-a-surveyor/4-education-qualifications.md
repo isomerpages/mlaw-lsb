@@ -42,11 +42,7 @@ b. <u>AUSTRALIA</u>
    Bachelor of Applied Sciences (Land Surveying);<br><br>
 
    * iii. University of Melbourne,<br>
-   Bachelor of Surveying (till 2011);<br>
-   
-   Bachelor of Geomatic Engineering (Honours) (till 2012);<br>
-   
-   Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major)<br>
+   Bachelor of Surveying (till 2011);<br>Bachelor of Geomatic Engineering (Honours) (till 2012);<br>Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major)<br>
    or with Bachelor of Environments (Spatial Systems Major).<br><br>
        
    * iv. University of New South Wales,<br>
