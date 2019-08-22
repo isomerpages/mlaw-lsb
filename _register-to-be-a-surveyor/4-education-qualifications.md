@@ -30,7 +30,7 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
 
 <u><b>List<sup>*</sup> of Educational Qualifications in Land Surveying recognised by Land Surveyors Board Singapore</b></u>
 
-<ul class="capital">
+<ol class="a">
     <li><u>SINGAPORE</u>
         <ul>
             <li>i. Nanyang Technological University,</li>
@@ -122,6 +122,6 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
             </ul>
         </ul>
     </li>
-</ul>
+</ol>
 
 <b><sup>*</sup> <i>List is subject to periodic review and update.</i></b>
