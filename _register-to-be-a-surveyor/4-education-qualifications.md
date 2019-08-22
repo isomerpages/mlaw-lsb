@@ -91,15 +91,15 @@ f. <u>UNITED KINGDOM</u>
 <b><sup>*</sup> <i>List is subject to periodic review and update.</i></b>
 
 <ul>
-    <li>
-        <u>SINGAPORE</u>
+    <li><u>SINGAPORE</u>
         <ul>
             <li>i. Nanyang Technological University,</li>
-            <ul class="no-style"><li>Master of Engineering in land surveying-related thesis.</li></ul>
+            <ul class="no-style">
+                <li>Master of Engineering in land surveying-related thesis.</li>
+            </ul>
         <ul>
     </li>
-    <li>
-        <u>AUSTRALIA</u>
+    <li><u>AUSTRALIA</u>
         <ul>
             <li>i. Curtin University</li>
             <ul class="no-style">
