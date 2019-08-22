@@ -156,13 +156,30 @@ f. <u>UNITED KINGDOM</u>
     </li>
     <li><u>NEW ZEALAND</u>
         <ul>
-            <li>1. University of Otago,</li>
+            <li>i. University of Otago,</li>
             <ul class="no-style">
                 <li>Bachelor of Surveying.</li>
             </ul>
         </ul>
     </li>
-    <li>
-        <u>UNITED KINGDOM</u>
+    <li><u>UNITED KINGDOM</u>
+        <ul>
+            <li>i. Royal Institute of Chartered Surveyors (RICS),</li>
+            <ul class="no-style">
+                <li>Professional Members who have passed final examinations of RICS;</li>
+            </ul>
+            <li>ii. University College London,</li>
+            <ul class="no-style">
+                <li>Bachelor of Engineering in Geoinformatics;</li>
+            </ul>
+            <li>iii. University of East London,</li>
+            <ul class="no-style">
+                <li>Bachelor of Surveying and Mapping Sciences (Honours); </li>
+            </ul>
+            <li>iv. University of Newcastle upon Tyne,</li>
+            <ul class="no-style">
+                <li> Bachelor of Science, Surveying Science (Honours).</li>
+            </ul>
+        </ul>
     </li>
 </ul>
