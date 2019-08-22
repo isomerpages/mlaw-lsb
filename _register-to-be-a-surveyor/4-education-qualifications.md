@@ -89,3 +89,60 @@ f. <u>UNITED KINGDOM</u>
    Bachelor of Science, Surveying Science (Honours).<br>
         
 <b><sup>*</sup> <i>List is subject to periodic review and update.</i></b>
+
+<ul>
+    <li>
+        <u>SINGAPORE</u>
+        <ul>
+            <li>i. Nanyang Technological University,</li>
+            <ul class="no-style"><li>Master of Engineering in land surveying-related thesis.</li></ul>
+        <ul>
+    </li>
+    <li>
+        <u>AUSTRALIA</u>
+        <ul>
+            <li>i. Curtin University</li>
+            <ul class="no-style">
+                <li>Bachelor of Surveying;</li>
+            </ul><br>
+            <li>ii. Royal Melbourne Institute of Technology,</li>
+            <ul class="no-style">
+                <li>Bachelor of Applied Sciences (Land Surveying);</li>
+            </ul><br>
+            <li>iii. University of Melbourne,</li>
+            <ul class="no-style">
+                <li>Bachelor of Surveying (till 2011);</li>
+                <li>Bachelor of Geomatic Engineering (Honours) (till 2012);</li>
+                <li>Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major) or with Bachelor of Environements (Spatial Systems Major).</li>
+            </ul><br>
+            <li>iv. University of New South Wales,</li>
+            <ul class="no-style">
+                <li>Bachelor of Surveying;</li>
+            </ul><br>
+            <li>v. University of Newcastle,</li>
+            <ul class="no-style">
+                <li>Bachelor of Surveying;</li>
+            </ul><br>
+            <li>vi. University of Southern Queensland,</li>
+            <ul class="no-style">
+                <li>Bachelor of Spatial Science (Honours) (Surveying); </li>
+            </ul><br>
+            <li>vii. University of Tasmania,</li>
+            <ul class="no-style">
+                <li>Bachelor of Surveying. </li>
+            </ul><br>
+        <ul>
+    </li>
+    <li>
+        <u>CANADA</u>
+    </li>
+    <li>
+        <u>MALAYSIA</u>
+    </li>
+    <li>
+        <u>NEW ZEALAND</u>
+    </li>
+    <li>
+        <u>UNITED KINGDOM</u>
+    </li>
+</ul>
