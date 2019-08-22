@@ -14,10 +14,10 @@ u b sup{
     display:inline-block;
     line-height:27px;
 }
-.a li {
+.a .alpha {
     list-style-type: lower-alpha;
    }
-.a li .no-style {
+.a .alpha .no-style {
     list-style-type: none;
    }
 </style>
@@ -37,7 +37,7 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
 <u><b>List<sup>*</sup> of Educational Qualifications in Land Surveying recognised by Land Surveyors Board Singapore</b></u>
 
 <ol class="a">
-    <li><u>SINGAPORE</u>
+    <li class="alpha"><u>SINGAPORE</u>
         <ul>
             <li>i. Nanyang Technological University,</li>
             <ul class="no-style">
@@ -45,7 +45,7 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
             </ul>
         </ul>
     </li>
-    <li><u>AUSTRALIA</u>
+    <li class="alpha"><u>AUSTRALIA</u>
         <ul>
             <li>i. Curtin University</li>
             <ul class="no-style">
@@ -79,7 +79,7 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
             </ul>
         </ul>
     </li>
-    <li><u>CANADA</u>
+    <li class="alpha"><u>CANADA</u>
         <ul>
             <li>i. University of Calgary,</li>
             <ul class="no-style">
@@ -91,7 +91,7 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
             </ul>
         </ul>
     </li>
-    <li><u>MALAYSIA</u>
+    <li class="alpha"><u>MALAYSIA</u>
         <ul>
             <li>i. University of Technology Malaysia,</li>
             <ul class="no-style">
@@ -100,7 +100,7 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
             <p>Note:<br>UTM grads are required to take and pass the APTIS test administered by the British Council. This is in reference to LSB’s 20th March 2014 LSB Notice on Requirement Of English Language Proficiency For Land Surveyors Board Professional Practice Examinations.</p><br>
         </ul>
     </li>
-    <li><u>NEW ZEALAND</u>
+    <li class="alpha"><u>NEW ZEALAND</u>
         <ul>
             <li>i. University of Otago,</li>
             <ul class="no-style">
@@ -108,7 +108,7 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
             </ul>
         </ul>
     </li>
-    <li><u>UNITED KINGDOM</u>
+    <li class="alpha"><u>UNITED KINGDOM</u>
         <ul>
             <li>i. Royal Institute of Chartered Surveyors (RICS),</li>
             <ul class="no-style">
