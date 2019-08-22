@@ -135,14 +135,20 @@ f. <u>UNITED KINGDOM</u>
     </li>
     <li><u>CANADA</u>
         <ul>
-            <li>University of Calgary,</li>
+            <li>i. University of Calgary,</li>
             <ul class="no-style">
                 <li>Bachelor of Geomatics Engineering; </li>
             </ul>
+            <li>ii. University of New Brunswick,</li>
+            <ul class="no-style">
+                <li>Bachelor of Science in Engineering (Geomatics Engineering).</li>
+            </ul>
         </ul>
     </li>
-    <li>
-        <u>MALAYSIA</u>
+    <li><u>MALAYSIA</u>
+        <ul>
+            <li></li>
+        </ul>
     </li>
     <li>
         <u>NEW ZEALAND</u>
