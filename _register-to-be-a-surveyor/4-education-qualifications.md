@@ -90,8 +90,8 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
             <li>i. University of Technology Malaysia,</li>
             <ul class="no-style">
                 <li>Bachelor of Surveying (Land); and Bachelor of Engineering (Geomatics).</li>
-                <p>Note:<br>UTM grads are required to take and pass the APTIS test administered by the British Council. This is in reference to LSB’s 20th March 2014 LSB Notice on Requirement Of English Language Proficiency For Land Surveyors Board Professional Practice Examinations.</p>
             </ul>
+            <p>Note:<br>UTM grads are required to take and pass the APTIS test administered by the British Council. This is in reference to LSB’s 20th March 2014 LSB Notice on Requirement Of English Language Proficiency For Land Surveyors Board Professional Practice Examinations.</p><br>
         </ul>
     </li>
     <li><u>NEW ZEALAND</u>
