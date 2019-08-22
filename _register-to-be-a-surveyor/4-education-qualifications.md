@@ -133,8 +133,13 @@ f. <u>UNITED KINGDOM</u>
             </ul><br>
         <ul>
     </li>
-    <li>
-        <u>CANADA</u>
+    <li><u>CANADA</u>
+        <ul>
+            <li>University of Calgary,</li>
+            <ul class="no-style">
+                <li>Bachelor of Geomatics Engineering; </li>
+            </ul>
+        </ul>
     </li>
     <li>
         <u>MALAYSIA</u>
