@@ -131,7 +131,7 @@ f. <u>UNITED KINGDOM</u>
             <ul class="no-style">
                 <li>Bachelor of Surveying. </li>
             </ul><br>
-        <ul>
+        </ul>
     </li>
     <li><u>CANADA</u>
         <ul>
