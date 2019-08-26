@@ -83,7 +83,7 @@ CIRCULARS
   <tr>
     <td>Circular 3/2002</td>
     <td>1 Aug 2002</td>
-    <td><a href="/files/linkclick95e7.pdf" target="_blank">(127KB)</a></td>
+    <td><a href="/files/LSB-Circular-3-2002.pdf" target="_blank">(127KB)</a></td>
   </tr>
   <tr>
     <td>Circular 1/2002</td>
