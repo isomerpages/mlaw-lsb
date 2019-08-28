@@ -9,3 +9,4 @@ collection_name: about-us
 
 PROMOTIONAL VIDEO
 ---
+<b>Coming Soon</b>
