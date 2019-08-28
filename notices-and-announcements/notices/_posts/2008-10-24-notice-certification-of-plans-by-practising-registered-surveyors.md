@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notice - Certification of Plans by practising Registered Surveyors
-permalink: /notice-and-announcements/notice/notice-certification-of-plans-by-practising-registered-surveyors/
+permalink: /notices-and-announcements/notices/notice-certification-of-plans-by-practising-registered-surveyors/
 breadcrumb: Notice - Certification of Plans by practising Registered Surveyors
 date: 2008-10-24
 ---
