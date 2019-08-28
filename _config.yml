@@ -54,4 +54,4 @@ collections:
     output: true
 
 future: true
-resources_name: "notice-and-announcements"
+resources_name: "notices-and-announcements"
