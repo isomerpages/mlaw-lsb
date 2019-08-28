@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LSB Notice - Review on Continuing Professional Development (CPD) for Qualifying Period 2017
-permalink: /notice-and-announcements/notice/lsb-notice--review-on-continuing-professional-development--cpd--/
+permalink: /notices-and-announcements/notices/lsb-notice--review-on-continuing-professional-development--cpd--/
 breadcrumb: LSB Notice - Review on Continuing Professional Development (CPD) for Qualifying Period 2017
 date: 2016-12-01
 ---
