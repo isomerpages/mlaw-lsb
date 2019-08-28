@@ -60,11 +60,11 @@
 - title: Forms
   url: /forms/forms
 - title: Notices and Announcements
-  url: /notice-and-announcements/
+  url: /notices-and-announcements/
   sub-links:
   - title: All
-    url: /notice-and-announcements/
+    url: /notices-and-announcements/
   - title: Latest News
-    url: /notice-and-announcements/latest-news/
+    url: /notices-and-announcements/latest-news/
   - title: Notice
-    url: /notice-and-announcements/notices/
+    url: /notices-and-announcements/notices/
