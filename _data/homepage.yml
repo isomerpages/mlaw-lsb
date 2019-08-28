@@ -22,8 +22,8 @@ button:
     
 key-highlights:
   - title: Know the Latest
-    description: Notice and Announcements
-    url: /notice-and-announcements/
+    description: Notices and Announcements
+    url: /notices-and-announcements/
     external: true
   - title: Find a Surveyor
     description: List of Practising Registered Surveyors
