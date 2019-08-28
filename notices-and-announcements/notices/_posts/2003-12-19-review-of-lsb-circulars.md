@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notice: Review Of LSB Circulars"
-permalink:  /notice-and-announcements/notice/notice-review-of-lsb-circulars/
+permalink:  /notices-and-announcements/notices/notice-review-of-lsb-circulars/
 breadcrumb: "Notice: Review Of LSB Circulars"
 date: 2003-12-19
 
