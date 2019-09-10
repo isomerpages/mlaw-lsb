@@ -9,4 +9,4 @@ collection_name: register-to-be-a-surveyor
 APPLYING FOR A CERTIFICATE OF REGISTRATION
 ---
 
-Apply to the Land Surveyors Board on prescribed forms [Form 1](/files/LSBForm1-Application-for-Registration.doc)(45KB) together with application fees of S$200. Upon the Board's approval, the applicant becomes a registered surveyor and is issued with a certificate of registration.
+Apply to the Land Surveyors Board on prescribed forms [Form 1](/files/LSBForm1-Application-for-Registration.doc)(DOC, 45KB) together with application fees of S$200. Upon the Board's approval, the applicant becomes a registered surveyor and is issued with a certificate of registration.
