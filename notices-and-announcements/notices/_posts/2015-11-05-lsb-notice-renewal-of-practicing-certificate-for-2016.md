@@ -55,7 +55,7 @@ Your current Practising Certificate will expire on 31st Dec 2015 and you may sub
 (a) [Application for Practising Certificate Form 5](/files/LSBForm5-Application-for-Practising-Certificate.doc)(DOC, 45KB), and<br>
 (b) [CPD Summary Form (ANNEX E)](/files/CPDSummaryForm_AnnexE.pdf)(45KB)<br>
 
-**3. Fees
+**3. Fees**
 
 Payment for the following prescribed fees is to be made by cheque drawn in favour of "Land Surveyors Board Singapore":
 
