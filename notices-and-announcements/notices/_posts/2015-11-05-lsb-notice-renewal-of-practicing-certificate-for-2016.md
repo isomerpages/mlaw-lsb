@@ -52,8 +52,8 @@ Your current Practising Certificate will expire on 31st Dec 2015 and you may sub
 
 **2. Documents Required**
 
-(a) [Application for Practising Certificate Form 5](/files/LSBForm5-Application-for-Practising-Certificate.doc), and<br>
-(b) [CPD Summary Form (ANNEX E)](/files/CPDSummaryForm_AnnexE.pdf)<br>
+(a) [Application for Practising Certificate Form 5](/files/LSBForm5-Application-for-Practising-Certificate.doc)(DOC, 45KB), and<br>
+(b) [CPD Summary Form (ANNEX E)](/files/CPDSummaryForm_AnnexE.pdf)(45KB)<br>
 
 **3. Fees
 
