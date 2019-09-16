@@ -10,6 +10,12 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/lsb-logo-2.jpg
 
+
+
+# Google analytics
+
+google-analytics: UA-10405444-17
+
 # Hero Banner
 hero-title: Land Surveyors Board
 hero-subtitle: We regulate land surveying activities in Singapore to meet the nation’s needs
