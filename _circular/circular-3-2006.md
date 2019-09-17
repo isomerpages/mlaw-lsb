@@ -30,4 +30,4 @@ To: All Registered Surveyors
 
 **GEORGE CHUAH KIAN SENG Registrar Land Surveyors Board Singapore**<br>
 **c/o Singapore Land Authority 6323-9797 (DID) 6323-9791 (Fax)**<br>
-[http://www.minlaw.gov.sg/lsb](https://mlaw-lsb-staging.netlify.com/)
+[http://lsb.minlaw.gov.sg](https://lsb.minlaw.gov.sg/)
