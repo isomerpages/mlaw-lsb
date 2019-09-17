@@ -92,7 +92,7 @@ The subject matter refers.<br>
 3. With the introduction of SHD, it should be adopted for all new contracts henceforth where heights are concerned since the use of false datum of +100m may cause confusion due to the underground levels where parts of it may exceed 100m below SHD. In addition, using only one and true datum (SHD) will avert undue complications with the implementation of Building Information Modelling (BIM). Hence, LSB advocates that the industry should adopt only one datum i.e. SHD = 0.000m across the agencies.<br>
 
 4. In this regard, LSB would also like to draw your attention to Chief Surveyor’s Circular 2/2015 on SHD in Survey Plans and the requirements for all jobs submitted to Chief Surveyor w.e.f. 15th June 2015. For easy reference, a copy of the circular with the relevant Annex is enclosed with this notice. The circular is also published in SLA’s website video:<br>
-[http://www.sla.gov.sg/Pressroom/Circulars/LandSurvey.aspx](/files/CS-CIRCULAR-NO-2-2015.pdf/){:target="_blank"} (1066KB)<br>
+[https://www1.sla.gov.sg/qql/slot/u143/Newsroom/Circulars/Land-Survey/CS_Circulars/2015/CS%20CIRCULAR%20NO.%202-2015.pdf](/files/CS-CIRCULAR-NO-2-2015.pdf/){:target="_blank"} (1066KB)<br>
 
 5. I would appreciate it if you can communicate this advisory to the relevant section in your agency.<br>
 
