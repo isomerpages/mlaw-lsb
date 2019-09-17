@@ -60,5 +60,5 @@ Richard Ho<br>
 (computer-generated-deemed-signed)<br>
 Registrar<br>
 Land Surveyors Board<br>
-[http://www.minlaw.gov.sg/lsb](https://mlaw-lsb-staging.netlify.com/)
+[http://lsb.minlaw.gov.sg](https://lsb.mlaw.gov.sg/)
 
