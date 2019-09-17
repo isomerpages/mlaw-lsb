@@ -26,7 +26,7 @@ SINGAPORE 307987<br>
   </tr>
   <tr>
     <td>Date: 22 Feb 2010</td>
-    <td>Email: <a href="Chuah_Kian_Seng@sla.gov.sg">Chuah_Kian_Seng@sla.gov.sg</a></td>
+    <td>Email:<a href="mailto:Chuah_Kian_Seng@sla.gov.sg">Chuah_Kian_Seng@sla.gov.sg</a></td>
   </tr>
   <tr>
     <td colspan="2">(Please quote our reference In your reply)</td>
@@ -43,7 +43,7 @@ Under Section 10 of the Land Surveyors Act, no person may supply or offer to sup
  
 1 Any person who is not a registered surveyor with a valid pratising certificate or any corporation that is not licensed by the Board contravenes or cause these provisions to be contravened if he provides such survey services, including any form of advertisement for providing such services or tendering for contracts to provide such services.<br>
  
-2 Calling entities could look up the Land Surveyors Board website at www.minlaw.gov.sg/lsb for the list of registered surveyors who have practising certificates to engage in survey work and the corporations licensed to supply survey services.<br>
+2 Calling entities could look up the Land Surveyors Board website at http://lsb.mlaw.gov.sg for the list of registered surveyors who have practising certificates to engage in survey work and the corporations licensed to supply survey services.<br>
  
 3 I would appreciate it if you could disseminate the contents of this notice to the members of your organisation. Please contact me if you need further clarification.<br>
 
