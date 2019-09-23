@@ -126,6 +126,15 @@ List of Practising Registered Surveyors
         Email: hksls@singnet.com.sg</td>
   </tr>
   <tr>
+    <td><a name="C"></a>Chan Wei Hoong</td>
+    <td>54</td>
+    <td>
+        Helix Dimensions<br>
+        99 Duxton Road<br>
+        Singapore 089543<br>
+        Email: derek@helix.re</td>     
+  </tr>
+  <tr>           
     <td><a name="C"></a>Chia Aik Kok</td>
     <td>23</td>
     <td>
