@@ -17,8 +17,6 @@ FORMS
 
 [LSB Log Book and Explanatory Notes](/files/LSBLogBookandExplanatoryNotes.doc/){:target="_blank"} - (DOC, 71KB)
 
-[CPD Summary Form – Requirement for renewal of practising certificate](/files/linkclick8293.pdf/){:target="_blank"} - (10KB)
-
 [Application For Registration Of Surveyors (Form 1)](/files/linkclick0317.doc/){:target="_blank"} - (DOC, 45KB)
 
 [Application For Practising Certificate (Form 5)](/files/linkclickbc26.doc/){:target="_blank"} - (DOC, 41KB)
