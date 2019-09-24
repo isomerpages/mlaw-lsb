@@ -21,12 +21,12 @@ Your current Practising Certificate will expire on 31st Dec 2015 and you may sub
 
 <table>
   <tr>
-    <td>
-      <b>In Person</b>
-    </td>
-    <td>
-      <b>By Post</b>
-    </td>
+    <th>
+      In Person
+    </th>
+    <th>
+      By Post
+    </th>
   </tr>
   <tr>
     <td>
