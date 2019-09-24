@@ -8,14 +8,14 @@ date: 2014-03-20
 
 LSB NOTICE: REQUIREMENT OF ENGLISH LANGUAGE PROFIENCIENCY
 ---
-LSB 112 & LSB9 V41 <br>
+LSB 112 & LSB9 V41
 
-20 March 2014 <br>
+20 March 2014
 
-TO WHOM IT MAY CONCERN <br>
+TO WHOM IT MAY CONCERN
 
 **LSB NOTICE: REQUIREMENT OF ENGLISH LANGUAGE PROFICIENCY** <br>
-**FOR LAND SURVEYORS BOARD PROFESSIONAL PRACTICE EXAMINATIONS** <br>
+**FOR LAND SURVEYORS BOARD PROFESSIONAL PRACTICE EXAMINATIONS**
 
  
 Among its various functions, Land Surveyors Board holds examinations to enable suitably qualified candidates to be registered under section 12(1)(a) of the Land Surveyors Act. The professional practice examinations are conducted in English.
@@ -43,19 +43,22 @@ Among its various functions, Land Surveyors Board holds examinations to enable s
 <br>
 
 {:start="3"}
-3. The test scores are subject to a **2-year validity period from the date of the test to the date of the examinations that you are registering for and** must be achieved from one sitting of the test. We will not accept individual component scores from multiple tests. The minimum requirements are listed below:<br>
+3. The test scores are subject to a **2-year validity period from the date of the test to the date of the examinations that you are registering for and** must be achieved from one sitting of the test. We will not accept individual component scores from multiple tests. The minimum requirements are listed below:
 
 <ul><li>Candidate must obtain a pass in each of the four skill components, and</li>
 <li>Candidate must obtain a minimum Final Scale Score of at least 140 out of 200</li>
 </ul>
-4. Land Surveyors Board may also, with a view to determining the proficiency of an candidate’s English language, conduct an interview with the candidate.<br>
 
-5. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you<br>
+{:start="4"}
+4. Land Surveyors Board may also, with a view to determining the proficiency of an candidate’s English language, conduct an interview with the candidate.
+
+{:start="5"}
+5. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you
 
 GEORGE CHUAH <br>
 Registrar <br>
 Land Surveyors Board <br>
-<br>
+
 Cc:British Council <br>
 Napier Road Centre <br>
 <u>Attn</u>: Mr Louis Yong <br>
