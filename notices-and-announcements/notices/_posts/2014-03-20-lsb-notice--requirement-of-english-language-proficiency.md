@@ -16,7 +16,6 @@ TO WHOM IT MAY CONCERN
 
 **LSB NOTICE: REQUIREMENT OF ENGLISH LANGUAGE PROFICIENCY** <br>
 **FOR LAND SURVEYORS BOARD PROFESSIONAL PRACTICE EXAMINATIONS**
-
  
 Among its various functions, Land Surveyors Board holds examinations to enable suitably qualified candidates to be registered under section 12(1)(a) of the Land Surveyors Act. The professional practice examinations are conducted in English.
 
