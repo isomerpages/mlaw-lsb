@@ -122,5 +122,3 @@ Registrar<br>
 Land Surveyors Board 
 
 [Instruction to Candidate](/files/Instructions_to_Candidate.pdf/)
-
-<p class="right-side-updated">Last updated on 27 Aug 2019</p>
