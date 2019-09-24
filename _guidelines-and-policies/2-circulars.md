@@ -11,9 +11,9 @@ CIRCULARS
 
 <table>
   <tr>
-    <td><b>Circulars</b></td>
-    <td><b>Date</b></td>
-    <td><b>Link</b></td>
+    <th>Circulars</th>
+    <th>Date</th>
+    <th>Link</th>
   </tr>
   <tr>
     <td>Circular 2/2018</td>
