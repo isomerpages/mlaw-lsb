@@ -58,7 +58,7 @@ GEORGE CHUAH <br>
 Registrar <br>
 Land Surveyors Board <br>
 
-Cc:British Council <br>
+Cc: British Council <br>
 Napier Road Centre <br>
 <u>Attn</u>: Mr Louis Yong <br>
 
