@@ -21,9 +21,9 @@ Application to sit for the Land Surveyors Board Practical Examinations 201 8 for
 
 <table>
   <tr>
-    <td><b>Subject</b></td>
-    <td><b>Time</b></td>
-    <td><b>Venue</b></td>
+    <th>Subject</th>
+    <th>Time</th>
+    <th>Venue</th>
   </tr>
   <tr>
     <td><u>Practical Examination</u><br>
