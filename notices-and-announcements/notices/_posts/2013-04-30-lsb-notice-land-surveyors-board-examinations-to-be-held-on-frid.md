@@ -25,9 +25,9 @@ The examination’s structure has been revised. With immediate effect, a candida
 
 <table>
   <tr>
-    <td><b>Subject</b></td>
-    <td><b>Time Allocated</b></td>
-    <td><b>Venue</b></td>
+    <th>Subject</th>
+    <th>Time Allocated</th>
+    <th>Venue</th>
   </tr>
   <tr>
     <td><u>Written Examination</u><br>Cadastral Law</td>
