@@ -41,18 +41,16 @@ Among its various functions, Land Surveyors Board holds examinations to enable s
 
 ***British Council will make alternative arrangements should any test dates fall during Aptis server maintenance/upgrade periods***
 <br>
- 
 
-3. The test scores are subject to a **2-year validity period from the date of the test to the date of the examinations that you are registering for and** must be achieved from one sitting of the test. We will not accept individual component scores from multiple tests. The minimum requirements are listed below: <br>
+3. The test scores are subject to a **2-year validity period from the date of the test to the date of the examinations that you are registering for and** must be achieved from one sitting of the test. We will not accept individual component scores from multiple tests. The minimum requirements are listed below:<br>
 
 <ul>Candidate must obtain a pass in each of the four skill components, and </ul><br>
 <ul>Candidate must obtain a minimum Final Scale Score of at least 140 out of 200</ul><br>
 
-4. Land Surveyors Board may also, with a view to determining the proficiency of an candidate’s English language, conduct an interview with the candidate. <br>
+4. Land Surveyors Board may also, with a view to determining the proficiency of an candidate’s English language, conduct an interview with the candidate.<br>
 
-5. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you <br>
+5. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you<br>
 
-<p class="address-centered">
 GEORGE CHUAH <br>
 Registrar <br>
 Land Surveyors Board <br>
@@ -60,9 +58,10 @@ Land Surveyors Board <br>
 Cc:British Council <br>
 Napier Road Centre <br>
 <u>Attn</u>: Mr Louis Yong <br>
+
 SISV <br>
 Land Surveying Division <br>
 <u>Attn</u>: Ms Manisah Jalil <br>
- </p>
+
 
 **GEORGE CHUAH KIAN SENG • Registrar • Land Surveyors Board Singapore**
