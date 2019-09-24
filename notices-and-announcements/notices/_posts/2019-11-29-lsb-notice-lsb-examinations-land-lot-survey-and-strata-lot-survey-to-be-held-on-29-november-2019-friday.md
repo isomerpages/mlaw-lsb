@@ -22,39 +22,39 @@ date: 2019-11-29
   </tr>
   <tr>
     <td>
-      <p>
+      <p style="font-size: 1rem;">
         <u>Oral and Practical Examinations</u>
       </p>
       <ol>
-        <li>Land Lot Survey</li>
-        <li>Strata Survey</li>
+        <li style="font-size: 1rem;">Land Lot Survey</li>
+        <li style="font-size: 1rem;">Strata Survey</li>
       </ol>
     </td>
     <td>
-      <p>8 weeks for both subjects<br>(8 weeks total including weekends and Public Holidays, regardless of one or two subjects taken) from date of commencement</p>
+      <p style="font-size: 1rem;">8 weeks for both subjects<br>(8 weeks total including weekends and Public Holidays, regardless of one or two subjects taken) from date of commencement</p>
     </td>
     <td>
-      <p>
+      <p style="font-size: 1rem;">
         <b><u>29 November 2019 (Friday)</u></b>
       </p>
-      <p>
+      <p style="font-size: 1rem;">
         <b>11am</b>
       </p>
-      <p>
+      <p style="font-size: 1rem;">
         Singapore Land Authority<br>
         Meeting Room 19-3, Level 19<br>
         Revenue House<br>
         55 Newton Road<br>
         Singapore 307987
       </p>
-      <p>(All candidates to be present at least 5 minutes before the start)</p>
+      <p style="font-size: 1rem;">(All candidates to be present at least 5 minutes before the start)</p>
     </td>
     <td>
-      <p>All subjects must be completed and submitted before the closing date of:</p>
-      <p>
+      <p style="font-size: 1rem;">All subjects must be completed and submitted before the closing date of:</p>
+      <p style="font-size: 1rem;">
         <b><u>24 January 2020 (Friday)</u></b>
       </p>
-      <p>
+      <p style="font-size: 1rem;">
         <b>11am</b>
       </p>
     </td>
@@ -78,7 +78,7 @@ date: 2019-11-29
   </tr>
   <tr>
     <td>
-      <p>
+      <p style="font-size: 1rem;">
         Registrar<br>
         Land Surveyors Board<br>
         c/o Singapore Land Authority<br>
@@ -89,7 +89,7 @@ date: 2019-11-29
       </p>
     </td>
     <td>
-      <p>
+      <p style="font-size: 1rem;">
         Registrar<br>
         Land Surveyors Board<br>
         c/o Singapore Land Authority<br>
