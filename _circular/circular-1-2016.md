@@ -11,8 +11,8 @@ CIRCULAR 1/2016
 
 <table>
   <tr>
-    <td>Your ref:</td>
-    <td>Tel: 64783592</td>
+    <th>Your ref:</th>
+    <th>Tel: 64783592</th>
   </tr>
   <tr>
     <td></td>
