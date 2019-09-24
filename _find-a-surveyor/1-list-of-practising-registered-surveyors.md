@@ -127,7 +127,7 @@ List of Practising Registered Surveyors
   </tr>
   <tr>
     <td><a name="C"></a>Chan Wei Hoong</td>
-    <td>54</td>
+    <td>117</td>
     <td>
         Helix Dimensions<br>
         99 Duxton Road<br>
