@@ -75,9 +75,9 @@ List of Practising Registered Surveyors
 
 <table>
   <tr>
-    <td><b>Name</b></td>
-    <td><b>Registration Number</b></td>
-    <td><b>Principal Business Address</b></td>
+    <th>Name</th>
+    <th>Registration Number</th>
+    <th>Principal Business Address</th>
   </tr>
   <tr>
       <td><a name="A"></a>Ang Phar Teng</td>
