@@ -75,8 +75,8 @@ List of Licensed Companies
 
 <table>
   <tr>
-    <td><b>Name of the Company</b></td>
-    <td><b>Principal Business Address</b></td>
+    <th>Name of the Company</th>
+    <th>Principal Business Address</th>
   </tr>
   <tr>
     <td><a id="A"></a>ADVANCE SURVEY CONSULTANT PTE LTD</td>
