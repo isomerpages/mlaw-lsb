@@ -5,15 +5,20 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #6031b6;
-$secondary: #4372d6;
+$primary: #a40935;
+$secondary: #a40935;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #49759a;
-$media-color-two: #744d9f;
-$media-color-three: #00838f;
-$media-color-four: #00838f;
-$media-color-five: #00838f;
+$media-color-one: #696969;
+$media-color-two: #800000;
+$media-color-three: #A0522D;
+$media-color-four: #866633;
+$media-color-five: #505050;
+$media-color-six: #484848;
+$media-color-seven: #505050;
+$media-color-eight: #585858;
+$media-color-nine: #606060;
+$media-color-ten: #686868;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -71,6 +76,36 @@ $desktop: 960px + (2 * $gap) !default;
   			background-color: darken($media-color-five, 10%);
 		}
   	}
+    &-6 {
+      background-color: $media-color-six;
+      &:hover {
+        background-color: darken($media-color-six, 10%);
+    }
+    }
+    &-7 {
+      background-color: $media-color-seven;
+      &:hover {
+        background-color: darken($media-color-seven, 10%);
+    }
+    }
+    &-8 {
+      background-color: $media-color-eight;
+      &:hover {
+        background-color: darken($media-color-eight, 10%);
+    }
+    }
+    &-9 {
+      background-color: $media-color-nine;
+      &:hover {
+        background-color: darken($media-color-nine, 10%);
+    }
+    }
+    &-10 {
+      background-color: $media-color-ten;
+      &:hover {
+        background-color: darken($media-color-ten, 10%);
+    }
+    }
   }
   &-1{
     //background-color: $primary;
@@ -196,8 +231,14 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+/*
 .bp-section.bp-section-pagetitle {
   background-color: $primary !important;
+}
+*/
+
+.bp-section.bp-section-pagetitle {
+  background-color: #a40935 !important;
 }
 
 // Pagination
@@ -218,8 +259,8 @@ $desktop: 960px + (2 * $gap) !default;
     }
 }
 
-
 // Homepage
+/*
 #key-highlights{
 	background-color: $primary;
 	.col {
@@ -229,6 +270,20 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 		&:hover{
 			background-color: darken($primary,10%);
+		}
+	}
+}
+*/
+
+#key-highlights{
+	background-color: #696969;
+	.col {
+		border-left:1px solid darken(#696969,10%);
+		@include touch(){
+			border-top:1px solid darken(#696969,10%);
+		}
+		&:hover{
+			background-color: darken(#696969,10%);
 		}
 	}
 }

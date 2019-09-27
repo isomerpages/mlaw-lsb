@@ -5,35 +5,42 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-lsb.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/lsb-logo-2.jpg
+
+
+
+# Google analytics
+
+google-analytics: UA-10405444-17
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-title: Land Surveyors Board
+hero-subtitle: We regulate land surveying activities in Singapore to meet the nation’s needs
+hero-banner: /images/Hero Banner-LSB.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /about-us/overview/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com.sg
+  - title: Know the Latest
+    description: Notices and Announcements
+    url: /notices-and-announcements/
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com.sg
+  - title: Find a Surveyor
+    description: List of Practising Registered Surveyors
+    url: /find-a-surveyor/list-of-practising-registered-surveyors/
     external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: Register as a Surveyor
+    description: Requirements and Information
+    url: /register-to-be-a-surveyor/overview/
+    external: true
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
+resources-title: Notices and Announcements
+resources-subtitle: Get More Information
+resources-more-button: More 
+resources-more-button-url: /notices-and-announcements/
