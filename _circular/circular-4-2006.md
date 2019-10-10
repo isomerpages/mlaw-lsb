@@ -29,4 +29,4 @@ I attach Land Surveyors Board Circular No.4/2006 for your information.
 
 **GEORGE CHUAH KIAN SENG Registrar Land Surveyors Board Singapore**<br>
 **c/o Singapore Land Authority 6323-9797 (DID) 6323-9791 (Fax)**<br>
-[http://lsb.minlaw.gov.sg](https://lsb.minlaw.gov.sg/)
+[http://lsb.mlaw.gov.sg](https://lsb.mlaw.gov.sg/)
