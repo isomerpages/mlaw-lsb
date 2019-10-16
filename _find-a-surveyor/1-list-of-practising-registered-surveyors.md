@@ -313,10 +313,10 @@ List of Practising Registered Surveyors
     <td><a name="L"></a>Lee Boon Haw</td>
     <td>8</td>
     <td>
-        Lee Boon Haw Registered Surveyor<br>
-        1 Marine Parade Central<br>
-        #02-08 Parkway Centre<br>
-        Singapore 449408<br>
+        Lee Boon Haw Surveyors Pte Ltd<br>
+        150 Changi Road<br>
+        #03-06 Guthrie Building<br>
+        Singapore 419973<br>
         Tel: 63466296<br>
         Fax: 63466653<br>
         Email: cadastral@leeboonhaw.com.sg</td>
@@ -337,10 +337,10 @@ List of Practising Registered Surveyors
     <td><a name="L"></a>Lee Li Chuan</td>
     <td>48</td>
     <td>
-        Lee Boon Haw Registered Surveyor<br>
-        1 Marine Parade Central<br>
-        #02-08 Parkway Centre<br>
-        Singapore 449408<br>
+        Lee Boon Haw Surveyors Pte Ltd<br>
+        150 Changi Road<br>
+        #03-06 Guthrie Building<br>
+        Singapore 419973<br>
         Tel: 63466296<br>
         Fax: 63466653<br>
         Email: cadastral@leeboonhaw.com.sg</td>
