@@ -127,7 +127,7 @@ List of Licensed Companies
         Tel: 67427973</td>
   </tr>
   <tr>
-    <td><a id="L"></a>LEE BOON HAW REGISTERED SURVEYORS PTE LTD</td>
+    <td><a id="L"></a>LEE BOON HAW SURVEYORS PTE LTD</td>
     <td>
       150 Changi Road<br>
       #03-06 Guthrie Building<br>
