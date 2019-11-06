@@ -15,7 +15,7 @@ FORMS
 
 [Aptis Registration Form](/files/Aptis.pdf/){:target="_blank"} - (208KB)
 
-[LSB Log Book and Explanatory Notes](/files/LSBLogBookandExplanatoryNotes-v1.0.docx/){:target="_blank"} - (DOC, 71KB)
+[LSB Log Book and Explanatory Notes](/files/LSB Log Book and Explanatory Notes- v1.0.docx/){:target="_blank"} - (DOC, 71KB)
 
 [Application For Registration Of Surveyors (Form 1)](/files/linkclick0317.doc/){:target="_blank"} - (DOC, 45KB)
 
