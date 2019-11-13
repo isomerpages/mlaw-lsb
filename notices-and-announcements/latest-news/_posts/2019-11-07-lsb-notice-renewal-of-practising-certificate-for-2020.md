@@ -3,7 +3,7 @@ layout: post
 title: LSB Notice- Renewal of Practising Certificate for 2020
 permalink: /notices-and-announcements/notices/renewal-of-practising-certificate-for-2020/
 breadcrumb: LSB NOTICE- RENEWAL OF PRACTISING CERTIFICATE FOR 2020
-date: 2019-11-07
+date: 2019-11-01
 
 ---
 
