@@ -257,7 +257,7 @@ List of Practising Registered Surveyors
     <td>
         Nanyang Surveying and Systems<br>
         3, Soon Lee Street,<br>
-        #04-27, Pioneer Junction<br>
+        #05-34, Pioneer Junction<br>
         Singapore 627606<br>
         Tel: 67900615<br>
         Fax: 67945880<br>
