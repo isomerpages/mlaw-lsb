@@ -260,7 +260,7 @@ List of Practising Registered Surveyors
         #05-34, Pioneer Junction<br>
         Singapore 627606<br>
         Tel: 67900615<br>
-        Fax: 67945880<br>
+        Fax: 63341821<br>
         Email: mingzhi@singnet.com.sg</td>
   </tr>
   <tr>
