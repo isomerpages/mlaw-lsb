@@ -516,10 +516,10 @@ List of Practising Registered Surveyors
     <td>
         Eagle Point Surveying & Engineering<br>
         4C Evans Road<br>
-        <br>
         Singapore 259362<br>
-        Tel: 62808044<br>
-        Email: Michael.Lim@EaglePoint.com.sg</td>
+        Te: 62808044<br>
+        Email:Michael.Lim@EaglePoint.com.sg</td>
+     
   </tr>
   <tr>
     <td><a name="N"></a>Ng Kwok Khuan</td>
