@@ -515,9 +515,9 @@ List of Practising Registered Surveyors
     <td>113</td>
     <td>
         Eagle Point Surveying & Engineering<br>
-        747 Geylang Road<br>
-        #02-05<br>
-        Singapore 389654<br>
+        4C Evans Road<br>
+        <br>
+        Singapore 259362<br>
         Tel: 62808044<br>
         Email: Michael.Lim@EaglePoint.com.sg</td>
   </tr>
