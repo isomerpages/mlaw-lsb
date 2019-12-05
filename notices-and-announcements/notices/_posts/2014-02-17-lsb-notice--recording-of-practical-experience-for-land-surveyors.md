@@ -24,8 +24,7 @@ Land Surveyors Board (“the Board”) holds examinations to allow suitably qual
 2. To ensure that candidates have sufficient practical experience in surveying practice, candidates are required to submit a Log Book with their application as proof of their one year’s past practical experience. Candidates shall make use of the attached Log Book template and reference shall be made to the explanatory notes for details on practice and practical experience requirements.<br>
 
 3. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you
-
-[LSB Log Book and Explanatory Notes](/files/LSB-Log-Book-and-Explanatory-Notes.doc) (DOC, 71KB)
+[LSB Log Book and Explantory Notes](/files/LSBLogBookandExplanatoryNotes-v1.0.docx)
 
 GEORGE CHUAH<br>
 Registrar<br>
