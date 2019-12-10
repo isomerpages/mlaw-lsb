@@ -25,7 +25,7 @@ Land Surveyors Board (“the Board”) holds examinations to allow suitably qual
 
 3. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you
 
-[LSB Log Book and Explanatory Notes](/files/LSB-Log-Book-and-Explanatory-Notes.doc) (DOC, 71KB)
+[LSB Log Book and Explantory Notes]
 
 GEORGE CHUAH<br>
 Registrar<br>
