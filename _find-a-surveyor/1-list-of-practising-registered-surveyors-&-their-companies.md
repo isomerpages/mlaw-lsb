@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: List of Practising Registered Surveyors & their Companies
-permalink: /find-a-surveyor/list-of-practising-registered-surveyors-& their-Companies/
+permalink: /find-a-surveyor/list-of-practising-registered-surveyors/
 breadcrumb: List of Practising Registered Surveyors & their Companies
 collection_name: find-a-surveyor
 ---
