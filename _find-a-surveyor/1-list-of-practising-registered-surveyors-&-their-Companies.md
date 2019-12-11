@@ -16,7 +16,7 @@ li{
   }
 </style>
 
-List of Practising Registered Surveyors
+List of Practising Registered Surveyors & their Companies
 ---
 
 <ol>
