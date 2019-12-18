@@ -387,7 +387,7 @@ List of Practising Registered Surveyors & their Companies
     <td>
         Surbana Jurong Consultants Pte Ltd<br>
         168 Jalan Bukit Merah<br>
-        #01-01 Connection One One<br>
+        #01-01 Connection One<br>
         Singapore 150168<br>
         Tel: 62481409<br>
         Fax: 62481293<br>
@@ -550,7 +550,7 @@ List of Practising Registered Surveyors & their Companies
     <td>80</td>
     <td>
         L P Ong & Associates<br>
-        1769 Kaki Bukit Avenue 1<br>
+        169 Kaki Bukit Avenue 1<br>
         #03-00 Shun Li Industrial Park<br>
         Singapore 416019<br>
         Tel: 67428506<br>
@@ -621,7 +621,7 @@ List of Practising Registered Surveyors & their Companies
     <td>103</td>
     <td>
         Eddyswee Consultants & Registered Surveyor<br>
-        296 JTelok Kurau Road #02-03<br> 
+        296 Telok Kurau Road #02-03<br> 
         Singapore 423854<br> 
         Tel: 62977808<br> 
         Fax: 62973503<br> 
@@ -679,7 +679,6 @@ List of Practising Registered Surveyors & their Companies
     <td>49</td>
     <td>
         Wang & EF Tan Associates<br>
-        Consulting & Registered Surveyors<br>
         Blk 5000 Ang Mo Kio Ave 5<br>
         #03-13 Techplace II<br>
         Singapore 569870<br>
