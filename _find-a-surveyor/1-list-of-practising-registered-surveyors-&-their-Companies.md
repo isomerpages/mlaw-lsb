@@ -88,7 +88,7 @@ List of Practising Registered Surveyors & their Companies
         #07-44 Northstar@AMK<br>
         Singapore 569880<br>
         Tel: 63583282<br>
-        Fax: 63583283<br>
+        Fax: 63523283<br>
         Email: chartsvy@singnet.com.sg</td>
   </tr>
   <tr>
@@ -107,8 +107,8 @@ List of Practising Registered Surveyors & their Companies
     <td>77</td>
     <td>
         Christopher Chai Registered Surveyor<br>
-        231 Joo Chiat Road #03-01<br>
-        Singapore 427490<br>
+        1076A Serangoon Road #03-01<br>
+        Singapore 328180<br>
         Tel: 64406098<br>
         Fax: 64406083<br>
         Email: chrisckvrs@gmail.com</td>
@@ -235,7 +235,7 @@ List of Practising Registered Surveyors & their Companies
         SCANPOINT<br>
         22 Sin Ming Lane<br>
         #06-76, Midview City<br>
-        Singapore (573969)<br>
+        Singapore 573969<br>
         Tel: 96856238<br>
         Email : fhheng@scanpoint.com.sg </td>
   </tr>
@@ -256,7 +256,7 @@ List of Practising Registered Surveyors & their Companies
     <td>102</td>
     <td>
         Nanyang Surveying and Systems<br>
-        3, Soon Lee Street,<br>
+        3, Soon Lee Street<br>
         #05-34, Pioneer Junction<br>
         Singapore 627606<br>
         Tel: 67900615<br>
@@ -379,7 +379,7 @@ List of Practising Registered Surveyors & their Companies
         Singapore 577218<br>
         Tel: 63544338<br>
         Fax: 63544337<br>
-        Email: leeto@singnet.com.sg</td>
+        Email: leeto0205@gmail.com</td>
   </tr>
   <tr>
     <td><a name="L"></a>Leong Kin Weng</td>
@@ -387,7 +387,7 @@ List of Practising Registered Surveyors & their Companies
     <td>
         Surbana Jurong Consultants Pte Ltd<br>
         168 Jalan Bukit Merah<br>
-        #01-01 Surbana One<br>
+        #01-01 Connection One One<br>
         Singapore 150168<br>
         Tel: 62481409<br>
         Fax: 62481293<br>
@@ -435,7 +435,7 @@ List of Practising Registered Surveyors & their Companies
         Land Transport Authority<br>
         1 Hampshire Road<br>
         Singapore 219428<br>
-        Office: 64343579<br>
+        Office: 63961845<br>
         Fax: 63961136<br>
         Email: LIM_Pia_Lian@lta.gov.sg</td>
   </tr>
@@ -458,7 +458,7 @@ List of Practising Registered Surveyors & their Companies
         HDB Hub<br>
         480 Lorong 6 Toa Payoh<br>
         Singapore 310480<br>
-        Tel: 64903062<br>
+        Tel: 64903448<br>
         Fax: 64903007<br>
         Email: Loh_Suat_Yen@hdb.gov.sg</td>
   </tr>
@@ -517,7 +517,7 @@ List of Practising Registered Surveyors & their Companies
         Eagle Point Surveying & Engineering<br>
         4C Evans Road<br>
         Singapore 259362<br>
-        Te: 62808044<br>
+        Tel: 66940954<br>
         Email:Michael.Lim@EaglePoint.com.sg</td>
      
   </tr>
@@ -529,7 +529,7 @@ List of Practising Registered Surveyors & their Companies
         HDB Hub<br>
         480 Lorong 6 Toa Payoh<br>
         Singapore 310480<br>
-        Tel: 64903447<br>
+        Tel: 64903088<br>
         Fax: 64903007<br>
         Email: Ng_Kwok_Khuan@hdb.gov.sg</td>
   </tr>
@@ -610,7 +610,7 @@ List of Practising Registered Surveyors & their Companies
     <td>
         Surbana Jurong Consultants Pte Ltd<br>
         168 Jalan Bukit Merah<br>
-        #01-01 Surbana One<br>
+        #01-01 Connection One<br>
         Singapore 150168<br>
         Tel: 62481418<br>
         Fax: 62481293<br>
@@ -635,8 +635,8 @@ List of Practising Registered Surveyors & their Companies
         54, Serangoon North Avenue 4<br>
         #03-02, Cyberhub North<br>
         Singapore 555854<br>
-        Tel: 62565725<br> 
-        Fax: 62565725<br>
+        Tel: 68014387<br> 
+        Fax: - <br>
         Email: jerrytbt@hotmail.com</td>
   </tr>
   <tr>
