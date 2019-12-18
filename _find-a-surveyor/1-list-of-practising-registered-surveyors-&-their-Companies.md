@@ -88,7 +88,7 @@ List of Practising Registered Surveyors & their Companies
         #07-44 Northstar@AMK<br>
         Singapore 569880<br>
         Tel: 63583282<br>
-        Fax: 63583283<br>
+        Fax: 63523283<br>
         Email: chartsvy@singnet.com.sg</td>
   </tr>
   <tr>
@@ -107,8 +107,8 @@ List of Practising Registered Surveyors & their Companies
     <td>77</td>
     <td>
         Christopher Chai Registered Surveyor<br>
-        231 Joo Chiat Road #03-01<br>
-        Singapore 427490<br>
+        1076A Serangoon Road #03-01<br>
+        Singapore 328180<br>
         Tel: 64406098<br>
         Fax: 64406083<br>
         Email: chrisckvrs@gmail.com</td>
@@ -144,7 +144,7 @@ List of Practising Registered Surveyors & their Companies
         Singapore 387383<br>
         Tel: 62991776<br>
         Fax: 62991416<br>
-        Email:cadasvy@cak-fg.com.sg</td>
+        Email:chia47eric@gmail.com</td>
   </tr>
   <tr>
     <td><a name="C"></a>Chua Keng Guan</td>
@@ -158,7 +158,7 @@ List of Practising Registered Surveyors & their Companies
         Email: kgchua@wisescan.com</td>
   </tr>
   <tr>
-    <td><a name="C"></a>Chua Limin</td>
+    <td><a name="C"></a>Chua Limin Clara</td>
     <td>114</td>
     <td>
         Wisescan Engineering Services Pte Ltd<br>
@@ -176,7 +176,7 @@ List of Practising Registered Surveyors & their Companies
         18 Kaki Bukit Road 3 #03-04<br>
         Entrepreneur Business Centre<br>
         Singapore 415978<br>
-        Tel: 6742797<br> 
+        Tel: 67427973<br> 
         Fax: 67429792<br>
         Email: jkfoo@jkfoosurvey.com.sg</td>
   </tr>
@@ -188,8 +188,8 @@ List of Practising Registered Surveyors & their Companies
         No. 35 Jalan Pemimpin<br>
         #05-02<br>
         Singapore 577176<br>
-        Tel: -<br>
-        Fax: -<br>
+        Tel: 63545950<br>
+        Fax: 63545949<br>
         Email:Gerry@gpslands.com</td>
   </tr>
   <tr>
@@ -214,7 +214,7 @@ List of Practising Registered Surveyors & their Companies
         Singapore 387383<br>
         Tel: 62991776<br>
         Fax: 62991416<br>
-        Email: cadasvy@cak-fg.com.sg</td>
+        Email: francis.goh@cak-fg.com.sg</td>
   </tr>
   <tr>
     <td><a name="H"></a>Han Boon Juan</td>
@@ -224,7 +224,7 @@ List of Practising Registered Surveyors & their Companies
         Blk 9003 Tampines Street 93<br>
         #03-150<br>
         Singapore 528837<br> 
-        Office: 62602778<br>
+        Tel: 62602778<br>
         Fax: 62602778<br>
         Email: hbj@atlascs.com.sg</td>
   </tr>
@@ -235,7 +235,7 @@ List of Practising Registered Surveyors & their Companies
         SCANPOINT<br>
         22 Sin Ming Lane<br>
         #06-76, Midview City<br>
-        Singapore (573969)<br>
+        Singapore 573969<br>
         Tel: 96856238<br>
         Email : fhheng@scanpoint.com.sg </td>
   </tr>
@@ -256,7 +256,7 @@ List of Practising Registered Surveyors & their Companies
     <td>102</td>
     <td>
         Nanyang Surveying and Systems<br>
-        3, Soon Lee Street,<br>
+        3, Soon Lee Street<br>
         #05-34, Pioneer Junction<br>
         Singapore 627606<br>
         Tel: 67900615<br>
@@ -367,7 +367,7 @@ List of Practising Registered Surveyors & their Companies
         Singapore 349307<br>
         Tel: 67442380<br>
         Fax: 67442476 <br>
-        Email: andylee_ts@aceland.com.sg</td>
+        Email: andylee_ts@yahoo.com.sg</td>
   </tr>
   <tr>
     <td><a name="L"></a>Lee Tuck Onn</td>
@@ -379,7 +379,7 @@ List of Practising Registered Surveyors & their Companies
         Singapore 577218<br>
         Tel: 63544338<br>
         Fax: 63544337<br>
-        Email: leeto@singnet.com.sg</td>
+        Email: leeto0205@gmail.com</td>
   </tr>
   <tr>
     <td><a name="L"></a>Leong Kin Weng</td>
@@ -387,7 +387,7 @@ List of Practising Registered Surveyors & their Companies
     <td>
         Surbana Jurong Consultants Pte Ltd<br>
         168 Jalan Bukit Merah<br>
-        #01-01 Surbana One<br>
+        #01-01 Connection One<br>
         Singapore 150168<br>
         Tel: 62481409<br>
         Fax: 62481293<br>
@@ -435,7 +435,7 @@ List of Practising Registered Surveyors & their Companies
         Land Transport Authority<br>
         1 Hampshire Road<br>
         Singapore 219428<br>
-        Office: 64343579<br>
+        Office: 63961845<br>
         Fax: 63961136<br>
         Email: LIM_Pia_Lian@lta.gov.sg</td>
   </tr>
@@ -458,7 +458,7 @@ List of Practising Registered Surveyors & their Companies
         HDB Hub<br>
         480 Lorong 6 Toa Payoh<br>
         Singapore 310480<br>
-        Tel: 64903062<br>
+        Tel: 64903448<br>
         Fax: 64903007<br>
         Email: Loh_Suat_Yen@hdb.gov.sg</td>
   </tr>
@@ -517,7 +517,7 @@ List of Practising Registered Surveyors & their Companies
         Eagle Point Surveying & Engineering<br>
         4C Evans Road<br>
         Singapore 259362<br>
-        Te: 62808044<br>
+        Tel: 66940954<br>
         Email:Michael.Lim@EaglePoint.com.sg</td>
      
   </tr>
@@ -529,7 +529,7 @@ List of Practising Registered Surveyors & their Companies
         HDB Hub<br>
         480 Lorong 6 Toa Payoh<br>
         Singapore 310480<br>
-        Tel: 64903447<br>
+        Tel: 64903088<br>
         Fax: 64903007<br>
         Email: Ng_Kwok_Khuan@hdb.gov.sg</td>
   </tr>
@@ -542,7 +542,7 @@ List of Practising Registered Surveyors & their Companies
         #06-25 , Pioneer Junction<br> 
         Singapore 627606<br> 
         Tel: 66844838<br> 
-        Fax: 66844858<br> 
+        Fax: 66844335<br> 
         Email: bssurvey@singnet.com.sg</td>
   </tr>
   <tr>
@@ -550,9 +550,9 @@ List of Practising Registered Surveyors & their Companies
     <td>80</td>
     <td>
         L P Ong & Associates<br>
-        510 Geylang Road<br>
-        #04-03 The Sunflower<br>
-        Singapore 389466<br>
+        169 Kaki Bukit Avenue 1<br>
+        #03-00 Shun Li Industrial Park<br>
+        Singapore 416019<br>
         Tel: 67428506<br>
         Fax : 67425906<br>
         Email: lokping_ong@yahoo.com</td>
@@ -585,9 +585,9 @@ List of Practising Registered Surveyors & their Companies
     <td>94</td>
     <td>
         Sembcorp Architects & Engineers Pte Ltd<br>
-        167 Jalan Bukit Merah<br>
-        #13-10 Tower 5<br>
-        Singapore 150167<br>
+        51 Changi Business Park Central 2<br>
+        #06-12 The Signature<br>
+        Singapore 486066<br>
         Tel: 63052743<br>
         Fax: 63052708<br>
         Email: peh.chengkiat@sembcorp.com</td>
@@ -610,7 +610,7 @@ List of Practising Registered Surveyors & their Companies
     <td>
         Surbana Jurong Consultants Pte Ltd<br>
         168 Jalan Bukit Merah<br>
-        #01-01 Surbana One<br>
+        #01-01 Connection One<br>
         Singapore 150168<br>
         Tel: 62481418<br>
         Fax: 62481293<br>
@@ -621,11 +621,11 @@ List of Practising Registered Surveyors & their Companies
     <td>103</td>
     <td>
         Eddyswee Consultants & Registered Surveyor<br>
-        81 Joo Chiat Road #02-03<br> 
-        Singapore 427725<br> 
+        296 Telok Kurau Road #02-03<br> 
+        Singapore 423854<br> 
         Tel: 62977808<br> 
         Fax: 62973503<br> 
-        Email: eddyswee2013@gmail.com</td>
+        Email: eddyswee2017@gmail.com</td>
   </tr>
   <tr>
     <td><a name="T"></a>Tan Boon Teck</td>
@@ -635,8 +635,8 @@ List of Practising Registered Surveyors & their Companies
         54, Serangoon North Avenue 4<br>
         #03-02, Cyberhub North<br>
         Singapore 555854<br>
-        Tel: 62565725<br> 
-        Fax: 62565725<br>
+        Tel: 68014387<br> 
+        Fax: - <br>
         Email: jerrytbt@hotmail.com</td>
   </tr>
   <tr>
@@ -679,7 +679,6 @@ List of Practising Registered Surveyors & their Companies
     <td>49</td>
     <td>
         Wang & EF Tan Associates<br>
-        Consulting & Registered Surveyors<br>
         Blk 5000 Ang Mo Kio Ave 5<br>
         #03-13 Techplace II<br>
         Singapore 569870<br>
@@ -764,7 +763,7 @@ List of Practising Registered Surveyors & their Companies
         Singapore 219428<br>
         Tel: 91296980<br>
         Fax: 63961136<br>
-        Email: Toh_Say_Leong@lta.gov.sg</td>
+        Email: say_leong_toh@lta.gov.sg</td>
   </tr>
   <tr>
     <td><a name="T"></a>Tor Yam Khoon (Dr)</td>

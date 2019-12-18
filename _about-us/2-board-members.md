@@ -23,7 +23,7 @@ Email: <soh_kheng_peng@sla.gov.sg>
 Regional Survey Consultants <br>
 629 Aljunied Road, #08-17 Cititech Industrial Building <br>
 Singapore 389838 <br>
-Tel: (65) 6848224 <br>
+Tel: (65) 68484224 <br>
 Email: <ct.khoo@rsc.com.sg>
 <br>
 
