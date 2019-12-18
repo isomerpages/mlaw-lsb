@@ -161,7 +161,7 @@ List of Licensed Companies
     <td><a id="S"></a>SURBANA JURONG CONSULTANTS PTE LTD</td>
     <td>
         168 Jalan Bukit Merah<br>
-        #01-01 Surbana One<br>
+        #01-01 Connection One<br>
         Singapore 150168<br>
         Tel: 62481409</td>
   </tr>
