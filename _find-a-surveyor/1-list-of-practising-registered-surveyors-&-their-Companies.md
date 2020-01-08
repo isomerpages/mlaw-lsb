@@ -107,7 +107,7 @@ List of Practising Registered Surveyors & their Companies
     <td>77</td>
     <td>
         Christopher Chai Registered Surveyor<br>
-        1076A Serangoon Road #03-01<br>
+        1076A Serangoon Road<br>
         Singapore 328180<br>
         Tel: 64406098<br>
         Fax: 64406083<br>
@@ -122,17 +122,8 @@ List of Practising Registered Surveyors & their Companies
         Vertex (Tower A)<br>
         Singapore 408868<br>
         Tel: 62817122<br>
-        Fax:66592308<br>
-        Email: hksls@singnet.com.sg</td>
-  </tr>
-  <tr>
-    <td><a name="C"></a>Chan Wei Hoong</td>
-    <td>117</td>
-    <td>
-        Helix Dimensions<br>
-        99 Duxton Road<br>
-        Singapore 089543<br>
-        Email: derek@helix.re</td>     
+        Fax: 66592308<br>
+        Email: hksls@singnet.com.sg</td>    
   </tr>
   <tr>           
     <td><a name="C"></a>Chia Aik Kok</td>
@@ -248,7 +239,7 @@ List of Practising Registered Surveyors & their Companies
         Vertex (Tower A)<br>
         Singapore 408868<br>
         Tel: 62817122<br>
-        Fax:66592308<br>
+        Fax: 66592308<br>
         Email: hksls@singnet.com.sg</td>
   </tr>
   <tr>
@@ -284,7 +275,7 @@ List of Practising Registered Surveyors & their Companies
         #08-17 Cititech Industrial Building<br>
         Singapore 389838<br>
         Tel: 68484224<br>
-        Fax : 68484334<br>
+        Fax: 68484334<br>
         Email: ct.khoo@rsc.com.sg</td>
   </tr>
   <tr>
@@ -354,7 +345,7 @@ List of Practising Registered Surveyors & their Companies
         Ark@Gambas<br>
         Singapore 757087<br>
         Tel: 62996663<br>
-        Fax:62996603<br>
+        Fax: 62996603<br>
         Email: christopher@precisionsurvey.com.sg</td>
   </tr>
   <tr>
@@ -435,11 +426,21 @@ List of Practising Registered Surveyors & their Companies
         Land Transport Authority<br>
         1 Hampshire Road<br>
         Singapore 219428<br>
-        Office: 63961845<br>
+        Tel: 63961845<br>
         Fax: 63961136<br>
         Email: LIM_Pia_Lian@lta.gov.sg</td>
   </tr>
     <tr>
+    <td><a name="L"></a>Lim Kok Swee, Kelvin</td>
+    <td>112</td>
+    <td>
+        Land Transport Authority<br>
+        1 Hampshire Road<br>
+        Singapore 219428<br>
+        Tel: 65682757<br>
+        Email: kelvin_ks_kim@lta.gov.sg</td>
+   </tr>
+    <tr>     
     <td><a name="L"></a>Liu Nam Thiam</td>
     <td>74</td>
     <td>
@@ -511,7 +512,7 @@ List of Practising Registered Surveyors & their Companies
         Email: chartsvy@singnet.com.sg</td>
   </tr>
   <tr>
-    <td><a name="M"></a>Michael Lim</td>
+    <td><a name="L"></a>Lim Michael</td>
     <td>113</td>
     <td>
         Eagle Point Surveying & Engineering<br>
@@ -554,7 +555,7 @@ List of Practising Registered Surveyors & their Companies
         #03-00 Shun Li Industrial Park<br>
         Singapore 416019<br>
         Tel: 67428506<br>
-        Fax : 67425906<br>
+        Fax: 67425906<br>
         Email: lokping_ong@yahoo.com</td>
   </tr>
     <tr>
@@ -601,7 +602,7 @@ List of Practising Registered Surveyors & their Companies
         Wintech Centre<br> 
         Singapore 408726<br> 
         Tel: 64418998<br> 
-        Fax : 64410990<br> 
+        Fax: 64410990<br> 
         Email : qksrs@singnet.com.sg</td>
   </tr>
   <tr>
@@ -683,7 +684,7 @@ List of Practising Registered Surveyors & their Companies
         #03-13 Techplace II<br>
         Singapore 569870<br>
         Tel: 62890400<br>
-        Fax : 62814484<br>
+        Fax: 62814484<br>
         Email: admin@wangeftan.com</td>
   </tr>
   <tr>
@@ -727,8 +728,8 @@ List of Practising Registered Surveyors & their Companies
         Land Transport Authority<br>
         1 Hampshire Road<br>
         Singapore 219428<br>
-        Tel : 63961747<br>
-        Fax : 63961136<br>
+        Tel: 63961747<br>
+        Fax: 63961136<br>
         Email: Tan_Sek_Leng@lta.gov.sg</td>
   </tr>
   <tr>
@@ -800,6 +801,16 @@ List of Practising Registered Surveyors & their Companies
         Fax: 67436732<br>
         Email: andrewyap@yjpsurveyors.com</td>
   </tr>
+  <tr>
+    <td><a name="Y"></a>Yong Ser Joo</td>
+    <td>95</td>
+    <td>Precision Survey Consultants Pte Ltd<br>
+        7 Gambas Crescent<br>
+        #08-17 Ark@Gambas<br>
+        Singapore 757087<br>
+        Tel: 62996663<br>
+        Fax: 62996603<br>
+        Email: yongserjoo@yahoo.com.sg</td>
 </table><br>
 
 <ol>
