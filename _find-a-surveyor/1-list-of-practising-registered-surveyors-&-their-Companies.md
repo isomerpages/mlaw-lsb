@@ -88,7 +88,6 @@ List of Practising Registered Surveyors & their Companies
         #07-44 Northstar@AMK<br>
         Singapore 569880<br>
         Tel: 63583282<br>
-  </tr>
   <tr>
     <td><a name="A"></a>Ang Soo Cheng</td>
     <td>91</td>
@@ -97,7 +96,6 @@ List of Practising Registered Surveyors & their Companies
         Blk 123 Bukit Merah Lane 1 #04-96<br>
         Singapore 150123<br>
         Tel: 62731096<br>
-  </tr>
   <tr>
     <td><a name="C"></a>Chai Kok Vui Christopher</td>
     <td>77</td>
@@ -106,7 +104,6 @@ List of Practising Registered Surveyors & their Companies
         1076A Serangoon Road<br>
         Singapore 328180<br>
         Tel: 64406098<br>
-  </tr>
   <tr>
     <td><a name="C"></a>Chan Fook Onn</td>
     <td>54</td>
@@ -116,7 +113,6 @@ List of Practising Registered Surveyors & their Companies
         Vertex (Tower A)<br>
         Singapore 408868<br>
         Tel: 62817122<br>    
-  </tr>
   <tr>           
     <td><a name="C"></a>Chia Aik Kok</td>
     <td>23</td>
@@ -126,7 +122,6 @@ List of Practising Registered Surveyors & their Companies
         #05-02 LHK Building<br>
         Singapore 387383<br>
         Tel: 62991776<br>
-  </tr>
   <tr>
     <td><a name="C"></a>Chua Keng Guan</td>
     <td>99</td>
@@ -135,7 +130,6 @@ List of Practising Registered Surveyors & their Companies
         14 Little Road #02-01<br>
         Singapore 536987<br>
         Tel: 68410880<br>
-  </tr>
   <tr>
     <td><a name="C"></a>Chua Limin Clara</td>
     <td>114</td>
