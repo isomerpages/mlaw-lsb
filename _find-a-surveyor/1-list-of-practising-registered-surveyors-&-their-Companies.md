@@ -625,6 +625,7 @@ List of Practising Registered Surveyors & their Companies
         #08-17 Ark@Gambas<br>
         Singapore 757087<br>
         Tel: 62996663<br>
+   <tr>     
 </table><br>
 
 <ol>
