@@ -151,7 +151,7 @@ List of Practising Registered Surveyors & their Companies
     <td><a name="G"></a>Gerry Ong Kim Sun</td>
     <td>116</td>
     <td>
-        GPS Lands (S) Pte Ltd<br>
+        GPS Lands (Singapore) Pte Ltd<br>
         No. 35 Jalan Pemimpin<br>
         #05-02<br>
         Singapore 577176<br>
@@ -449,7 +449,7 @@ List of Practising Registered Surveyors & their Companies
     <td><a name="P"></a>Paul James O'Connor</td>
     <td>70</td>
     <td>
-        Geometra International (Pte) Ltd<br>
+        Geometra International (Private) Limited<br>
         71 Ubi Crescent<br>
         #02-10 Excalibur Centre<br>
         Singapore 408571<br>
@@ -486,7 +486,7 @@ List of Practising Registered Surveyors & their Companies
     <td>103</td>
     <td>
         Eddyswee Consultants & Registered Surveyor<br>
-        296 Telok Kurau Road #02-03<br> 
+        296 Telok Kurau Road<br> 
         Singapore 423854<br> 
         Tel: 62977808<br>      
   <tr>
@@ -537,7 +537,7 @@ List of Practising Registered Surveyors & their Companies
     <td><a name="T"></a>Tan Eng Liang</td>
     <td>84</td>
     <td>
-        Geometra International (Pte) Ltd<br>
+        Geometra International (Private) Limited<br>
         71 Ubi Crescent<br>
         #02-10 Excalibur Centre<br>
         Singapore 408571<br>
@@ -595,7 +595,7 @@ List of Practising Registered Surveyors & their Companies
     <td><a name="T"></a>Tor Yam Khoon (Dr)</td>
     <td>44</td>
     <td>
-        Tritech Engineering & Testing (Singapore) Pte Ltd<br>
+        Tritech Engineering & Testing (S) Pte Ltd<br>
         31, Changi South Avenue 2<br> 
         Tritech Building<br>
         Singapore 486478<br>
