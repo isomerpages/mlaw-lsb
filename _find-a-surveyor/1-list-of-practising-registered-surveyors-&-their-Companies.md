@@ -83,11 +83,11 @@ List of Practising Registered Surveyors & their Companies
       <td><a name="A"></a>Ang Phar Teng</td>
     <td>73</td>
     <td>
-        Chartered Survey Services Consultants<br>
-        Block 7030 Ang Mo Kio Avenue 5<br>
-        #07-44 Northstar@AMK<br>
-        Singapore 569880<br>
-        Tel: 63583282<br>
+        J K Foo Consortium Pte Ltd<br>
+        18 Kaki Bukit Road 3 #03-04<br>
+        Entrepreneur Business Centre<br>
+        Singapore 415978<br>
+        Tel: 67427973<br>
   <tr>
     <td><a name="A"></a>Ang Soo Cheng</td>
     <td>91</td>
