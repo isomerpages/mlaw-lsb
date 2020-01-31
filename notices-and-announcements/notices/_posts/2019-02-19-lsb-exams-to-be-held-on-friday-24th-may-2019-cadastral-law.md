@@ -23,7 +23,7 @@ Venue: Singapore Land Authority Training Room 1, Level 13<br>
 Revenue House 55 Newton Road<br>
 Singapore 307987<br>
 
-1.  Eligible candidates may apply to sit for the examinations by completing and submitting the attached registration form together with the examination fees. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.<br>
+1.  Eligible candidates may apply to sit for the examinations by completing and submitting the LSB Exam registration form (found in the “Forms” section of the LSB website https://lsb.mlaw.gov.sg) ;together with the examination fees. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.<br>in the “Forms” section of the LSB website https://lsb.mlaw.gov.sg :
 
 2. Mode of payments:<br>
    **a. Cheque**<br>
