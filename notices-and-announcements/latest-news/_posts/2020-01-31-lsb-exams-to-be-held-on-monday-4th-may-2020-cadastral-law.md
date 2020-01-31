@@ -10,7 +10,7 @@ LSB NOTICE: EXAMINATION TO BE HELD ON MONDAY 4TH MAY 2020 FOR CADASTRAL LAW
 ---
 L**SB NOTICE:  EXAMINATION TO BE HELD ON MONDAY 4TH MAY 2020 FOR CADASTRAL LAW**
 
-Application to sit for the Land Surveyors Board (LSB) Written Examinations 2020 is now opened. The examination is scheduled to be held on **Monday, 4th May 2020 for cadastral law** as follows:
+Application to sit for the Land Surveyors Board (LSB) Written Examination 2020 is now opened. The examination is scheduled to be held on **Monday, 4th May 2020 for cadastral law** as follows:
 
 Subject: Written Examination (Cadastral Law)<br>
 Time: 9:00 am - 12:00 pm (3 hours)<br>
@@ -18,9 +18,9 @@ Venue: Revenue House
 55 Newton Road
 Singapore 307987
 
- 1. Eligible candidates may apply to sit for the examinations by completing and submitting the attached registration form (scanned copy via email) together with the examination fees to the Registar, Mr Derick Tan (derick_tan@sla.gov.sg) and Assistant Registrar, Ms Mitsy Ng (mitsy_ng@sla.gov.sg). Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
+ 2. Eligible candidates may apply to sit for the examinations by completing and submitting the attached registration form **(scanned copy via email)** together with the examination fees to the Registar, Mr Derick Tan (derick_tan@sla.gov.sg) and Assistant Registrar, Ms Mitsy Ng (mitsy_ng@sla.gov.sg). Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
- 2. Mode of payment **(Payment by cheque will not be accepted)**
+ 3. Mode of payment **(Payment by cheque will not be accepted)**
  
 	a. E-payment (Bank Transfer via Internet Banking or ATM)<br>
 	 - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
@@ -31,9 +31,9 @@ Singapore 307987
 	 - You can make PayNow payments to LSB through UEN number **T08GB0026H**
 	 - Include your name for reference when making payment.
 
-3. All completed applications and fees must reach the Land Surveyors Board by the **closing date  of Friday, 13th March 2020**.
+4. All completed applications and fees must reach the Land Surveyors Board by the **closing date  of Friday, 13th March 2020**.
 
-4. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you.
+5. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you.
 
 
 
