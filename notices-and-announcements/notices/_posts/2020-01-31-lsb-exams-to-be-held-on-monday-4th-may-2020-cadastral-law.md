@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSB Notice Examination to be held on Monday 4th May 2020 for Cadastral Law"
+title: "LSB Notice- Examination to be held on Monday 4th May 2020 for Cadastral Law"
 permalink: /notices-and-announcements/notices/lsb-exams-to-be-held-on-monday-4th-may-2020-cadastral-law/
 breadcrumb: "[LSB Notice] Examination to be held on Monday 4th May 2020 for Cadastral Law"
 date: 2020-01-31
@@ -18,7 +18,7 @@ Venue: Revenue House
 55 Newton Road
 Singapore 307987
 
- 2. Eligible candidates may apply to sit for the examinations by completing and submitting the attached registration form **(scanned copy via email)** together with the examination fees to the Registar, Mr Derick Tan (derick_tan@sla.gov.sg) and Assistant Registrar, Ms Mitsy Ng (mitsy_ng@sla.gov.sg). Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
+ 2. Eligible candidates may apply to sit for the examinations by completing and submitting via email the **scanned copy** of the LSB Exam Registration form (found in the “Forms” section of the LSB website https://lsb.mlaw.gov.sg} ; together with the examination fees to the Registar, Mr Derick Tan (derick_tan@sla.gov.sg) and Assistant Registrar, Ms Mitsy Ng (mitsy_ng@sla.gov.sg). Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
 
  3. Mode of payment **(Payment by cheque will not be accepted)**
