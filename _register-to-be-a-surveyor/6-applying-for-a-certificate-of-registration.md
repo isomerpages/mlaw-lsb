@@ -8,6 +8,7 @@ collection_name: register-to-be-a-surveyor
 
 APPLYING FOR A CERTIFICATE OF REGISTRATION
 ---
+To qualify as a Registered Surveyor, one must:
 
 * Graduate with [educational qualifications](/register-to-be-a-surveyor/education-qualifications/) recognised by LSB
 * Fulfill 1 year’s practical survey work experience under the supervision of a surveyor with a Practicing Certificate
