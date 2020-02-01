@@ -12,7 +12,7 @@ OVERVIEW
 
 To qualify as a Registered Surveyor, one must satisfies the Land Surveyors Board that he has:
 
- (i) obtained a certificate of competencey issued by the Board after passing the prescribed examination; 
+(i) obtained a certificate of competencey issued by the Board after passing the prescribed examination; 
  
 (ii)  passed a professional examination recognised by the Board and passed such further examination and had such practical experience in surveying in Singapore as the Board may prescribe; or
 
