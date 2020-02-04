@@ -25,11 +25,11 @@ Singapore 307987
  
 a. E-payment (Bank Transfer via Internet Banking or ATM)<br>
 	 - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
-	 -  Notify LSB that you have transferred the money by noting down the bank transaction number and proof of the bank transfer 		 transaction record/receipt by sending it to Ms Mitsy Ng (mitsy_ng@sla.gov.sg).
+	 - Notify LSB that you have transferred the money by noting down the bank transaction number and proof of the bank transfer 		 transaction record/receipt by sending it to Ms Mitsy Ng (mitsy_ng@sla.gov.sg).
 	 
 b. PayNow Corporate
-	 - You can make PayNow payments to LSB through UEN number **T08GB0026H**
-	 - Include your name for reference when making payment.
+	- You can make PayNow payments to LSB through UEN number **T08GB0026H**
+	- Include your name for reference when making payment.
 
 
 4) All completed applications and fees must reach the Land Surveyors Board by the **closing date  of Friday, 13th March 2020**.
