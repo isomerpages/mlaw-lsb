@@ -18,12 +18,12 @@ Venue: Revenue House
 55 Newton Road
 Singapore 307987
 
- 2. Eligible candidates may apply to sit for the examination by completing and submitting via email the **scanned copy** of [LSB Exam Registration Form](/files/examination-registration-form.pdf/);together with the examination fees to the Registar, Mr Derick Tan (derick_tan@sla.gov.sg) and Assistant Registrar, Ms Mitsy Ng (mitsy_ng@sla.gov.sg). Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
+2. Eligible candidates may apply to sit for the examination by completing and submitting via email the **scanned copy** of [LSB Exam Registration Form](/files/examination-registration-form.pdf/);together with the examination fees to the Registar, Mr Derick Tan (derick_tan@sla.gov.sg) and Assistant Registrar, Ms Mitsy Ng (mitsy_ng@sla.gov.sg). Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
 
- 3. Mode of payment **(Payment by cheque will not be accepted)**
+3. Mode of payment **(Payment by cheque will not be accepted)**
  
- E-payment (Bank Transfer via Internet Banking or ATM)<br>
+E-payment (Bank Transfer via Internet Banking or ATM)<br>
  - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
  -  Notify LSB that you have transferred the money by noting down the bank transaction number and proof of the bank transfer 		 transaction record/receipt by sending it to Ms Mitsy Ng (mitsy_ng@sla.gov.sg).
 	 
