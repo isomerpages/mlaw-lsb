@@ -10,10 +10,8 @@ collection_name: register-to-be-a-surveyor
 OVERVIEW
 ---
 
-To qualify as a Registered Surveyor, one must:
+A person who is 21 years of age and above, on payment of the prescribed fees, can be registered if:
 
-* Graduate with [educational qualifications](/register-to-be-a-surveyor/education-qualifications/) recognised by LSB
-* Fulfill 1 year’s practical survey work experience under the supervision of a surveyor with a Practicing Certificate
-* Pass the [Professional Practice Examination](/register-to-be-a-surveyor/professional-practice-examination/)
-* Pass the [Professional Interview](/register-to-be-a-surveyor/professional-interview/)
-* Apply to LSB to be a registered surveyor (issued with a [certificate of registration](/register-to-be-a-surveyor/applying-for-a-certificate-of-registration/))
+(a) he satisfies the Board that he has passed a professional examination recognised by the Board and passed such further examination and had such practical experience in surveying in Singapore as the Board may prescribe; and
+
+(b) he has passed a professional interview conducted by the Board to determine whether he has the aptitude to effectively perform or engage in surevy work in Singapore.
