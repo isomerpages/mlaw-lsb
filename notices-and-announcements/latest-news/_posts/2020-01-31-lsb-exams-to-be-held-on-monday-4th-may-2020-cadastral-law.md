@@ -12,10 +12,8 @@ LSB NOTICE: EXAMINATION TO BE HELD ON MONDAY 4TH MAY 2020 FOR CADASTRAL LAW
 
 Application to sit for the Land Surveyors Board (LSB) Written Examination 2020 is now opened. The examination is scheduled to be held on **Monday, 4th May 2020 for cadastral law** as follows:
 
-Subject: Written Examination (Cadastral Law)
-
-Time: 9:00 am - 12:00 pm (3 hours)
-
+Subject: Written Examination (Cadastral Law) (/br)
+Time: 9:00 am - 12:00 pm (3 hours) (/br)
 Venue: Revenue House  
 55 Newton Road
  Singapore 307987
