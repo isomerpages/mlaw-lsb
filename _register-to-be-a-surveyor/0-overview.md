@@ -10,15 +10,14 @@ collection_name: register-to-be-a-surveyor
 OVERVIEW
 ---
 
-To qualify as a Registered Surveyor, one must satisfies the Land Surveyors Board that he has:
+A person who is 21 years of age and above, on paymemt of the prescribed fees, can be registered if:
 
-(i) obtained a certificate of competencey issued by the Board after passing the prescribed examination; 
+(a) he satisfies the Board that he has- 
  
-(ii)  passed a professional examination recognised by the Board and passed such further examination and had such practical experience in surveying in Singapore as the Board may prescribe; or
+(i)  obtained a certifcate of competency issued by the Board after passing the prescribed examination;
+
+(ii) passed a professional examination recognised by the Board and passed such examination and had such practical experience in surveying in Singapore as the Board may prescribe; or
 
 (iii) had such proper training in surveying recognised by the Board and passed such other examination as the Board may require; and
 
-(iv) he has passed a professional interview conducted by the Board to determine whether he has the aptitude and knowledge to effectively perform or engage in survey work in Singapore.
-
-
-
+(b) he has passed a professional interview conducted by the Board to determine whether he has the aptitude to effectively perform or engage in surevy work in Singapore.
