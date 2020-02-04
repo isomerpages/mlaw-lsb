@@ -8,7 +8,7 @@ date: 2020-01-31
 
 LSB NOTICE: EXAMINATION TO BE HELD ON MONDAY 4TH MAY 2020 FOR CADASTRAL LAW
 ---
-L**SB NOTICE:  EXAMINATION TO BE HELD ON MONDAY 4TH MAY 2020 FOR CADASTRAL LAW**
+**LSB NOTICE:  EXAMINATION TO BE HELD ON MONDAY 4TH MAY 2020 FOR CADASTRAL LAW**
 
 Application to sit for the Land Surveyors Board (LSB) Written Examination 2020 is now opened. The examination is scheduled to be held on **Monday, 4th May 2020 for cadastral law** as follows:
 
@@ -33,15 +33,12 @@ Singapore 307987
 	 - Include your name for reference when making payment.
 
 
-4. All completed applications and fees must reach the Land Surveyors Board by the **closing date  of Friday, 13th March 2020**.
+ 4. All completed applications and fees must reach the Land Surveyors Board by the **closing date  of Friday, 13th March 2020**.
 
 
-5. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you.
-
-
-
-Derick Tan<br>Registrar<br>Land Surveyors Board  
+ 5. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you.
 
 
 
+ Derick Tan<br>Registrar<br>Land Surveyors Board  
 
