@@ -30,6 +30,7 @@ PayNow Corporate
  - You can make PayNow payments to LSB through UEN number **T08GB0026H**
  - Include your name for reference when making payment.
 
+
 4. All completed applications and fees must reach the Land Surveyors Board by the **closing date  of Friday, 13th March 2020**.
 
 5. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you.
