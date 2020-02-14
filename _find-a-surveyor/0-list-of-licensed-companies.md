@@ -11,7 +11,8 @@ ol{
     list-style: none;
     margin-left: 0;
   } 
-   display: inline;
+ li{   
+    display: inline;
   }
  </style>
  
