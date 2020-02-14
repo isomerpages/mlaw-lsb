@@ -15,8 +15,6 @@ ol{
     display: inline;
   }
  </style>
- 
- 
 List of Licensed Companies
 ---
 
