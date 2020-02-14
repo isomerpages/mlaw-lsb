@@ -113,7 +113,16 @@ List of Practising Registered Surveyors & their Companies
         Vertex (Tower A)<br>
         Singapore 408868<br>
         Tel: 62817122<br>    
-  <tr>           
+  <tr>
+    <td><a name="C"></a>Chan Wei Hoong</td>
+    <td>117</td>
+    <td>
+        YJP Surveyors Pte Ltd<br>
+        10 Genting Road #05-00<br>
+        The Blue Building<br>
+        Singapore 349473<br>
+        Tel: 67430938<br>
+  <tr>      
     <td><a name="C"></a>Chia Aik Kok</td>
     <td>23</td>
     <td>
