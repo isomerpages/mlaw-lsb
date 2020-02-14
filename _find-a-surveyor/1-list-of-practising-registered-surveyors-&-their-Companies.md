@@ -6,15 +6,6 @@ breadcrumb: List of Practising Registered Surveyors & their Companies
 collection_name: find-a-surveyor
 ---
 
-<style>
-ol{
-    list-style: none;
-    margin-left: 0;
-  }
-li{
-    display: inline;
-  }
-</style>
 
 List of Practising Registered Surveyors & their Companies
 ---
@@ -406,7 +397,7 @@ List of Practising Registered Surveyors & their Companies
     <td><a name="M"></a>Mak Weng Tat</td>
     <td>60</td>
     <td>
-        Chartered Survey Services Consultants<br>
+        Chartered Survey Services Consultants Pte Ltd<br>
         Block 7030 Ang Mo Kio Avenue 5<br> 
         #07-44 Northstar@AMK<br>
         Singapore 569880<br>
