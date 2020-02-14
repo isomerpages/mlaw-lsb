@@ -6,7 +6,16 @@ breadcrumb: List of Practising Registered Surveyors & their Companies
 collection_name: find-a-surveyor
 ---
 
-
+<style>
+ol{
+    list-syle: none;
+    margin-left: 0;
+  }
+ li{
+     display: inline;
+   }
+ </style>
+ 
 List of Practising Registered Surveyors & their Companies
 ---
 
