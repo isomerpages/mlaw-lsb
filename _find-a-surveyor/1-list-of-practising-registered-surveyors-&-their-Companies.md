@@ -8,7 +8,7 @@ collection_name: find-a-surveyor
 
 <style>
 ol{
-    list-syle: none;
+    list-style: none;
     margin-left: 0;
   }
  li{
