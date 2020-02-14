@@ -6,7 +6,16 @@ breadcrumb: List of Licensed Companies
 collection_name: find-a-surveyor
 ---
 
-
+<style>
+ol{
+    list-style: none;
+    margin-left: 0;
+  } 
+   display: inline;
+  }
+ </style>
+ 
+ 
 List of Licensed Companies
 ---
 
