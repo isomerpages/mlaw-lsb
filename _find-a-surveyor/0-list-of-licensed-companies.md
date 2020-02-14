@@ -98,7 +98,7 @@ List of Licensed Companies
     <td><a id="C"></a>CHARTERED SURVEY SERVICES CONSULTANTS PTE LTD</td>
     <td>
         7030 ANG MO KIO AVENUE 5<br>
-        #07-44 NORTHSTAR @ ARK<br>
+        #07-44 NORTHSTAR @ AMK<br>
         Singapore 569880<br>
         Tel: 63583282</td>
   </tr>
