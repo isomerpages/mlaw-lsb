@@ -74,7 +74,6 @@ List of Licensed Companies
 </ol><br>
 
 <table>
-  <tr>
     <th>Name of the Company</th>
     <th>Principal Business Address</th>
   </tr>
