@@ -74,8 +74,6 @@ List of Practising Registered Surveyors & their Companies
 </ol><br>
 
 <table>
-    <tr>
-    <tr>
     <tr>    
     <th>Name</th>
     <th>Registration Number</th>
