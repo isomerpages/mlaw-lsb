@@ -129,7 +129,7 @@ List of Practising Registered Surveyors & their Companies
         Singapore 349473<br>
         Tel: 67430938</td>
   </tr>   
-  <td>  
+  <tr>  
     <td><a name="C"></a>Chia Aik Kok</td>
     <td>23</td>
     <td>
@@ -451,7 +451,7 @@ List of Practising Registered Surveyors & their Companies
         Singapore 569880<br>
         Tel: 63583282</td> 
   </tr>
-  <td>
+  <tr>
     <td><a name="L"></a>Lim Michael</td>
     <td>113</td>
     <td>
