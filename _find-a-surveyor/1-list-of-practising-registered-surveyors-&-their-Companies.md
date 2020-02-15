@@ -700,7 +700,7 @@ List of Practising Registered Surveyors & their Companies
         Singapore 757087<br>
         Tel: 62996663</td>
   </tr>     
-<br>
+</table><br>
 
 <ol>
   <li><a href="#A">A </a></li>
