@@ -50,7 +50,7 @@ The subject matter refers.
 3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RSs shall advise their client/s on the need and rationale to modernize the survey in the SVY21 datum instead of only in the Cassini system where land lot boundaries are concerned.<br>
 
  
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LSB would also like to draw RSs’ attention to CS Directive on Cadastral Survey Practices for a similar requirement under cadastral survey in particular item 2.14 on the ‘Need for Coordinates Verification for Refinement Purposes’. For easy reference, please refer to the link via www.sla.gov.sg/Portals/0/SurveyServices/CS%20Directives/CS%20Directive%20V4.0.pdf
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LSB would also like to draw RSs’ attention to CS Directive on Cadastral Survey Practices for a similar requirement under cadastral survey in particular item 2.14 on the ‘Need for Coordinates Verification for Refinement Purposes’. For easy reference, please refer to the link via sla.gov.sg/Portals/0/SurveyServices/CS%20Directives/CS%20Directive%20V4.0.pdf
 
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RSs shall conduct themselves professionally at all times when dealing with their clients.<br>
 
