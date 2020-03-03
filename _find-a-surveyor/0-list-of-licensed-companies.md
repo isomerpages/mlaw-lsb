@@ -86,7 +86,7 @@ List of Licensed Companies
         40 Jalan Pemimpin<br>
         #02-07 Tat Ann Building<br>
         Singapore 577185<br>
-        Tel: 63963570</td>
+        Tel: 62502713</td>
   </tr>
   <tr>
     <td><a id="C"></a>CAK & FG SURVEY PTE LTD</td>
