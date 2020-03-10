@@ -116,15 +116,6 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
                 <li>Bachelor of Surveying.</li>
             </ul>
         </ul>
-    </li>
-    <li class="alpha"><u>HONG KONG</u>
-        <ul>
-            <li>i. The Hong Kong Polytechnic University,</li>
-            <ul class="no-style">
-                <li>Bachelor of Science in Geomatics [Land Surveying];</li>
-                <li>Bachelor of Science in Geomatics [Utility Management and Surveying].</li>
-            </ul>
-        </ul>
     </li>        
     <li class="alpha"><u>UNITED KINGDOM</u>
         <ul>
