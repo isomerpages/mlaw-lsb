@@ -121,7 +121,7 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
     <li class="alpha"><u>UNITED KINGDOM</u>
         <ul>
             <li>i. Royal Institute of Chartered Surveyors (RICS),</li>
-            <ul class="no-style>
+            <ul class="no-style">
                 <li>Professional Members who have passed final examinations of RICS;</li>
             </ul>
             <li>ii. University College London,</li>
