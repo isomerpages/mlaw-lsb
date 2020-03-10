@@ -114,9 +114,9 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
             <ul class="no-style">
                 <li>Bachelor of Science in Geomatics [Land Surveying];</li>
                 <ul class="no-style">
-                <li> Bachelor of Science in Geomatics [Utility Management and Surveying}.</li>
+                <li>Bachelor of Science in Geomatics [Utility Management and Surveying}.</li>
             </ul>
-         </ul>
+        </ul>
     </li>        
     <li class="alpha"><u>UNITED KINGDOM</u>
         <ul>
