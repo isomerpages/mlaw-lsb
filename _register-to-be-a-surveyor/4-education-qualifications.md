@@ -69,11 +69,15 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
             <ul class="no-style">
                 <li>Bachelor of Surveying;</li>
             </ul>
-            <li>vi. University of Southern Queensland,</li>
+            <li>vi. University of South Australia,</li>
+            <ul class="no-style">
+                <li>Bachelor of Geoinformatics and Surveying;</li>
+            </ul>    
+            <li>vii. University of Southern Queensland,</li>
             <ul class="no-style">
                 <li>Bachelor of Spatial Science (Honours) (Surveying); </li>
             </ul>
-            <li>vii. University of Tasmania,</li>
+            <li>viii. University of Tasmania,</li>
             <ul class="no-style">
                 <li>Bachelor of Surveying. </li>
             </ul>
