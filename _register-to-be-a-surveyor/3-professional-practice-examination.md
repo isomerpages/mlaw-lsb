@@ -66,8 +66,8 @@ Candidates are expected to have a working knowledge of regulations and case laws
 * the written paper in the subject Cadastral Law;
 
 [See samples of past years examination papers] 
-2019
-2018
+2019(/files/2019.pdf/)
+2018(
 2017
 2016
 2015
