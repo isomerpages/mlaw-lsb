@@ -64,6 +64,7 @@ However, candidates who have registered and failed to collect the practical subj
 Candidates are expected to have a working knowledge of regulations and case laws affecting surveying practice and a good understanding of the legal controls and limitations. A thorough grasp and up-to-date knowledge of the various codes of practice, rules and regulations is necessary for a surveyor to give the right kind of advice at the right time and hence serve the clients in the most responsible and professional manner. The Examination will therefore consist of the following:
 
 * the written paper in the subject Cadastral Law;
+[See past years examination papers] 
 
 * the practical Examinations in the following subjects:
 
