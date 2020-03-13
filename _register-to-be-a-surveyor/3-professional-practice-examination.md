@@ -65,19 +65,31 @@ Candidates are expected to have a working knowledge of regulations and case laws
 
 * the written paper in the subject Cadastral Law;
 
-[See samples of past years examination papers] 
-2019(/files/2019.pdf/)
-2018(
-2017
-2016
-2015
-2014
-2013
-2012
-2011
-2010
-2009
-2008
+(See samples of past years examination papers)
+
+[2019](/files/2019.pdf/)
+
+[2018](/files/2018.pdf/)
+
+[2017](/files/2017.pdf/)
+
+[2016](/files/2016.pdf/)
+
+[2015](/files/2015.pdf/)
+
+[2014](/files/2014.pdf/)
+
+[2013](/files/2013.pdf/)
+
+[2012](/files/2012.pdf/)
+
+[2011](/files/2011.pdf)
+
+[2010](/files/2010.pdf/)
+
+[2009](/files/2009.pdf/)
+
+[2008](/files/2008.pdf/)
 
 * the practical Examinations in the following subjects:
 
