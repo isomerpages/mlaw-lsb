@@ -60,7 +60,7 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
                 <li>Bachelor of Surveying (till 2011);</li>
                 <li>Bachelor of Geomatic Engineering (Honours) (till 2012);</li>
                 <li>Master of Engineering (Spatial) (from 2011) with Bachelor of Science (Spatial System Major) or with Bachelor of Environments (Spatial Systems Major);</li>
-                <li>Master of Engineering (Geomatics) with Bachelor of Environments (Geomatic Engineering).</li>
+                <li>Master of Engineering (Geomatics) with Bachelor of Environments-Major in Geomatics (Geomatic Engineering).</li>
             </ul>
             <li>iv. University of New South Wales,</li>
             <ul class="no-style">
