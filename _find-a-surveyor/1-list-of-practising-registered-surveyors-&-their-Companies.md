@@ -433,11 +433,11 @@ List of Practising Registered Surveyors & their Companies
     <td><a name="M"></a>Maik Seck Hoe</td>
     <td>36</td>
     <td>
-        J K Foo Consortium Pte Ltd<br>
-        18, Kaki Bukit Road 3,<br>
-        #03-04, Entrepreneur Business Centre,<br> 
-        Singapore 415978<br> 
-        Tel: 67427973</td>     
+        -<br>
+        5, Hacienda Grove,<br>
+        #03-06<br> 
+        Singapore 457911<br> 
+        Tel: -</td>     
   </tr>
   <tr>
     <td><a name="M"></a>Mak Weng Tat</td>
