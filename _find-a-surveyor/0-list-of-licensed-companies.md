@@ -178,9 +178,9 @@ List of Licensed Companies
   <tr>
     <td><a id="T"></a>TANG TUCK KIM REGISTERED SURVEYOR PTE LTD</td>
     <td>
-        190 Middle Road<br>
-        #18-03 Fortune Centre<br>
-        Singapore 188979<br>
+        2 Kallang Avenue<br>
+        #09-29 CT Hub<br>
+        Singapore 339407<br>
         Tel: 63399660</td>
   </tr>
   <tr>
