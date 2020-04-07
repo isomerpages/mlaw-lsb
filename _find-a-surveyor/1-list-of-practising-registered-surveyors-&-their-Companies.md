@@ -240,9 +240,9 @@ List of Practising Registered Surveyors & their Companies
     <td>58</td>
     <td>
         Tang Tuck Kim Registered Surveyor Pte Ltd<br>
-        190 Middle Road<br>
-        #18-03 Fortune Centre<br>
-        Singapore 188979<br>
+        2 Kallang Avenue<br>
+        #09-29 CT Hub<br>
+        Singapore 339407<br>
         Tel: 63399660</td>
   </tr>
   <tr>
@@ -637,9 +637,9 @@ List of Practising Registered Surveyors & their Companies
     <td>20</td>
     <td>
         Tang Tuck Kim Registered Surveyor Pte Ltd<br>
-        190 Middle Road<br>
-        #18-03 Fortune Centre<br>
-        Singapore 188979<br>
+        2 Kallang Avenue<br>
+        #09-29 CT Hub<br>
+        Singapore 339407<br>
         Tel: 63399660</td> 
   </tr>
   <tr>
