@@ -12,7 +12,7 @@ LSB NOTICE: Waiver of Continuing Professional Development (CPD) units for Year 2
 
 7th April 2020
 
-TO All Practising Registered Surveyors
+To All Practising Registered Surveyors
 
 **LSB NOTICE: WAIVER OF CONTINUING PROFESSIONAL DEVELOPMENT (CPD) UNITS FOR YEAR 2O20**
 
@@ -24,4 +24,7 @@ TO All Practising Registered Surveyors
 
 4. Nonetheless, RSs are still encouraged to participate in online e-learning/webninars to enrich their professional development during this waiver period.
 
-
+Mitsy Ng
+On behalf of
+Registar
+Land Surveyors Board
