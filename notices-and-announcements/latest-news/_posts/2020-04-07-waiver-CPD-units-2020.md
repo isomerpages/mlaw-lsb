@@ -18,7 +18,7 @@ To All Practising Registered Surveyors
 
 1. The rapidly evolving Covid-19 situation both locally and globally has severely impacted all local Registered Surveyors ("RS") and their practices. We understand some CPD courses or seminars have been cancelled in view of the safe distancing measures implemented by MOH. Today Singapore starts the work-from-home programme to further stem the spread of Covid-19.
 
-2. To alleviate and to help our fellow Registered Surveyors to tide over the impact of Covid-19, the board shall give a one-off special waiver of the CPD units requirement for the renewal of Practising Certificate ("PC")2021. With this, all RSs will be able to renew the PC for 2021.
+2. To alleviate and to help our fellow Registered Surveyors to tide over the impact of Covid-19, the Board shall give a one-off special waiver of the CPD units requirement for the renewal of Practising Certificate ("PC")2021. With this, all RSs will be able to renew the PC for 2021.
 
 3. CPD units accumulated by RSs previously for the renewal of PC 2020 and CPD units acquired in year 2020 (up to maximum 20 CPD units), shall be recognised and brought forward for 2022's PC renewal.
 
@@ -29,6 +29,5 @@ To All Practising Registered Surveyors
 
 
 Mitsy Ng<br>
-on behalf of<br>
-Registrar<br>
+for Registrar<br>
 Land Surveyors Board
