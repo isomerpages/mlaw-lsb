@@ -25,6 +25,7 @@ To All Practising Registered Surveyors
 4. Nonetheless, RSs are still encouraged to participate in online e-learning/webninars to enrich their professional development during this waiver period.
 
 
+
 Mitsy Ng<br>
 on behalf of<br>
 Registrar<br>
