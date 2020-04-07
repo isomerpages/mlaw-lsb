@@ -6,7 +6,7 @@ breadcrumb: "LSB Notice - Waiver of Continuing Professional Development (CPD) un
 date: 2020-04-07
 ---
 
-LSB NOTICE: Waiver of Continuing Professional Development (CPD) units for Year 2020
+LSB NOTICE: WAIVER OF CONTINUING PROFESSIONAL DEVELOPMENT (CPD) UNITS FOR YEAR 2O2O
 ---
 
 
