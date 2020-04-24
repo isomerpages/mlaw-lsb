@@ -138,7 +138,9 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
             </ul>
             <li>iv. University of Newcastle upon Tyne,</li>
             <ul class="no-style">
-                <li> Bachelor of Science, Surveying Science (Honours).</li>
+                <li> Bachelor of Science, Surveying Science (Honours);</li>
+                <li> Bachelor of Engineering, Geospatial Surveying and Mapping (Honours);</li>
+                <li> Master of Science, Mapping and Geospatial Data Science (Honours).</li>
             </ul>
         </ul>
     </li>
