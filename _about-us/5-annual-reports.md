@@ -10,6 +10,7 @@ collection_name: about-us
 ANNUAL REPORTS
 ---
 
+[Land Surveyors Board : 2019 Annual Report](/files/LSBAnnualReport2019.pdf){:target="_blank"}(3MB)<br>
 [Land Surveyors Board : 2018 Annual Report](/files/LSBAnnualReport2018-Approved.pdf){:target="_blank"}(3MB)<br>
 [Land Surveyors Board : 2017 Annual Report](/files/2_LSBAnnualReport2017.pdf){:target="_blank"}(1MB)<br>
 [Land Surveyors Board : 2016 Annual Report](/files/2_LSBAnnualReport2016.pdf){:target="_blank"}(5MB)<br>
