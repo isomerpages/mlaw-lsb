@@ -13,15 +13,15 @@ LSB Notice: Cessation of Cheque Payments
 <u><b>Background</b></u>
 
 
-1. The Land Surveyors Board (“LSB”) currently accepts payments by cheque and electronic means. The time and effort taken to complete payment by cheque is longer when you compare it against electronic means. Electronic payment is not new and has worked well over the years. With the current situation, it makes even more sense to move fully towards contactless payment to reduce and eliminate any adverse health possibilities as far as we can to protect everyone. 
+1) The Land Surveyors Board (“LSB”) currently accepts payments by cheque and electronic means. The time and effort taken to complete payment by cheque is longer when you compare it against electronic means. Electronic payment is not new and has worked well over the years. With the current situation, it makes even more sense to move fully towards contactless payment to reduce and eliminate any adverse health possibilities as far as we can to protect everyone. 
  
 <u><b>Implementation</b></u>
  
-2. Therefore, with effect from <u><b>1st June 2020</b></u>, payment by cheque will no longer be accepted by the LSB and we will only be accepting payments for all types of applications by the electronic means below.
+2) Therefore, with effect from <u><b>1st June 2020</b></u>, payment by cheque will no longer be accepted by the LSB and we will only be accepting payments for all types of applications by the electronic means below.
  
 <u><b>Types of electronic means accepted by the LSB</b></u>
  
-3. As a reminder, the following means of electronic payment are accepted by the LSB:
+3) As a reminder, the following means of electronic payment are accepted by the LSB:
  
   **(I) Bank Transfer via Internet Banking or ATM**
 * Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
