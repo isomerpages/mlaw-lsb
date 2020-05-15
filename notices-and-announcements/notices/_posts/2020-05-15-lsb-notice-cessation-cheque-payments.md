@@ -17,7 +17,7 @@ The Land Surveyors Board (“LSB”) currently accepts payments by cheque and el
  
 <u><b>Implementation</b></u>
  
-Therefore, with effect from 1st June 2020, payment by cheque will no longer be accepted by the LSB and we will only be accepting payments for all types of applications by the electronic means below.
+Therefore, with effect from <u>1st June 2020</u>, payment by cheque will no longer be accepted by the LSB and we will only be accepting payments for all types of applications by the electronic means below.
  
 <u><b>Types of electronic means accepted by the LSB</b></u>
  
