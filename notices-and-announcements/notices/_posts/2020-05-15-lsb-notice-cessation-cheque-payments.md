@@ -13,7 +13,7 @@ LSB Notice: Cessation of Cheque Payments
 <u><b>Background</b></u>
 
 
-The Land Surveyors Board (“LSB”) currently accepts payments by cheque and electronic means. The time and effort taken to complete payment by cheque is longer when you compare it against electronic means. Electronic payment is now not new and has worked well over the years. With the current situation, it makes even more sense to move fully towards contactless payment to reduce and eliminate any adverse health possibilities as far as we can to protect everyone. 
+The Land Surveyors Board (“LSB”) currently accepts payments by cheque and electronic means. The time and effort taken to complete payment by cheque is longer when you compare it against electronic means. Electronic payment is not new and has worked well over the years. With the current situation, it makes even more sense to move fully towards contactless payment to reduce and eliminate any adverse health possibilities as far as we can to protect everyone. 
  
 <u><b>Implementation</b></u>
  
