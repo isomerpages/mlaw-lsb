@@ -23,7 +23,7 @@ LSB Notice: Cessation of Cheque Payments
  
 3. As a reminder, the following means of electronic payment are accepted by the LSB:
  
-  **(I) Bank Transfer via Internet Banking or ATM**
+  **(I) Bank Transfer via Internet Banking or ATM*
 * Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
 
 * Notify LSB that you have transferred the money by noting down the bank transaction number and proof of the bank transfer transaction record/receipt by sending it to Ms Mitsy Ng (mitsy_ng@sla.gov.sg).
