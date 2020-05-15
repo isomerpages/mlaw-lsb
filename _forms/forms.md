@@ -11,7 +11,7 @@ FORMS
 
 [LSB Exam Indemnity Form](/files/examination-indemnity-form.pdf/){:target="_blank"} - (44KB)
 
-[LSB Exam Registration Form](/files/examination-registration-form.pdf/){:target="_blank"} - (27KB)
+[LSB Exam Registration Form](/files/LSB_exam_registration_form_revised.pdf/){:target="_blank"} - (27KB)
 
 [Aptis Registration Form](/files/Aptis_Registration_Form_.pdf/){:target="_blank"} - (208KB)
 
