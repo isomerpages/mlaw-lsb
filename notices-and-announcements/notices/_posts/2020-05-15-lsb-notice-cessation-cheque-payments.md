@@ -38,4 +38,3 @@ LSB Notice: Cessation of Cheque Payments
 Regards<br>
 
 Derick Tan<br>Registrar<br>Land Surveyors Board  
-
