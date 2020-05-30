@@ -229,7 +229,7 @@ List of Practising Registered Surveyors & their Companies
     <td><a name="H"></a>Huang Mingzhi</td>
     <td>102</td>
     <td>
-        Nanyang Surveying and Systems<br>
+        Nanyang Survey Pte Ltd<br>
         3, Soon Lee Street<br>
         #05-34, Pioneer Junction<br>
         Singapore 627606<br>
