@@ -230,7 +230,7 @@ List of Practising Registered Surveyors & their Companies
     <td>102</td>
     <td>
         Nanyang Survey Pte Ltd<br>
-        3, Soon Lee Street<br>
+        3 Soon Lee Street<br>
         #05-34, Pioneer Junction<br>
         Singapore 627606<br>
         Tel: 67900615</td>
