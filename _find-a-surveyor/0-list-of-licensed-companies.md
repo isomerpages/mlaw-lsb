@@ -145,6 +145,14 @@ List of Licensed Companies
       Tel: 63466296</td>
   </tr>
   <tr>
+    <td><a id="N"></a>NANYANG SURVEY PTE LTD</td>
+    <td>
+      3 Soon Lee Street<br>
+      #05-34 Pioneer Junction<br>
+      Singapore 627606<br>
+      Tel: 67900615</td>
+  </tr>
+  <tr>
     <td><a id="P"></a>PRECISION SURVEY CONSULTANTS PTE LTD</td>
     <td>
         7 Gambas Crescent #08-17<br>
