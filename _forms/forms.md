@@ -13,7 +13,7 @@ FORMS
 
 [LSB Exam Registration Form](/files/LSB_exam_registration_form_revised.pdf/){:target="_blank"} - (27KB)
 
-[Aptis Registration Form](/files/Aptis_Registration_Form_.pdf/){:target="_blank"} - (208KB)
+[British Council APTIS Test Registration Form](/files/Aptis_Registration_Form_.pdf/){:target="_blank"} - (208KB)
 
 [LSB Log Book and Explanatory Notes](/files/LSBLogBookandExplanatoryNotes-v1.0.docx){:target="_blank"}
 
