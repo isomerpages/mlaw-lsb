@@ -20,9 +20,8 @@ sections:
           description: 'Requirements and Information'
           url: /register-to-be-a-surveyor/overview/
   - resources:
-    title: 'Notices and Announcements'
-    subtitle: 'Get More Information'
-    button: More
-    url: /notices-and-announcements/
-
+      title: 'Notices and Announcements'
+      subtitle: 'Get More Information'
+      button: More
+      url: /notices-and-announcements/
 ---
