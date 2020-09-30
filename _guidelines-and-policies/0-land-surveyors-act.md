@@ -6,4 +6,6 @@ breadcrumb: 'Land Surveyors Act'
 ---
 
 
-LAND SURVEYORS ACT
+## LAND SURVEYORS ACT
+
+The Land Surveyors Act can be found at Singapore Statutes Online [https://sso.agc.gov.sg/Act/LSA1991](https://sso.agc.gov.sg/Act/LSA1991). The entire set of statutes and subsidiary legislation of Singapore can be found at [https://sso.agc.gov.sg/Act/LSA1991?ViewType=SI](https://sso.agc.gov.sg/Act/LSA1991?ViewType=SI)
