@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: History of Land Surveyors Board 
+title: 'History of Land Surveyors Board'
 permalink: /about-us/history-of-land-surveyor-board/
-breadcrumb: History of Land Surveyors Board 
-collection_name: about-us
+breadcrumb: 'History of Land Surveyors Board'
 
 ---
+
 
 HISTORY OF LAND SURVEYORS BOARD
 ---
