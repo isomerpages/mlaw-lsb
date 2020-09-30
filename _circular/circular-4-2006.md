@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: Circular 4/2006
+title: 'Circular 4/2006'
 permalink: /circular/circular-4-2006/
-breadcrumb: Circular 4/2006
-collection_name: circular
+breadcrumb: 'Circular 4/2006'
+
 ---
+
 
 CIRCULAR 4/2006
 ---
