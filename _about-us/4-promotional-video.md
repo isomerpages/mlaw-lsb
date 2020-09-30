@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Promotional Video
+title: 'Promotional Video'
 permalink: /about-us/promotional-video/
-breadcrumb: Promotional Video
-collection_name: about-us
+breadcrumb: 'Promotional Video'
 
 ---
+
 
 PROMOTIONAL VIDEO
 ---
