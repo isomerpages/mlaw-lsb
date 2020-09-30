@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Circulars
 permalink: /guidelines-and-policies/circulars/
 breadcrumb: Circulars
-collection_name: guidelines-and-policies
+
 ---
+
 
 CIRCULARS
 ---
