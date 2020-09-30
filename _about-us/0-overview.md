@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /about-us/overview/
 breadcrumb: Overview
-collection_name: about-us
 
 ---
+
 
 OVERVIEW
 ---
