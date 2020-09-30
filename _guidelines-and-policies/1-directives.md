@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Directives
 permalink: /guidelines-and-policies/directives/
 breadcrumb: Directives
-collection_name: guidelines-and-policies
 
 ---
+
 
 DIRECTIVES
 ---
