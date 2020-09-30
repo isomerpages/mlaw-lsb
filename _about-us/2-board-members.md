@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Board Members
+title: 'Board Members'
 permalink: /about-us/board-members/
-breadcrumb: Board Members
-collection_name: about-us
+breadcrumb: 'Board Members'
 
 ---
+
 
 BOARD MEMBERS
 ---
