@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Annual Reports
+title: 'Annual Reports'
 permalink: /about-us/annual-reports/
-breadcrumb: Annual Reports
-collection_name: about-us
+breadcrumb: 'Annual Reports'
 
 ---
+
 
 ANNUAL REPORTS
 ---
