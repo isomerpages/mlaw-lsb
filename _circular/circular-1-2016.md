@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: Circular 1/2016 
+title: 'Circular 1/2016'
 permalink: /circular/circular-1-2016/
-breadcrumb: Circular 1/2016 
-collection_name: circular
+breadcrumb: 'Circular 1/2016'
+
 ---
+
 
 CIRCULAR 1/2016
 ---
