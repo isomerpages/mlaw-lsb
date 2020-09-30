@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Professional Interview
+title: 'Professional Interview'
 permalink: /register-to-be-a-surveyor/professional-interview/
-breadcrumb: Professional Interview
-collection_name: register-to-be-a-surveyor
+breadcrumb: 'Professional Interview'
+
 ---
+
 
 PROFESSIONAL INTERVIEW
 ---
