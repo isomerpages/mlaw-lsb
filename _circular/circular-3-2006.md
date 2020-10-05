@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: Circular 3/2006
+title: 'Circular 3/2006'
 permalink: /circular/circular-3-2006/
-breadcrumb: Circular 3/2006
-collection_name: circular
+breadcrumb: 'Circular 3/2006'
+
 ---
+
 
 3rd July 2006<br>
 LSB13 V4<br>

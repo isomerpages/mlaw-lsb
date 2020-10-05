@@ -1,13 +1,13 @@
 ---
-layout: leftnav-page-content
-title: Applying for a Certificate of Registration
+title: 'Applying for a Certificate of Registration'
 permalink: /register-to-be-a-surveyor/applying-for-a-certificate-of-registration/
-breadcrumb: Applying for a Certificate of Registration
-collection_name: register-to-be-a-surveyor
+breadcrumb: 'Applying for a Certificate of Registration'
+
 ---
 
-APPLYING FOR A CERTIFICATE OF REGISTRATION
----
+
+## APPLYING FOR A CERTIFICATE OF REGISTRATION
+
 To qualify as a Registered Surveyor, one must:
 
 * Graduate with [educational qualifications](/register-to-be-a-surveyor/education-qualifications/) recognised by LSB
@@ -16,4 +16,3 @@ To qualify as a Registered Surveyor, one must:
 * Pass the [Professional Interview](/register-to-be-a-surveyor/professional-interview/)
 * Apply to the Land Surveyors Board on prescribed forms [Form 1](/files/LSBForm1-Application-for-Registration.doc)(DOC, 45KB) together with application fees of S$100. 
 * Upon the Board's approval, the applicant, on payment of a fee of $100,  is issued with a certificate of registration duly signed by the Registrar.
- 

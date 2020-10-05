@@ -1,14 +1,13 @@
 ---
-layout: leftnav-page-content
-title: Contact Us
+title: 'Contact Us'
 permalink: /about-us/contact-us/
-breadcrumb: Contact Us
-collection_name: about-us 
+breadcrumb: 'Contact Us'
 
 ---
 
-CONTACT US
----
+
+## CONTACT US
+
 **LAND SURVEYORS BOARD** <br>
 c/o Singapore Land Authority <br>
 55 Newton Road, #12-01,<br>

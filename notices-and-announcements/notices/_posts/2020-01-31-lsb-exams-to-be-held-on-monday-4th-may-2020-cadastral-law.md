@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "LSB Notice- Examination to be held on Monday 4th May 2020 for Cadastral Law"
+title: 'LSB Notice- Examination to be held on Monday 4th May 2020 for Cadastral Law'
 permalink: /notices-and-announcements/notices/lsb-exams-to-be-held-on-monday-4th-may-2020-cadastral-law/
-breadcrumb: "[LSB Notice] Examination to be held on Monday 4th May 2020 for Cadastral Law"
-date: 2020-01-31
+breadcrumb: '[LSB Notice] Examination to be held on Monday 4th May 2020 for Cadastral Law'
+date: 2020-01-31T00:00:00.000Z
+
 ---
 
-LSB NOTICE: EXAMINATION TO BE HELD ON MONDAY 4TH MAY 2020 FOR CADASTRAL LAW
----
+
+## LSB NOTICE: EXAMINATION TO BE HELD ON MONDAY 4TH MAY 2020 FOR CADASTRAL LAW
+
 **LSB NOTICE:  EXAMINATION TO BE HELD ON MONDAY 4TH MAY 2020 FOR CADASTRAL LAW**
 
 Application to sit for the Land Surveyors Board (LSB) Written Examination 2020 is now opened. The examination is scheduled to be held on **Monday, 4th May 2020 for cadastral law** as follows:
@@ -22,11 +23,11 @@ Singapore 307987
 
 
 3) Mode of payment **(Payment by cheque will not be accepted)**
- 
+
 a. E-payment (Bank Transfer via Internet Banking or ATM)<br>
 - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
 - Notify LSB that you have transferred the money by noting down the bank transaction number and proof of the bank transfer 		 transaction record/receipt by sending it to Ms Mitsy Ng (mitsy_ng@sla.gov.sg).
-	 
+
 b. PayNow Corporate
 - You can make PayNow payments to LSB through UEN number **T08GB0026H*
 - Include your name for reference when making payment.
@@ -39,4 +40,3 @@ b. PayNow Corporate
 
 
  Derick Tan<br>Registrar<br>Land Surveyors Board  
-

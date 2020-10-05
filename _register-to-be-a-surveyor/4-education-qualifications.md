@@ -1,13 +1,13 @@
 ---
-layout: leftnav-page-content
-title: Education Qualifications
+title: 'Education Qualifications'
 permalink: /register-to-be-a-surveyor/education-qualifications/
-breadcrumb: Education Qualifications
-collection_name: register-to-be-a-surveyor
+breadcrumb: 'Education Qualifications'
+
 ---
 
-EDUCATIONAL QUALIFICATIONS
----
+
+## EDUCATIONAL QUALIFICATIONS
+
 <style>
 u b sup{
     border-bottom:solid 2px #484848;

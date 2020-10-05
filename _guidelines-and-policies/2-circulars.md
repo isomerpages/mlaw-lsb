@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
 title: Circulars
 permalink: /guidelines-and-policies/circulars/
 breadcrumb: Circulars
-collection_name: guidelines-and-policies
+
 ---
 
-CIRCULARS
----
+
+## CIRCULARS
 
 <table>
   <tr>
@@ -111,4 +110,3 @@ CIRCULARS
     <td><a href="/files/linkclick6e5a.pdf" target="_blank">(158KB)</a></td>
   </tr>
 </table>
-

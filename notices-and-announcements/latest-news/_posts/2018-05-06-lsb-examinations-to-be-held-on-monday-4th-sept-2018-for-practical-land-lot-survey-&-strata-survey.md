@@ -1,14 +1,13 @@
 ---
-layout: post
-title: "LSB Notice - LSB Examinations to be held on Monday, 4th Sept 2018 for practical (Land Lot Survey & Strata Survey)"
+title: 'LSB Notice - LSB Examinations to be held on Monday, 4th Sept 2018 for practical (Land Lot Survey & Strata Survey)'
 permalink: /notices-and-announcements/latest-news/lsb-examinations-to-be-held-on-monday-4th-sept-2018-for-practical-land-lot-survey-and-strata-survey/
-breadcrumb: "LSB Notice - LSB Examinations to be held on Monday, 4th Sept 2018 for practical (Land Lot Survey & Strata Survey)"
-date: 2018-06-05
+breadcrumb: 'LSB Notice - LSB Examinations to be held on Monday, 4th Sept 2018 for practical (Land Lot Survey & Strata Survey)'
+date: 2018-06-05T00:00:00.000Z
+
 ---
 
-LSB NOTICE: LSB EXAMINATIONS TO BE HELD ON MONDAY, 4TH SEPT 2018 FOR PRACTICAL (LAND LOT SURVEY & STRATA SURVEY)
----
 
+## LSB NOTICE: LSB EXAMINATIONS TO BE HELD ON MONDAY, 4TH SEPT 2018 FOR PRACTICAL (LAND LOT SURVEY & STRATA SURVEY)
 
 LSB 112 & LSB9 V44<br>
 5th June 2018
@@ -36,7 +35,7 @@ Application to sit for the Land Surveyors Board Practical Examinations 201 8 for
       Singapore 307987</td>
   </tr>
 </table>
- 
+
 1. Eligible candidates may apply to sit for the examinations by completing and submitting the attached registration form together with the examination fees. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
 3. For candidates applying to sit for the **practical examination**, completed application and fees must reach the Registrar by the **closing date Wednesday, 4th July 2018**. Incomplete, late, and faxed applications will not be considered and shall stand rejected automatically.

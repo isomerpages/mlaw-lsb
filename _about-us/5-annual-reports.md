@@ -1,14 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Annual Reports
+title: 'Annual Reports'
 permalink: /about-us/annual-reports/
-breadcrumb: Annual Reports
-collection_name: about-us
+breadcrumb: 'Annual Reports'
 
 ---
 
-ANNUAL REPORTS
----
+
+## ANNUAL REPORTS
 
 [Land Surveyors Board : 2019 Annual Report](/files/LSBAnnualReport2019.pdf){:target="_blank"}(3MB)<br>
 [Land Surveyors Board : 2018 Annual Report](/files/LSBAnnualReport2018-Approved.pdf){:target="_blank"}(3MB)<br>
@@ -29,6 +27,3 @@ ANNUAL REPORTS
 [Land Surveyors Board : 2003 Annual Report](/files/LSBAnnualReport2003.pdf){:target="_blank"}(389KB)<br>
 [Land Surveyors Board : 2002 Annual Report](/files/LSBAnnualReport2002.pdf){:target="_blank"}(455KB)<br>
 [Land Surveyors Board : 2001 Annual Report](/files/2_LSBAnnualReport2001.pdf){:target="_blank"}(433KB)<br>
-
----
-

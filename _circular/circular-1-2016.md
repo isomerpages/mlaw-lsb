@@ -1,13 +1,12 @@
 ---
-layout: simple-page
-title: Circular 1/2016 
+title: 'Circular 1/2016'
 permalink: /circular/circular-1-2016/
-breadcrumb: Circular 1/2016 
-collection_name: circular
+breadcrumb: 'Circular 1/2016'
+
 ---
 
-CIRCULAR 1/2016
----
+
+## CIRCULAR 1/2016
 
 <table>
   <tr>
@@ -38,7 +37,7 @@ Dear Sir / Madam,
 
 The subject matter refers.
 
- 
+
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lately, Land Surveyors Board (LSB) have received feedbacks and complaints on unprofessional work by Registered Surveyors (RS) especially in non-cadastral surveys e.g. topographical and engineering surveys. There were instances where the coordinates for the survey done in SVY21 datum were not verified on ground resulting in encroachments and disputes between private owners / agencies and RSs. While some cases can be rectified at a cost, they are counter-productive and go against the code of professional conduct expected of an RS.<br>
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LSB would like to remind RSs on the need to verify the SVY21 coordinates of the land lot boundaries on the ground for refinement purposes prior to their adoption on site. In this regard, LSB would like to draw RSs’ attention to the following when undertaking a non-cadastral survey work:<br>
@@ -49,7 +48,7 @@ The subject matter refers.
 
 3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RSs shall advise their client/s on the need and rationale to modernize the survey in the SVY21 datum instead of only in the Cassini system where land lot boundaries are concerned.<br>
 
- 
+
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LSB would also like to draw RSs’ attention to CS Directive on Cadastral Survey Practices for a similar requirement under cadastral survey in particular item 2.14 on the ‘Need for Coordinates Verification for Refinement Purposes’. For easy reference, please refer to the link via [http://www.sla.gov.sg/Portals/0/SurveyServices/CS%20Directives/CS%20Directive%20V4.0.pdf]
 
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RSs shall conduct themselves professionally at all times when dealing with their clients.<br>
@@ -61,4 +60,3 @@ Richard Ho<br>
 Registrar<br>
 Land Surveyors Board<br>
 [http://lsb.minlaw.gov.sg](https://lsb.mlaw.gov.sg/)
-

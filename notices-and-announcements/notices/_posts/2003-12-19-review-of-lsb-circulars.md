@@ -1,14 +1,13 @@
 ---
-layout: post
-title: "Notice: Review Of LSB Circulars"
-permalink:  /notices-and-announcements/notices/notice-review-of-lsb-circulars/
-breadcrumb: "Notice: Review Of LSB Circulars"
-date: 2003-12-19
+title: 'Notice: Review Of LSB Circulars'
+permalink: /notices-and-announcements/notices/notice-review-of-lsb-circulars/
+breadcrumb: 'Notice: Review Of LSB Circulars'
+date: 2003-12-19T00:00:00.000Z
 
 ---
 
-NOTICE: REVIEW OF LSB CIRCULARS
----
+
+## NOTICE: REVIEW OF LSB CIRCULARS
 
 Our Ref: LSB 13 V4 & 112<br>
 19 Dec 2003<br>

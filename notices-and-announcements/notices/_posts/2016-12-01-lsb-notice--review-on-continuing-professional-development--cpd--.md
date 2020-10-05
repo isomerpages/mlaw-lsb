@@ -1,13 +1,13 @@
 ---
-layout: post
-title: LSB Notice - Review on Continuing Professional Development (CPD) for Qualifying Period 2017
+title: 'LSB Notice - Review on Continuing Professional Development (CPD) for Qualifying Period 2017'
 permalink: /notices-and-announcements/notices/lsb-notice--review-on-continuing-professional-development--cpd--/
-breadcrumb: LSB Notice - Review on Continuing Professional Development (CPD) for Qualifying Period 2017
-date: 2016-12-01
+breadcrumb: 'LSB Notice - Review on Continuing Professional Development (CPD) for Qualifying Period 2017'
+date: 2016-12-01T00:00:00.000Z
+
 ---
 
-LSB NOTICE: REVIEW ON CONTINUING PROFESSIONAL DEVELOPMENT (CPD) FOR QUALIFYING PERIOD 2017
----
+
+## LSB NOTICE: REVIEW ON CONTINUING PROFESSIONAL DEVELOPMENT (CPD) FOR QUALIFYING PERIOD 2017
 
 <table>
   <tr>
@@ -34,20 +34,20 @@ Land Surveyors Board has reviewed the Continuing Professional Development (CPD) 
 
   1.3 The CPD Units for Survey Related Activities have been revised - see Annex B, <br>
   where:<br>
-  
+
   a) For seminars and conferences (Activity code A2), the maximum CPD units awarded per conference / seminar is 10 CPD units;
 
 b) For full-time or part-time course (Activity code C), the maximum CPD units awarded is 8 CPD Units;
 
 c) For distance learning or correspondence course (Activity code D), the maximum CPD units awarded is 8 CPD Units;
- 
+
 d) For reading of articles, paper etc. (Activity code E), the maximum CPD units awarded is 2 CPD Units per year;
 
 e) For authorship of published work (Activity code F), the maximum CPD units awarded is 12 CPD Units per year.
 
 
    1.4  The CPD Summary form is simplified with the removal of non-survey related activities – see [Annex E](/files/CPDSummaryForm_AnnexE.pdf)(42.1KB).<br>
-   
+
 {:start="2"}  
 2. The new requirements will take effect in 2017 for the renewal of practicing certificate for year 2018.<br>
 
@@ -58,5 +58,3 @@ Richard Ho<br>
 Registrar<br>
 Land Surveyors Board<br>
 [http://lsb.mlaw.gov.sg](http://lsb.mlaw.gov.sg)<br>
-
- 

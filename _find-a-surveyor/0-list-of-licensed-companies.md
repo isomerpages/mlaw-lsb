@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: List of Licensed Companies
+title: 'List of Licensed Companies'
 permalink: /find-a-surveyor/list-of-licensed-companies/
-breadcrumb: List of Licensed Companies
-collection_name: find-a-surveyor
+breadcrumb: 'List of Licensed Companies'
+
 ---
+
 
 <style>
 ol{
@@ -15,9 +15,7 @@ ol{
     display: inline;
   }
  </style>
-List of Licensed Companies
----
-
+## List of Licensed Companies
 
 <ol>
   <li><a href="#A">A </a></li>

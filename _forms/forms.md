@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
 title: Forms
 permalink: /forms/forms/
 breadcrumb: Forms
-collection_name: forms
+
 ---
 
-FORMS
----
+
+## FORMS
 
 [LSB Exam Indemnity Form](/files/examination-indemnity-form.pdf/){:target="_blank"} - (44KB)
 

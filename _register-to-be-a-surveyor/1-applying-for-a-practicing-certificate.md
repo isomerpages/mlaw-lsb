@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Applying for a Practising Certificate
+title: 'Applying for a Practising Certificate'
 permalink: /register-to-be-a-surveyor/applying-for-a-practising-certificate/
-breadcrumb: Applying for a Practising Certificate
-collection_name: register-to-be-a-surveyor
+breadcrumb: 'Applying for a Practising Certificate'
+
 ---
 
-APPLYING FOR A PRACTISING CERTIFICATE
----
+
+## APPLYING FOR A PRACTISING CERTIFICATE
 
 **1. Application for or Renewing a Practising Certificate** 
 

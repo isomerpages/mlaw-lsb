@@ -1,14 +1,12 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /register-to-be-a-surveyor/overview/
 breadcrumb: Overview
-collection_name: register-to-be-a-surveyor
 
 ---
 
-OVERVIEW
----
+
+## OVERVIEW
 
 A person who is 21 years of age and above, on payment of the prescribed fees, can be registered if:
 

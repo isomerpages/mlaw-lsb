@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Applying for a Licence
+title: 'Applying for a Licence'
 permalink: /register-to-be-a-surveyor/applying-for-a-licence/
-breadcrumb: Applying for a Licence
-collection_name: register-to-be-a-surveyor
+breadcrumb: 'Applying for a Licence'
+
 ---
 
-APPLYING FOR A LICENCE
----
+
+## APPLYING FOR A LICENCE
 
 A corporation or partnership which intends to provide cadastral survey services is required to have a licence granted by LSB.
 

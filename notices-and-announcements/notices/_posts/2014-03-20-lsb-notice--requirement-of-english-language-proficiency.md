@@ -1,13 +1,14 @@
 ---
-layout: post
-title: LSB Notice - Requirement of English Language Proficiency
+title: 'LSB Notice - Requirement of English Language Proficiency'
 permalink: /notices-and-announcement/notices/lsb-notice--requirement-of-english-language-profienciency/
-breadcrumb: LSB Notice - Requirement of English Language Proficiency
-date: 2014-03-20
+breadcrumb: 'LSB Notice - Requirement of English Language Proficiency'
+date: 2014-03-20T00:00:00.000Z
+
 ---
 
-LSB NOTICE: REQUIREMENT OF ENGLISH LANGUAGE PROFICIENCY
----
+
+## LSB NOTICE: REQUIREMENT OF ENGLISH LANGUAGE PROFICIENCY
+
 LSB 112 & LSB9 V41
 
 20 March 2014
@@ -16,7 +17,7 @@ TO WHOM IT MAY CONCERN
 
 **LSB NOTICE: REQUIREMENT OF ENGLISH LANGUAGE PROFICIENCY** <br>
 **FOR LAND SURVEYORS BOARD PROFESSIONAL PRACTICE EXAMINATIONS**
- 
+
 Among its various functions, Land Surveyors Board holds examinations to enable suitably qualified candidates to be registered under section 12(1)(a) of the Land Surveyors Act. The professional practice examinations are conducted in English.
 
 1. Candidates whose language of instruction for their professional degree is not English or whose degree has not been taught entirely in English are required to provide evidence of their English language ability before they register in order to be confident that they can participate optimally in the examinations.

@@ -1,13 +1,13 @@
 ---
-layout: post
-title: LSB Notice - Renewal of Practicing Certificate for 2016
+title: 'LSB Notice - Renewal of Practicing Certificate for 2016'
 permalink: /notices-and-announcements/notices/lsb-notice-renewal-of-practicing-certificate-for-2016/
-breadcrumb: LSB Notice - Renewal of Practicing Certificate for 2016
-date: 2015-11-05
+breadcrumb: 'LSB Notice - Renewal of Practicing Certificate for 2016'
+date: 2015-11-05T00:00:00.000Z
+
 ---
 
-LSB NOTICE: RENEWAL OF PRACTICING CERTIFICATE FOR 2016
----
+
+## LSB NOTICE: RENEWAL OF PRACTICING CERTIFICATE FOR 2016
 
 LSB Notice: Renewal of Practicing Certificate for 2016<br>
 5<sup>th</sup> Nov 2015<br>
@@ -85,5 +85,5 @@ Payment for the following prescribed fees is to be made by cheque drawn in favou
 The Registrar will inform you once practising certificate 2016 is ready for collection which will commence from the last week of December 2015.
 
 **Richard Ho • Registrar • Land Surveyors Board Singapore**<br>
-**c/o Singapore Land Authority • 6478-3592 (DID) • 6323-9937 (Fax) • <br>
-[http://lsb.mlaw.gov.sg](http://lsb.mlaw.gov.sg)**
+**c/o Singapore Land Authority • 6478-3592 (DID) • 6323-9937 (Fax) •** <br>
+**[http://lsb.mlaw.gov.sg](http://lsb.mlaw.gov.sg)**

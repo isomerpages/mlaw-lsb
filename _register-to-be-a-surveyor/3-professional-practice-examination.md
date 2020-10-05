@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Professional Practice Examination
+title: 'Professional Practice Examination'
 permalink: /register-to-be-a-surveyor/professional-practice-examination/
-breadcrumb: Professional Practice Examination
-collection_name: register-to-be-a-surveyor
+breadcrumb: 'Professional Practice Examination'
+
 ---
 
-PROFESSIONAL PRACTICE EXAMINATION
----
+
+## PROFESSIONAL PRACTICE EXAMINATION
 
 **1. Objective**
 
@@ -72,9 +71,9 @@ Candidates are expected to have a working knowledge of regulations and case laws
 * the practical Examinations in the following subjects:
 
    * Land Lot survey; and
-   
+
    * Strata survey, and
- 
+
 * Oral Examination.
 
 Candidates are expected not only to understand the theoretical knowledge of various aspects of job and practice management, but must be able to demonstrate ability to process field data in the presence of an appointed Examiner. Hence, the oral Examination includes a test of the candidate’s knowledge and skill in what is otherwise an automated software operation.

@@ -1,70 +1,18 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-- title: About Us
-  url: /about-us/overview/
-  sub-links:
-  - title: Overview
-    url: /about-us/overview/
-  - title: What We Do
-    url: /about-us/what-we-do/
-  - title: Board Members
-    url: /about-us/board-members/
-  - title: History of Land Surveyors Board
-    url: /about-us/history-of-land-surveyor-board/
-  - title: Promotional Video
-    url: /about-us/promotional-video/
-  - title: Annual Reports
-    url: /about-us/annual-reports/
-  - title: Contact Us
-    url: /about-us/contact-us/
-- title: Find a Surveyor
-  url: /find-a-surveyor/list-of-licensed-companies/
-  sub-links:
-  - title: List of Licensed Companies
-    url: /find-a-surveyor/list-of-licensed-companies/
-  - title: List of Practising Registered Surveyors & their Companies
-    url: /find-a-surveyor/list-of-practising-registered-surveyors/
-- title: Register to be a Surveyor
-  url: /register-to-be-a-surveyor/overview/
-  sub-links:
-  - title: Overview
-    url: /register-to-be-a-surveyor/overview/
-  - title: Applying for a Practising Certificate
-    url: /register-to-be-a-surveyor/applying-for-a-practising-certificate/
-  - title: Applying for a Licence
-    url: /register-to-be-a-surveyor/applying-for-a-licence/
-  - title: Professional Practice Examination
-    url: /register-to-be-a-surveyor/professional-practice-examination/
-  - title: Education Qualifications
-    url: /register-to-be-a-surveyor/education-qualifications/
-  - title: Professional Interview
-    url: /register-to-be-a-surveyor/professional-interview/
-  - title: Applying for a Certificate of Registration
-    url: /register-to-be-a-surveyor/applying-for-a-certificate-of-registration/
-- title: Guidelines
-  url: /guidelines-and-policies/land-surveyors-act/
-  sub-links:
-  - title: Land Surveyors Act
-    url: /guidelines-and-policies/land-surveyors-act/
-  - title: Directives
-    url: /guidelines-and-policies/directives/
-  - title: Circulars
-    url: /guidelines-and-policies/circulars/
-  - title: CPD
-    url: /guidelines-and-policies/cpd/
-  - title: Disciplinary Cases
-    url: /guidelines-and-policies/disciplinary-cases/2018/
-- title: Forms
-  url: /forms/forms
-- title: Notices 
-  url: /notices-and-announcements/
-  sub-links:
-  - title: All
-    url: /notices-and-announcements/
-  - title: Latest News
-    url: /notices-and-announcements/latest-news/
-  - title: Notices
-    url: /notices-and-announcements/notices/
+logo: /images/lsb-logo-2.jpg
+links:
+    - title: 'About Us'
+      url: /about-us/overview/
+      collection: about-us
+    - title: 'Find a Surveyor'
+      url: /find-a-surveyor/list-of-licensed-companies/
+      collection: find-a-surveyor
+    - title: 'Register to be a Surveyor'
+      url: /register-to-be-a-surveyor/overview/
+      collection: register-to-be-a-surveyor
+    - title: Guidelines
+      url: /guidelines-and-policies/land-surveyors-act/
+      collection: guidelines-and-policies
+    - title: Forms
+      url: /forms/forms
+    - title: Notices
+      resource_room: true

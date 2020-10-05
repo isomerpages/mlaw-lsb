@@ -1,14 +1,13 @@
 ---
-layout: post
-title: "Notice: Land Surveyors Board Examinations to be conducted once a year"
+title: 'Notice: Land Surveyors Board Examinations to be conducted once a year'
 permalink: /notices-and-announcements/notices/notice-land-surveyors-board-examinations-to-be-conducted-once-a-year/
-breadcrumb: "Notice: Land Surveyors Board Examinations to be conducted once a year"
-date: 2006-01-20
+breadcrumb: 'Notice: Land Surveyors Board Examinations to be conducted once a year'
+date: 2006-01-20T00:00:00.000Z
 
 ---
 
-NOTICE: LAND SURVEYORS BOARD EXAMINATIONS TO BE CONDUCTED ONCE A YEAR
----
+
+## NOTICE: LAND SURVEYORS BOARD EXAMINATIONS TO BE CONDUCTED ONCE A YEAR
 
 Our Ref : LSB 112<br>
 TO WHOM IT MAY CONCERN<br>
@@ -19,4 +18,4 @@ Dear Sirs / Madams<br>
 Yours faithfully,<br>
 GEORGE CHUAH KIAN SENG Registrar Land Surveyors Board Singapore<br>
 c/o Singapore Land Authority 6323-9797 (DID) 6323-9791 (Fax)<br>
-[https://mlaw-lsb-staging.netlify.com/](https://mlaw-lsb-staging.netlify.com/)
+[http://lsb.mlaw.gov.sg](http://lsb.mlaw.gov.sg)

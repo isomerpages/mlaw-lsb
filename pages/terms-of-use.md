@@ -1,31 +1,22 @@
 ---
-layout: simple-page
-title: Terms of Use
+title: 'Terms of Use'
 permalink: /terms-of-use/
-breadcrumb: Terms of Use
----
-
+breadcrumb: 'Terms of Use'
 
 ---
-layout: simple-page
-title: Terms of Use
-permalink: /terms-of-use/
-breadcrumb: Terms of Use
----
 
-Terms of Use
----
+## Terms of Use
 
 1. **Agreement**
 
     i. Thank you for visiting MLAW.GOV.SG/MINLAW.GOV.SG, the official digital service of the Ministry of Law of the Republic of Singapore, and any applications or services related to or linked to or from this digital service (henceforth collectively known as **"the Digital Service"**). The digital service is owned and operated by the Government of the Republic of Singapore c/o the Ministry of Law (**“MLAW”**).<br> 
-    
+
     ii. Access to the Digital Service is governed by the terms and conditions of use as stated below (**“Terms of Use”**). By accessing and using the Digital Service, you shall be deemed to have accepted and agreed to be legally bound by these Terms of Use. If you do not accept or agree to any of these Terms of Use, please leave the Digital Service.<br>
-    
+
     iii. These Terms of Use may be changed from time to time. All changes to the Terms of Use will be incorporated directly onto this page, and your use of this Digital Service after such changes have been incorporated will constitute your agreement to the modified Terms of Use and all of the changes.<br>
-    
+
     iv. References to “the Digital Service” in these Terms of Use shall include the Digital Service in its entirety as well as its individual pages, and shall include any services offered by MLAW on the Digital Service.<br> 
-    
+
 2. **Access to the Digital Service**
 
      i. The accessibility and operation of the Digital Service relies on technology outside of MLAW’s control. MLAW does not guarantee continuous accessibility or uninterrupted operation of the Digital Service.<br>
@@ -51,7 +42,7 @@ Terms of Use
     iii. You should take appropriate steps to keep your information, software and equipment secure.<br> 
 
     iv. This includes clearing your Internet browser cookies and cache before and after using any services on the Digital Service.
-    
+
     v. You should keep your passwords (including your SingPass and other designated passwords) confidential and secure. MLAW will not request for your passwords by e-mail or other modes of communication, other than as an authentication key for entry into the Digital Service and for services offered by MLAW therein.
 
     vi. For infocomm security best practices and tips, you may wish to visit [https://www.gosafeonline.sg](https://www.gosafeonline.sg){:target="blank"}.<br> 
@@ -67,11 +58,11 @@ Terms of Use
     iv. Except as set forth below, caching and links to, and the framing of this Digital Service or any of the content therein is prohibited:<br> 
 
     * You must make a specific request for, and secure permission from MLAW prior to linking to, or framing, any page or part of this Digital Service, or engaging in similar activities. MLAW reserves the right to impose conditions when permitting any hyperlinking to, or framing of any page or part of this Digital Service.<br>
- 
+
     * Your linking to, or your framing of this Digital Service or any of the content constitutes acceptance of these Terms of Use, including any subsequent changes or modifications to these Terms of Use. If you do not accept the Terms of Use as may be changed or modified from time to time, you must discontinue linking to, or framing of this Digital Service  or any of the content.<br> 
 
     * Under no circumstances shall MLAW be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on Digital Service that link to this Digital Service or any of the content.<br>
-            
+
     * MLAW reserves all rights to disable any links to, or frames of any Digital Service containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.<br> 
 
     * MLAW reserves the right to disable any unauthorised links or frames to the Digital Service and disclaims any responsibility for the content available on any other Digital Service reached by links to or from this Digital Service.<br> 
@@ -101,17 +92,18 @@ Terms of Use
    ii. MLAW shall not be liable for any damages, losses, compensation, penalty, expenses or costs whatsoever (whether direct, indirect, special or consequential damage or economic loss and whether foreseeable or not) incurred on account of or arising from:<br>
 
    * Using, visiting or relying on any statements, opinion, representation or information provided through the Digital Service;
-  
+
    * The access to the Digital Serviceor use of any services offered on the Digital Service;<br>
-            
+
    * Any inaccuracy or incompleteness in, or errors or omission in the content of the Digital Service;<br> 
 
    * Any delay or errors in operation or transmission of the Digital Service arising from communications failure, internet access difficulties or malfunctions in equipment or software;<br> 
 
    * Use or access to the Digital Serviceor any other website linked to the Digital Service or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure; and
- 
+
    * Actions or omissions of any person who access or use the applications at the Digital Service or obtains any information obtained directly or indirectly through the Digital Service, regardless of whether MLAW has been advised of the possibility of such damages, loss, compensation, penalty, expenses or costs.<br> 
 
 9. **Applicable Law**
 
     i. Use of the Digital Service and these Terms of Use and all its subsequent variations shall be subject to, governed by, and interpreted in accordance with the laws of the Republic of Singapore, and you hereby agree to submit to the exclusive jurisdiction of the Singapore courts in the determination of any dispute arising in connection with the use of the Digital Service.<br>
+
