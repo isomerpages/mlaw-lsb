@@ -1,5 +1,5 @@
 ---
-title: 'LSB Notice- Update: Land Surveyors Board (LSB) Practical Examinations in Land Lot and Strata Survey for 2020'
+title: '[LSB Notice] Update: Land Surveyors Board (LSB) Practical Examinations in Land Lot and Strata Survey for 2020'
 permalink: /notices-and-announcements/notices/lsb-practical-exam-2020/
 breadcrumb: '[LSB Notice] Update: Land Surveyors Boards (LSB) Practical Examinations in Land Lot and Strata Survey for 2020'
 date: 2020-10-12T00:00:00.000Z
@@ -7,9 +7,9 @@ date: 2020-10-12T00:00:00.000Z
 ---
 
 
-## LSB NOTICE: UPDATE: LAND SURVEYORS BOARD (LSB) PRACTICAL EXAMINATIONS IN LAND LOT AND STRATA SURVEY FOR 2020
+## [LSB NOTICE] UPDATE: LAND SURVEYORS BOARD (LSB) PRACTICAL EXAMINATIONS IN LAND LOT AND STRATA SURVEY FOR 2020
 
-**LSB NOTICE: UPDATE: LAND SURVEYORS BOARD (LSB) PRACTICAL EXAMINATIONS IN LAND LOT AND STRATA SURVEY FOR 2020**
+**[LSB NOTICE] UPDATE: LAND SURVEYORS BOARD (LSB) PRACTICAL EXAMINATIONS IN LAND LOT AND STRATA SURVEY FOR 2020**
 
 1. Under the Land Surveyors Rules, examinations conducted by the Board for the purpose of Section 12(1)(a) of the Land Surveyors Act shall be held at least once a year.
 
