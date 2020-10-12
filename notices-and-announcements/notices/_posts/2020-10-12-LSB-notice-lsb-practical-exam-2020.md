@@ -15,7 +15,7 @@ Under the Land Surveyors Rules, examinations conducted by the Board for the purp
 
 2) The Board has successfully conducted the Cadastral Law Written Examination on 14 Sep 2020 with social distancing protocols implemented in examination location.
 
-3) During the conduct of the LSB Practical Examinations in Land Lot and Strata Survey, candidates are expected to do a physical survey, which requires access to sites under survey and involve interactions with residents/shop owners/shop assistants during the course of survey. The LSB understands that it is extremely difficult for candiates to adhere to mandated safe distancing requirements when out doing field work in such an environment. Shop owners in particular wull be weary of presence of the Survey team in their premises affecting their ability to implement safe management measures and may refuse access to candiates.
+3) During the conduct of the LSB Practical Examinations in Land Lot and Strata Survey, candidates are expected to do a physical survey, which requires access to sites under survey and involve interactions with residents/shop owners/shop assistants during the course of survey. The LSB understands that it is extremely difficult for candiates to adhere to mandated safe distancing requirements when out doing field work in such an environment. Shop owners in particular wIll be weary of presence of the Survey team in their premises affecting their ability to implement safe management measures and may refuse access to candiates.
 
 4) The LSB has been monitoring the Covid-19 situation and will not risk the health and safety of candidates, our fellow Singaporeans and residents. At this juncture, there is no assurance that the Practial Examinations can be conducted safely with strict compliance to safe distancing measures.
 
@@ -24,4 +24,4 @@ Under the Land Surveyors Rules, examinations conducted by the Board for the purp
   Regards
   Derick Tan <br>
   Registrar <br>
-  for Land Surveyors Boar
+  for Land Surveyors Board
