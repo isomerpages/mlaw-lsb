@@ -11,7 +11,7 @@ date: 2020-10-12T00:00:00.000Z
 
 **LSB NOTICE: UPDATE: LAND SURVEYORS BOARD (LSB) PRACTICAL EXAMINATIONS IN LAND LOT AND STRATA SURVEY FOR 2020**
 
-Under the Land Surveyors Rules, examinations conducted by the Board for the purpose of Section 12(1)(a) of the Land Surveyors Act shall be held at least once a year.
+1. Under the Land Surveyors Rules, examinations conducted by the Board for the purpose of Section 12(1)(a) of the Land Surveyors Act shall be held at least once a year.
 
 2. The Board has successfully conducted the Cadastral Law Written Examination on 14 Sep 2020 with social distancing protocols implemented in examination location.
 
