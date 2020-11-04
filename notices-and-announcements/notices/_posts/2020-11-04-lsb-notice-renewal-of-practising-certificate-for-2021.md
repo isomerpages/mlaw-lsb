@@ -8,7 +8,7 @@ date: 2020-11-04T00:00:00.000Z
 
 To: All Practising Registered Surveyors
 
-**LSB NOTICE: RENEWAL OF PRACTISING CERTIFICATE FOR 2021**
+**LSB NOTICE- RENEWAL OF PRACTISING CERTIFICATE FOR 2021**
 
 Your current practising certificate will expire on 31st Dec 2020. Applications for renewal are now opened via **email only**.
 
