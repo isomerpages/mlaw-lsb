@@ -64,7 +64,7 @@ A. Bank transfer via Internet Banking or ATM
 
 
 
-•         Notify LSB that you have transferred the money by noting down the bank transaction number and send it to Ms Mitsy Ng (<mitsy_ng@sla.gov.sg>).
+•         Notify LSB that you have transferred the money by noting down the bank transaction number and proof of the bank transfer record/receipt by sending it to Ms Mitsy Ng (<mitsy_ng@sla.gov.sg>).
 
 
 
