@@ -108,7 +108,7 @@ ii) The amount payable is:
 
   <tr>
 
-    <td class="tg-0pky"><span style="font-weight:bold">Renewal application </span><span style="font-weight:bold;text-decoration:underline">received on and AFTER</span><span style="font-weight:bold"> 1st December 2020</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Renewal application </span><span style="font-weight:bold;text-decoration:underline"> made and received on and AFTER</span><span style="font-weight:bold"> 1st December 2020</span></td>
 
     <td class="tg-0pky"><span style="font-weight:bold">SGD $350</span></td>
 
