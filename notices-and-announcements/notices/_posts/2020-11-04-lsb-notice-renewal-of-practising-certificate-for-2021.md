@@ -128,7 +128,7 @@ ii) The amount payable is:
 
 
 
-(b) Firms with more than one practising Registered Surveyor are to ensure that the name and address of practice are the same on all its application forms, unless otherwise intended
+(b) Firms with more than one practising Registered Surveyor are to ensure that the name and address of practice are the same on all its application forms, unless otherwise intended.
 
 
 
