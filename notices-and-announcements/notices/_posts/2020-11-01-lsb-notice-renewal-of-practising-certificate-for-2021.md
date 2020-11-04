@@ -26,11 +26,11 @@ Arising from the LSB Notice issued on 7 Apr 2020, the Land Surveyors Board (LSB)
 
 
 
-The required forms to be completed and submitted to us for your renewal can be found in the “Forms” section of the LSB website <https://lsb.mlaw.gov.sg> :
+The required forms to be completed and submitted to us for your renewal can be found in the “Forms” section of the LSB website <https://lsb.mlaw.gov.sg>, which are attached here for your convenience.
 
 
 
-(a) Application for Practising Certificate (Form 5), and
+(a) Application for Practising Certificate (Form 5)., and
 
 
 
