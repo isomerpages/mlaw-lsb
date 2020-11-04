@@ -2,7 +2,7 @@
 title: 'LSB Notice- Renewal of Practising Certificate for 2021'
 permalink: /notices-and-announcements/notices/renewal-of-practising-certificate-for-2021/
 breadcrumb: 'LSB NOTICE- RENEWAL OF PRACTISING CERTIFICATE FOR 2021'
-date: 2020-11-04T00:00:00.000Z
+date: 2020-11-01T00:00:00.000Z
 
 ---
 
@@ -29,7 +29,7 @@ Arising from the LSB Notice issued on 7 Apr 2020, the Land Surveyors Board (LSB)
 
 
 
-The required forms to be completed and submitted to us for your renewal can be found in the “Forms” section of the LSB website <https://lsb.mlaw.gov.sg> :
+The required forms to be completed and submitted to us for your renewal can be found in the “Forms” section of the LSB website <https://lsb.mlaw.gov.sg>, which are attached here for your convenience.
 
 
 
