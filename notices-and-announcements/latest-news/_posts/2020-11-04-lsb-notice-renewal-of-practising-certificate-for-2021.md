@@ -33,7 +33,7 @@ The required forms to be completed and submitted to us for your renewal can be f
 
 
 
-(a) Application for Practising Certificate (Form 5), and
+(a) Application for Practising Certificate (Form 5).(/files/LSBForm5-Application-for-Practising-Certificate.doc/), and
 
 
 
