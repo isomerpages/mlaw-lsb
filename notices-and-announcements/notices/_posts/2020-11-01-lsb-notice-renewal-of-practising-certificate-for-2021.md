@@ -2,7 +2,7 @@
 title: 'LSB Notice- Renewal of Practising Certificate for 2021'
 permalink: /notices-and-announcements/notices/renewal-of-practising-certificate-for-2021/
 breadcrumb: 'LSB NOTICE- RENEWAL OF PRACTISING CERTIFICATE FOR 2021'
-date: 2020-11-04T00:00:00.000Z
+date: 2020-11-01T00:00:00.000Z
 
 ---
 
