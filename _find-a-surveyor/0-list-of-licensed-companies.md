@@ -116,7 +116,7 @@ ol{
         No. 35 Jalan Pemimpin<br>
         #05-02<br>
         Singapore 577176<br>
-        Tel: -</td>
+        Tel: 63545950</td>
   </tr>
   <tr>
     <td><a id="H"></a>HKS SURVEYORS PTE LTD</td>
