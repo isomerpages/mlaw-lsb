@@ -212,7 +212,7 @@ ol{
         22 Sin Ming Lane<br>
         #06-76, Midview City<br>
         Singapore 573969<br>
-        Tel: -</td>
+        Tel: 96856238</td>
   </tr>
   <tr>
     <td><a name="H"></a>Ho Kim Swee</td>
@@ -422,21 +422,11 @@ ol{
     <td><a name="L"></a>Low Lee Luang</td>
     <td>56</td>
     <td>
-        L&T Surveyors<br>
-        Blk 808 French Road<br>
-        #07-155 Kitchener Complex<br>
-        Singapore 200808<br>
-        Tel: 63921398</td>
-  </tr>
-  <tr>
-    <td><a name="M"></a>Maik Seck Hoe</td>
-    <td>36</td>
-    <td>
-        -<br>
-        5, Hacienda Grove,<br>
-        #03-06<br> 
-        Singapore 457911<br> 
-        Tel: -</td>     
+        Lee Boon Haw Surveyors Pte Ltd<br>
+        150 Changi Road<br>
+        #03-06 Guthrie Building<br>
+        Singapore 419973<br>
+        Tel: 63466296</td>  
   </tr>
   <tr>
     <td><a name="M"></a>Mak Weng Tat</td>
@@ -541,8 +531,8 @@ ol{
     <td>103</td>
     <td>
         Eddyswee Consultants & Registered Surveyor<br>
-        296 Telok Kurau Road<br> 
-        Singapore 423854<br> 
+        253 Upper East Coast Road<br> 
+        Singapore 466405<br> 
         Tel: 62977808</td>      
   </tr>
   <tr>
@@ -551,7 +541,7 @@ ol{
     <td>
         BT Survey Consultant<br>
         54, Serangoon North Avenue 4<br>
-        #03-02, Cyberhub North<br>
+        #03-01, Cyberhub North<br>
         Singapore 555854<br>
         Tel: 68014387</td> 
   </tr>
@@ -589,9 +579,9 @@ ol{
     <td>49</td>
     <td>
         Wang & EF Tan Associates<br>
-        Blk 5000 Ang Mo Kio Ave 5<br>
-        #03-13 Techplace II<br>
-        Singapore 569870<br>
+        61 Ubi Ave 1<br>
+        #06-12 UB Point<br>
+        Singapore 408941<br>
         Tel: 62890400</td>
   </tr>
   <tr>
@@ -644,7 +634,8 @@ ol{
   <tr>
     <td><a name="T"></a>Teo Oon Hock</td>
     <td>25</td>
-    <td>1Survey Associates<br>
+    <td>
+        1Survey Associates<br>
         Blk 212 Hougang Street 21<br>
         #02-345<br>
         Singapore 530212<br>
@@ -660,16 +651,6 @@ ol{
         Tel: -</td>
   </tr>
   <tr>
-    <td><a name="T"></a>Tor Yam Khoon (Dr)</td>
-    <td>44</td>
-    <td>
-        Tritech Engineering & Testing (S) Pte Ltd<br>
-        31, Changi South Avenue 2<br> 
-        Tritech Building<br>
-        Singapore 486478<br>
-        Tel: 6848 2567 Ext 431</td>
-  </tr>
-  <tr>
     <td><a name="W"></a>Wilson Cheng</td>
     <td>108</td>
     <td>
@@ -680,9 +661,20 @@ ol{
         Tel: 64903449</td>
   </tr>
   <tr>
-    <td><a name="Y"></a>Yap Chee Ming Andrew</td>
-    <td>96</td>
-    <td>YJP Surveyors Pte Ltd<br>
+    <td><a name="W"></a>Wong Tien Sze</td>
+    <td>118</td>
+    <td>
+        Tritech Engineering & Testing (Singapore) Pte Ltd<br>
+        31 Changi South Avenue 2<br>
+        Tritech Building<br>
+        Singapore 486478<br>
+        Tel: 68482567</td>
+   </tr>
+   <tr>   
+     <td><a name="Y"></a>Yap Chee Ming Andrew</td>
+     <td>96</td>
+     <td>
+         YJP Surveyors Pte Ltd<br>
         10 Genting Road<br>
         #05-00 The Blue Building<br>
         Singapore 349473<br>
@@ -691,7 +683,8 @@ ol{
   <tr>
     <td><a name="Y"></a>Yong Ser Joo</td>
     <td>95</td>
-    <td>Precision Survey Consultants Pte Ltd<br>
+    <td>
+        Precision Survey Consultants Pte Ltd<br>
         7 Gambas Crescent<br>
         #08-17 Ark@Gambas<br>
         Singapore 757087<br>
