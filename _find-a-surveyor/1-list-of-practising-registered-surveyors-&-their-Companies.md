@@ -397,7 +397,7 @@ ol{
         1 Pemimpin Drive<br>
         #06-04 One Pemimpin<br>
         Singapore 576151<br>
-        Tel: 6694 5801/6694 5802</td>
+        Tel: 66945801/66945802</td>
   </tr>
   <tr>
     <td><a name="L"></a>Loh Suat Yen</td>
