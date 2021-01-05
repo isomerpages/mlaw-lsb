@@ -393,7 +393,7 @@ ol{
     <td><a name="L"></a>Liu Nam Thiam</td>
     <td>74</td>
     <td>
-        A-GEO. Survey Consultants<br>
+        A-Geo. Survey Consultants<br>
         1 Pemimpin Drive<br>
         #06-04 One Pemimpin<br>
         Singapore 576151<br>
