@@ -165,7 +165,7 @@ ol{
         Tel: 67427973</td> 
   </tr>
   <tr>
-    <td><a name="G"></a>Gerry Ong Kim Sun</td>
+    <td><a name="G"></a>Ong Kim Sun Gerry</td>
     <td>116</td>
     <td>
         GPS Lands (Singapore) Pte Ltd<br>
