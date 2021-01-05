@@ -565,7 +565,7 @@ ol{
         Tel: 62789985</td>
   </tr>
   <tr>
-    <td><a name="T"></a>Tan Chwee Hock Jimmy</td>
+    <td><a name="J"></a>Jimmy Tan Chwee Hock</td>
     <td>89</td>
     <td>
         JTRS Registered Surveyor<br>
