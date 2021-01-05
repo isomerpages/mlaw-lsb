@@ -303,7 +303,7 @@ ol{
         Tel: 63466296</td>
   </tr>
   <tr>
-    <td><a name="L"></a>Lee Teck Kim Christopher</td>
+    <td><a name="C"></a>Christopher Lee Teck Kim</td>
     <td>81</td>
     <td>
         Precision Survey Consultants Pte. Ltd.<br>
