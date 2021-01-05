@@ -165,7 +165,7 @@ ol{
         Tel: 67427973</td> 
   </tr>
   <tr>
-    <td><a name="G"></a>Ong Kim Sun Gerry</td>
+    <td><a name="O"></a>Ong Kim Sun Gerry</td>
     <td>116</td>
     <td>
         GPS Lands (Singapore) Pte Ltd<br>
@@ -208,7 +208,7 @@ ol{
     <td><a name="H"></a>Heng Fook Hai</td>
     <td>115</td>
     <td>
-        SCANPOINT<br>
+        Scanpoint<br>
         22 Sin Ming Lane<br>
         #06-76, Midview City<br>
         Singapore 573969<br>
