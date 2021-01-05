@@ -98,7 +98,7 @@ ol{
         Tel: 62731096</td>
   </tr>
   <tr>  
-    <td><a name="C"></a>Chai Kok Vui Christopher</td>
+    <td><a name="C"></a>Christopher Chai Kok Vui</td>
     <td>77</td>
     <td>
         Christopher Chai Registered Surveyor<br>
