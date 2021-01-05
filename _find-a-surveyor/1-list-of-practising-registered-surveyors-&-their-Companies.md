@@ -212,7 +212,7 @@ ol{
         22 Sin Ming Lane<br>
         #06-76, Midview City<br>
         Singapore 573969<br>
-        Tel: 96856238</td>
+        Tel: -</td>
   </tr>
   <tr>
     <td><a name="H"></a>Ho Kim Swee</td>
