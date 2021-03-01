@@ -69,6 +69,8 @@ RS B has 5 unused excess CPD units earned in 2019 (after accounting for 20 CPD u
 
 
 
+
+
 Derick Tan <br>
 Registrar <br>
 Land Surveyors Board <br>
