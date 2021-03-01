@@ -27,41 +27,37 @@ date: 2014-03-20T00:00:00.000Z
 5. The LSB would like to encourage RS to participate in online e-learning/webinars to enrich their professional development during this period and garner sufficient CPD units for PC 2022. In support of this, there shall be no cap to the maximum points claimable under Activity Code C (which recognise webinars or online learning) in the Guildelines for CPD Claimable Units in 2021.
 
 **Example 1**
+
 RS A has 15 unused excess CPD units earned in 2019 (after accounting for 20 CPD units required for renewal od PC2020) and 10 CPD units earned in 2020. He carries forward 20 CPD units into 2021 and has earned 25 CPD units in 2021. The carried forward of 20 CPD units can be used for PC2022 but the excess of 10 CPD units from this carried-forward will not be allowed to be carried forward into 2022. Only up to the maximum of unused excess CPD units (which in this case will be 20 COD units) he earned in 2021 will be allowed to be carried forward into 2022.
 
 **Example 2**
 
+RS B has 5 unused excess CPD units earned in 2019 (after accounting for 20 CPD units required for renewal od PC2020) and 2 CPD units earned in 2020. He carries forward 7 CPD units into 2021 and earned 10 CPD units in 2021. The carried forward of 7 CPD units can be used for PC2022 but he still needs 3 more CPD units, which will be used/deducted from the 10 CPD units earned in 2021. As such, there will be 7 unused excess CPD unit earned in 2021 which will be allowed to be carried forward into 2022.
+
+**Table of Illustration**
 
 <table>
   <tr>
-    <th>APTIS Package</th>
-    <th>Venue</th>
-    <th>Nett Test Fee<br>per Test Candidate</th>
-    <th>Test Dates*</th>
+    <th></th>
+    <th>Excess unused CPD units earned in 2019 (after accounting for 20 CPD units required for PC 2020)</th>
+    <th>CPD Units earned in 2020</th>
+    <th>Carried forward units to 2021</th>
+    <th>CPD units earned in 2021</th>
+    <th>CPD units used for PC 2022</th>
+    <th>Excess unused CPD units earned in 2021 carried forward to 2022- up to 20 CPD units (after accounting for 10 CPD units required for PC2022)</th>
   </tr>
   <tr>
-    <td>Four Skills <br>Package (Grammar & <br>Vocabulary + <br>Listening, <br>Reading, Writing, <br>Speaking)</td>
-    <td>British Council<br>Napier Road Centre</td>
-    <td>S$95.00</td>
-    <td>Every Tuesday,<br>2.00 p.m.<br>(Except public holidays)</td>
+    <td>RS A</td>
+    <td>15</td>
+    <td>10</td>
+    <td>20</td>
+    <td>25</td>
+    <td>10</td>
+    <td>20 (limit)</td>
   </tr>
 </table>
 
-***British Council will make alternative arrangements should any test dates fall during Aptis server maintenance/upgrade periods***
-<br>
 
-{:start="3"}
-3. The test scores are subject to a **2-year validity period from the date of the test to the date of the examinations that you are registering for and** must be achieved from one sitting of the test. We will not accept individual component scores from multiple tests. The minimum requirements are listed below:
-
-<ul><li>Candidate must obtain a pass in each of the four skill components, and</li>
-<li>Candidate must obtain a minimum Final Scale Score of at least 140 out of 200</li>
-</ul>
-
-{:start="4"}
-4. Land Surveyors Board may also, with a view to determining the proficiency of an candidate’s English language, conduct an interview with the candidate.
-
-{:start="5"}
-5. I would appreciate it if you could let interested persons know of the contents of this Notice. Thank you
 
 Derick Tan <br>
 Registrar <br>
