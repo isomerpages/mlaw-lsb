@@ -2,7 +2,7 @@
 title: 'LSB Notice - Changes to Requirement of English Language Proficiency'
 permalink: /notices-and-announcement/notices/lsb-notice-changes-to-requirement-of-english-language-profienciency/
 breadcrumb: 'LSB Notice - Changes to Requirement of English Language Proficiency'
-date: 2021-03-
+date: 2021-03-01
 
 ---
 
