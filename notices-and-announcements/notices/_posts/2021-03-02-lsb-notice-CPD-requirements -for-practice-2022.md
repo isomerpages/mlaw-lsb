@@ -54,6 +54,15 @@ RS B has 5 unused excess CPD units earned in 2019 (after accounting for 20 CPD u
     <td>25</td>
     <td>10</td>
     <td>20 (limit)</td>
+   </tr>
+   <tr>
+    <td>RS A</td>
+    <td>15</td>
+    <td>10</td>
+    <td>20</td>
+    <td>25</td>
+    <td>10</td>
+    <td>20 (limit)</td>
     
   </tr>
 </table>
