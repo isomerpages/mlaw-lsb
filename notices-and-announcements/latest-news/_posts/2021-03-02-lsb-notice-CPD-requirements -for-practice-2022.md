@@ -2,7 +2,7 @@
 title: 'LSB Notice - Continuing Professional Development (CPD) Requirements for Practice in Year 2022'
 permalink: /notices-and-announcement/notices/lsb-notice-CPD-requirements-for-practice-2022/
 breadcrumb: 'LSB Notice - Continuing Professional Development (CPD) Requirements for Practice in Year 2022'
-date: 2014-03-20T00:00:00.000Z
+date: 2021-03-20T00:00:00.000Z
 
 ---
 
@@ -10,7 +10,7 @@ date: 2014-03-20T00:00:00.000Z
 ## LSB NOTICE: CONTINUING PROFESSIONAL DEVELOPMENT (CPD) REQUIREMENTS FOR PRACTICE IN YEAR 2022
 
 
-02 March 2021
+03 March 2021
 
 
 **LSB NOTICE: CONTINUING PROFESSIONAL DEVELOPMENT (CPD) REQUIREMENTS FOR PRACTICE IN YEAR 2022** <br>
