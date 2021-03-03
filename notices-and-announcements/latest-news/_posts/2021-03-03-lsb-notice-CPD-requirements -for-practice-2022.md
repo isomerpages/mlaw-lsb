@@ -62,11 +62,9 @@ RS B has 5 unused excess CPD units earned in 2019 (after accounting for 20 CPD u
     <td>7</td>
     <td>10</td>
     <td>10 (7 from carried forward total + 3 from 2021)</td>
-    <td>7 (10 earned in 2021 - 3 used to renew PC 2022)</td>
-    
-  </tr>
+    <td>7 (10 earned in 2021 - 3 used to renew PC 2022)</td> 
+   </tr>
 </table>
-
 
 
 
