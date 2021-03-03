@@ -28,7 +28,7 @@ date: 2021-03-03T00:00:00.000Z
 
 **Example 1**
 
-RS A has 15 unused excess CPD units earned in 2019 (after accounting for 20 CPD units required for renewal of PC2020) and 10 CPD units earned in 2020. He carries forward 20 CPD units into 2021 and has earned 25 CPD units in 2021. The carried forward of 20 CPD units can be used for PC2022 but the excess of 10 CPD units from this carried-forward will not be allowed to be carried forward into 2022. Only up to the maximum of unused excess CPD units (which in this case will be 20 COD units) he earned in 2021 will be allowed to be carried forward into 2022.
+RS A has 15 unused excess CPD units earned in 2019 (after accounting for 20 CPD units required for renewal of PC2020) and 10 CPD units earned in 2020. He carries forward 20 CPD units into 2021 and has earned 25 CPD units in 2021. The carried forward of 20 CPD units can be used for PC2022 but the excess of 10 CPD units from this carried-forward will not be allowed to be carried forward into 2022. Only up to the maximum of unused excess CPD units (which in this case will be 20 CPD units) he earned in 2021 will be allowed to be carried forward into 2022.
 
 **Example 2**
 
