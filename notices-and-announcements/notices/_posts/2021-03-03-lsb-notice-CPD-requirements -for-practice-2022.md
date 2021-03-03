@@ -11,4 +11,14 @@ date: 2021-03-03T00:00:00.000Z
 
 Please refer to the attached file for the Notice. 
 
+[Notice-on-CPD-requirements-for-PC2022.pdf](https://github.com/isomerpages/mlaw-lsb/files/6074957/Notice-on-CPD-requirements-for-PC2022.pdf)
 
+
+
+
+
+Derick Tan
+
+Registrar
+
+Land Surveyors Board
