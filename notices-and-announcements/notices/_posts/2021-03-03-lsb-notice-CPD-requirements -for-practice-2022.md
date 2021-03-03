@@ -35,41 +35,88 @@ RS A has 15 unused excess CPD units earned in 2019 (after accounting for 20 CPD 
 RS B has 5 unused excess CPD units earned in 2019 (after accounting for 20 CPD units required for renewal of PC2020) and 2 CPD units earned in 2020. He carries forward 7 CPD units into 2021 and earned 10 CPD units in 2021. The carried forward of 7 CPD units can be used for PC2022 but he still needs 3 more CPD units, which will be used/deducted from the 10 CPD units earned in 2021. As such, there will be 7 unused excess CPD unit earned in 2021 which will be allowed to be carried forward into 2022.
 
 **Table of Illustration**
+<style type="text/css">
 
-<table>
+.tg  {border-collapse:collapse;border-spacing:0;}
+
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+
+</style>
+
+<table class="tg">
+
+<thead>
+
   <tr>
-    <th></th>
-    <th>Excess unused CPD units earned in 2019 (after accounting for 20 CPD units required for PC 2020)</th>
-    <th>CPD Units earned in 2020</th>
-    <th>Carried forward units to 2021</th>
-    <th>CPD units earned in 2021</th>
-    <th>CPD units used for PC 2022</th>
-    <th>Excess unused CPD units earned in 2021 carried forward to 2022- up to 20 CPD units (after accounting for 10 CPD units required for PC2022)</th>
+
+    <th class="tg-lboi"></th>
+
+    <th class="tg-lboi">Excess unused CPD units earned in 2019 (after accounting for 20 CPD units required for PC 2020) </th>
+
+    <th class="tg-lboi">CPD Units <br>earned in 2020</th>
+
+    <th class="tg-lboi">Carried forward<br>units to 2021</th>
+
+    <th class="tg-lboi">CPD Units<br>earned in 2021</th>
+
+    <th class="tg-lboi">CPD units used for PC 2022</th>
+
+    <th class="tg-lboi">Excess unused CPD units earned<br>in 2021 carried forward to 2022-up to 20 CPD units <br>(after accounting for 10 CPD units required for PC2022)</th>
+
   </tr>
+
+</thead>
+
+<tbody>
+
   <tr>
-    <td>RS A </td>
-    <td>15</td>
-    <td>10</td>
-    <td>20</td>
-    <td>25</td>
-    <td>10</td>
-    <td>20 (limit)</td>
-   </tr>
-   <tr>
-    <td>RS B </td>
-    <td>5</td>
-    <td>2</td>
-    <td>7</td>
-    <td>10</td>
-    <td>10 (7 from carried forward total + 3 from 2021)</td>
-    <td>7 (10 earned in 2021 - 3 used to renew PC 2022)</td>
-    
+
+    <td class="tg-lboi">RS A</td>
+
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15</td>
+
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10</td>
+
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20</td>
+
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25</td>
+
+    <td class="tg-lboi">      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10</td>
+
+    <td class="tg-lboi">            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20 (limit)</td>
+
   </tr>
+
+  <tr>
+
+    <td class="tg-lboi">RS B</td>
+
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5</td>
+
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2</td>
+
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7</td>
+
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10</td>
+
+    <td class="tg-lboi">10 (7 from carried-forward total + 3 from 2021)</td>
+
+    <td class="tg-lboi">7 ( 10 earned in 2021 - 3 used to renew PC 2022)</td>
+
+  </tr>
+
+</tbody>
+
 </table>
-|      | Excess unused CPD units earned in 2019  (after accounting for 20 CPD units required for PC 2020)  | CPD Units  earned in 2020 | Carried forward units to 2021 | CPD Units earned in 2021 | CPD units used for PC 2022                      | Excess unused CPD units earned in 2021 carried forward to 2022-up to 20 CPD units  (after accounting for 10 CPD units required for PC2022) |
-|------|---------------------------------------------------------------------------------------------------|---------------------------|-------------------------------|--------------------------|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| RS A |                      15                                                                           |      10                   |      20                       |      25                  |                10                               |                   20 (limit)                                                                                                               |
-| RS B |                       5                                                                           |       2                   |       7                       |      10                  | 10 (7 from carried-forward total + 3 from 2021) | 7 ( 10 earned in 2021 - 3 used to renew PC 2022)                                                                                           |
+
 
 
 
