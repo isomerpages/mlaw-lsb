@@ -15,7 +15,7 @@ Please refer to the attached for the Notice.
 
 
 
-Regards <br>
-Derick Tan <br>
-Registrar <br>
+Regards 
+Derick Tan 
+Registrar 
 Land Surveyors Board
