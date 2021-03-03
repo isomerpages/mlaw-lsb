@@ -9,13 +9,9 @@ date: 2021-03-03T00:00:00.000Z
 
 ## LSB NOTICE: CONTINUING PROFESSIONAL DEVELOPMENT (CPD) REQUIREMENTS FOR PRACTICE IN YEAR 2022
 
-Please refer to the attached file for the Notice. 
+Please refer to the attached for the Notice. 
 
-[Notice-on-CPD-requirements-for-PC2022.pdf](https://github.com/isomerpages/mlaw-lsb/files/6074957/Notice-on-CPD-requirements-for-PC2022.pdf)
-
-
-
-
+[Notice-on-CPD-requirements-for-PC2022.pdf](https://github.com/isomerpages/mlaw-lsb/files/6074957/Notice-on-CPD-requirements-for-PC2022.pdf)</br>
 
 Derick Tan
 
