@@ -13,4 +13,6 @@ Please refer to the attached for the Notice.
 
 [Notice-on-CPD-requirements-for-PC2022.pdf](https://github.com/isomerpages/mlaw-lsb/files/6074957/Notice-on-CPD-requirements-for-PC2022.pdf)
 
+Regards<br>
 
+Derick Tan<br>Registrar<br>Land Surveyors Board
