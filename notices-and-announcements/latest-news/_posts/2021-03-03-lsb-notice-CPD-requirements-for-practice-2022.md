@@ -11,7 +11,8 @@ date: 2021-03-03T00:00:00.000Z
 
 Please refer to the attached for the Notice. 
 
-[Notice-requirements-CPD-PC2022.pdf](https://github.com/isomerpages/mlaw-lsb/files/6075235/Notice-requirements-CPD-PC2022.pdf)
+[Notice-on-CPD-requirements-for-PC-2022.pdf](https://github.com/isomerpages/mlaw-lsb/files/6080129/Notice-on-CPD-requirements-for-PC-2022.pdf)
+
 
 
 
