@@ -13,7 +13,7 @@ date: 2021-03-05
 
 
 **LSB NOTICE: CHANGES TO REQUIREMENT OF ENGLISH LANGUAGE PROFICIENCY** <br>
-**FOR LAND SURVEYORS BOARD PROFESSIONAL PRACTICE EXAMINATIONS**
+
 
 1.  In the LSB Notice dated 20 March 2014, the Land Surveyors Board (the "Board") provided the requirements for candidates whose language of instructions for their professional degree is not in English or whose degree has not been taught entirely in English to take and pass the APTIS test before taking the Board's examinations.
 
