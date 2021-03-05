@@ -2,14 +2,14 @@
 title: 'LSB Notice - Changes to Requirement of English Language Proficiency'
 permalink: /notices-and-announcement/notices/lsb-notice-changes-to-requirement-of-english-language-profienciency/
 breadcrumb: 'LSB Notice - Changes to Requirement of English Language Proficiency'
-date: 2021-03-04
+date: 2021-03-05
 
 ---
 
 
 ## LSB NOTICE: CHANGES TO REQUIREMENT OF ENGLISH LANGUAGE PROFICIENCY
 
-4 March 2021
+5 March 2021
 
 
 **LSB NOTICE: CHANGES TO REQUIREMENT OF ENGLISH LANGUAGE PROFICIENCY** <br>
