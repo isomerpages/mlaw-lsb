@@ -540,9 +540,9 @@ ol{
     <td>65</td>
     <td>
         BT Survey Consultant<br>
-        54, Serangoon North Avenue 4<br>
-        #03-01, Cyberhub North<br>
-        Singapore 555854<br>
+        7030, Ang Mo Kio Avenue 5<br>
+        #08-21, NorthStar @ AMK<br>
+        Singapore 569880<br>
         Tel: 68014387</td> 
   </tr>
   <tr>
