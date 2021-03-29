@@ -36,9 +36,9 @@ Method 2 via QR Code:
  
  
 3\. Mode of payment **(Payment by cheque will not be accepted)**
-    E-payment (Bank Transfer via Internet Banking or ATM)<br>
+    E-payment (Bank Transfer via Internet Banking or ATM)
     - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
-    - - Attach the proof of the bank transfer transaction record/receipt in the online application form.
+    - Attach the proof of the bank transfer transaction record/receipt in the online application form.
 
 4\. PayNow 
     - You can make PayNow payments to LSB through UEN number **T08GB0026H**
