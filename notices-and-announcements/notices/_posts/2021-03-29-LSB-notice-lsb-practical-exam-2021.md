@@ -29,7 +29,7 @@ Singapore 307987
 
 Method 1 via URL: https://form.gov.sg/5cc2ab4d3ea378001036b738
 
-Method 2 via QR Code:
+Method 2 via QR Code: (/images/qr_code_cada_law_exam_reg_2021.jpg)
 
 
 
