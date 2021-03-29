@@ -15,7 +15,7 @@ Application to sit for the Land Surveyors Board (LSB) Written Examination 2021 i
 
 **Details**
 
-1. The examination is scheduled to be held as follows:<br>
+1\. The examination is scheduled to be held as follows:<br>
 
 Subject: Written Examination (Cadastral Law)<br>
 Time: 9:00 am - 12:00 pm (3 hours)<br>
