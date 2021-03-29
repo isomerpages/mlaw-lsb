@@ -1,5 +1,5 @@
 ---
-title: 'LSB Notice- Examination to be held on Monday 5 July 2021 for Cadastral Law'
+title: 'LSB Notice- Written Examination for Cadastral Law to be held on 5 July 2021 (Monday)'
 permalink: /notices-and-announcements/notices/lsb-exams-to-be-held-on-monday-5-july-2021-cadastral-law/
 breadcrumb: '[LSB Notice] Written Examination for Cadastral Law to be held on 5 July 2021 (Monday)'
 date: 2021-03-29
