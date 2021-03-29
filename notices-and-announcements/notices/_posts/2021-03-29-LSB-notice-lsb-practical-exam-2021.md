@@ -35,7 +35,7 @@ Method 2 via QR Code:
     </div>
  
  
-**Mode of payment **(Payment by cheque will not be accepted)**
+**Mode of payment (Payment by cheque will not be accepted)**
 
 3\. E-payment (Bank Transfer via Internet Banking or ATM)
 - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
