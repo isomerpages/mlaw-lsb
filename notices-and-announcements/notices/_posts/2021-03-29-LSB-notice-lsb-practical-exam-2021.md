@@ -16,6 +16,7 @@ Application to sit for the Land Surveyors Board (LSB) Written Examination 2021 i
 **Details**
 
 1. The examination is scheduled to be held as follows:<br>
+
 Subject: Written Examination (Cadastral Law)<br>
 Time: 9:00 am - 12:00 pm (3 hours)<br>
 Venue: 55 Newton Road
@@ -33,13 +34,13 @@ Singapore 307987
 
 3. Mode of payment **(Payment by cheque will not be accepted)**
 
-  E-payment (Bank Transfer via Internet Banking or ATM)<br>
-  - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
-  - Attach the proof of the bank transfer transaction record/receipt in the online application form.
+    E-payment (Bank Transfer via Internet Banking or ATM)<br>
+   - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
+    - Attach the proof of the bank transfer transaction record/receipt in the online application form.
 
 4. PayNow 
-  - You can make PayNow payments to LSB through UEN number **T08GB0026H**
-  - Include your name for reference when making payment and attach the proof of payment in the online application form.
+    - You can make PayNow payments to LSB through UEN number **T08GB0026H**
+    - Include your name for reference when making payment and attach the proof of payment in the online application form.
 
 **Deadline for submission**
 
