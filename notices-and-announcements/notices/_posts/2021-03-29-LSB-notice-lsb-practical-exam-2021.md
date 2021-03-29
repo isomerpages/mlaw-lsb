@@ -31,21 +31,21 @@ Singapore 307987
 
 
 
-3. Mode of payment **(Payment by cheque will not be accepted)**
+3.Mode of payment **(Payment by cheque will not be accepted)**
 
 E-payment (Bank Transfer via Internet Banking or ATM)<br>
 - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
 - Attach the proof of the bank transfer transaction record/receipt in the online application form.
 
-4. PayNow 
+4.PayNow 
 - You can make PayNow payments to LSB through UEN number **T08GB0026H*
 - Include your name for reference when making payment and attach the proof of payment in the online application form.
 
 **Deadline for submission**
 
-5. All completed applications and fees through the online application form must reach us by the **closing date of 29 April 2021**.
+5.All completed applications and fees through the online application form must reach us by the **closing date of 29 April 2021**.
 
-6. I would appreciate it if you could let interested persons know of the contents of this Notice. If you have questions petaining to this Notice, pleae contact Ms Mitsy Ng at mitsy_ng@sla.gov.sg
+6.I would appreciate it if you could let interested persons know of the contents of this Notice. If you have questions petaining to this Notice, please contact Ms Mitsy Ng at mitsy_ng@sla.gov.sg
 
 
 
