@@ -8,10 +8,7 @@ breadcrumb: Forms
 
 ## FORMS
 
-[LSB Exam Indemnity Form](/files/examination-indemnity-form.pdf/){:target="_blank"} - (44KB)
-
-[LSB Exam Registration Form](/files/LSB_exam_registration_form_revised.pdf/){:target="_blank"} - (27KB)
-
+[LSB Exam Declaration and Indemnity Form](/files/LSB_Exam_Declaration_and_Indemnity_form.pdf/){:target="_blank"} - (44KB)
 
 [LSB Log Book and Explanatory Notes](/files/LSBLogBookandExplanatoryNotes-v1.0.docx){:target="_blank"}
 
