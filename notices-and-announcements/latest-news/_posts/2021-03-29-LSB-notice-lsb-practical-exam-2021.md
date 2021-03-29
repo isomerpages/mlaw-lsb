@@ -27,6 +27,8 @@ Singapore 307987
 
 2\. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
+**Acessing  the Examination Application Form**
+
 Method 1 via URL: (<https://form.gov.sg/5cc2ab4d3ea378001036b738>)
 
 Method 2 via QR Code: 
@@ -35,7 +37,7 @@ Method 2 via QR Code:
     </div>
  
  
-**Mode of payment (Payment by cheque will not be accepted)**
+**Modes of payment (Payment by cheque will not be accepted)**
 
 3\. E-payment (Bank Transfer via Internet Banking or ATM)
 - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
@@ -49,7 +51,7 @@ Method 2 via QR Code:
 
 5\. All completed applications and fees through the online application form must reach us by the **closing date of 29 April 2021**.
 
-6\. I would appreciate it if you could let interested persons know the contents of this Notice. If you have questions petaining to this Notice, please contact Ms Mitsy Ng at (<mitsy_ng@sla.gov.sg>)
+6\. I would appreciate if you could let interested persons know the contents of this Notice. If you have questions petaining to this Notice, please contact Ms Mitsy Ng at (<mitsy_ng@sla.gov.sg>)
 
 
 
