@@ -32,8 +32,8 @@ Singapore 307987
 Method 1 via URL: (<https://form.gov.sg/5cc2ab4d3ea378001036b738>)<br>
 Method 2 via QR Code: 
 <div class="image">
-    <img src="/images/lsb_cada_law_qr_code1.png">, 
-    </div>, <width="680" height="500">
+    <img src="/images/rsz_lsb_cada_law_qr_code.png">, 
+    </div>
     
  
  
