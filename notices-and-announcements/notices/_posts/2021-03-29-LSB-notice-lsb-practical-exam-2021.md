@@ -27,7 +27,7 @@ Singapore 307987
 
 2. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
-Method 1 via URL: https://form.gov.sg/5cc2ab4d3ea378001036b738
+Method 1 via URL: (<https://form.gov.sg/5cc2ab4d3ea378001036b738>)
 
 Method 2 via QR Code: ![(images/qr_code_cada_law_exam_reg_2021.jpg)
 
@@ -47,7 +47,7 @@ Method 2 via QR Code: ![(images/qr_code_cada_law_exam_reg_2021.jpg)
 
 5. All completed applications and fees through the online application form must reach us by the **closing date of 29 April 2021**.
 
-6. I would appreciate it if you could let interested persons know of the contents of this Notice. If you have questions petaining to this Notice, please contact Ms Mitsy Ng at mitsy_ng@sla.gov.sg
+6. I would appreciate it if you could let interested persons know of the contents of this Notice. If you have questions petaining to this Notice, please contact Ms Mitsy Ng at (<mitsy_ng@sla.gov.sg>)
 
 
 
