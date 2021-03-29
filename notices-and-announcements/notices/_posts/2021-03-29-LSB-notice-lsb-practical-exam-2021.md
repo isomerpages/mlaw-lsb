@@ -34,7 +34,7 @@ Method 2 via QR Code:
     <img src="/images/qr_code_cada_law_exam_reg_2021.jpg">
     </div>
  
-
+ 
 3. Mode of payment **(Payment by cheque will not be accepted)**
 
     E-payment (Bank Transfer via Internet Banking or ATM)<br>
