@@ -51,4 +51,7 @@ Method 2 via QR Code:
 
 
 
+
+
+
  Derick Tan<br>Registrar<br>Land Surveyors Board  
