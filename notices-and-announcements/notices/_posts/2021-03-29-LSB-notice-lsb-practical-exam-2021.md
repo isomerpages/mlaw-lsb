@@ -49,7 +49,7 @@ Method 2 via QR Code:
 
 5\. All completed applications and fees through the online application form must reach us by the **closing date of 29 April 2021**.
 
-6\. I would appreciate it if you could let interested persons know of the contents of this Notice. If you have questions petaining to this Notice, please contact Ms Mitsy Ng at (<mitsy_ng@sla.gov.sg>)
+6\. I would appreciate it if you could let interested persons know the contents of this Notice. If you have questions petaining to this Notice, please contact Ms Mitsy Ng at (<mitsy_ng@sla.gov.sg>)
 
 
 
