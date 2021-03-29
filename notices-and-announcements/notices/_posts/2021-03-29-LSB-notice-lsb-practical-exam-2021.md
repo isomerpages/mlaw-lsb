@@ -23,21 +23,20 @@ Venue: 55 Newton Road
 Revenue House Level 11
 Singapore 307987
 
-**Modes of Application**
+**Mode of Application**
 
 2\. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
 **Accessing the Examination Application Form**
 
 Method 1 via URL: (<https://form.gov.sg/5cc2ab4d3ea378001036b738>)
-
 Method 2 via QR Code: 
 <div class="image">
     <img src="/images/lsb_cada_law_qr_code.png">
     </div>
  
  
-**Mode of payment (Payment by cheque will not be accepted)**
+**Modes of payment (Payment by cheque will not be accepted)**
 
 3\. E-payment (Bank Transfer via Internet Banking or ATM)
 - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
