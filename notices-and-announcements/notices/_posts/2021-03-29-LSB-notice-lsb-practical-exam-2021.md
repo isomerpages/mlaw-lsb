@@ -34,6 +34,8 @@ Method 2 via QR Code:
 <div class="image">
     <img src="/images/lsb_cada_law_qr_code1.png">, 
     </div>
+    width: 340px; 
+    height: 250px;
  
  
 **Modes of payment (Payment by cheque will not be accepted)**
