@@ -30,7 +30,8 @@ Singapore 307987
 **Accessing the Examination Application Form**
 
 Method 1 via URL: (<https://form.gov.sg/5cc2ab4d3ea378001036b738>)<br>
-Method 2 via QR Code: [![register QR code](/images/rsz_lsb_cada_law_qr_code.jpg){:style="height: 236px; width: 236px"}]
+Method 2 via QR Code: ![register QR code](/images/rsz_lsb_cada_law_qr_code.jpg){:style="height: 236px; width: 236px"}
+
 
  
  
