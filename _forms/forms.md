@@ -10,7 +10,7 @@ breadcrumb: Forms
 
 [LSB Exam Declaration and Indemnity Form](/files/LSBExamDeclarationandIndemnityForm.doc/){:target="_blank"} - (44KB)
 
-[LSB Log Book and Explanatory Notes](/files/LSBLogBookandExplanatoryNotes-v1.0.docx){:target="_blank"}
+[LSB Log Book and Explanatory Notes](/files/LSBLogBookandExplanatoryNotes-v1.3.docx){:target="_blank"}
 
 [Application For Registration Of Surveyors (Form 1)](/files/linkclick0317.doc/){:target="_blank"} - (DOC, 45KB)
 
