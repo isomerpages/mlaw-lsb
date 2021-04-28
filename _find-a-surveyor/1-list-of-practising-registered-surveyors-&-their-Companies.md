@@ -541,7 +541,7 @@ ol{
     <td>
         BT Survey Consultant<br>
         7030, Ang Mo Kio Avenue 5<br>
-        #08-21, NorthStar @ AMK<br>
+        #08-01, NorthStar @ AMK<br>
         Singapore 569880<br>
         Tel: 68014387</td> 
   </tr>
