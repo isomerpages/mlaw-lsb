@@ -13,7 +13,7 @@ breadcrumb: 'Board Members'
 c/o Singapore Land Authority, 55 Newton Road, <br>
 #10-01 Revenue House, Singapore 307987
 <br>
-Tel: (65) 64783699; <br>
+Tel: (65) 64783699 <br>
 Email: <soh_kheng_peng@sla.gov.sg>
 <br>
 
@@ -75,5 +75,5 @@ Email: <teo_hui_ying@sla.gov.sg>
 **Mr Derick Tan** <br> 
 c/o Singapore Land Authority, 55 Newton Road, <br>
 #10-01 Revenue House, Singapore 307987 <br>
-Tel: (65) 64783604; <br> 
+Tel: (65) 64783604 <br> 
 Email: <Derick_TAN@sla.gov.sg> <br>
