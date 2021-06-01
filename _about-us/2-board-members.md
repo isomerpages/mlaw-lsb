@@ -10,9 +10,10 @@ breadcrumb: 'Board Members'
 
 ##### **President of the Board**
 **Mr Soh Kheng Peng** <br>
-c/o Singapore Land Authority, 55 Newton Road, <br>
-#10-01 Revenue House, Singapore 307987
-<br>
+c/o Singapore Land Authority <br>
+55 Newton Road <br>
+#10-01 Revenue House <br>
+Singapore 307987 <br>
 Tel: (65) 64783699 <br>
 Email: <soh_kheng_peng@sla.gov.sg>
 <br>
@@ -48,7 +49,7 @@ Email: <chartsvy@singnet.com.sg>
 **Mr Leong Kin Weng** <br>
 Surbana Jurong Consultants Pte Ltd <br>
 168 Jalan Bukit Merah <br>
-#01-01 Connection One
+#01-01 Connection One <br>
 Singapore 150168 <br>
 Tel: (65) 62481409 <br>
 Email: <kinweng.leong@surbanajurong.com> 
@@ -64,8 +65,10 @@ Email: <Christopher@precisionsurvey.com.sg>
 <br>
 
 **Ms Teo Hui Ying** <br>
-c/o Singapore Land Authority, 55 Newton Road,<br>
-#10-01 Revenue House, Singapore 307987 <br>
+c/o Singapore Land Authority <br>
+55 Newton Road
+#10-01 Revenue House <br>
+Singapore 307987 <br>
 Tel: (65) 64783528 <br>
 Email: <teo_hui_ying@sla.gov.sg> 
 <br> 
@@ -73,7 +76,9 @@ Email: <teo_hui_ying@sla.gov.sg>
 ##### **Registrar**
 
 **Mr Derick Tan** <br> 
-c/o Singapore Land Authority, 55 Newton Road, <br>
-#10-01 Revenue House, Singapore 307987 <br>
+c/o Singapore Land Authority <br>
+55 Newton Road <br>
+#10-01 Revenue House <br>
+Singapore 307987 <br>
 Tel: (65) 64783604 <br> 
 Email: <Derick_TAN@sla.gov.sg> <br>
