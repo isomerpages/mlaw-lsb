@@ -66,7 +66,7 @@ Email: <Christopher@precisionsurvey.com.sg>
 
 **Ms Teo Hui Ying** <br>
 c/o Singapore Land Authority <br>
-55 Newton Road
+55 Newton Road <br>
 #10-01 Revenue House <br>
 Singapore 307987 <br>
 Tel: (65) 64783528 <br>
