@@ -57,8 +57,8 @@ Email: <kinweng.leong@surbanajurong.com>
 
 **Mr Christopher Lee Teck Kim**  <br>
 Precision Survey Consultants Pte Ltd <br>
-ARK@Gambas<br> 
-7 Gambas Crescent #08-17<br>
+7 Gambas Crescent <br>
+#08-17 ARK@Gambas<br> 
 Singapore 757087<br>
 Tel: (65) 62996663 <br>
 Email: <Christopher@precisionsurvey.com.sg> 
