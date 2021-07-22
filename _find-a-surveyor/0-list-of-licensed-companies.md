@@ -121,9 +121,9 @@ ol{
   <tr>
     <td><a id="H"></a>HKS SURVEYORS PTE LTD</td>
     <td>
-        33 Ubi Avenue 3 #04-61<br>
-        Vertex (Tower A)<br>
-        Singapore 408868<br>
+        8 Ubi Road 2 #05-10<br>
+        Zervex<br>
+        Singapore 408538<br>
         Tel: 62817122</td>
   </tr>
   <tr>
