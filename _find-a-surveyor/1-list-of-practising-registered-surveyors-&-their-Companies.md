@@ -511,9 +511,9 @@ ol{
     <td>39</td>
     <td>
         Quah Kee Soo Registered Surveyor<br>
-        6 Ubi Road 1 #02-04<br> 
-        Wintech Centre<br> 
-        Singapore 408726<br> 
+        18 Boon Lay Way #09-125<br> 
+        TradeHub 21<br> 
+        Singapore 609966<br> 
         Tel: 64418998</td> 
   </tr>
   <tr>
