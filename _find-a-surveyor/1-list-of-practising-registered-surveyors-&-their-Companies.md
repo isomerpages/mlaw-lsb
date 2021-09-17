@@ -556,6 +556,16 @@ ol{
         Tel: 64676108</td>
   </tr>
   <tr>
+    <td><a name="T"></a>Tan Chee  Meng</td>
+    <td>119</td>
+    <td>
+        Housing & Development Board<br>
+        HDB Hub<br>
+        480 Lorong 6 Toa Payoh<br>
+        Singapore 310480<br>
+        Tel: 64903093</td>
+  </tr>
+  <tr>  
     <td><a name="T"></a>Tan Choo Haw</td>
     <td>69</td>
     <td>
