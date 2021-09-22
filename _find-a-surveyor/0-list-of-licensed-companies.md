@@ -129,9 +129,9 @@ ol{
   <tr>
     <td><a id="J"></a>J K FOO CONSORTIUM PTE LTD</td>
     <td>
-        18 Kaki Bukit Road 3<br>
-        #03-04 Entrepreneur Business Centre<br>
-        Singapore 415978<br>
+        3023 Ubi Road 3<br>
+        #06-04 Ubiplex 1<br>
+        Singapore 408663<br>
         Tel: 67427973</td>
   </tr>
   <tr>
