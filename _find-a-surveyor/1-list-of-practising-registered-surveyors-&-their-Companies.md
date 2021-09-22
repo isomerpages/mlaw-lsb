@@ -83,9 +83,9 @@ ol{
     <td>73</td>
     <td>
         J K Foo Consortium Pte Ltd<br>
-        18 Kaki Bukit Road 3 #03-04<br>
-        Entrepreneur Business Centre<br>
-        Singapore 415978<br>
+        3023 Ubi Road 3<br>
+        #06-04 Ubiplex 1<br>
+        Singapore 408663<br>
         Tel: 67427973</td>
   </tr>
   <tr>  
@@ -159,9 +159,9 @@ ol{
     <td>34</td>
     <td>
         J K Foo Consortium Pte Ltd<br>
-        18 Kaki Bukit Road 3 #03-04<br>
-        Entrepreneur Business Centre<br>
-        Singapore 415978<br>
+        3023 Ubi Road 3<br>
+        #06-04 Ubiplex 1<br>
+        Singapore 408663<br>
         Tel: 67427973</td> 
   </tr>
   <tr>
