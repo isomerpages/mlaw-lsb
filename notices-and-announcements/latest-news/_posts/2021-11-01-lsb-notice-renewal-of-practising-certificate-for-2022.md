@@ -29,7 +29,7 @@ As informed through the LSB Notice issued on 3 Mar 2021, the CPD requirements fo
 
 
 
-The required forms to be completed and submitted to LSB for your renewal can be found in the “Forms” section of the LSB website <https://lsb.mlaw.gov.sg>, which are attached here for your convenience.
+The required forms to be completed and submitted to LSB can be found in the “Forms” section of the LSB website <https://lsb.mlaw.gov.sg>, which are attached here for your convenience.
 
 
 
@@ -78,7 +78,7 @@ II. PayNow
 •         PayNow to LSB through UEN number  **T08GB0026H** or scan the QR code below <br>
           ![register QR code](/images/LSB_paynow_qr_code.jpg){:style="height: 236px; width: 236px"}
 
-•         Include your **full name in the reference** when making payment
+•         Include your **full name in the Reference** when making payment
 
 
 
