@@ -75,8 +75,8 @@ II. PayNow
 
 
 
-•         PayNow payments to LSB through UEN number  **T08GB0026H** or scan the QR code below
-          (/images/LSB_paynow_qr_code.jpg){:style="height: 236px; width: 236px"}
+•         PayNow payments to LSB through UEN number  **T08GB0026H** or scan the QR code below <br>
+          (/images/LSB_paynow_qr_code.jpg/){:style="height: 236px; width: 236px"}
 
 •         Include your name for reference when making payment
 
