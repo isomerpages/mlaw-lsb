@@ -11,17 +11,17 @@ date: 2021-11-01T00:00:00.000Z
 
 
 
-**LSB NOTICE: RENEWAL OF PRACTISING CERTIFICATE FOR 2021**
+**LSB NOTICE: RENEWAL OF PRACTISING CERTIFICATE FOR 2022**
 
 
 
-Your current practising certificate will expire on 31st Dec 2020. Applications for renewal are now opened via **email only**.
+Your current practising certificate will expire on 31 Dec 2021. Applications for renewal are now opened via **email only**.
 
 
-**2. Waiver of Continuing Professional Development (CPD) units**
+**2. Continuing Professional Development (CPD) units**
 
 
-Arising from the LSB Notice issued on 7 Apr 2020, the Land Surveyors Board (LSB) will be waiving the CPD requirements for this application. However, the CPD Summary Form is still required.
+As informed through the LSB Notice issued on 3 Mar 2021, the CPD requirements for the renewal of practising certificate for 2022 will be halved, that is, **10 CPD units**. Registered Surveyors who had a shortfall of CPD units when they are issued with a practising certificate for 2020 are reminded to make up the CPD units on top of this 10 CPD units. Please refer to the LSB Notice for the complete details.
 
 
 
@@ -41,14 +41,14 @@ The required forms to be completed and submitted to us for your renewal can be f
 
 
 
-Please complete, sign, scan and email the completed forms to me and Assistant Registrar, Ms Mitsy Ng (<mitsy_ng@sla.gov.sg>).
+Please complete, sign, scan and email the completed forms to the Assistant Registrar, Ms Mitsy Ng (<mitsy_ng@sla.gov.sg>).
 
 
 
 **4. Fees**
 
 
-Arising from the LSB Notice issued on 15 May 2020, the LSB is no longer accepting payment by cheque.
+A reminder that the LSB is **no longer accepting payment by cheque** as informed through the LSB Notice issued on 15 May 2020.
 
 
 
@@ -59,7 +59,7 @@ i) Payment for the following prescribed fees can be made by one of the following
 
 
 
-A. Bank transfer via Internet Banking or ATM
+I. Bank transfer via Internet Banking or ATM
 
 
 
@@ -67,15 +67,15 @@ A. Bank transfer via Internet Banking or ATM
 
 
 
-•         Notify LSB that you have transferred the money by noting down the bank transaction number and proof of the bank transfer transaction record/receipt by sending it to Ms Mitsy Ng (<mitsy_ng@sla.gov.sg>). 
+•         Notify LSB that you have transferred the money by noting down the bank transaction number and proof of the bank transfer transaction record/receipt by sending it to the Assistant Registrar,Ms Mitsy Ng (<mitsy_ng@sla.gov.sg>). 
 
 
 
-C. PayNow Corporate
+II. PayNow 
 
 
 
-•         PayNow payments to LSB through UEN number  **T08GB0026H**  
+•         PayNow payments to LSB through UEN number  **T08GB0026H** or scan the QR code below
 
 •         Include your name for reference when making payment
 
@@ -127,7 +127,7 @@ ii) The amount payable is:
 
 
 
-(a) All application forms must be legibly completed
+(a) All application forms must be legibly completed.
 
 
 
@@ -146,7 +146,7 @@ ii) The amount payable is:
 
 
 
-We will inform you when the practising certificate is ready for collection, usually in the last week of December 2020.
+We will inform you when the practising certificate is ready for collection, usually in the last week of December 2021.
 
 
 
