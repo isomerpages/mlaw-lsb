@@ -21,7 +21,7 @@ Your current practising certificate will expire on 31 Dec 2021. Applications for
 **2. Continuing Professional Development (CPD) units**
 
 
-As informed through the LSB Notice issued on 3 Mar 2021, the CPD requirements for the renewal of practising certificate for 2022 will be halved, that is, **10 CPD units**. Registered Surveyors who had a shortfall of CPD units when they are issued with a practising certificate for 2020 are reminded to make up the CPD units on top of this 10 CPD units. Please refer to the LSB Notice for the complete details.
+As informed through the LSB Notice issued on 3 Mar 2021, the CPD requirements for the renewal of practising certificate for 2022 will be halved, that is, **10 CPD units**. Registered Surveyors who had a shortfall of CPD units when they are issued with a practising certificate for 2020 are reminded to make-up the CPD units on top of this 10 CPD units. Please refer to the LSB Notice for the complete details.
 
 
 
@@ -29,7 +29,7 @@ As informed through the LSB Notice issued on 3 Mar 2021, the CPD requirements fo
 
 
 
-The required forms to be completed and submitted to us for your renewal can be found in the “Forms” section of the LSB website <https://lsb.mlaw.gov.sg>, which are attached here for your convenience.
+The required forms to be completed and submitted to LSB for your renewal can be found in the “Forms” section of the LSB website <https://lsb.mlaw.gov.sg>, which are attached here for your convenience.
 
 
 
