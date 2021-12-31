@@ -113,8 +113,8 @@ ol{
   <tr>
     <td><a id="G"></a>GPS LANDS (S) PTE LTD</td>
     <td>
-        No. 35 Jalan Pemimpin<br>
-        #05-02<br>
+        35 Jalan Pemimpin<br>
+        #05-02, Wedge Mount Industrial Building<br>
         Singapore 577176<br>
         Tel: 63545950</td>
   </tr>
