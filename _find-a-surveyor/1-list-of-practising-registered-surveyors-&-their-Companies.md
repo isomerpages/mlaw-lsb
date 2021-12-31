@@ -107,16 +107,6 @@ ol{
         Tel: 64406098</td>
   </tr>
   <tr>
-    <td><a name="C"></a>Chan Fook Onn</td>
-    <td>54</td>
-    <td>
-        HKS Surveyors Pte Ltd<br>
-        8 Ubi Road 2 #05-10<br>
-        Zervex<br>
-        Singapore 408538<br>
-        Tel: 62817122</td>    
-  </tr>
-  <tr>
     <td><a name="C"></a>Chan Wei Hoong</td>
     <td>117</td>
     <td>
@@ -169,8 +159,8 @@ ol{
     <td>116</td>
     <td>
         GPS Lands (Singapore) Pte Ltd<br>
-        No. 35 Jalan Pemimpin<br>
-        #05-02<br>
+        35 Jalan Pemimpin<br>
+        #05-02, Wedge Mount Industrial Building<br>
         Singapore 577176<br>
         Tel: 63545950</td>
   </tr>
@@ -215,16 +205,6 @@ ol{
         Tel: -</td>
   </tr>
   <tr>
-    <td><a name="H"></a>Ho Kim Swee</td>
-    <td>27</td>
-    <td>
-        HKS Surveyors Pte Ltd<br>
-        8 Ubi Road 2 #05-10<br>
-        Zervex<br>
-        Singapore 408538<br>
-        Tel: 62817122</td>
-  </tr>
-  <tr>
     <td><a name="H"></a>Huang Mingzhi</td>
     <td>102</td>
     <td>
@@ -258,7 +238,7 @@ ol{
     <td><a name="K"></a>Koh Thong Sia</td>
     <td>100</td>
     <td>
-        First Survey Consultants<br>
+        Firmament Survey<br>
         103B Depot Road #18-537<br>
         Singapore 102103<br>
         Tel: 62750102</td>
@@ -269,20 +249,11 @@ ol{
     <td>
         How Huai Hoon Surveyors<br>
         155A Tyrwhitt Road<br>
+        Qinan Building<br>
         Singapore 207568<br>
         Tel: 62931566</td>
   </tr>
   <tr>
-    <td><a name="L"></a>Lee Boon Haw</td>
-    <td>8</td>
-    <td>
-        Lee Boon Haw Surveyors Pte Ltd<br>
-        150 Changi Road<br>
-        #03-06 Guthrie Building<br>
-        Singapore 419973<br>
-        Tel: 63466296</td>
-    </tr>
-    <tr>
     <td><a name="L"></a>Lee Eng Soon</td>
     <td>75</td>
     <td>
@@ -318,7 +289,7 @@ ol{
     <td>
         Ace Land Survey<br>
         2 Kallang Pudding Road<br>
-        Mactech Industrial Building #05-02<br>
+        Mactech Building #05-02<br>
         Singapore 349307<br>
         Tel: 67442380</td>
   </tr>
@@ -414,7 +385,7 @@ ol{
     <td>
         H Y Loi Consultants<br>
         20C Lorong Ampas<br>
-        G S Building<br>
+        GS Building<br>
         Singapore 328780<br>
         Tel: 62525902</td>
   </tr>
@@ -589,7 +560,7 @@ ol{
     <td>49</td>
     <td>
         Wang & EF Tan Associates<br>
-        61 Ubi Ave 1<br>
+        61 Ubi Avenue 1<br>
         #06-12 UB Point<br>
         Singapore 408941<br>
         Tel: 62890400</td>
