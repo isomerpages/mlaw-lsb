@@ -131,8 +131,9 @@ ol{
     <td>99</td>
     <td>
         Wisescan Engineering Services Pte Ltd<br>
-        14 Little Road #02-01<br>
-        Singapore 536987<br>
+        33 Ubi Avenue 3 #03-08<br>
+        Vertex Tower B<br>
+        Singapore 408868<br>
         Tel: 68410880</td>
   </tr>
   <tr>
@@ -140,8 +141,9 @@ ol{
     <td>114</td>
     <td>
         Wisescan Engineering Services Pte Ltd<br>
-        14 Little Road #02-01<br>
-        Singapore 536987<br>
+        33 Ubi Avenue 3 #03-08<br>
+        Vertex Tower B<br>
+        Singapore 408868<br>
         Tel: 68410880</td>
   </tr>
   <tr>
