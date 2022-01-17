@@ -208,8 +208,8 @@ ol{
   <tr>
     <td><a id="W"></a>WISESCAN ENGINEERING SERVICES PTE LTD</td>
     <td>
-        33 Ubi Avenue 3 #03-08<br>
-        Vertex Tower B<br>
+        33 Ubi Avenue 3<br>
+        #03-08<br>
         Singapore 408868<br>
         Tel: 68410880</td>
   </tr>
