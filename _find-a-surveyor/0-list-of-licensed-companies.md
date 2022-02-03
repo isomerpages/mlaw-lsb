@@ -161,8 +161,9 @@ ol{
   <tr>
     <td><a id="S"></a>S C ANG CONSORTIUM PTE LTD</td>
     <td>
-        Blk 123 Bukit Merah Lane 1<br>
-        #04-96, Singapore 150123<br>
+        50 Bukit Batok Street 23<br>
+        #05-24, Midview Building<br>
+        Singapore 659578<br>
         Tel: 62731096</td>
   </tr>
   <tr>
