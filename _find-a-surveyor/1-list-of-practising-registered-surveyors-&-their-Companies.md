@@ -457,9 +457,9 @@ ol{
     <td>
         S C Ang Consortium Pte Ltd<br>
         50 Bukit Batok Street 23<br>
-        #05-23, Midview Building
+        #05-23, Midview Building<br>
         Singapore 659578<br> 
-        Tel: 62731096</td
+        Tel: 62731096</td>
   </tr>
   <tr>
     <td><a name="P"></a>Paul James O'Connor</td>
