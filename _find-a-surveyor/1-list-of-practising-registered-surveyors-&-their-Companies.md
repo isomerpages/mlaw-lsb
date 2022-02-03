@@ -93,8 +93,9 @@ ol{
     <td>91</td>
     <td>
         S C Ang Consortium Pte Ltd<br>
-        Blk 123 Bukit Merah Lane 1 #04-96<br>
-        Singapore 150123<br>
+        50 Bukit Batok Street 23<br>
+        #05-24, Midview Building<br>
+        Singapore 659578<br>
         Tel: 62731096</td>
   </tr>
   <tr>  
@@ -455,9 +456,10 @@ ol{
     <td>90</td>
     <td>
         S C Ang Consortium Pte Ltd<br>
-        Blk 123 Bukit Merah Lane 1 #04-96<br> 
-        Singapore 150123<br> 
-        Tel: 62731096</td> 
+        50 Bukit Batok Street 23<br>
+        #05-23, Midview Building
+        Singapore 659578<br> 
+        Tel: 62731096</td
   </tr>
   <tr>
     <td><a name="P"></a>Paul James O'Connor</td>
