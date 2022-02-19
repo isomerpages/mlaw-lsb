@@ -116,7 +116,7 @@ Method 2 via QR Code: ![register QR code](/){:style="height: 236px; width: 236px
 
 8\. All completed applications through the online application form together with the fees to be paid must be done before the closing date of **15 March 2022**.
 
-9\. The submission of the site selection to Ms Mitsy Ng (email to: mitsy_ng@sla.gov.sg) must be done after **15 March 2022** and no later than **12 April 2022**.
+9\. The submission of the site selection to Ms Mitsy Ng (email to: <mitsy_ng@sla.gov.sg>) must be done after **15 March 2022** and no later than **12 April 2022**.
 
 10\. I would appreciate if you could inform interested persons know the contents of this Notice. Please contact Ms Mitsy Ng (email to: <mitsy_ng@sla.gov.sg>) if you have questions on the practical examinations.
 
