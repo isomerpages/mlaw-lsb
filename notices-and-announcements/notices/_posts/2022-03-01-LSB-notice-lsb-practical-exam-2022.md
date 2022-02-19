@@ -1,7 +1,7 @@
 --
-title: 'LSB Notice- LSB Examinations (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)'
-permalink: /notices-and-announcements/notices/LSB-practical-exams-to-be-held-on-monday-4-july-2022/
-breadcrumb: '[LSB Notice] Practical Examination to be held on 4 July 2022 (Monday)'
+title: '[LSB Notice] LSB Examinations (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)'
+permalink: /notices-and-announcements/notices/lsb-notice-lsb-practical-exams-to-be-held-on-monday-4-july-2022/
+breadcrumb: '[LSB Notice] LSB Examinations (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)'
 date: 2022-03-01
 
 ---
@@ -17,6 +17,53 @@ Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 
 
 1\. The schedule is as follows:<br>
 
+<table>
+  <tr>
+    <th>Subject</th>
+    <th>Period of Examination</th>
+    <th>Commencement (Date, Time and Place)</th>
+    <th>Closing Date of Examinations</th>
+  </tr>
+  <tr>
+    <td>
+      <p style="font-size: 1rem;">
+        <u>Oral and Practical Examinations</u>
+      </p>
+      <ol>
+        <li style="font-size: 1rem;">1. Land Lot Survey</li>
+        <li style="font-size: 1rem;">2. Strata Survey</li>
+      </ol>
+    </td>
+    <td>
+      <p style="font-size: 1rem;">8 weeks for both subjects<br>(8 weeks total including weekends and Public Holidays, regardless of one or two subjects taken) from date of commencement</p>
+    </td>
+    <td>
+      <p style="font-size: 1rem;">
+        <b><u>4 July 2022 (Monday)</u></b>
+      </p>
+      <p style="font-size: 1rem;">
+        <b>11am</b>
+      </p>
+      <p style="font-size: 1rem;">
+        Singapore Land Authority<br>
+        Training Rooms Level 13<br>
+        Revenue House<br>
+        55 Newton Road<br>
+        Singapore 307987
+      </p>
+      <p style="font-size: 1rem;">(All candidates to be present at least 5 minutes before the start)</p>
+    </td>
+    <td>
+      <p style="font-size: 1rem;">All subjects must be completed and submitted to the Assistant Registrar (Ms Mitsy Ng) before the closing date and time of:</p>
+      <p style="font-size: 1rem;">
+        <b><u>29 August 2022 (Monday)</u></b>
+      </p>
+      <p style="font-size: 1rem;">
+        <b>11am</b>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
