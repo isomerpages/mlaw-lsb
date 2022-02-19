@@ -75,15 +75,37 @@ Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 
 **Safety Guidelines for COVID-19**
 
 4\.To protect candidates and members of the public, all candidates and their assistants shall adhere strictly to the prevailing safe management measures stipulated by the government/relevant authorities at all times with regards to COVID-19 during the course of the practical examination. In addition, the following guidelines shall be adhered to at all times during the period of the practical examination:<br>
+
+
+
+
 -All candidate and assistants must be vaccinated. Please refer to MOH’s definition of “vaccinated”.<br>
+
+
 All candidates must administer Antigen Rapid Test (ART) once a week throughout the exam for 8 weeks and submit the ART results to the Land Surveyors Board as specified below.<br>
+
+
 The candidate must ensure that all assistants accompanying him/her test negative for the ART before proceeding to conduct the fieldwork with the candidate.<br>
+
+
 Candidates must not use assistants who are already working/helping another candidate.<br>
+
+
 Candidate and assistants must not mingle with members of public.<br>
+
+
 Masks must be worn at all times.<br>
+
+
 The survey team (comprising candidate and assistants) must not exceed 5 persons (or any such number of permissible persons specified by MOH’s prevailing measures with regards to group sizes on social gatherings). The 1m safe-distancing is not required within the group but they must maintain 1m distance from the shop owners and any member of the public.<br>
+
+
 Candidate and assistants must have an active Trace-Together (TT) App with Bluetooth feature on their phones switched on or carry a working TT token throughout the entire duration of the fieldwork.<br>
+
+
 Any person who is unwell on the actual day must not physically turn up to conduct any fieldwork.<br>
+
+
 
 The LSB places paramount importance on the safety of candidates and members of the public and any non-compliance with the above measures could result in a candidate with failure of the practical examination.<br>
 
