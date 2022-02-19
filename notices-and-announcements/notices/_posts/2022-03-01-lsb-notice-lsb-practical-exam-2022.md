@@ -1,7 +1,7 @@
 ---
-title: '[LSB Notice] LSB Examinations (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)'
+title: 'LSB Notice- LSB Examinations (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)'
 permalink: /notices-and-announcements/notices/lsb-notice-lsb-practical-exams-to-be-held-on-monday-4-july-2022/
-breadcrumb: '[LSB Notice] LSB Examinations (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)'
+breadcrumb: 'LSB NOTICE- LSB EXAMINATIONS (LAND LOT SURVEY AND STRATA SURVEY) TO BE HELD ON 4 JULY 2022 (MONDAY)'
 date: 2022-03-01
 
 ---
