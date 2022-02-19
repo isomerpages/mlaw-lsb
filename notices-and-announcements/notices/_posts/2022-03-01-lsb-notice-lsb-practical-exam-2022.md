@@ -65,7 +65,7 @@ Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 
   </tr>
 </table>
 
-**Chnages to Practical Examinations**
+**Changes to Practical Examinations**
 
 2\. LSB has reviewed “LSB Notice – Land Surveyors Board Examinations to be held on Friday, 2 August 2013” and is pleased to inform that the requirement stated therein for a candidate to pass the cadastral law written examination before taking the land lot and/or strata survey subjects in the practical examinations is now removed. Candidates can apply and attempt the oral and practical examinations without first passing the cadastral law written examination with immediate effect.
 
