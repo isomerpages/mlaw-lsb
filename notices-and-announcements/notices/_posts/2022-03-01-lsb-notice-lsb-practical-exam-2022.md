@@ -67,40 +67,40 @@ Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 
 
 **Chnages to Practical Examinations**
 
-2\.LSB has reviewed “LSB Notice – Land Surveyors Board Examinations to be held on Friday, 2 August 2013” and is pleased to inform that the requirement stated therein for a candidate to pass the cadastral law written examination before taking the land lot and/or strata survey subjects in the practical examinations is now removed. Candidates can apply and attempt the oral and practical examinations without first passing the cadastral law written examination with immediate effect.
+2\. LSB has reviewed “LSB Notice – Land Surveyors Board Examinations to be held on Friday, 2 August 2013” and is pleased to inform that the requirement stated therein for a candidate to pass the cadastral law written examination before taking the land lot and/or strata survey subjects in the practical examinations is now removed. Candidates can apply and attempt the oral and practical examinations without first passing the cadastral law written examination with immediate effect.
 
-3\.A new examination format is now being introduced and a briefing session was held on 16 December 2021 by the Examination Committee to interested participants. I would like to bring your attention to the documents attached: 1) Instructions to Candidate (together with Annexes C and D) and 2) List of sites not to be selected. All candidates are to familiarise themselves with the requirements and format of the examinations stated therein for compliance. Attachments enclosed:
+3\. A new examination format is now being introduced and a briefing session was held on 16 December 2021 by the Examination Committee to interested participants. I would like to bring your attention to the documents attached: 1) Instructions to Candidate (together with Annexes C and D) and 2) List of sites not to be selected. All candidates are to familiarise themselves with the requirements and format of the examinations stated therein for compliance. Attachments enclosed:
 
 
 **Safety Guidelines for COVID-19**
 
-4\.To protect candidates and members of the public, all candidates and their assistants shall adhere strictly to the prevailing safe management measures stipulated by the government/relevant authorities at all times with regards to COVID-19 during the course of the practical examination. In addition, the following guidelines shall be adhered to at all times during the period of the practical examination:<br>
+4\. To protect candidates and members of the public, all candidates and their assistants shall adhere strictly to the prevailing safe management measures stipulated by the government/relevant authorities at all times with regards to COVID-19 during the course of the practical examination. In addition, the following guidelines shall be adhered to at all times during the period of the practical examination:<br>
 
 
 
 
--All candidate and assistants must be vaccinated. Please refer to MOH’s definition of “vaccinated”.<br>
+- All candidate and assistants must be vaccinated. Please refer to MOH’s definition of “vaccinated”.<br>
 
 
-All candidates must administer Antigen Rapid Test (ART) once a week throughout the exam for 8 weeks and submit the ART results to the Land Surveyors Board as specified below.<br>
+- All candidates must administer Antigen Rapid Test (ART) once a week throughout the exam for 8 weeks and submit the ART results to the Land Surveyors Board as specified below.<br>
 
 
-The candidate must ensure that all assistants accompanying him/her test negative for the ART before proceeding to conduct the fieldwork with the candidate.<br>
+- The candidate must ensure that all assistants accompanying him/her test negative for the ART before proceeding to conduct the fieldwork with the candidate.<br>
 
 
-Candidates must not use assistants who are already working/helping another candidate.<br>
+- Candidates must not use assistants who are already working/helping another candidate.<br>
 
 
-Candidate and assistants must not mingle with members of public.<br>
+- Candidate and assistants must not mingle with members of public.<br>
 
 
-Masks must be worn at all times.<br>
+- Masks must be worn at all times.<br>
 
 
-The survey team (comprising candidate and assistants) must not exceed 5 persons (or any such number of permissible persons specified by MOH’s prevailing measures with regards to group sizes on social gatherings). The 1m safe-distancing is not required within the group but they must maintain 1m distance from the shop owners and any member of the public.<br>
+- The survey team (comprising candidate and assistants) must not exceed 5 persons (or any such number of permissible persons specified by MOH’s prevailing measures with regards to group sizes on social gatherings). The 1m safe-distancing is not required within the group but they must maintain 1m distance from the shop owners and any member of the public.<br>
 
 
-Candidate and assistants must have an active Trace-Together (TT) App with Bluetooth feature on their phones switched on or carry a working TT token throughout the entire duration of the fieldwork.<br>
+- Candidate and assistants must have an active Trace-Together (TT) App with Bluetooth feature on their phones switched on or carry a working TT token throughout the entire duration of the fieldwork.<br>
 
 
 Any person who is unwell on the actual day must not physically turn up to conduct any fieldwork.<br>
@@ -118,7 +118,7 @@ Method 2 via QR Code:![register QR code](/){:style="height: 236px; width: 236px"
 
 **Mode of Application**
 
-5\.Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
+5\. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
 Method 1 via URL: (https://form.gov.sg/61ef41696794960014efbe6d)<br>
 Method 2 via QR Code: ![register QR code](/){:style="height: 236px; width: 236px"}
