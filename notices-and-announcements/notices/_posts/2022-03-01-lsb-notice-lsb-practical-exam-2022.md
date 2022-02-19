@@ -30,8 +30,8 @@ Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 
         <u>Oral and Practical Examinations</u>
       </p>
       <ol>
-        <li style="font-size: 1rem;">1. Land Lot Survey</li>
-        <li style="font-size: 1rem;">2. Strata Survey</li>
+        <li style="font-size: 1rem;">Land Lot Survey</li>
+        <li style="font-size: 1rem;">Strata Survey</li>
       </ol>
     </td>
     <td>
