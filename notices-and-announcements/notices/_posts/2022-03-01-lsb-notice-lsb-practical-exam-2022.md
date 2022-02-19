@@ -103,7 +103,7 @@ Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 
 - Candidate and assistants must have an active Trace-Together (TT) App with Bluetooth feature on their phones switched on or carry a working TT token throughout the entire duration of the fieldwork.<br>
 
 
-Any person who is unwell on the actual day must not physically turn up to conduct any fieldwork.<br>
+- Any person who is unwell on the actual day must not physically turn up to conduct any fieldwork.<br>
 
 
 
@@ -113,7 +113,8 @@ The LSB places paramount importance on the safety of candidates and members of t
 **Submission of ART result**
 
 Method 1 via URL:(https://form.gov.sg/61ee62a2d3b3e60013e07671) <br>
-Method 2 via QR Code:![register QR code](/){:style="height: 236px; width: 236px"}
+Method 2 via QR Code <br>
+![register QR code](/){:style="height: 236px; width: 236px"}
 
 
 **Mode of Application**
@@ -121,7 +122,8 @@ Method 2 via QR Code:![register QR code](/){:style="height: 236px; width: 236px"
 5\. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
 Method 1 via URL: (https://form.gov.sg/61ef41696794960014efbe6d)<br>
-Method 2 via QR Code: ![register QR code](/){:style="height: 236px; width: 236px"}
+Method 2 via QR Code <br>
+![register QR code](/){:style="height: 236px; width: 236px"}
 
 
 **Modes of payment (Payment by cheque will not be accepted)**
@@ -131,7 +133,7 @@ Method 2 via QR Code: ![register QR code](/){:style="height: 236px; width: 236px
 - Attach the proof of the bank transfer transaction record/receipt in the online application form.
 
 7\. PayNow
-- PayNow to LSB through UEN number **T08GB0026H**or scan the QR code below <br>
+- PayNow to LSB through UEN number **T08GB0026H** or scan the QR code below <br>
 ![register QR code](/images/LSB_paynow_qr_code.jpg){:style="height: 236px; width: 236px"}
 
 
