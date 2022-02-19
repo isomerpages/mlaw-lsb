@@ -112,7 +112,7 @@ The LSB places paramount importance on the safety of candidates and members of t
 
 **Submission of ART result**
 
-Method 1 via URL:(https://form.gov.sg/61ee62a2d3b3e60013e07671) <br>
+Method 1 via URL:(<https://form.gov.sg/61ee62a2d3b3e60013e07671>) <br>
 Method 2 via QR Code <br>
 ![register QR code](/){:style="height: 236px; width: 236px"}
 
@@ -121,7 +121,7 @@ Method 2 via QR Code <br>
 
 5\. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
-Method 1 via URL: (https://form.gov.sg/61ef41696794960014efbe6d)<br>
+Method 1 via URL: (<https://form.gov.sg/61ef41696794960014efbe6d>)<br>
 Method 2 via QR Code <br>
 ![register QR code](/){:style="height: 236px; width: 236px"}
 
