@@ -73,8 +73,8 @@ Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 
 
 [Instruction_to_Candidates.pdf](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/Instructions_to_Candidates.pdf)<br>
 [Annex_C.pdf](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/Annex_C.pdf)<br>
-[Annex_D.pdf](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/Annex_D.pdf <br>
-[List_of_sites_not_to_be_selected](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/List_of_sites_not_to_be_selected.pdf<br>
+[Annex_D.pdf](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/Annex_D.pdf)<br>
+[List_of_sites_not_to_be_selected](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/List_of_sites_not_to_be_selected.pdf)<br>
 
 
 **Safety Guidelines for COVID-19**
