@@ -74,7 +74,7 @@ Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 
 [Instruction_to_Candidates.pdf]<br>
 [Annex_C.pdf]<br>
 [Annex_D.pdf] <br>
-[List_of_sites_not_to_selected]<br>
+[List_of_sites_not_to_be_selected]<br>
 
 
 **Safety Guidelines for COVID-19**
