@@ -72,6 +72,12 @@ Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 
 3\. A new examination format is now being introduced and a briefing session was held on 16 December 2021 by the Examination Committee to interested participants. I would like to bring your attention to the documents attached: 1) Instructions to Candidate (together with Annexes C and D) and 2) List of sites not to be selected. All candidates are to familiarise themselves with the requirements and format of the examinations stated therein for compliance. Attachments enclosed:
 
 
+[Instruction_to_Candidates.pdf](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/Instructions_to_Candidates.pdf)<br>
+[Annex_C.pdf](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/Annex_C.pdf)<br>
+[Annex_D.pdf](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/Annex_D.pdf)<br>
+[List_of_sites_not_to_be_selected](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/List_of_sites_not_to_be_selected.pdf)<br>
+
+
 **Safety Guidelines for COVID-19**
 
 4\. To protect candidates and members of the public, all candidates and their assistants shall adhere strictly to the prevailing safe management measures stipulated by the government/relevant authorities at all times with regards to COVID-19 during the course of the practical examination. In addition, the following guidelines shall be adhered to at all times during the period of the practical examination:<br>
