@@ -71,10 +71,10 @@ Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 
 
 3\. A new examination format is now being introduced and a briefing session was held on 16 December 2021 by the Examination Committee to interested participants. I would like to bring your attention to the documents attached: 1) Instructions to Candidate (together with Annexes C and D) and 2) List of sites not to be selected. All candidates are to familiarise themselves with the requirements and format of the examinations stated therein for compliance. Attachments enclosed:
 
-[Instruction_to_Candidates.pdf]
-[Annex_C.pdf]
-[Annex_D.pdf]
-[List_of_sites_not_to_selected}
+[Instruction_to_Candidates.pdf]<br>
+[Annex_C.pdf]<br>
+[Annex_D.pdf] <br>
+[List_of_sites_not_to_selected]<br>
 
 
 **Safety Guidelines for COVID-19**
