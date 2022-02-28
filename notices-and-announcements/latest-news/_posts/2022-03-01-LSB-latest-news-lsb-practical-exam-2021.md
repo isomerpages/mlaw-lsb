@@ -72,7 +72,7 @@ The Land Surveyors Board (LSB) Oral and Practical Examination 2022 is now open f
 [Instruction_to_Candidates.pdf](/files/Instructions_to_Candidates.pdf)<br>
 [Annex_C.pdf](/files/Annex_C.pdf)<br>
 [Annex_D.pdf](/files/Annex_D.pdf)<br>
-[List_of_sites_not_to_be_selected](/files/List_of_sites_not_to_be_selected.pdf)<br
+[List_of_sites_not_to_be_selected](/files/List_of_sites_not_to_be_selected.pdf)<br>
 
 
 **C. Safety Guidelines for COVID-19**
