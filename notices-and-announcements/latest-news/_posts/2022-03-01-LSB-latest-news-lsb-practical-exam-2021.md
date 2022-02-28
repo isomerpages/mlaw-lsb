@@ -1,19 +1,19 @@
 ---
-title: 'LSB Notice- LSB Examinations (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)'
+title: 'LSB Notice- LSB Examination (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)'
 permalink: /notices-and-announcements/notices/lsb-notice-lsb-practical-exams-to-be-held-on-monday-4-july-2022/
-breadcrumb: 'LSB NOTICE- LSB EXAMINATIONS (LAND LOT SURVEY AND STRATA SURVEY) TO BE HELD ON 4 JULY 2022 (MONDAY)'
+breadcrumb: 'LSB NOTICE- LSB EXAMINATION (LAND LOT SURVEY AND STRATA SURVEY) TO BE HELD ON 4 JULY 2022 (MONDAY)'
 date: 2022-03-01
 
 ---
 
 
-## LSB NOTICE: LSB Examinations (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)
+## LSB NOTICE: LSB Examination (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)
 
-**LSB NOTICE: LSB Examinations (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)**
+**LSB NOTICE: LSB Examination (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)**
 
-Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 2022 are now open. 
+The Land Surveyors Board (LSB) Oral and Practical Examination 2022 is now open for applications by eligible persons. 
 
-**Details**
+**A. Details**
 
 1\. The schedule is as follows:<br>
 
@@ -22,12 +22,12 @@ Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 
     <th>Subject</th>
     <th>Period of Examination</th>
     <th>Commencement (Date, Time and Place)</th>
-    <th>Closing Date of Examinations</th>
+    <th>Closing Date and Time of Examination</th>
   </tr>
   <tr>
     <td>
       <p style="font-size: 1rem;">
-        <u>Oral and Practical Examinations</u>
+        <u>Oral and Practical Examination</u>
       </p>
       <ol>
         <li style="font-size: 1rem;">Land Lot Survey</li>
@@ -65,12 +65,11 @@ Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 
   </tr>
 </table>
 
-**Changes to Practical Examinations**
+**B. Changes to Examination**
 
-2\. LSB has reviewed “LSB Notice – Land Surveyors Board Examinations to be held on Friday, 2 August 2013” and is pleased to inform that the requirement stated therein for a candidate to pass the cadastral law written examination before taking the land lot and/or strata survey subjects in the practical examinations is now removed. Candidates can apply and attempt the oral and practical examinations without first passing the cadastral law written examination with immediate effect.
+2\. The LSB has reviewed “LSB Notice – Land Surveyors Board Examinations to be held on Friday, 2 August 2013” and is pleased to inform that the requirement stated therein for a person to pass the cadastral law written examination before attempting the land lot and/or strata survey subjects is now removed. Eligible persons may apply to take the oral and practical examination without first passing the cadastral law written examination with immediate effect.
 
-3\. A new examination format is now being introduced and a briefing session was held on 16 December 2021 by the Examination Committee to interested participants. I would like to bring your attention to the documents attached: 1) Instructions to Candidate (together with Annexes C and D) and 2) List of sites not to be selected. All candidates are to familiarise themselves with the requirements and format of the examinations stated therein for compliance. Attachments enclosed:
-
+3\. A new examination format is now being introduced and a briefing session was held on 16 December 2021 by the Examination Committee to interested participants. I would like to bring your attention to the documents attached: 1) Instructions to Candidate (together with Annexes C and D) and 2) List of sites not to be selected. All candidates must familiarise themselves with the requirements and format of the examinations stated therein for compliance. Attachments enclosed:
 
 [Instruction_to_Candidates.pdf](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/Instructions_to_Candidates.pdf)<br>
 [Annex_C.pdf](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/Annex_C.pdf)<br>
@@ -78,61 +77,43 @@ Applications for the Land Surveyors Board (LSB) Oral and Practical Examinations 
 [List_of_sites_not_to_be_selected](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/List_of_sites_not_to_be_selected.pdf)<br>
 
 
-**Safety Guidelines for COVID-19**
+**C. Safety Guidelines for COVID-19**
 
-4\. To protect candidates and members of the public, all candidates and their assistants shall adhere strictly to the prevailing safe management measures stipulated by the government/relevant authorities at all times with regards to COVID-19 during the course of the practical examination. In addition, the following guidelines shall be adhered to at all times during the period of the practical examination:<br>
-
-
-
-
-- All candidate and assistants must be vaccinated. Please refer to MOH’s definition of “vaccinated”.<br>
-
-
-- All candidates must administer Antigen Rapid Test (ART) once a week throughout the exam for 8 weeks and submit the ART results to the Land Surveyors Board as specified below.<br>
-
-
-- The candidate must ensure that all assistants accompanying him/her test negative for the ART before proceeding to conduct the fieldwork with the candidate.<br>
-
-
-- Candidates must not use assistants who are already working/helping another candidate.<br>
-
-
-- Candidate and assistants must not mingle with members of public.<br>
-
-
-- Masks must be worn at all times.<br>
-
-
-- The survey team (comprising candidate and assistants) must not exceed 5 persons (or any such number of permissible persons specified by MOH’s prevailing measures with regards to group sizes on social gatherings). The 1m safe-distancing is not required within the group but they must maintain 1m distance from the shop owners and any member of the public.<br>
-
-
-- Candidate and assistants must have an active Trace-Together (TT) App with Bluetooth feature on their phones switched on or carry a working TT token throughout the entire duration of the fieldwork.<br>
-
-
-- Any person who is unwell on the actual day must not physically turn up to conduct any fieldwork.<br>
+4\. To protect candidates and members of the public, all candidates and their assistants shall adhere strictly to the prevailing safe management measures stipulated by the government/relevant authorities at all times with regards to COVID-19 during the course of the examination. In addition, the following guidelines shall be adhered to at all times during the period of examination:<br>
 
 
 
-The LSB places paramount importance on the safety of candidates and members of the public and any non-compliance with the above measures could result in a candidate with failure of the practical examination.<br>
+
+- All candidate and assistants must be vaccinated. Please refer to the definition of “vaccinated” by the Ministry of Health<br>
 
 
-**Submission of ART result**
-
-Method 1 via URL:(<https://form.gov.sg/61ee62a2d3b3e60013e07671>) <br>
-Method 2 via QR Code <br>
-![register QR code](/){:style="height: 236px; width: 236px"}
+- Candidate and assistants must not mingle with members of public<br>
 
 
-**Mode of Application**
+- Masks must be worn at all times by candidates and assistants.<br>
 
-5\. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
+
+- Candidate and assistants must have an active Trace-Together (TT) App with Bluetooth feature on their phones switched-on or carry a working TT token throughout the entire duration of the fieldwork<br>
+
+
+- Any candidate or assistant who is unwell on the actual day must not physically turn up to conduct any fieldwork<br>
+
+
+
+The LSB places paramount importance on safety and any non-compliance with the above measures could result in a candidate with failure of the examination.<br>
+
+
+
+**D. Mode of Application**
+
+5\. Eligible persons may apply for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examination as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
 Method 1 via URL: (<https://form.gov.sg/61ef41696794960014efbe6d>)<br>
 Method 2 via QR Code <br>
-![register QR code](/){:style="height: 236px; width: 236px"}
+![register QR code](/images/lsb-2022-practical-exam.jpg){:style="height: 236px; width: 236px"}
 
 
-**Modes of payment (Payment by cheque will not be accepted)**
+**E. Modes of payment (Payment by cheque will not be accepted)**
 
 6\. E-payment (Bank Transfer via Internet Banking or ATM)
 - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
@@ -145,13 +126,13 @@ Method 2 via QR Code <br>
 
 - Include your name for reference when making payment and attach the proof of payment in the online application form.
 
-**Deadline for submission**
+**F. Deadline for submission**
 
 8\. All completed applications through the online application form together with the fees to be paid must be done before the closing date of **15 March 2022**.
 
 9\. The submission of the site selection to Ms Mitsy Ng (email to: <mitsy_ng@sla.gov.sg>) must be done after **15 March 2022** and no later than **12 April 2022**.
 
-10\. I would appreciate if you could inform interested persons know the contents of this Notice. Please contact Ms Mitsy Ng (email to: <mitsy_ng@sla.gov.sg>) if you have questions on the practical examinations.
+10\. The LSB would appreciate if you could inform interested persons on the content of this LSB Notice. Please contact Ms Mitsy Ng (email to: <mitsy_ng@sla.gov.sg>) if you have questions on this examination.
 
 
 
@@ -159,4 +140,3 @@ Method 2 via QR Code <br>
 
 
  Derick Tan<br>Registrar<br>Land Surveyors Board  
-
