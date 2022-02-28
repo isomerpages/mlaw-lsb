@@ -82,16 +82,16 @@ The Land Surveyors Board (LSB) Oral and Practical Examination 2022 is now open f
 
 
 
-- All candidate and assistants must be vaccinated. Please refer to the definition of “vaccinated” by the Ministry of Health<br>
+- All candidates and assistants must be vaccinated. Please refer to the definition of “vaccinated” by the Ministry of Health<br>
 
 
-- Candidate and assistants must not mingle with members of public<br>
+- Candidates and assistants must not mingle with members of public<br>
 
 
 - Masks must be worn at all times by candidates and assistants<br>
 
 
-- Candidate and assistants must have an active Trace-Together (TT) App with Bluetooth feature on their phones switched-on or carry a working TT token throughout the entire duration of the fieldwork<br>
+- Candidates and assistants must have an active Trace-Together (TT) App with Bluetooth feature on their phones switched-on or carry a working TT token throughout the entire duration of the fieldwork<br>
 
 
 - Any candidate or assistant who is unwell on the actual day must not physically turn up to conduct any fieldwork<br>
