@@ -69,9 +69,9 @@ The Land Surveyors Board (LSB) Oral and Practical Examination 2022 is now open f
 3\. A new examination format is now being introduced and a briefing session was held on 16 December 2021 by the Examination Committee to interested participants. I would like to bring your attention to the documents attached: 1) Instructions to Candidate (together with Annexes C and D) and 2) List of sites not to be selected. All candidates must familiarise themselves with the requirements and format of the examination stated therein for compliance. Attachments enclosed:
 
 [Instruction_to_Candidates.pdf](/files/Instructions_to_Candidates.pdf)<br>
-[Annex_C.pdf](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/Annex_C.pdf)<br>
-[Annex_D.pdf](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/Annex_D.pdf)<br>
-[List_of_sites_not_to_be_selected](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/List_of_sites_not_to_be_selected.pdf)<br>
+[Annex_C.pdf](/files/Annex_C.pdf)<br>
+[Annex_D.pdf](/files/Annex_D.pdf)<br>
+[List_of_sites_not_to_be_selected](/files/List_of_sites_not_to_be_selected.pdf)<br>
 
 
 **C. Safety Guidelines for COVID-19**
