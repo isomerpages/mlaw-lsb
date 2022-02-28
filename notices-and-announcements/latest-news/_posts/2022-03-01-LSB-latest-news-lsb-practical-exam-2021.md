@@ -1,15 +1,13 @@
 ---
-title: 'LSB Notice- LSB Examination (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)'
+title: 'LSB Notice: LSB Examination (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)'
 permalink: /notices-and-announcements/notices/lsb-notice-lsb-practical-exams-to-be-held-on-monday-4-july-2022/
-breadcrumb: 'LSB NOTICE- LSB EXAMINATION (LAND LOT SURVEY AND STRATA SURVEY) TO BE HELD ON 4 JULY 2022 (MONDAY)'
+breadcrumb: 'LSB NOTICE: LSB EXAMINATION (LAND LOT SURVEY AND STRATA SURVEY) TO BE HELD ON 4 JULY 2022 (MONDAY)'
 date: 2022-03-01
 
 ---
 
 
 ## LSB Notice: LSB Examination (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)
-
-**LSB Notice: LSB Examination (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)**
 
 The Land Surveyors Board (LSB) Oral and Practical Examination 2022 is now open for applications by eligible persons. 
 
@@ -69,7 +67,7 @@ The Land Surveyors Board (LSB) Oral and Practical Examination 2022 is now open f
 
 2\. The LSB has reviewed “LSB Notice – Land Surveyors Board Examinations to be held on Friday, 2 August 2013” and is pleased to inform that the requirement stated therein for a person to pass the cadastral law written examination before attempting the land lot and/or strata survey subjects is now removed. Eligible persons may apply to take the oral and practical examination without first passing the cadastral law written examination with immediate effect.
 
-3\. A new examination format is now being introduced and a briefing session was held on 16 December 2021 by the Examination Committee to interested participants. I would like to bring your attention to the documents attached: 1) Instructions to Candidate (together with Annexes C and D) and 2) List of sites not to be selected. All candidates must familiarise themselves with the requirements and format of the examinations stated therein for compliance. Attachments enclosed:
+3\. A new examination format is now being introduced and a briefing session was held on 16 December 2021 by the Examination Committee to interested participants. I would like to bring your attention to the documents attached: 1) Instructions to Candidate (together with Annexes C and D) and 2) List of sites not to be selected. All candidates must familiarise themselves with the requirements and format of the examination stated therein for compliance. Attachments enclosed:
 
 [Instruction_to_Candidates.pdf](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/Instructions_to_Candidates.pdf)<br>
 [Annex_C.pdf](https://github.com/isomerpages/mlaw-lsb/blob/staging/files/Annex_C.pdf)<br>
