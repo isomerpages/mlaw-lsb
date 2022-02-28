@@ -110,7 +110,7 @@ The LSB places paramount importance on safety and any non-compliance with the ab
 
 Method 1 via URL: (<https://form.gov.sg/61ef41696794960014efbe6d>)<br>
 Method 2 via QR Code <br>
-![register QR code](/images/){:style="height: 236px; width: 236px"}
+![register QR code](/images/lsb-2022-practical-exam.jpg){:style="height: 236px; width: 236px"}
 
 
 **E. Modes of payment (Payment by cheque will not be accepted)**
