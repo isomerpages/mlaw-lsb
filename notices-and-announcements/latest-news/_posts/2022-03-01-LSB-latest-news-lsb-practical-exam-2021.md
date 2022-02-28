@@ -7,7 +7,6 @@ date: 2022-03-01
 ---
 
 
-**LSB Notice: LSB Examination (Land Lot Survey and Strata Survey) to be held on 4 July 2022 (Monday)**
 
 The Land Surveyors Board (LSB) Oral and Practical Examination 2022 is now open for applications by eligible persons. 
 
