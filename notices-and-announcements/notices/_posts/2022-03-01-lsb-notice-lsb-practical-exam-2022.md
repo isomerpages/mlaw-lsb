@@ -22,7 +22,7 @@ The Land Surveyors Board (LSB) Oral and Practical Examination 2022 is now open f
     <th>Subject</th>
     <th>Period of Examination</th>
     <th>Commencement (Date, Time and Place)</th>
-    <th>Closing Date and time of Examination</th>
+    <th>Closing Date and Time of Examination</th>
   </tr>
   <tr>
     <td>
@@ -67,7 +67,7 @@ The Land Surveyors Board (LSB) Oral and Practical Examination 2022 is now open f
 
 **B. Changes to Examination**
 
-2\. The LSB has reviewed “LSB Notice – Land Surveyors Board Examinations to be held on Friday, 2 August 2013” and is pleased to inform that the requirement stated therein for a person to pass the cadastral law written examination before attempting the land lot and/or strata survey subjects is now removed. Elgible persons may apply to take the oral and practical examinations without first passing the cadastral law written examination with immediate effect.
+2\. The LSB has reviewed “LSB Notice – Land Surveyors Board Examinations to be held on Friday, 2 August 2013” and is pleased to inform that the requirement stated therein for a person to pass the cadastral law written examination before attempting the land lot and/or strata survey subjects is now removed. Eligible persons may apply to take the oral and practical examination without first passing the cadastral law written examination with immediate effect.
 
 3\. A new examination format is now being introduced and a briefing session was held on 16 December 2021 by the Examination Committee to interested participants. I would like to bring your attention to the documents attached: 1) Instructions to Candidate (together with Annexes C and D) and 2) List of sites not to be selected. All candidates must familiarise themselves with the requirements and format of the examinations stated therein for compliance. Attachments enclosed:
 
@@ -93,7 +93,7 @@ The Land Surveyors Board (LSB) Oral and Practical Examination 2022 is now open f
 - Masks must be worn at all times by candidates and assistants.<br>
 
 
-- Candidate and assistants must have an active Trace-Together (TT) App with Bluetooth feature on their phones switched on or carry a working TT token throughout the entire duration of the fieldwork<br>
+- Candidate and assistants must have an active Trace-Together (TT) App with Bluetooth feature on their phones switched-on or carry a working TT token throughout the entire duration of the fieldwork<br>
 
 
 - Any candidate or assistant who is unwell on the actual day must not physically turn up to conduct any fieldwork<br>
