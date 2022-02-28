@@ -90,7 +90,7 @@ The Land Surveyors Board (LSB) Oral and Practical Examination 2022 is now open f
 - Candidate and assistants must not mingle with members of public<br>
 
 
-- Masks must be worn at all times by candidates and assistants.<br>
+- Masks must be worn at all times by candidates and assistants<br>
 
 
 - Candidate and assistants must have an active Trace-Together (TT) App with Bluetooth feature on their phones switched-on or carry a working TT token throughout the entire duration of the fieldwork<br>
