@@ -1,0 +1,5 @@
+collections:
+  forms:
+    output: true
+    order:
+      - forms.md

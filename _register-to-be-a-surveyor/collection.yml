@@ -1,0 +1,11 @@
+collections:
+  register-to-be-a-surveyor:
+    output: true
+    order:
+      - overview.md
+      - applying-for-a-practising-certificate.md
+      - applying-for-a-licence.md
+      - professional-practice-examination.md
+      - education-qualifications.md
+      - professional-interview.md
+      - applying-for-a-certificate-of-registration.md
