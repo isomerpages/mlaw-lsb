@@ -1,0 +1,13 @@
+collections:
+  guidelines-and-policies:
+    output: true
+    order:
+      - land-surveyors-act.md
+      - directives.md
+      - circulars.md
+      - cpd.md
+      - Disciplinary Cases/.keep
+      - Disciplinary Cases/2018.md
+      - Disciplinary Cases/2017.md
+      - Disciplinary Cases/2015.md
+      - Disciplinary Cases/2008.md

@@ -1,0 +1,6 @@
+collections:
+  find-a-surveyor:
+    output: true
+    order:
+      - list-of-licensed-companies.md
+      - list-of-practising-registered-surveyors-their-companies.md

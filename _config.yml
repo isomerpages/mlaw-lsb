@@ -3,27 +3,9 @@ description: Description
 url: 'https://lsb.mlaw.gov.sg'
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
 paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
-collections:
-    about-us:
-        output: true
-    find-a-surveyor:
-        output: true
-    register-to-be-a-surveyor:
-        output: true
-    guidelines-and-policies:
-        output: true
-    forms:
-        output: true
-    circular:
-        output: true
 future: true
 resources_name: notices-and-announcements
 favicon: /images/favicon-lsb.ico
@@ -31,8 +13,16 @@ google-analytics: UA-10405444-17
 permalink: none
 baseurl: ""
 defaults:
-    -
-        scope:
-            path: ""
-        values:
-            layout: page
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
+staging: https://mlaw-lsb-staging.netlify.app
+prod: https://mlaw-lsb-prod.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
