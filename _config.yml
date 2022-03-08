@@ -13,8 +13,7 @@ google-analytics: UA-10405444-17
 permalink: none
 baseurl: ""
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: page
