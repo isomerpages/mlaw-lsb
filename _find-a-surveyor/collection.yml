@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - list-of-licensed-companies.md
-      - list-of-practising-registered-surveyors-their-companies.md
+      - List of Practising Registered Surveyors & their Companies.md
       - List of Suspended Registered Surveyors.md
