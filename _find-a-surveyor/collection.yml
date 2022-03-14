@@ -2,5 +2,6 @@ collections:
   find-a-surveyor:
     output: true
     order:
+      - List of Suspended Registered Surveyors.md
       - list-of-licensed-companies.md
       - list-of-practising-registered-surveyors-their-companies.md
