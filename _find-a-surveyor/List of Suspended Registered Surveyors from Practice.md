@@ -3,8 +3,6 @@ title: List of Suspended Registered Surveyors from Practice
 permalink: /find-a-surveyor/list-of-suspended-registered-surveyors-from-practice/
 description: ""
 ---
-
-
 <table>
 		<tr>
 			<th>Name</th>
@@ -13,10 +11,9 @@ description: ""
 			<th>Period of Suspension</th>
 	</tr>
 	<tr>
-		<th>ABC</th>
-		<th> 00</th>
-		<th> xxx co.<br>
-			00 Test Street oo <br>
-			#00-00 Test Bldg <br>
-			Singapore 00000 <br>
-		<th> xx Jan 2022 - yy Jan 2023 <br>
+		<th>Koh Thong Sia </th>
+		<th> 100</th>
+		<th> Firmament Survey<br>
+			103B Depot Road #18-537<br>
+			Singapore 102103<br>
+		<th> 27 March 2022 - 27 March 2023 <br>
