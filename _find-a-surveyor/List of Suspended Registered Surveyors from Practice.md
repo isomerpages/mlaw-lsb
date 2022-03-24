@@ -16,4 +16,4 @@ description: ""
 		<th> Firmament Survey<br>
 			103B Depot Road #18-537<br>
 			Singapore 102103<br>
-		<th> 27 March 2022 - 27 March 2023 <br>
+		<th> 27 March 2022 - 26 March 2023 <br>
