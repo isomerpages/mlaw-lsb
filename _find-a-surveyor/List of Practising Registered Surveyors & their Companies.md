@@ -4,9 +4,6 @@ permalink: /find-a-surveyor/list-of-practising-registered-surveyors/
 breadcrumb: List of Practising Registered Surveyors & their Companies
 description: ""
 ---
-
-
-
 <style>
 ol{
     list-style: none;
@@ -237,15 +234,6 @@ ol{
         #08-17 Cititech Industrial Building<br>
         Singapore 389838<br>
         Tel: 68484224</td>
-  </tr>
-  <tr>
-    <td><a name="K"></a>Koh Thong Sia</td>
-    <td>100</td>
-    <td>
-        Firmament Survey<br>
-        103B Depot Road #18-537<br>
-        Singapore 102103<br>
-        Tel: 62750102</td>
   </tr>
   <tr>
     <td><a name="L"></a>Lau Hua Peng</td>
