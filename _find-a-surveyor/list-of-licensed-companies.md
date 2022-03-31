@@ -1,11 +1,8 @@
 ---
-title: 'List of Licensed Companies'
+title: List of Licensed Companies
 permalink: /find-a-surveyor/list-of-licensed-companies/
-breadcrumb: 'List of Licensed Companies'
-
+breadcrumb: List of Licensed Companies
 ---
-
-
 <style>
 ol{
     list-style: none;
@@ -117,14 +114,6 @@ ol{
         #05-02, Wedge Mount Industrial Building<br>
         Singapore 577176<br>
         Tel: 63545950</td>
-  </tr>
-  <tr>
-    <td><a id="H"></a>HKS SURVEYORS PTE LTD</td>
-    <td>
-        8 Ubi Road 2 #05-10<br>
-        Zervex<br>
-        Singapore 408538<br>
-        Tel: 62817122</td>
   </tr>
   <tr>
     <td><a id="J"></a>J K FOO CONSORTIUM PTE LTD</td>
