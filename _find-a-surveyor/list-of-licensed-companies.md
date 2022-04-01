@@ -168,7 +168,7 @@ ol{
 		<td>
 			28, Sin Ming Lane, #04-146 Midview City<br>
 			Singapore 573972<br>
-			Tel: </td>
+			Tel: 62941785</td>
 	</tr>
 	<tr>
     <td><a id="S"></a>SURBANA JURONG CONSULTANTS PTE LTD</td>
