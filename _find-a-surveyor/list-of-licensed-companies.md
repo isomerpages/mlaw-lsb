@@ -164,6 +164,12 @@ ol{
         Tel: 63052743</td>
   </tr>
   <tr>
+	<td><a id="S"></a> S L K ENGINEERING & CONSULTANTS PTE LTD</td>
+		<td>
+			28, Sin Ming Lane, #04-146 Midview City<br>
+			Singapore 573972<br>
+		</tr>
+		<tr>
     <td><a id="S"></a>SURBANA JURONG CONSULTANTS PTE LTD</td>
     <td>
         168 Jalan Bukit Merah<br>
