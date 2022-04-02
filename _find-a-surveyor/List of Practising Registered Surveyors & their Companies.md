@@ -658,11 +658,11 @@ ol{
     <td><a name="Y"></a>Yong Ser Joo</td>
     <td>95</td>
     <td>
-        Precision Survey Consultants Pte Ltd<br>
-        7 Gambas Crescent<br>
-        #08-17 Ark@Gambas<br>
-        Singapore 757087<br>
-        Tel: 62996663</td>
+        S LK Engineering & Consultants Pte Ltd<br>
+        28 Sin Ming Lane<br>
+        #04-146 Midview City<br>
+        Singapore 573972<br>
+        Tel: 62941785</td>
   </tr>     
 </table><br>
 
