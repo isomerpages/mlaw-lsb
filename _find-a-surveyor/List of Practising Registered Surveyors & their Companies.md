@@ -658,7 +658,7 @@ ol{
     <td><a name="Y"></a>Yong Ser Joo</td>
     <td>95</td>
     <td>
-        S LK Engineering & Consultants Pte Ltd<br>
+        S L K Engineering & Consultants Pte Ltd<br>
         28 Sin Ming Lane<br>
         #04-146 Midview City<br>
         Singapore 573972<br>
