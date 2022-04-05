@@ -67,9 +67,9 @@ ol{
   <li>|</li>
   <li><a href="#Z">Z </a></li>
 </ol><br>
-<th> **Interpretation**</th>
+<th> **Interpretation**</br>
 	
-	   "Licensed", in relation to a corporation, partnership or limited liability partnership which has in force a licence.
+"Licensed", in relation to a corporation, partnership or limited liability partnership which has in force a licence.
 	</tr>
 	<tr>
 <table>
