@@ -68,8 +68,8 @@ ol{
   <li><a href="#Z">Z </a></li>
 </ol><br>
 Interpretation from the Land Surveyors Act 1991<br>
-<th>"Licensed", in relation to a corporation, partnership or limited liability partnership which has in force a licence.</th><br>
-<br>
+<th>"Licensed", in relation to a corporation, partnership or limited liability partnership which has in force a licence.<br>
+
 
 <table>
     <tr>
