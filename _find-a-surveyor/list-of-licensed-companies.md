@@ -70,8 +70,7 @@ ol{
 <th> **Interpretation**</br>
 	
 "Licensed", in relation to a corporation, partnership or limited liability partnership which has in force a licence.
-	</tr>
-	<tr>
+	
 <table>
     <tr>
     <tr>
