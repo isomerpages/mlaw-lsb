@@ -17,7 +17,7 @@ breadcrumb: Circulars
 		<td>
 	</tr>
 	<tr>
-    <td>Circular 2/2018</td>
+    <td> Circular 2/2018</td>
     <td>30 Nov 2018</td>
     <td><a href="/files/LSBCir2-2018_AWARENESSONADOPTIONOFNEWTECHNOLOGIES.pdf">(191KB)</a></td>
   </tr>
