@@ -71,9 +71,7 @@ ol{
 </ol><br>
 Interpretation from the Land Surveyors Act 1991<br>
 <th>"registered surveyor" means a person registered as a land surveyor under section 12 of the Act.<br>
-
-	
-	
+<br>	
 <table>
     <tr>    
     <th>Name</th>
