@@ -14,7 +14,7 @@ breadcrumb: Circulars
   <tr>
 		<td> Circular 1/2022</td>
 		<td> 8 Apr 2022</td>
-		<td><a href="/files/LSB_Circular_1-2022_with_LSB_logo.pdf"></a></td>
+		<td><a href="/files/LSB_Circular_1-2022_CPD_Publication.pdf"></a></td>
 	</tr>
 	<tr>
     <td> Circular 2/2018</td>
