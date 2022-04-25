@@ -1,13 +1,12 @@
 ---
-title: 'Annual Reports'
+title: Annual Reports
 permalink: /about-us/annual-reports/
-breadcrumb: 'Annual Reports'
-
+breadcrumb: Annual Reports
 ---
-
-
 ## ANNUAL REPORTS
 
+[Land Surveyors Board: 2021 Annual Report](/files/LSB_AR_2021.pdf)
+<br>
 [Land Surveyors Board : 2020 Annual Report](/files/LSBAnnualReport2020.pdf)<br>
 [Land Surveyors Board : 2019 Annual Report](/files/LSBAnnualReport2019.pdf){:target="_blank"}(3MB)<br>
 [Land Surveyors Board : 2018 Annual Report](/files/LSBAnnualReport2018-Approved.pdf){:target="_blank"}(3MB)<br>
