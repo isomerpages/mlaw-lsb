@@ -67,7 +67,9 @@ ol{
   <li>|</li>
   <li><a href="#Z">Z </a></li>
 </ol><br>
+Note: This list refers to Licenses issued by the Land Surveyors Board under section 17 of the Land Surveyors Act 1991.</th>
 
+<td>
 <table>
     <tr>
     <tr>
