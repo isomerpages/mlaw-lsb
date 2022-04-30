@@ -12,7 +12,7 @@ ol{
     display: inline;
   }
  </style>
-## List of Licensed Companies
+## List of Corporations, Partnerships and Limited Liability Partnerships
 
 <ol>
   <li><a href="#A">A </a></li>
