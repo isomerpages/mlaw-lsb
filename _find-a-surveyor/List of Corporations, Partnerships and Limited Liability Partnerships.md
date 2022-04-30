@@ -4,7 +4,6 @@ permalink: /find-a-surveyor/list-of-corporations-partnerships-limited-liability-
 breadcrumb: List of Licensed Companies
 description: ""
 ---
-
 <style>
 ol{
     list-style: none;
@@ -69,7 +68,7 @@ ol{
   <li>|</li>
   <li><a href="#Z">Z </a></li>
 </ol><br>
-Note: This list refers to Licenses issued by the Land Surveyors Board under section 17 of the Land Surveyors Act 1991.</th>
+Note: This list refers to Licenses issued by the Land Surveyors Board under section 17 of the Land Surveyors Act 1991.
 
 <td>
 <table>
