@@ -14,7 +14,7 @@ ol{
    }
  </style>
  
-## List of Practising Registered Surveyors & their Companies
+## List of Practising Registered Surveyors
 
 <ol>
   <li><a href="#A">A </a></li>
