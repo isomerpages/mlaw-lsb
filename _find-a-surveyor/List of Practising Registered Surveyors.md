@@ -4,7 +4,6 @@ permalink: /find-a-surveyor/list-of-practising-registered-surveyors/
 breadcrumb: List of Practising Registered Surveyors & their Companies
 description: ""
 ---
-
 <style>
 ol{
     list-style: none;
@@ -74,7 +73,7 @@ ol{
     <tr>    
     <th>Name</th>
     <th>Registration Number</th>
-    <th>Principal Business Address</th>
+    <th>Name of Practice/Employer</th>
   </tr>
   <tr>
       <td><a name="A"></a>Ang Phar Teng</td>
