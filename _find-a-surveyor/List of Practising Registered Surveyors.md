@@ -68,8 +68,8 @@ ol{
   <li><a href="#Y">Y </a></li>
   <li>|</li>
   <li><a href="#Z">Z </a></li>
-	
-Note:This list refers to practising certificates issued by the Land Surveyors Board under section 15 of the Land Surveyors Act 1991 to registered surveyors to engage in survey work in Singapore.
+	</ol><br>
+  Note:This list refers to practising certificates issued by the Land Surveyors  Board under section 15 of the Land Surveyors Act 1991 to registered surveyors to engage in survey work in Singapore.
 <table>
     <tr>    
     <th>Name</th>
