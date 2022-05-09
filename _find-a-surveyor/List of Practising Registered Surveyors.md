@@ -1,7 +1,6 @@
 ---
 title: List of Practising Registered Surveyors
 permalink: /find-a-surveyor/list-of-practising-registered-surveyors/
-breadcrumb: List of Practising Registered Surveyors & their Companies
 description: ""
 ---
 <style>
