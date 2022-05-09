@@ -1,7 +1,7 @@
 ---
-title: List of Licensed Companies
-permalink: /find-a-surveyor/list-of-licensed-companies/
-breadcrumb: List of Licensed Companies
+title: List of Corporations, Partnerships and Limited Liability Partnerships
+permalink: /find-a-surveyor/list-of-corporations-partnerships-limited-liability-partnerships/
+description: ""
 ---
 <style>
 ol{
@@ -12,7 +12,7 @@ ol{
     display: inline;
   }
  </style>
-## List of Licensed Companies
+## List of Corporations, Partnerships and Limited Liability Partnerships
 
 <ol>
   <li><a href="#A">A </a></li>
@@ -67,7 +67,9 @@ ol{
   <li>|</li>
   <li><a href="#Z">Z </a></li>
 </ol><br>
+Note: This list refers to licenses issued by the Land Surveyors Board under section 17 of the Land Surveyors Act 1991.
 
+<td>
 <table>
     <tr>
     <tr>

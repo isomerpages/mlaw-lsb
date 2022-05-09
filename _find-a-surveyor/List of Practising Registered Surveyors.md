@@ -1,7 +1,6 @@
 ---
-title: List of Practising Registered Surveyors & their Companies
+title: List of Practising Registered Surveyors
 permalink: /find-a-surveyor/list-of-practising-registered-surveyors/
-breadcrumb: List of Practising Registered Surveyors & their Companies
 description: ""
 ---
 <style>
@@ -14,7 +13,7 @@ ol{
    }
  </style>
  
-## List of Practising Registered Surveyors & their Companies
+## List of Practising Registered Surveyors
 
 <ol>
   <li><a href="#A">A </a></li>
@@ -68,12 +67,13 @@ ol{
   <li><a href="#Y">Y </a></li>
   <li>|</li>
   <li><a href="#Z">Z </a></li>
-</ol><br>
+	</ol><br>
+  Note:This list refers to practising certificates issued by the Land Surveyors  Board under section 15 of the Land Surveyors Act 1991 to registered surveyors to engage in survey work in Singapore.
 <table>
     <tr>    
     <th>Name</th>
     <th>Registration Number</th>
-    <th>Principal Business Address</th>
+    <th>Name of Practice/Employer</th>
   </tr>
   <tr>
       <td><a name="A"></a>Ang Phar Teng</td>
