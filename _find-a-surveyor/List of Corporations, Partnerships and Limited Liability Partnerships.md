@@ -1,7 +1,6 @@
 ---
 title: List of Corporations, Partnerships and Limited Liability Partnerships
 permalink: /find-a-surveyor/list-of-corporations-partnerships-limited-liability-partnerships/
-breadcrumb: List of Licensed Companies
 description: ""
 ---
 
