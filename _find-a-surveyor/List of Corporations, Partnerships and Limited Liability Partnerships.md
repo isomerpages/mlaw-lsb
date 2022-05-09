@@ -3,8 +3,6 @@ title: List of Corporations, Partnerships and Limited Liability Partnerships
 permalink: /find-a-surveyor/list-of-corporations-partnerships-limited-liability-partnerships/
 description: ""
 ---
-
-
 <style>
 ol{
     list-style: none;
@@ -69,7 +67,7 @@ ol{
   <li>|</li>
   <li><a href="#Z">Z </a></li>
 </ol><br>
-Note: This list refers to Licenses issued by the Land Surveyors Board under section 17 of the Land Surveyors Act 1991.
+Note: This list refers to licenses issued by the Land Surveyors Board under section 17 of the Land Surveyors Act 1991.
 
 <td>
 <table>
