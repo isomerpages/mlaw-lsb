@@ -19,5 +19,9 @@ Subject: Written  Examination (Cadastral Law)<br>
 Date: 10 October 2022 (Monday)<br>
 Time: 9:00 am - 12.00 pm (3 hours) <br>
 Venue: Singapore Land Authority, Training Rooms, level 13<br>
-
 Revenue House<br>
+55 Newton Road<br>
+Singapore 307987<br>
+
+**Mode of Application**
+2. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
