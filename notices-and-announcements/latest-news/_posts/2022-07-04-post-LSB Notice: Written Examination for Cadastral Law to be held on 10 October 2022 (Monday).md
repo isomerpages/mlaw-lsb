@@ -9,7 +9,7 @@ description: ""
 ## LSB Notice: Written Examination for Cadastral Law to be held on 10 October 2022 (Monday)
 
 
-Application for the Land Surveyors Board (LSB) Written Examination is now opened.
+Application for the Land Surveyors Board (LSB) Written Examination 2022 is now opened.
 
 **Details**
 1. The examination is scheduled to be held as follows:<br>
