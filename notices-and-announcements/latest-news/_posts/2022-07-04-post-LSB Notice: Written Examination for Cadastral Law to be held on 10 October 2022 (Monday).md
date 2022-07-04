@@ -26,10 +26,26 @@ Application for the Land Surveyors Board (LSB) Written Examination is now opened
 	 <td>
 		 <p style="font-size: 1rem;">
 			 <u>Written Exam</u>
-		 </p>
-		 <ol> 
-			 <p style="font-size: 1rem;">Cadastral Law
-
+	</ol>
+	 <p style="font-size: 1rem;">Cadastral Law</p>
+	</td>
+	<td>
+		<p style= "font -size: 1rem;">
+			10 October 2022 (Monday)</p>
+	</td>
+	<td>
+		<p style= "font-size: 1rem;">
+			9.00 am - 12.00pm (3 hours)</p>
+	</td>
+	<td>
+		<p style= "font-size: 1rem;">
+			Singapore Land Authority<br>
+			Training Rooms Level 13<br>
+			Revenue House <br>
+			55 Newton Road <br>
+			Singapore 307987
+	</td>
+	<td>
 
 **Mode of Application**<br>
 2. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
