@@ -68,7 +68,7 @@ Method 2 via QR code:
 **Deadline for submission**<br>
 5. All completed applications and fees through the online application form must reach us by the closing date of **5 August 2022**<br>
 
-6. If you have questions pertaining to this Notice, please contact Ms Ng Mitsy at <mitsy_ng@sla.gov.sg>
+6. If you have questions pertaining to this Notice, please contact Ms Ng Mitsy at <mitsy_ng@sla.gov.sg><br>
 
 Regards<br>
 Derick Tan<br>
