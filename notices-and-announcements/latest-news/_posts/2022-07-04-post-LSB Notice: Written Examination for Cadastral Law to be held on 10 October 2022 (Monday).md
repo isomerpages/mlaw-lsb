@@ -15,13 +15,21 @@ Application for the Land Surveyors Board (LSB) Written Examination is now opened
 **Details**
 1. The examination is scheduled to be held as follows:<br>
 
-Subject: Written  Examination (Cadastral Law)<br>
-Date: 10 October 2022 (Monday)<br>
-Time: 9:00 am - 12.00 pm (3 hours) <br>
-Venue: Singapore Land Authority, Training Rooms, level 13<br>
-Revenue House<br>
-55 Newton Road<br>
-Singapore 307987<br>
+<table>
+	<tbody><tr>
+		<th>Subject</th>
+		<th>Date</th>
+		<th>Time</th>
+		<th>Venue
+	</th></tr>
+ <tr>
+	 <td>
+		 <p style="font-size: 1rem;">
+			 <u>Written Exam</u>
+		 </p>
+		 <ol> 
+			 <p style="font-size: 1rem;">Cadastral Law
+
 
 **Mode of Application**<br>
 2. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
@@ -44,9 +52,9 @@ Method 2 via QR code:
 **Deadline for submission**<br>
 5. All completed applications and fees through the online application form must reach us by the closing date of **5 August 2022**<br>
 
-6. If you have questions pertaining to this Notice, please contact Ms Ng Mitsy at (<mitsy_ng@sla.gov.sg>)
+6. If you have questions pertaining to this Notice, please contact Ms Ng Mitsy at ()
 
 Regards<br>
 Derick Tan<br>
 Registrar <br>
-Lan Surveyors Board
+Lan Surveyors Board</p></ol></td></tr></tbody></table>
