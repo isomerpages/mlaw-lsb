@@ -22,7 +22,7 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
 	 <td>
 		 <p style="font-size: 1rem;">
 			 <u>Written Exam</u>
-	</ol>
+	</p>
 	 <p style="font-size: 1rem;">Cadastral Law</p>
 	</td>
 	<td>
