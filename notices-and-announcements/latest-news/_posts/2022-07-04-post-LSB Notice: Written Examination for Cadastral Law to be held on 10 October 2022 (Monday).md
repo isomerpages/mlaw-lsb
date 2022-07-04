@@ -43,9 +43,11 @@ Application for the Land Surveyors Board (LSB) Written Examination is now opened
 			Training Rooms Level 13<br>
 			Revenue House <br>
 			55 Newton Road <br>
-			Singapore 307987
+			Singapore 307987</b>
+	</p>
 	</td>
-	<td>
+	</tr>
+	</table>
 
 **Mode of Application**<br>
 2. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
