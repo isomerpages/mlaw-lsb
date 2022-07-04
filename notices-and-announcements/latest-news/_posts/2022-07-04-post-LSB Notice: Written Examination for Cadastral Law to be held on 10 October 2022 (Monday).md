@@ -40,3 +40,13 @@ Method 2 via QR code:
 - You can make PayNow payments to LSB through UEN number **T08GB0026H** or scan the QR code below.<br>
 
 - Include your name for reference when making payment and attach the proof of payment in the online application form.<br>
+
+**Deadline for submission**<br>
+5. All completed applications and fees through the online application form must reach us by the closing date of **5 August 2022**<br>
+
+6. If you have questions pertaining to this Notice, please contact Ms Ng Mitsy at (<mitsy_ng@sla.gov.sg>)
+
+Regards<br>
+Derick Tan<br>
+Registrar <br>
+Lan Surveyors Board
