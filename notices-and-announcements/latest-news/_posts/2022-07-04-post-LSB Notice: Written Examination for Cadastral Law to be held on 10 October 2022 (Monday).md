@@ -9,7 +9,7 @@ description: ""
 Application for the Land Surveyors Board (LSB) Written Examination 2022 is now opened.
 
 **Details**<br>
-1. The examination is scheduled to be held as follows:<br>
+1\. The examination is scheduled to be held as follows:<br>
 
 <table>
 	<tr>
@@ -46,7 +46,7 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
 	</table>
 
 **Mode of Application**<br>
-2. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
+2\. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by accessing the link below. Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
 **Assessing the Examination Application Form**<br>
 Method 1 via URL:
@@ -55,11 +55,11 @@ Method 2 via QR code:
 
 **Mode of payment (Payment by cheque will not be accepted)<br>
 
-3. E-payment (Bank Transfer via internet Banking or ATM)<br>
+3\. E-payment (Bank Transfer via internet Banking or ATM)<br>
 - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**<br>
 - Attach the proof of the bank transfer transaction record/receipt in the online application form. <br>
 
-4. PayNow<br>
+4\. PayNow<br>
 - You can make PayNow payments to LSB through UEN number **T08GB0026H** or scan the QR code below.<br>
 
 
@@ -67,9 +67,9 @@ Method 2 via QR code:
 
 **Deadline for submission**<br>
 
-5. All completed applications and fees through the online application form must reach us by the closing date of **5 August 2022**.<br>
+5\. All completed applications and fees through the online application form must reach us by the closing date of **5 August 2022**.<br>
 
-6. If you have questions pertaining to this Notice, please contact Ms Mitsy Ng at <mitsy_ng@sla.gov.sg><br>
+6\. If you have questions pertaining to this Notice, please contact Ms Mitsy Ng at <mitsy_ng@sla.gov.sg><br>
 
 Regards<br>
 Derick Tan<br>
