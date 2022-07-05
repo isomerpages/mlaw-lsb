@@ -8,7 +8,7 @@ description: ""
 ---
 Application for the Land Surveyors Board (LSB) Written Examination 2022 is now opened.
 
-**Details**
+**Details**<br>
 1\. The examination is scheduled to be held as follows:<br>
 
 <table>
@@ -21,12 +21,12 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
  <tr>
 	 <td>
 		 <p style="font-size: 1rem;">
-			 <u>Written Exam</u>
+			 <u>Written Examination</u>
 	</p>
 	 <p style="font-size: 1rem;">Cadastral Law</p>
 	</td>
 	<td>
-		<p style= "font -size: 1rem;">
+		<p style= "font-size: 1rem;">
 			10 October 2022 (Monday)</p>
 	</td>
 	<td>
@@ -68,7 +68,7 @@ Method 2 via QR code:
 **Deadline for submission**<br>
 5. All completed applications and fees through the online application form must reach us by the closing date of **5 August 2022**<br>
 
-6. If you have questions pertaining to this Notice, please contact Ms Ng Mitsy at <mitsy_ng@sla.gov.sg><br>
+6. If you have questions pertaining to this Notice, please contact Ms Mitsy Ng at <mitsy_ng@sla.gov.sg><br>
 
 Regards<br>
 Derick Tan<br>
