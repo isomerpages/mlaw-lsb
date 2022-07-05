@@ -39,7 +39,7 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
 			Training Rooms Level 13<br>
 			Revenue House <br>
 			55 Newton Road <br>
-			Singapore 307987</b>
+			Singapore 307987<br>
 	</p>
 	</td>
 	</tr>
