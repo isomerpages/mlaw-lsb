@@ -57,19 +57,19 @@ Method 2 via QR code:
 
 3\. E-payment (Bank Transfer via internet Banking or ATM)<br>
 - Transfer the amount to LSB corporate account number **UOB 201-319-249-0**<br>
-- Attach the proof of the bank transfer transaction record/receipt in the online application form. <br>
+- Attach the proof of the bank transfer transaction record/receipt in the online application form <br>
 
 4\. PayNow<br>
 - You can make PayNow payments to LSB through UEN number **T08GB0026H** or scan the QR code below.<br>
 
 
-- Include your name for reference when making payment and attach the proof of payment in the online application form.<br>
+- Include your name for reference when making payment and attach the proof of payment in the online application form<br>
 
 **Deadline for submission**<br>
 
 5\. All completed applications and fees through the online application form must reach us by the closing date of **5 August 2022**.<br>
 
-6\. If you have questions pertaining to this Notice, please contact Ms Mitsy Ng at <mitsy_ng@sla.gov.sg><br>
+6\. If you have questions pertaining to this Notice, please contact Ms Mitsy Ng at <mitsy_ng@sla.gov.sg>.<br>
 
 Regards<br>
 Derick Tan<br>
