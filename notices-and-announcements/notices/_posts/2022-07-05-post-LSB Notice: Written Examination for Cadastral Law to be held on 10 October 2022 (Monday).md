@@ -6,3 +6,20 @@ date: 2022-07-05
 layout: post
 description: ""
 ---
+Application for the Land Surveyors Board (LSB) Written Examination 2022 is now opened.
+
+**Details** <br>
+1. The examination is scheduled to be held as follows:<br>
+
+<table>
+	<tr>
+		<th>Subject</th>
+		<th>Date</th>
+		<th>Time</th>
+		<th>Venue</th>
+	</tr>
+	<tr>
+		<td>
+			<p style="font-size:1rem;">
+				<u>Written Examination</u>
+		</p>
