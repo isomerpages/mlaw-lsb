@@ -60,7 +60,7 @@ Method 2 via QR code:
 - Attach the proof of the bank transfer transaction record/receipt in the online application form <br>
 
 4\. PayNow<br>
-- You can make PayNow payments to LSB through UEN number **T08GB0026H** or scan the QR code below.<br>
+- You can make PayNow payments to LSB through UEN number **T08GB0026H** or scan the QR code below<br>
 
 
 - Include your name for reference when making payment and attach the proof of payment in the online application form<br>
