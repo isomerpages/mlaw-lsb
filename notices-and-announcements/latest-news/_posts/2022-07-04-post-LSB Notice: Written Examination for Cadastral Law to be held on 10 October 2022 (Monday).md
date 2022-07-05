@@ -52,7 +52,7 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
 Method 1 via URL:
 (<https://form.gov.sg/#!/62b983296bf2960014cf2bde>)<br>
 
-Method 2 via QR code:
+Method 2 via QR code:![register QR code](/images/lsb-cada-law-2022.png){:style="height:236px; width: 236px"}
 
 **Mode of payment (Payment by cheque will not be accepted)**<br>
 3\. E-payment (Bank Transfer via internet Banking or ATM)<br>
