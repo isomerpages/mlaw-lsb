@@ -45,6 +45,7 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
 	</tr>
 	</tbody></table>
 	
+	
 	**Mode of Application**<br>
 	2. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by acessing the link below. Candidates are responsible for
 understanding and complying with the rules governing the examination as set out in Part IV (Examinations) of the Land Surveyors Rules.
