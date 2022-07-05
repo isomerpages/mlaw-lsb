@@ -31,7 +31,7 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
 	</td>
 	<td>
 		<p style= "font-size: 1rem;">
-			9.00 am - 12.00pm (3 hours)</p>
+			9.00 am - 12.00 pm (3 hours)</p>
 	</td>
 	<td>
 		<p style= "font-size: 1rem;">
