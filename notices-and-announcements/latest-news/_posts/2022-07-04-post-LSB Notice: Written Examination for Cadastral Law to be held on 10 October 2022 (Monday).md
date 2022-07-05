@@ -50,6 +50,7 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
 
 **Assessing the Examination Application Form**<br>
 Method 1 via URL:
+(<https://form.gov.sg/#!/62b983296bf2960014cf2bde>)<br>
 
 Method 2 via QR code:
 
