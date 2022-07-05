@@ -9,7 +9,7 @@ description: ""
 Application for the Land Surveyors Board (LSB) Written Examination 2022 is now opened.
 
 **Details** <br>
-1. The examination is scheduled to be held as follows:<br>
+1\. The examination is scheduled to be held as follows:<br>
 
 <table>
 	<tbody><tr>
@@ -47,7 +47,7 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
 	
 	
 **Mode of Application** <br>
-	2. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by acessing the link below. Candidates are responsible for
+2\. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by acessing the link below. Candidates are responsible for
 understanding and complying with the rules governing the examination as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
 **Assessing the Examination Application Form**<br>
@@ -56,23 +56,21 @@ Method 1 via URL:
 Method 2 via QR code:
 
 **Mode of payment (Payment by cheque will not be accepted)** <br>
-3. E-payment (Bank Transfer via Internet Banking or ATM) <br>
+3\. E-payment (Bank Transfer via Internet Banking or ATM) <br>
 - Transfer the amount to LSB corporate account number **UOB 209-319-249-0**<br>
 - Attach the proof of the bank transfer transaction record/receipt in the online application form.
 
-4. PayNow <br>
+4\. PayNow <br>
 - You can make PayNow payments to LSB through UEN number **T08GB0026H** or scan the QR code below<br>
-![register QR code](/images/LSB_paynow_qr_code.jpg)
-{:style="height: 236px; width: 236px"}
 
 - Include your name for reference when making payment and attach the proof of payment in the online application form.
 
 **Deadline for submission**<br>
-5. All completed applications and fees through the online application form must reach us by the closing date of **5 August 2022**<br>
+5\. All completed applications and fees through the online application form must reach us by the closing date of **5 August 2022**<br>
 
-6. If you have questions pertaining to this Notice, please contact Ms Mitsy Ng at <mitsy_ng@sla.gov.sg> <br>
+6\. If you have questions pertaining to this Notice, please contact Ms Mitsy Ng at <mitsy_ng@sla.gov.sg> <br>
 
 Regards<br>
 Derick Tan <br>
 Registrar <br>
-Land Surveyors Board 
+Land Surveyors Board
