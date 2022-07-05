@@ -12,7 +12,7 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
 1. The examination is scheduled to be held as follows:<br>
 
 <table>
-	<tr>
+	<tbody><tr>
 		<th>Subject</th>
 		<th>Date</th>
 		<th>Time</th>
@@ -27,10 +27,14 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
 		</td>
 		<td>
 			<p style="font-size: 1rem;">
+				10 October 2022 (Monday)</p>
+		</td>
+		<td>
+			<p>
 				9.00 am - 12.00 pm (3 hours)</p>
 		</td>
 		<td>
-			<p style= "font-size: 1rem;">
+			<p style="font-size: 1rem;">
 				Singapore Land Authority<br>
 				Training Rooms Level 13<br>
 				Revenue House <br>
@@ -39,9 +43,17 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
 			</p>
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
 	
 	**Mode of Application**<br>
 	2. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by acessing the link below. Candidates are responsible for
 understanding and complying with the rules governing the examination as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
+**Assessing the Examination Application Form**<br>
+Method 1 via URL:
+
+Method 2 via QR code:
+
+**Mode of payment (Payment by cheque will not be accepted)** <br>
+3. E-payment (Bank Transfer via Internet Banking or ATM) <br>
+- Transfer the amount to LSB corporate account number **UOB 209-319-249-0**<br>
