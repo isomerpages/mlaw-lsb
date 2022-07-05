@@ -66,3 +66,13 @@ Method 2 via QR code:
 {:style="height: 236px; width: 236px"}
 
 - Include your name for reference when making payment and attach the proof of payment in the online application form.
+
+**Deadline for submission**<br>
+5. All completed applications and fees through the online application form must reach us by the closing date of **5 August 2022**<br>
+
+6. If you have questions pertaining to this Notice, please contact Ms Mitsy Ng at <mitsy_ng@sla.gov.sg> <br>
+
+Regards<br>
+Derick Tan <br>
+Registrar <br>
+Land Surveyors Board 
