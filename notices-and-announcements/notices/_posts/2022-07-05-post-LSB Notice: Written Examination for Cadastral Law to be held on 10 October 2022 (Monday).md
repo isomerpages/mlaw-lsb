@@ -62,6 +62,7 @@ Method 2 via QR code:
 
 4\. PayNow <br>
 - You can make PayNow payments to LSB through UEN number **T08GB0026H** or scan the QR code below<br>
+![register QR code](/images/LSB_paynow_qr_code.jpg){:style="height:236px; width: 236px"}
 
 - Include your name for reference when making payment and attach the proof of payment in the online application form
 
