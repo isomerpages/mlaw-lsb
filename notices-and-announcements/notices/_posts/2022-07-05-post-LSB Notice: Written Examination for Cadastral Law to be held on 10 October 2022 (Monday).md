@@ -46,7 +46,7 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
 	</tbody></table>
 	
 	
-	**Mode of Application**<br>
+**Mode of Application** <br>
 	2. Eligible candidates may apply to sit for the examination by completing and submitting the online application form by acessing the link below. Candidates are responsible for
 understanding and complying with the rules governing the examination as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
@@ -58,3 +58,11 @@ Method 2 via QR code:
 **Mode of payment (Payment by cheque will not be accepted)** <br>
 3. E-payment (Bank Transfer via Internet Banking or ATM) <br>
 - Transfer the amount to LSB corporate account number **UOB 209-319-249-0**<br>
+- Attach the proof of the bank transfer transaction record/receipt in the online application form.
+
+4. PayNow <br>
+- You can make PayNow payments to LSB through UEN number **T08GB0026H** or scan the QR code below<br>
+![register QR code](/images/LSB_paynow_qr_code.jpg)
+{:style="height: 236px; width: 236px"}
+
+- Include your name for reference when making payment and attach the proof of payment in the online application form.
