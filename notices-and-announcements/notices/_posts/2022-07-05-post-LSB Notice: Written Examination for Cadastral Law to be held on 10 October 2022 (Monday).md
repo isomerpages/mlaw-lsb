@@ -30,7 +30,7 @@ Application for the Land Surveyors Board (LSB) Written Examination 2022 is now o
 				10 October 2022 (Monday)</p>
 		</td>
 		<td>
-			<p>
+			<p style="font-szie: 1rem;">
 				9.00 am - 12.00 pm (3 hours)</p>
 		</td>
 		<td>
