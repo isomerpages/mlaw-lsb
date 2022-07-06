@@ -58,7 +58,7 @@ Method 2 via QR code:![register QR code](/images/lsb-cada-law-2022.png){:style="
 
 **Mode of payment (Payment by cheque will not be accepted)** <br>
 3\. E-payment (Bank Transfer via Internet Banking or ATM) <br>
-- Transfer the amount to LSB corporate account number **UOB 209-319-249-0**<br>
+- Transfer the amount to LSB corporate account number **UOB 201-319-249-0**<br>
 - Attach the proof of the bank transfer transaction record/receipt in the online application form
 
 4\. PayNow <br>
