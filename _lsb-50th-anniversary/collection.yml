@@ -1,4 +1,5 @@
 collections:
   lsb-50th-anniversary:
     output: true
-    order: []
+    order:
+      - President's Message/.keep
