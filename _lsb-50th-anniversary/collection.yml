@@ -2,5 +2,5 @@ collections:
   lsb-50th-anniversary:
     output: true
     order:
-      - Tik Tok Competition.md
       - President's message.md
+      - Tik Tok Competition.md
