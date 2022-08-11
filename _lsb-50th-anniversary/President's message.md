@@ -1,5 +1,0 @@
----
-title: President's message
-permalink: /lsb-50th-anniversary/permalink
-description: ""
----
