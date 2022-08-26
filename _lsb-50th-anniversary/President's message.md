@@ -15,6 +15,6 @@ This year, LSB has planned a year-long exciting program of celebratory events. T
 
 Stay safe and I hope to see you soon.
 
-Soh Kheng Peng
-President
+Soh Kheng Peng <br>
+President <br>
 Land Surveyors Board
