@@ -5,7 +5,8 @@ description: ""
 ---
 ***50th Anniversary Message from the President***
 
-<img src="/images/President_pic.jpg">
+(/images/President_pic.jpg")
+{:style="height:236px; width:236px"}
 
 The year 2022 marks the Golden Jubilee of Land Surveyors Board. This is also a very special year as the world continues to grapple with an unprecedented for us to reflect on the past, and more importantly, to focus on the future.
 
