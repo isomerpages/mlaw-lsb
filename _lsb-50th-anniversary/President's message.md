@@ -8,15 +8,8 @@ description: ""
 ![](/images/Presidentpic.png)
 {:style="height:236px; width:236px"}
 
-
-
-
-
-
-
-
-
-
+<br>
+<br>
 The year 2022 marks the Golden Jubilee of Land Surveyors Board. This is also a very special year as the world continues to grapple with an unprecedented for us to reflect on the past, and more importantly, to focus on the future.
 
 Land Surveyors Board was set up 50 years ago after the Land Surveyors Act came into operation on 1 September 1972.
