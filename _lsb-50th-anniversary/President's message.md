@@ -5,6 +5,8 @@ description: ""
 ---
 ***50th Anniversary Message from the President***
 
+
+
 ![](/images/Presidentpic.png)
 {:style="height:236px; width:236px"}
 
@@ -25,4 +27,5 @@ Stay safe and I hope to see you soon.
 
 Soh Kheng Peng <br>
 President <br>
-Land Surveyors Board
+Land Surveyors Board <br>
+1 September 2022
