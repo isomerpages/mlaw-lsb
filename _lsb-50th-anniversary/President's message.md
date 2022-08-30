@@ -18,9 +18,8 @@ Over 50 years, we have come a long way, moving from chain surveying to modern la
 
 This year, LSB has planned a year-long exciting program of celebratory events. The 50th anniversary celebrations are an opportunity for the Board to reconnect with all its professionals. To mark an important milestone for this Golden Jubilee, LSB has designed a logo to commemorate this occasion.
 
-<img src="/images/LSB50thlogo.jpg" style="width: 350px;"/>
+<img src="/images/LSB50thlogo.jpg" style="width: 300px;"/>
 
-<br>
 <br>
 In appreciation of your part in the past and present nation-building of Singapore, LSB will host a get-together dinner on the house for registered surveyors. We are excited to catch up with you all at these events and more details will be published via this webpage over the coming year.
 
