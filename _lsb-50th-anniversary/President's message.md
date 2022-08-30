@@ -18,8 +18,7 @@ Over 50 years, we have come a long way, moving from chain surveying to modern la
 
 This year, LSB has planned a year-long exciting program of celebratory events. The 50th anniversary celebrations are an opportunity for the Board to reconnect with all its professionals. To mark an important milestone for this Golden Jubilee, LSB has designed a logo to commemorate this occasion.
 
-![](/images/LandSurveyorsBoard_r3.jpg)
-{:style= "height:236px; width:236px"}
+<img src="/images/LandSurveyorsBoard_r3.jpg" width="236px"/>
 
 <br>
 <br>
