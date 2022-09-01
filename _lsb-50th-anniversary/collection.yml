@@ -1,0 +1,5 @@
+collections:
+  lsb-50th-anniversary:
+    output: true
+    order:
+      - President's message.md
