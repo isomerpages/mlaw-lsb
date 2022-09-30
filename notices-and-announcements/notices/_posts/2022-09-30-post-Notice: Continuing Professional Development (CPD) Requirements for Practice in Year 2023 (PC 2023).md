@@ -9,7 +9,7 @@ image: ""
 ---
 #### **LSB NOTICE: CONTINUING PROFESSIONAL DEVELOPMENT (CPD) REQUIREMENTS FOR PRACTICE IN YEAR 2023 (PC 2023)**
 
-1. While recovering from COVID-19 restrictions in 2021, the Land Surveyors Board (LSB) had informed the fraternity on 3 March 2021 that the CPD requirments for the renewal of Practicing Certificate (PC) in Year 2022 (PC 2022) will be halved, or 10 CPD units is required for renewal of PC 2022.<br>
+1. While recovering from COVID-19 restrictions in 2021, the Land Surveyors Board (LSB) had informed the fraternity on 3 March 2021 that the CPD requirements for the renewal of Practicing Certificate (PC) in Year 2022 (PC 2022) will be halved, or 10 CPD units is required for renewal of PC 2022.<br>
 
 
 
