@@ -38,7 +38,7 @@ Please complete, sign, scan and email the completed forms to the Deputy Registra
 i) Payment for the following prescribed fees can be made by one of the following methods:
 
 
-I. Bank transfer via Internet Banking or ATM
+I. Bank Transfer via Internet Banking or ATM
 
 •         Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
 
