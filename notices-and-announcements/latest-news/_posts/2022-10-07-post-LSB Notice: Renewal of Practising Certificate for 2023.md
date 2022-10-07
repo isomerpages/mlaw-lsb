@@ -89,3 +89,32 @@ ii) The amount payable is:
   </tr>
 
 </table>
+
+**4. To Note**
+
+
+
+(a) All application forms must be legibly completed.
+
+
+(b) Firms with more than one practising Registered Surveyor are to ensure that the name and address of practice are the same on all its application forms, unless otherwise intended.
+
+
+(c) Any incomplete application, such as forms not signed, not accompanied by the correct fee, incomplete CPD Summary Form etc, will be subject to rejection.
+
+
+(d) Hardcopy application forms and cheques are **not** accepted and will not be processed.
+
+
+**5. Collection**
+
+
+We will inform you when the practising certificate is ready for collection, usually in the last week of December 2022.
+
+
+
+Regards
+
+Derick Tan </br>
+Registrar </br>
+Land Surveyors Board
