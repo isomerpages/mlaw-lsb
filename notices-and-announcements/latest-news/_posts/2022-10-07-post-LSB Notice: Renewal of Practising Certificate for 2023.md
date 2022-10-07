@@ -11,3 +11,8 @@ image: ""
 
 
 **LSB NOTICE: RENEWAL OF PRACTISING CERTIFICATE FOR 2023**
+
+ Applications for renewal of practising certificate for 2023 are now opened via **email only**.
+
+
+**2. 
