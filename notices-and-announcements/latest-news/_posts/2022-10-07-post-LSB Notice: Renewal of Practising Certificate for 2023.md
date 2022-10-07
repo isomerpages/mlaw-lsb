@@ -115,6 +115,6 @@ We will inform you when the practising certificate is ready for collection, usua
 
 Regards
 
-Derick Tan </br>
-Registrar </br>
+Derick Tan <br>
+Registrar <br>
 Land Surveyors Board
