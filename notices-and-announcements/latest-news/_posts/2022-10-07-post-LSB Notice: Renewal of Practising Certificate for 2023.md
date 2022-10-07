@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+## To: All Practising Registered Surveyors
+
+
+
+**LSB NOTICE: RENEWAL OF PRACTISING CERTIFICATE FOR 2023**
