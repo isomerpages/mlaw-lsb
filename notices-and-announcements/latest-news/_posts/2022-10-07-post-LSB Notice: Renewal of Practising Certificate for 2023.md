@@ -25,3 +25,9 @@ The required forms to be completed and submitted to LSB can be found in the “F
 
 
 (b) [CPD Summary Form](/files/CPD_Summary_Form_revised.pdf/) <br>
+
+Please complete, sign, scan and email the completed forms to the Deputy Registrar, Ms Mitsy Ng (<mitsy_ng@sla.gov.sg>).
+
+
+
+**3. Fees**
