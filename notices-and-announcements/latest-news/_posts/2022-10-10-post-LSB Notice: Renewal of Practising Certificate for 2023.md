@@ -24,7 +24,7 @@ The required forms to be completed and submitted to LSB can be found in the “F
 (a) [Application for Practicing Certificate Form 5](/files/LSBForm5-Application-for-Practising-Certificate.doc/)(DOC, 41.5KB), and <br> 
 
 
-(b) [CPD Summary Form (/files/CPD_Summary_Form_Apr2022_Final_Published.pdf) <br>
+(b) [CPD Summary Form (/files/CPD_Summary_Form_Apr2022_Final_Published.pdf)<br>
 
 Please complete, sign, scan and email the completed forms to the Deputy Registrar, Ms Mitsy Ng (<mitsy_ng@sla.gov.sg>).
 
