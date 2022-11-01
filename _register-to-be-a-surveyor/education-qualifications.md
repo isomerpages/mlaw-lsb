@@ -1,11 +1,8 @@
 ---
-title: 'Education Qualifications'
+title: Education Qualifications
 permalink: /register-to-be-a-surveyor/education-qualifications/
-breadcrumb: 'Education Qualifications'
-
+breadcrumb: Education Qualifications
 ---
-
-
 ## EDUCATIONAL QUALIFICATIONS
 
 <style>
@@ -37,14 +34,6 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
 <u><b>List<sup>*</sup> of Educational Qualifications in Land Surveying recognised by Land Surveyors Board Singapore</b></u>
 
 <ol class="a">
-    <li class="alpha"><u>SINGAPORE</u>
-        <ul>
-            <li>i. Nanyang Technological University,</li>
-            <ul class="no-style">
-                <li>Master of Engineering in land surveying-related thesis.</li>
-            </ul>
-        </ul>
-    </li>
     <li class="alpha"><u>AUSTRALIA</u>
         <ul>
             <li>i. Curtin University</li>
@@ -144,7 +133,7 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
             <li>v. Newcastle University,</li>
             <ul class="no-style">
                 <li>BEng Honours in Geospatial Surveying and Mapping;</li>
-                <li>MSci Honours in Mapping and Geospatial Data Science.</li>
+                <li>MSci Honours in Mapping and Geospatial Data Science (4 years).</li>
             </ul>
         </ul>
     </li>
