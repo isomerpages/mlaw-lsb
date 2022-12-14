@@ -323,7 +323,7 @@ ol{
         Land Transport Authority<br>
         1 Hampshire Road<br>
         Singapore 219428<br>
-        Tel: 63962483</td>
+        Tel: -</td>
   </tr>
   <tr>
     <td><a name="L"></a>Lim Loy Chin</td>
@@ -594,7 +594,7 @@ ol{
         Land Transport Authority<br>
         1 Hampshire Road<br>
         Singapore 219428<br>
-        Tel: 63961747</td>
+        Tel: - </td>
   </tr>
   <tr>
     <td><a name="T"></a>Tang Tuck Kim</td>
