@@ -419,7 +419,7 @@ ol{
         HDB Hub<br>
         480 Lorong 6 Toa Payoh<br>
         Singapore 310480<br>
-        Tel: 64903088</td>
+        Tel: 64903064</td>
   </tr>
   <tr>
     <td><a name="O"></a>Ong Ban Soon</td>
@@ -489,7 +489,7 @@ ol{
         168 Jalan Bukit Merah<br>
         #01-01 Connection One<br>
         Singapore 150168<br>
-        Tel: 62481418</td>   
+        Tel: 62481288</td>   
   </tr>
   <tr>
     <td><a name="S"></a>Suey Hueh King</td>
