@@ -554,10 +554,10 @@ ol{
     <td>49</td>
     <td>
         Wang & EF Tan Associates<br>
-        61 Ubi Avenue 1<br>
-        #06-12 UB Point<br>
-        Singapore 408941<br>
-        Tel: 62890400</td>
+        9 Tampines Grande<br>
+        #02-00 Asia Green<br>
+        Singapore 528735<br>
+        Tel: 69111936</td>
   </tr>
   <tr>
     <td><a name="T"></a>Tan Eng Liang</td>
