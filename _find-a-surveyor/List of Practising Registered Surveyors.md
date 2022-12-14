@@ -409,7 +409,7 @@ ol{
         Eagle Point Surveying & Engineering<br>
         4C Evans Road<br>
         Singapore 259362<br>
-        Tel: 66940954</td> 
+        Tel: 63853752</td> 
   </tr>
   <tr>
     <td><a name="N"></a>Ng Kwok Khuan</td>
