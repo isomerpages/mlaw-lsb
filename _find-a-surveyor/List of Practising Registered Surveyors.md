@@ -342,7 +342,7 @@ ol{
         Land Transport Authority<br>
         1 Hampshire Road<br>
         Singapore 219428<br>
-        Tel: 63961845</td>
+        Tel: 63961761</td>
   </tr>
   <tr>
     <td><a name="L"></a>Lim Kok Swee, Kelvin</td>
