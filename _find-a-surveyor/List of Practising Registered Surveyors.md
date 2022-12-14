@@ -351,7 +351,7 @@ ol{
         Land Transport Authority<br>
         1 Hampshire Road<br>
         Singapore 219428<br>
-        Tel: 65682757</td>
+        Tel: 63319853</td>
    </tr>
    <tr>
     <td><a name="L"></a>Liu Nam Thiam</td>
