@@ -241,9 +241,9 @@ ol{
     <td>37</td>
     <td>
         How Huai Hoon Surveyors<br>
-        155A Tyrwhitt Road<br>
-        Qinan Building<br>
-        Singapore 207568<br>
+        380 Jalan Besar<br>
+        #07-12 ARC 380<br>
+        Singapore 209000<br>
         Tel: 62931566</td>
   </tr>
   <tr>
