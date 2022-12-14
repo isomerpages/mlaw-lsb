@@ -131,6 +131,7 @@ ol{
         Wisescan Engineering Services Pte Ltd<br>
         33 Ubi Avenue 3<br>
         #03-08<br>
+				Vertex Tower B<br>
         Singapore 408868<br>
         Tel: 68410880</td>
   </tr>
@@ -141,6 +142,7 @@ ol{
         Wisescan Engineering Services Pte Ltd<br>
         33 Ubi Avenue 3<br>
         #03-08<br>
+			 Vertex Tower B<br>
         Singapore 408868<br>
         Tel: 68410880</td>
   </tr>
