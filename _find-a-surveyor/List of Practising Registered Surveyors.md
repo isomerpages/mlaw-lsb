@@ -397,7 +397,7 @@ ol{
     <td>60</td>
     <td>
         Chartered Survey Services Consultants Pte Ltd<br>
-        Block 7030 Ang Mo Kio Avenue 5<br> 
+        7030 Ang Mo Kio Avenue 5<br> 
         #07-44 Northstar@AMK<br>
         Singapore 569880<br>
         Tel: 63583282</td> 
