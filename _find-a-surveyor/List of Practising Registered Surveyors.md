@@ -131,6 +131,7 @@ ol{
         Wisescan Engineering Services Pte Ltd<br>
         33 Ubi Avenue 3<br>
         #03-08<br>
+				Vertex Tower B<br>
         Singapore 408868<br>
         Tel: 68410880</td>
   </tr>
@@ -141,6 +142,7 @@ ol{
         Wisescan Engineering Services Pte Ltd<br>
         33 Ubi Avenue 3<br>
         #03-08<br>
+			 Vertex Tower B<br>
         Singapore 408868<br>
         Tel: 68410880</td>
   </tr>
@@ -239,9 +241,9 @@ ol{
     <td>37</td>
     <td>
         How Huai Hoon Surveyors<br>
-        155A Tyrwhitt Road<br>
-        Qinan Building<br>
-        Singapore 207568<br>
+        380 Jalan Besar<br>
+        #07-12 ARC 380<br>
+        Singapore 209000<br>
         Tel: 62931566</td>
   </tr>
   <tr>
@@ -321,7 +323,7 @@ ol{
         Land Transport Authority<br>
         1 Hampshire Road<br>
         Singapore 219428<br>
-        Tel: 63962483</td>
+        Tel: -</td>
   </tr>
   <tr>
     <td><a name="L"></a>Lim Loy Chin</td>
@@ -340,7 +342,7 @@ ol{
         Land Transport Authority<br>
         1 Hampshire Road<br>
         Singapore 219428<br>
-        Tel: 63961845</td>
+        Tel: 63961761</td>
   </tr>
   <tr>
     <td><a name="L"></a>Lim Kok Swee, Kelvin</td>
@@ -349,7 +351,7 @@ ol{
         Land Transport Authority<br>
         1 Hampshire Road<br>
         Singapore 219428<br>
-        Tel: 65682757</td>
+        Tel: 63319853</td>
    </tr>
    <tr>
     <td><a name="L"></a>Liu Nam Thiam</td>
@@ -395,7 +397,7 @@ ol{
     <td>60</td>
     <td>
         Chartered Survey Services Consultants Pte Ltd<br>
-        Block 7030 Ang Mo Kio Avenue 5<br> 
+        7030 Ang Mo Kio Avenue 5<br> 
         #07-44 Northstar@AMK<br>
         Singapore 569880<br>
         Tel: 63583282</td> 
@@ -407,7 +409,7 @@ ol{
         Eagle Point Surveying & Engineering<br>
         4C Evans Road<br>
         Singapore 259362<br>
-        Tel: 66940954</td> 
+        Tel: 63853752</td> 
   </tr>
   <tr>
     <td><a name="N"></a>Ng Kwok Khuan</td>
@@ -417,7 +419,7 @@ ol{
         HDB Hub<br>
         480 Lorong 6 Toa Payoh<br>
         Singapore 310480<br>
-        Tel: 64903088</td>
+        Tel: 64903064</td>
   </tr>
   <tr>
     <td><a name="O"></a>Ong Ban Soon</td>
@@ -487,7 +489,7 @@ ol{
         168 Jalan Bukit Merah<br>
         #01-01 Connection One<br>
         Singapore 150168<br>
-        Tel: 62481418</td>   
+        Tel: 62481288</td>   
   </tr>
   <tr>
     <td><a name="S"></a>Suey Hueh King</td>
@@ -552,10 +554,10 @@ ol{
     <td>49</td>
     <td>
         Wang & EF Tan Associates<br>
-        61 Ubi Avenue 1<br>
-        #06-12 UB Point<br>
-        Singapore 408941<br>
-        Tel: 62890400</td>
+        9 Tampines Grande<br>
+        #02-00 Asia Green<br>
+        Singapore 528735<br>
+        Tel: 69111936</td>
   </tr>
   <tr>
     <td><a name="T"></a>Tan Eng Liang</td>
@@ -592,7 +594,7 @@ ol{
         Land Transport Authority<br>
         1 Hampshire Road<br>
         Singapore 219428<br>
-        Tel: 63961747</td>
+        Tel: - </td>
   </tr>
   <tr>
     <td><a name="T"></a>Tang Tuck Kim</td>
