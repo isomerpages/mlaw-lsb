@@ -2,5 +2,5 @@ collections:
   lsb-50th-anniversary:
     output: true
     order:
-      - TikTok Video Contest 2023.md
       - President's message.md
+      - TikTok Video Contest 2023.md
