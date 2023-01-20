@@ -16,4 +16,9 @@ Preisdent/LSB has outlined a series of activities to celebrate the Board's 50th 
 3. All of us at the Board hope that you can encourage interested participants to take part in the contest so as to raise awareness of our profession and get more young people excited on land surveying as a career. <br>
 
 
-4. We look forward to the submissions and hope th contest will 
+4. We look forward to the submissions and hope th contest will generate buzz and add vibrancy to our profession.<br>
+
+Regards <br>
+Derick Tan <br>
+Registrar <br>
+Land Surveyors Board <br>
