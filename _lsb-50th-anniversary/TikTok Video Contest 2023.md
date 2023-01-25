@@ -10,9 +10,7 @@ description: ""
 
 2. The Board is pleased to announce the roll-out of the TikTok Video Contest 2023, which will run from **1 February 2023 to 28 February 2023 (12pm).** More details can be found in the link here [LSB TikTok Contest](/files/TikTok_contest_final.pdf).<br>
 
-3. All of us at the Board hope that you can encourage interested participants to take part in the contest so as to raise awareness of our profession and get more young people excited on land surveying as a career. <br>
-
-4. We look forward to the submissions and hope the contest will generate buzz and add vibrancy to our profession.<br>
+3. We look forward to the submissions and hope the contest will generate buzz and add vibrancy to our profession.<br>
 
 Regards <br>
 Derick Tan <br>
