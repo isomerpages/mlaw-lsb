@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 **Dear Registered Surveyor,** <br>
 
 1. President/LSB has outlined a series of activities to celebrate the Board's 50th anniversary through his message on 1 September 2022.<br>
@@ -21,7 +20,7 @@ image: ""
 
 
 
-4. We look forward to the submission and hope the contest will generate buzz and add vibrancy to our profession. <br>
+4. We look forward to the submissions and hope the contest will generate buzz and add vibrancy to our profession. <br>
 
 Regards <br>
 Derick Tan <br>
