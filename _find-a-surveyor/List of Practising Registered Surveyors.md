@@ -380,7 +380,7 @@ ol{
         10 Genting Road<br>
         #02-00 The Blue Building<br>
         Singapore 349473<br>
-        Tel: 96903400</td>
+        Tel: -</td>
   </tr>
   <tr>
     <td><a name="L"></a>Low Lee Luang</td>
