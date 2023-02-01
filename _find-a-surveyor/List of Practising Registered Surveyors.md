@@ -377,10 +377,10 @@ ol{
     <td>45</td>
     <td>
         H Y Loi Consultants<br>
-        20C Lorong Ampas<br>
-        GS Building<br>
-        Singapore 328780<br>
-        Tel: 62525902</td>
+        10 Genting Road<br>
+        #02-00 The Blue Building<br>
+        Singapore 349473<br>
+        Tel: 96903400</td>
   </tr>
   <tr>
     <td><a name="L"></a>Low Lee Luang</td>
