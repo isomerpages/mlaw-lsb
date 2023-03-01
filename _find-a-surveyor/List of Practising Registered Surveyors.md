@@ -297,6 +297,16 @@ ol{
         Tel: 63544338</td>
   </tr>
   <tr>
+		<td><a name="L"></a>Leong Kai Weng</td>
+		<td>71</td>
+		<td>
+			Housing & Development Board<br>
+			HDB Hub<br>
+			480 Lorong 6 Toa Payoh<br>
+			Singapore 310480<br>
+			Telephone: 64903063</td>
+	</tr>
+	<tr>
     <td><a name="L"></a>Leong Kin Weng</td>
     <td>59</td>
     <td>
