@@ -3,7 +3,7 @@ title: The Registered Surveyor's Pledge
 permalink: /about-us/the-registered-surveyor-pledge/
 description: ""
 ---
-####The Registered Surveyor's Pledge
+## The Registered Surveyor's Pledge
 
 We, the Registered Surveyors of Singapore pledge ourselves: -
 
