@@ -11,9 +11,7 @@ description: ""
 			<th>Period of Suspension</th>
 	</tr>
 	<tr>
-		<th>Koh Thong Sia </th>
-		<th> 100</th>
-		<th> Firmament Survey<br>
-			103B Depot Road #18-537<br>
-			Singapore 102103<br>
-		<th> 27 March 2022 to 26 March 2023<br>
+		<th>
+		<th> 
+		<th> 
+		<th> 
