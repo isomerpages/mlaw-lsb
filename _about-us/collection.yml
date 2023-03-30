@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - The Registered Surveyor's Pledge.md
       - overview.md
       - what-we-do.md
       - board-members.md
