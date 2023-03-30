@@ -246,6 +246,16 @@ ol{
         Tel: 68484224</td>
   </tr>
   <tr>
+		<td><a name="K"></a>Koh Thong Sia</td>
+		<td>100</td>
+		<td>
+			Firmament Survey<br>
+			Blk 103B Depot Road<br>
+			#18-537<br>
+			Singapore 102103<br>
+			Tel: 62750102<br>
+			</td></tr>
+			<tr>
     <td><a name="L"></a>Lau Hua Peng</td>
     <td>37</td>
     <td>
