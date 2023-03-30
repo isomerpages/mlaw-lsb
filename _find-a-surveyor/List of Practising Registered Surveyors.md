@@ -70,7 +70,7 @@ ol{
 	</ol><br>
   Note:This list refers to practising certificates issued by the Land Surveyors  Board under section 15 of the Land Surveyors Act 1991 to registered surveyors to engage in survey work in Singapore.
 <table>
-    <tr>    
+    <tbody><tr>    
     <th>Name</th>
     <th>Registration Number</th>
     <th>Name of Practice/Employer</th>
@@ -118,7 +118,7 @@ ol{
     <td><a name="C"></a>Chia Aik Kok</td>
     <td>23</td>
     <td>
-        CAK & FG Survey Pte Ltd<br>
+        CAK &amp; FG Survey Pte Ltd<br>
         701 Sims Drive<br>
         #05-02 LHK Building<br>
         Singapore 387383<br>
@@ -147,7 +147,16 @@ ol{
         Tel: 68410880</td>
   </tr>
   <tr>
-    <td><a name="F"></a>Foo Jong Kan</td>
+		<td><a name="D"></a>Ding Lidong</td>
+		<td>120</td>
+		<td>
+			Landvision Registered Surveyor<br>
+			5A, Jasmine Road<br>
+			Singapore 576580<br>
+			Tel: -</td>
+			</tr>
+			
+    <tr><td><a name="F"></a>Foo Jong Kan</td>
     <td>34</td>
     <td>
         J K Foo Consortium Pte Ltd<br>
@@ -180,7 +189,7 @@ ol{
     <td><a name="G"></a>Goh Swee Cheh</td>
     <td>83</td>
     <td>
-        CAK & FG Survey Pte Ltd<br>
+        CAK &amp; FG Survey Pte Ltd<br>
         701 Sims Drive<br>
         #05-02 LHK Building<br>
         Singapore 387383<br>
@@ -292,7 +301,7 @@ ol{
     <td>
         Lee Tuck Onn Registered Surveyor<br>
         59 Jalan Pemimpin<br>
-        #02-05 L & Y Building<br>
+        #02-05 L &amp; Y Building<br>
         Singapore 577218<br>
         Tel: 63544338</td>
   </tr>
@@ -300,7 +309,7 @@ ol{
 		<td><a name="L"></a>Leong Kai Weng</td>
 		<td>71</td>
 		<td>
-			Housing & Development Board<br>
+			Housing &amp; Development Board<br>
 			HDB Hub<br>
 			480 Lorong 6 Toa Payoh<br>
 			Singapore 310480<br>
@@ -339,7 +348,7 @@ ol{
     <td><a name="L"></a>Lim Loy Chin</td>
     <td>98</td>
     <td>
-        Housing & Development Board<br>
+        Housing &amp; Development Board<br>
         HDB Hub<br>
         480 Lorong 6 Toa Payoh<br>
         Singapore 310480<br>
@@ -376,7 +385,7 @@ ol{
   <tr>
     <td><a name="L"></a>Loh Suat Yen</td>
     <td>79</td>
-    <td>Housing & Development Board<br>
+    <td>Housing &amp; Development Board<br>
         HDB Hub<br>
         480 Lorong 6 Toa Payoh<br>
         Singapore 310480<br>
@@ -416,7 +425,7 @@ ol{
     <td><a name="L"></a>Lim Michael</td>
     <td>113</td>
     <td>
-        Eagle Point Surveying & Engineering<br>
+        Eagle Point Surveying &amp; Engineering<br>
         4C Evans Road<br>
         Singapore 259362<br>
         Tel: 63853752</td> 
@@ -425,7 +434,7 @@ ol{
     <td><a name="N"></a>Ng Kwok Khuan</td>
     <td>105</td>
     <td>
-        Housing & Development Board<br>
+        Housing &amp; Development Board<br>
         HDB Hub<br>
         480 Lorong 6 Toa Payoh<br>
         Singapore 310480<br>
@@ -445,7 +454,7 @@ ol{
     <td><a name="O"></a>Ong Lok Ping</td>
     <td>80</td>
     <td>
-        L P Ong & Associates<br>
+        L P Ong &amp; Associates<br>
         169 Kaki Bukit Avenue 1<br>
         #03-00 Shun Li Industrial Park<br>
         Singapore 416019<br>
@@ -475,7 +484,7 @@ ol{
     <td><a name="P"></a>Peh Cheng Kiat</td>
     <td>94</td>
     <td>
-        Sembcorp Architects & Engineers Pte Ltd<br>
+        Sembcorp Architects &amp; Engineers Pte Ltd<br>
         51 Changi Business Park Central 2<br>
         #06-12 The Signature<br>
         Singapore 486066<br>
@@ -505,7 +514,7 @@ ol{
     <td><a name="S"></a>Suey Hueh King</td>
     <td>103</td>
     <td>
-        Eddyswee Consultants & Registered Surveyor<br>
+        Eddyswee Consultants &amp; Registered Surveyor<br>
         253 Upper East Coast Road<br> 
         Singapore 466405<br> 
         Tel: 62977808</td>      
@@ -534,7 +543,7 @@ ol{
     <td><a name="T"></a>Tan Chee  Meng</td>
     <td>119</td>
     <td>
-        Housing & Development Board<br>
+        Housing &amp; Development Board<br>
         HDB Hub<br>
         480 Lorong 6 Toa Payoh<br>
         Singapore 310480<br>
@@ -563,7 +572,7 @@ ol{
     <td><a name="T"></a>Tan Eng Fei</td>
     <td>49</td>
     <td>
-        Wang & EF Tan Associates<br>
+        Wang &amp; EF Tan Associates<br>
         9 Tampines Grande<br>
         #02-00 Asia Green<br>
         Singapore 528735<br>
@@ -639,7 +648,7 @@ ol{
     <td><a name="W"></a>Wilson Cheng</td>
     <td>108</td>
     <td>
-        Housing & Development Board<br>
+        Housing &amp; Development Board<br>
         HDB Hub<br>
         480 Lorong 6 Toa Payoh<br>
         Singapore 310480<br>
@@ -649,7 +658,7 @@ ol{
     <td><a name="W"></a>Wong Tien Sze</td>
     <td>118</td>
     <td>
-        Tritech Engineering & Testing (Singapore) Pte Ltd<br>
+        Tritech Engineering &amp; Testing (Singapore) Pte Ltd<br>
         31 Changi South Avenue 2<br>
         Tritech Building<br>
         Singapore 486478<br>
@@ -669,13 +678,13 @@ ol{
     <td><a name="Y"></a>Yong Ser Joo</td>
     <td>95</td>
     <td>
-        S L K Engineering & Consultants Pte Ltd<br>
+        S L K Engineering &amp; Consultants Pte Ltd<br>
         28 Sin Ming Lane<br>
         #04-146 Midview City<br>
         Singapore 573972<br>
         Tel: 62941785</td>
   </tr>     
-</table><br>
+</tbody></table><br>
 
 <ol>
   <li><a href="#A">A </a></li>
