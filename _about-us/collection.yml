@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - The Registered Surveyor's Pledge.md
       - overview.md
       - what-we-do.md
       - board-members.md
       - history-of-land-surveyors-board.md
+      - The Registered Surveyor's Pledge.md
       - promotional-video.md
       - annual-reports.md
       - contact-us.md
