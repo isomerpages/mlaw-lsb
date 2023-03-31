@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **LSB NOTICE: CONTINUING PROFESSIONAL DEVELOPMENT (CPD) REQUIREMENTS **
+#### LSB NOTICE: CONTINUING PROFESSIONAL DEVELOPMENT (CPD) REQUIREMENTS 
 
 1. The Land Surveyors Board (LSB) would like to announce the resumption of all CPD requirements starting with the renewal of practising certificate in year 2024 (PC 2024) and at the same time to resume **the cap in Category C**, which includes online e-learning/webinars. Category C will be capped at a maximum 10 CPD units for PC 2024 renewal and beyond.<br>
 
