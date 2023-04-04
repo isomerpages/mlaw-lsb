@@ -102,7 +102,7 @@ The Land Surveyors Board (LSB) Examinations in the subjects of cadastral law, la
   </tr>
 </tbody></table>
 
-**B. Important Details for Practical Examinations **
+**B. Important Details for Practical Examinations**
 
 2\. I would like to bring your attention to the documents attached: <br>
 1) Instructions to Candidate (together with Annexes C and D)<br>
