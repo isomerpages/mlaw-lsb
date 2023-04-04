@@ -9,6 +9,10 @@ image: ""
 ---
 The Land Surveyors Board (LSB) Examinations in the subject of cadastral law, land lot and strata lot survey is now open for applications by eligible persons. <br>
 
+**A. Date/Time/Venue**
+
+1\. The schedule is as follows (All candidates to be present at least 5 minutes before the start of the examinations):<br>
+
 <table>
 	<tbody><tr>
 		<th>Subject</th>
@@ -41,4 +45,59 @@ The Land Surveyors Board (LSB) Examinations in the subject of cadastral law, lan
 			</p>
 		</td>
 	</tr>
-	</tbody></table>
+	</tbody></table> <br>
+	
+<table>
+  <tbody><tr>
+    <th>Subject</th>
+    <th>Period of Examination</th>
+    <th>Commencement (Date, Time and Place)</th>
+    <th>Closing Date and Time of Examination</th>
+  </tr>
+  <tr>
+    <td>
+      <p style="font-size: 1rem;">
+        <u>Oral and Practical Examination</u>
+      </p>
+      <ol>
+        <li style="font-size: 1rem;">Land Lot Survey</li>
+        <li style="font-size: 1rem;">Strata Survey</li>
+      </ol>
+    </td>
+    <td>
+      <p style="font-size: 1rem;">8 weeks for both subjects<br>(8 weeks total including weekends and Public Holidays, regardless of one or two subjects taken) from date of commencement</p>
+    </td>
+    <td>
+      <p style="font-size: 1rem;">
+        <b><u>31 July 2023 (Monday)</u></b>
+      </p>
+      <p style="font-size: 1rem;">
+        <b>2:30 pm</b>
+      </p>
+      <p style="font-size: 1rem;">
+        Singapore Land Authority<br>
+        Training Rooms Level 13<br>
+        Revenue House<br>
+        55 Newton Road<br>
+        Singapore 307987
+      </p>
+      <p style="font-size: 1rem;"></p>
+    </td>
+    <td>
+      <p style="font-size: 1rem;">
+				Singapore Land Authority<br>
+				Level 10<br>
+				Revenue House<br>
+				55 Newton Road <br>
+				Singapore 307987<br>
+				
+				All subjects must be completed and submitted to the Deputy Registrar (Ms Mitsy Ng) before the closing date and time of:</p>
+      <p style="font-size: 1rem;">
+        <b><u>25 September 2023 (Monday)</u></b>
+      </p>
+      <p style="font-size: 1rem;">
+        <b>2:30 pm</b>
+      </p>
+    </td>
+  </tr>
+</tbody></table>
