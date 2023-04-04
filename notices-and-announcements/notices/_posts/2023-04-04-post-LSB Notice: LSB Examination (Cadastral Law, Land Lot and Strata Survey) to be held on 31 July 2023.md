@@ -125,7 +125,7 @@ understanding and complying with the rules governing the examination as set out 
 Method 1 via URL:
 ()<br>
 
-Method 2 via QR code:![register QR code]()
+Method 2 via QR code:![register QR code](/image/lsb-exams-2023.png)
 {:style="height:236px; width:236px"}
 
 **E. Mode of payment (Payment by cheque will not be accepted)** <br>
