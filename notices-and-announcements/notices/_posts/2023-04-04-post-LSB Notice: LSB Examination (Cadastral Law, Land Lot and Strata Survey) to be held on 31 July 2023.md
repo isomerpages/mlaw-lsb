@@ -91,8 +91,6 @@ The Land Surveyors Board (LSB) Examinations in the subject of cadastral law, lan
 				55 Newton Road <br>
 				Singapore 307987
 			</p>
-		</td>
-		<td>
 			<p style="font-size: 1rem;">All subjects must be completed and submitted to the Deputy Registrar (Ms Mitsy Ng) before the closing date and time of:</p>
       <p style="font-size: 1rem;">
         <b><u>25 September 2023 (Monday)</u></b>
