@@ -113,4 +113,37 @@ The Land Surveyors Board (LSB) Examinations in the subject of cadastral law, lan
 
 3\. The Instructions to Candidates are attached as enclosed for compliance by candidates taking the cadastral law written examination. <br>
 
-** 
+**D. Mode of Application** <br>
+4\. Eligible persons may apply to sit for the examination by completing and submitting the online registration form by acessing the link below. Candidates are responsible for
+understanding and complying with the rules governing the examination as set out in Part IV (Examinations) of the Land Surveyors Rules.
+
+**Assessing the Examination Application Form**<br>
+Method 1 via URL:
+()<br>
+
+Method 2 via QR code:![register QR code]()
+{:style="height:236px; width:236px"}
+
+**E. Mode of payment (Payment by cheque will not be accepted)** <br>
+5\. E-payment (Bank Transfer via Internet Banking or ATM) <br>
+- Transfer the amount to LSB corporate account number **UOB 201-319-249-0**<br>
+- Attach the proof of the bank transfer transaction record/receipt in the online registration form
+
+6\. PayNow <br>
+- You can make PayNow payments to LSB through UEN number **T08GB0026H** or scan the QR code below<br>
+![register QR code](/images/LSB_paynow_qr_code.jpg){:style="height:236px; width: 236px"}
+
+- Include your name for reference when making payment and attach the proof of payment in the online application form
+
+**F. Deadline for submission**<br>
+7\. All submission of applications through the online registration form together with the fees to be paid must be completed before the closing date of **24 April 2023**.<br>
+
+**G. Other Important Details**<br>
+8\. In the event of any pandemic outbreak, all candidates must adhere to the prevailing government directives. <br>
+
+9\. The LSB would appreciate if you could inform interested persons on the content of this LSB Notice. Please contact Deputy Registrar, Ms Mitsy Ng (email to: mitsy_ng@sla.gov.sg) if you have questions on this examination . <br>
+
+Regards<br>
+Derick Tan <br>
+Registrar <br>
+Land Surveyors Board
