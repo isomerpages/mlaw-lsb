@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-The Land Surveyors Board (LSB) Examinations in the subject of cadastral law, land lot and strata lot survey is now open for applications by eligible persons. <br>
+The Land Surveyors Board (LSB) Examinations in the subjects of cadastral law, land lot and strata survey is now open for applications by eligible persons. <br>
 
 **A. Date/Time/Venue**
 
