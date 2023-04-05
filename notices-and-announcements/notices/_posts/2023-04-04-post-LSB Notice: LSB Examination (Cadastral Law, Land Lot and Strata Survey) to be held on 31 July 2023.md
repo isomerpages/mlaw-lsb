@@ -124,7 +124,7 @@ Attachment enclosed: <br>
 <br>
 
 Attachment enclosed: <br>
-[Instruction_to_Candidate_CadastralLaw2023.pdf](/files/Instructon_to_Candidate_CadastralLaw2023.pdf)<br>
+[Instruction_to_Candidate_CadastralLaw2023.pdf](/files/Instruction_to_Candidate_CadastralLaw2023.pdf)<br>
 
 **D. Mode of Application** <br>
 4\. Eligible persons may apply to sit for the examination by completing and submitting the online registration form by acessing the link below. Candidates are responsible for
