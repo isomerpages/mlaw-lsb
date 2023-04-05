@@ -515,9 +515,9 @@ ol{
     <td>31</td>
     <td>
         Surbana Jurong Consultants Pte Ltd<br>
-        168 Jalan Bukit Merah<br>
-        #01-01 Connection One<br>
-        Singapore 150168<br>
+        Surbana Jurong Campus<br>
+        38 Cleantech Loop #01-31<br>
+        Singapore 636741<br>
         Tel: 62481288</td>   
   </tr>
   <tr>
