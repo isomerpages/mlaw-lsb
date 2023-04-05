@@ -110,8 +110,8 @@ The Land Surveyors Board (LSB) Examinations in the subjects of cadastral law, la
 
 All candidates must familarise themselves with the requirements/format of the examination stated herein for compliance and submit thier selection of sites to Mr Ng Chin Sing (email to: ng_chin_sing@sla.gov.sg) and copy Deputy Registar, Ms Mitsy Ng (email to: mitsy_ng@sla.gov.sg) between **25 April 2023 and 27 May 2023.**
 <br>
-Attachment enclosed: <br>
 
+Attachment enclosed: <br>
 [Instructions_ to_Candidates_Practical2023.pdf](/files/Instructions_to_Candidates_Practical2023.pdf)<br>
 [LSB_Exam_2023_Checklist_Practical_Annex_C](/files/LSB_Exam_2023_Checklist_Practical_Annex_C.pdf)<br>
 [LSB_Exam_2023_Checklist_Practical_Annex_D](/files/LSB_Exam_2023_Checklist_Practical_Annex_D.pdf)<br>
@@ -122,6 +122,9 @@ Attachment enclosed: <br>
 
 3\. The Instructions to Candidates are attached as enclosed for compliance by candidates taking the cadastral law written examination. 
 <br>
+
+Attachment enclosed: <br>
+[Instruction_to_Candidate_CadastralLaw2023.pdf](/files/Instructon_to_Candidate_CadastralLaw2023.pdf)<br>
 
 **D. Mode of Application** <br>
 4\. Eligible persons may apply to sit for the examination by completing and submitting the online registration form by acessing the link below. Candidates are responsible for
