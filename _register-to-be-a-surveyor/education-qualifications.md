@@ -21,9 +21,9 @@ u b sup{
 
 Land Surveying qualifications accredited by Land Surveyors Board include:
 
-* Final Examination leading to a Degree of Bachelor of Surveying, Bachelor of Geomatics and Bachelor of Land Information conferred by a recognised university; or
+* Final Examination leading to a Degree of Bachelor of Surveying, Bachelor of Geomatics and Bachelor of Land Information conferred by a recognised university.
 
-* Any other Examination regarded by the Board as an equivalent to the Examinations specified in the paragraph above.
+* Any other examination regarded by the Board as an equivalent to the examinations specified in the paragraph above.
 
 (a) The qualification set out in the list below is not exhaustive and serves as a guide for the purpose of entitling the holders to register for the Land Surveyors Board professional practice examinations under the Land Surveyors Act.
 
