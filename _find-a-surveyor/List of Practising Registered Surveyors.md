@@ -331,7 +331,7 @@ ol{
     <td>
         Surbana Jurong Consultants Pte Ltd<br>
         Surbana Jurong Campus<br>
-				38 Cleantech Loop<br>
+				38 Cleantech Loop #01-31<br>
         Singapore 636741<br>
         Tel: 62481409</td>
   </tr>
