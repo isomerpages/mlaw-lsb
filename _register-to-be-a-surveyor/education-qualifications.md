@@ -104,6 +104,14 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
             </ul>
         </ul>
     </li>
+	<li class="alpha"><u>NETHERLANDS</u>
+		  <ul>
+				<li>i. Delft University of Technology,</li>
+				<ul class="no style">
+					<li>Master of Science Geomatics.</li>
+				</ul>
+		 </ul>
+	</li>
     <li class="alpha"><u>NEW ZEALAND</u>
         <ul>
             <li>i. University of Otago,</li>
