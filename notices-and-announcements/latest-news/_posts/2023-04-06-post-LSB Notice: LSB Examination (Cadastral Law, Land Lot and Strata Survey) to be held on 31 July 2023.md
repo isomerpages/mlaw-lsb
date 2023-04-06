@@ -108,7 +108,7 @@ The Land Surveyors Board (LSB) Examinations in the subjects of cadastral law, la
 1) Instructions to Candidate (together with Annexes C and D)<br>
 2) List of sites not to be selected.<br>
 
-All candidates must familarise themselves with the requirements/format of the examination stated herein for compliance and submit thier selection of sites to Mr Ng Chin Sing (email to : ng_chin_sing@sla.gov.sg)  and copy Deputy Registar, Ms Mitsy Ng (email to:  mitsy_ng@sla.gov.sg)  between **25 April 2023 and 22 May 2023.**
+All candidates must familarise themselves with the requirements/format of the examination stated herein for compliance and submit thier selection of sites to Mr Ng Chin Sing (email to: <a href="mailto: ng_chin_sing@sla.gov.sg">ng_chin_sing@sla.gov.sg</a>) and copy Deputy Registar, Ms Mitsy Ng (email to: <a href="mailto: mitsy_ng@sla.gov.sg">mitsy_ng@sla.gov.sg</a>) between **25 April 2023 and 22 May 2023.**
 <br>
 
 Attachment enclosed: <br>
@@ -134,7 +134,7 @@ understanding and complying with the rules governing the examination as set out 
 Method 1 via URL: (https://form.gov.sg/6423b32c72513d00129cea91)<br>
 
 Method 2 via QR code:![register QR code](/images/lsb-exams-2023.png)
-{:style="height:236px; width:236px"}
+
 
 **E. Mode of payment (Payment by cheque will not be accepted)** <br>
 5\. E-payment (Bank Transfer via Internet Banking or ATM) <br>
@@ -153,7 +153,7 @@ Method 2 via QR code:![register QR code](/images/lsb-exams-2023.png)
 **G. Other Important Details**<br>
 8\. In the event of any pandemic outbreak, all candidates must adhere to the prevailing government directives. <br>
 
-9\. The LSB would appreciate if you could inform interested persons on the content of this LSB Notice. Please contact Deputy Registrar, Ms Mitsy Ng (email to: mitsy_ng@sla.gov.sg) if you have questions on this examination . <br>
+9\. The LSB would appreciate if you could inform interested persons on the content of this LSB Notice. Please contact Deputy Registrar, Ms Mitsy Ng (email to: <a href="mailto: mitsy_ng@sla.gov.sg">mitsy_ng@sla.gov.sg</a>) if you have questions on this examination. <br>
 
 Regards<br>
 Derick Tan <br>
