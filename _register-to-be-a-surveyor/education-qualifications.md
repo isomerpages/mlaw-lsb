@@ -27,9 +27,7 @@ Land Surveying qualifications accredited by Land Surveyors Board include:
 
 (a) The qualification set out in the list below is not exhaustive and serves as a guide for the purpose of entitling the holders to register for the Land Surveyors Board professional practice examinations under the Land Surveyors Act.
 
-(b) The basic qualifications recognised by the Land Surveyors Board is based on the first degree in Bachelor of Surveying (Honours or a 4 years program)
-
-(c) In selecting an overseas university for undergraduate degree studies with the intention to seek registration as a registered surveyor in Singapore, it is advisable that students check whether the institution that awards the qualification is recognised for the purpose of registration by the Board.
+(b) In selecting an overseas university for undergraduate degree studies with the intention to seek registration as a registered surveyor in Singapore, it is advisable that students check whether the institution that awards the qualification is recognised for the purpose of registration by the Board.
 
 <u><b>List<sup>*</sup> of Educational Qualifications in Land Surveying recognised by Land Surveyors Board Singapore</b></u>
 
