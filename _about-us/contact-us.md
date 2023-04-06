@@ -10,7 +10,7 @@ c/o Singapore Land Authority <br>
 55 Newton Road, #10-01,<br>
 Revenue House, Singapore 307987<br>
 <br>
-Email:  <br>
+Email: mlaw_lsb_enquiry@mlaw.gov.sg <br>
 <br> 
 
 **Our Location**
