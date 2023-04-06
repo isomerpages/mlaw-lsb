@@ -5,7 +5,7 @@ breadcrumb: Forms
 ---
 ## FORMS
 
-[LSB Exam Declaration and Indemnity Form](/files/LSB_Exam_Declaration_Indemnity_2023.pdf/){:target="_blank"} - (44KB)
+[LSB Exam Declaration and Indemnity Form](/files/lsb_exam_declaration_indemnity__form_2023.pdf/){:target="_blank"} - (44KB)
 
 [LSB Log Book and Explanatory Notes](/files/LSBLogBookandExplanatoryNotes-v1.3.docx){:target="_blank"}
 
