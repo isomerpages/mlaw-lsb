@@ -120,7 +120,7 @@ Attachment enclosed: <br>
 
 **C. Important Details for Cadastral Law Examination**
 
-3\. The Instructions to Candidates are attached as enclosed for compliance by candidates taking the cadastral law written examination. 
+3\. The Instructions to Candidate are attached as enclosed for compliance by candidates taking the cadastral law written examination. 
 <br>
 
 Attachment enclosed: <br>
