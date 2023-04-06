@@ -131,7 +131,7 @@ Attachment enclosed: <br>
 understanding and complying with the rules governing the examination as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
 **Assessing the Examination Application Form**<br>
-Method 1 via URL: (https://form.gov.sg/6423b32c72513d00129cea91)<br>
+Method 1 via URL: <a href="https://form.gov.sg/6423b32c72513d00129cea91">(https://form.gov.sg/6423b32c72513d00129cea91)</a><br>
 
 Method 2 via QR code:![register QR code](/images/lsb-exams-2023.png)
 {:style="height:236px; width: 236px"}
