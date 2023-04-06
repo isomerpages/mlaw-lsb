@@ -134,7 +134,7 @@ understanding and complying with the rules governing the examination as set out 
 Method 1 via URL: (https://form.gov.sg/6423b32c72513d00129cea91)<br>
 
 Method 2 via QR code:![register QR code](/images/lsb-exams-2023.png)
-
+{:style="height:236px; width: 236px"}
 
 **E. Mode of payment (Payment by cheque will not be accepted)** <br>
 5\. E-payment (Bank Transfer via Internet Banking or ATM) <br>
