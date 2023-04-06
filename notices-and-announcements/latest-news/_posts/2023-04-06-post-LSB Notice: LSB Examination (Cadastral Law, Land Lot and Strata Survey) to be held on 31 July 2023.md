@@ -112,7 +112,7 @@ All candidates must familarise themselves with the requirements/format of the ex
 <br>
 
 Attachment enclosed: <br>
-[Instructions_ to_Candidates_Practical2023.pdf](/files/Instructions_to_Candidates_Practical2023.pdf)<br>
+[[Instructions_ to_Candidate_Practical2023.pdf](/files/instructions_to_candidate_practical2023.pdf)<br>
 [LSB_Exam_2023_Checklist_Practical_Annex_C](/files/LSB_Exam_2023_Checklist_Practical_Annex_C.pdf)<br>
 [LSB_Exam_2023_Checklist_Practical_Annex_D](/files/LSB_Exam_2023_Checklist_Practical_Annex_D.pdf)<br>
 [List_of_sites_not_to_to_selected_for_LSB_exam_2023.pdf](/files/List_of_sites_not_to_be_selected_for_LSB_exam_2023.pdf)<br>
