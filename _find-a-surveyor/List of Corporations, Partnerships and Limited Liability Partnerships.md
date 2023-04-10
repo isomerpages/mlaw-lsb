@@ -69,11 +69,11 @@ ol{
 </ol><br>
 Note: This list refers to licenses issued by the Land Surveyors Board under section 17 of the Land Surveyors Act 1991.
 
-<td>
+
 <table>
-    <tr>
-    <tr>
-    <tr>    
+    <tbody><tr>
+    </tr><tr>
+    </tr><tr>    
     <th>Name of the Company</th>
     <th>Principal Business Address</th>
   </tr>
@@ -86,7 +86,7 @@ Note: This list refers to licenses issued by the Land Surveyors Board under sect
         Tel: 62502713</td>
   </tr>
   <tr>
-    <td><a id="C"></a>CAK & FG SURVEY PTE LTD</td>
+    <td><a id="C"></a>CAK &amp; FG SURVEY PTE LTD</td>
     <td>
         701 Sims Drive<br>
         #05-02 LHK Building<br>
@@ -101,8 +101,8 @@ Note: This list refers to licenses issued by the Land Surveyors Board under sect
         Singapore 569880<br>
         Tel: 63583282</td>
   </tr>
-  </tr> 
-    <td><a id="G"></a>GEOMETRA INTERNATIONAL PTE LTD</td>
+   
+    <tr><td><a id="G"></a>GEOMETRA INTERNATIONAL PTE LTD</td>
     <td>
         71 Ubi Crescent<br>
         #02-10 Excalibur Centre<br>
@@ -158,7 +158,7 @@ Note: This list refers to licenses issued by the Land Surveyors Board under sect
         Tel: 62731096</td>
   </tr>
   <tr>
-    <td><a id="S"></a>SEMBCORP ARCHITECTS & ENGINEERS PTE LTD</td>
+    <td><a id="S"></a>SEMBCORP ARCHITECTS &amp; ENGINEERS PTE LTD</td>
     <td>
         51, Changi Business Park Central 2,<br>
         #06-12, The Signature,<br>
@@ -166,7 +166,7 @@ Note: This list refers to licenses issued by the Land Surveyors Board under sect
         Tel: 63052743</td>
   </tr>
   <tr>
-	<td><a id="S"></a> S L K ENGINEERING & CONSULTANTS PTE LTD</td>
+	<td><a id="S"></a> S L K ENGINEERING &amp; CONSULTANTS PTE LTD</td>
 		<td>
 			28, Sin Ming Lane, #04-146 Midview City<br>
 			Singapore 573972<br>
@@ -175,9 +175,9 @@ Note: This list refers to licenses issued by the Land Surveyors Board under sect
 	<tr>
     <td><a id="S"></a>SURBANA JURONG CONSULTANTS PTE LTD</td>
     <td>
-        168 Jalan Bukit Merah<br>
-        #01-01 Connection One<br>
-        Singapore 150168<br>
+        Surbana Jurong Campus<br>
+        38 Cleantech Loop #01-31<br>
+        Singapore 636741<br>
         Tel: 62481409</td>
   </tr>
   <tr>
@@ -189,7 +189,7 @@ Note: This list refers to licenses issued by the Land Surveyors Board under sect
         Tel: 63399660</td>
   </tr>
   <tr>
-    <td><a id="T"></a>TRITECH ENGINEERING & TESTING (SINGAPORE) PTE LTD</td>
+    <td><a id="T"></a>TRITECH ENGINEERING &amp; TESTING (SINGAPORE) PTE LTD</td>
     <td>
         31 Changi South Avenue 2<br>
         Tritech Building<br>
@@ -220,7 +220,7 @@ Note: This list refers to licenses issued by the Land Surveyors Board under sect
         Singapore 349473<br>
         Tel: 67430938</td>
   </tr>
-</table><br>
+</tbody></table><br>
 
 <ol>
   <li><a href="#A">A </a></li>

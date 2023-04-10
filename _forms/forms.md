@@ -5,7 +5,7 @@ breadcrumb: Forms
 ---
 ## FORMS
 
-[LSB Exam Declaration and Indemnity Form](/files/LSBCadastralLaw2022ExamDeclarationandIndemnityForm.pdf/){:target="_blank"} - (44KB)
+[LSB Exam Declaration and Indemnity Form](/files/lsb_exam_declaration_indemnity_form_2023.pdf/)
 
 [LSB Log Book and Explanatory Notes](/files/LSBLogBookandExplanatoryNotes-v1.3.docx){:target="_blank"}
 

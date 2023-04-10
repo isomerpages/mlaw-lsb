@@ -1,7 +1,7 @@
 ---
 title: "LSB Notice: Written Examination for Cadastral Law to be held on 10
   October 2022 (Monday)"
-permalink: /notices-and-announcements/notices/lsb-exam-to-be-held-on-10-oct-2022-mon
+permalink: /notices-and-announcements/notices/lsb-exam-to-be-held-on-10-oct-2022-mon/
 date: 2022-07-08
 layout: post
 description: ""
@@ -52,7 +52,7 @@ understanding and complying with the rules governing the examination as set out 
 
 **Assessing the Examination Application Form**<br>
 Method 1 via URL:
-(<https://form.gov.sg/#!/62b983296bf2960014cf2bde>)<br>
+(https://form.gov.sg/6423b32c72513d00129cea91)<br>
 
 Method 2 via QR code:![register QR code](/images/lsb-cada-law-2022.png){:style="height:236px; width:236px"}
 
@@ -70,7 +70,7 @@ Method 2 via QR code:![register QR code](/images/lsb-cada-law-2022.png){:style="
 **Deadline for submission**<br>
 5\. All completed applications and fees through the online application form must reach us by the closing date of **22 July 2022**.<br>
 
-6\. If you have questions pertaining to this Notice, please contact Ms Mitsy Ng at <mitsy_ng@sla.gov.sg>. <br>
+6\. If you have questions pertaining to this Notice, please contact Ms Mitsy Ng at . <br>
 
 Regards<br>
 Derick Tan <br>
