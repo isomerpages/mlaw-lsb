@@ -104,7 +104,7 @@ image: ""
 
 <u>B. E-payment (bank transfer via Internet Banking)</u><br>
 * Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
-* Notify LSB that you have transferred the money by noting down the bank transaction number and send it to Ms Mitsy Ng (mitsy_ng@sla.gov.sg). Alternatively, you can take a screenshot of the bank transfer transaction page and send to Ms Mitsy Ng (mitsy_ng@sla.gov.sg).
+* Notify LSB that you have transferred the money by noting down the bank transaction number and send it to Ms Mitsy Ng (email to: <a href="mailto:mitsy_ng@sla.gov.sg">mitsy_ng@sla.gov.sg</a>). Alternatively, you can take a screenshot of the bank transfer transaction page and send to Ms Mitsy Ng (email to: <a href="mailto:mitsy_ng@sla.gov.sg">mitsy_ng@sla.gov.sg</a>).
 
 <u>C. PayNow Corporate</u><br>
 * You can make PayNow payments to LSB through UEN number **T08GB0026H**
