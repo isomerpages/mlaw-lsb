@@ -1,12 +1,12 @@
 ---
-title: '[LSB Notice] LSB Examinations (Land Lot Survey and Strata Lot Survey) to be held on 29 November 2019 (Friday)'
-permalink: /notices-and-announcements/latest-news/lsb-notice-lsb-examinations-land-lot-survey-and-strata-lot-survey-to-be-held-on-29-november-2019-friday/
-breadcrumb: '[LSB Notice] LSB Examinations (Land Lot Survey and Strata Lot Survey) to be held on 29 November 2019 (Friday)'
-date: 2019-08-26T00:00:00.000Z
-
+title: LSB Examinations (Land Lot Survey and Strata Lot Survey) to be held on 29
+  November 2019 Friday
+permalink: /notices-and-announcements/notices/lsb-notice-lsb-examinations-land-and-strata-survey-29november2019/
+date: 2019-08-26
+layout: post
+description: ""
+image: ""
 ---
-
-
 ## [LSB NOTICE] LSB EXAMINATIONS (LAND LOT SURVEY AND STRATA LOT SURVEY) TO BE HELD ON 29 NOVEMBER 2019 (FRIDAY)
 
 <b><i>[LSB Notice] LSB Examinations (Land Lot Survey and Strata Lot Survey) to be held on 29 November 2019 (Friday)</i></b>
@@ -14,7 +14,7 @@ date: 2019-08-26T00:00:00.000Z
 1. Application for the Land Surveyors Board Oral and Practical Examinations for 2019 is now opened. The details are as follows:
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>Subject</th>
     <th>Period of Examination</th>
     <th>Commencement (Date, Time and Place)</th>
@@ -59,10 +59,10 @@ date: 2019-08-26T00:00:00.000Z
       </p>
     </td>
   </tr>
-</table>
+</tbody></table>
 
 {:start="2"}
-2. Eligible candidates may apply for the examinations by completing and submitting the attached registration form (scanned copy via email) together with the examination fees to the Registrar, Mr Derick Tan (<derick_tan@sla.gov.sg>) and Assistant Registrar, Ms Mitsy Ng (<mitsy_ng@sla.gov.sg>). Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
+2. Eligible candidates may apply for the examinations by completing and submitting the attached registration form (scanned copy via email) together with the examination fees to the Registrar, Mr Derick Tan (email to: <a href="mailto:derick_tan@sla.gov.sg">derick_tan@sla.gov.sg</a>) and Assistant Registrar, Ms Mitsy Ng (email to: <a href="mailto:mitsy_ng@sla.gov.sg">mitsy_ng@sla.gov.sg</a>). Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
 3. I would like to bring your attention to the “Instructions to Candidate” attached together with this Notice. All candidates are to familiarise themselves with the requirements and format of the examinations for compliance.
 
@@ -72,7 +72,7 @@ date: 2019-08-26T00:00:00.000Z
 * drawn in favour of "Land Surveyors Board Singapore"
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>In Person</th>
     <th>By Post</th>
   </tr>
@@ -100,11 +100,11 @@ date: 2019-08-26T00:00:00.000Z
       </p>
     </td>
   </tr>
-</table>
+</tbody></table>
 
 <u>B. E-payment (bank transfer via Internet Banking)</u><br>
 * Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
-* Notify LSB that you have transferred the money by noting down the bank transaction number and send it to Ms Mitsy Ng (<mitsy_ng@sla.gov.sg>). Alternatively, you can take a screenshot of the bank transfer transaction page and send to Ms Mitsy Ng (<mitsy_ng@sla.gov.sg>).
+* Notify LSB that you have transferred the money by noting down the bank transaction number and send it to Ms Mitsy Ng (email to: <a href="mailto:mitsy_ng@sla.gov.sg">mitsy_ng@sla.gov.sg</a>). Alternatively, you can take a screenshot of the bank transfer transaction page and send to Ms Mitsy Ng (email to: <a href="mailto:mitsy_ng@sla.gov.sg">mitsy_ng@sla.gov.sg</a>).
 
 <u>C. PayNow Corporate</u><br>
 * You can make PayNow payments to LSB through UEN number **T08GB0026H**

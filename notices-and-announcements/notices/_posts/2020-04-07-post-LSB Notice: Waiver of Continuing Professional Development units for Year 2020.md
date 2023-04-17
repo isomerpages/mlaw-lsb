@@ -1,13 +1,12 @@
 ---
-title: 'LSB Notice - Waiver of Continuing Professional Development (CPD) units for Year 2020'
-permalink: /notices-and-announcements/latest-news/2020-waiver-CPD-units-2020/
-breadcrumb: 'LSB Notice and Announcement - Waiver of Continuing Professional Development (CPD) units for Year 2020'
-date: 2020-04-07T00:00:00.000Z
-
+title: "LSB Notice: Waiver of Continuing Professional Development units for Year 2020"
+permalink: /notices-and-announcements/notices/2020-waiver-cpd-units-2020/
+date: 2020-04-07
+layout: post
+description: ""
+image: ""
 ---
-
-
-## LSB NOTICE AND ANNOUNCEMENT: WAIVER OF CONTINUING PROFESSIONAL DEVELOPMENT (CPD) UNITS FOR YEAR 2O2O
+## LSB NOTICE AND ANNOUNCEMENT: WAIVER OF CONTINUING PROFESSIONAL DEVELOPMENT  UNITS FOR YEAR 2O2O
 
 7th April 2020
 
