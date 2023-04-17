@@ -108,7 +108,7 @@ The Land Surveyors Board (LSB) Examinations in the subjects of cadastral law, la
 1) Instructions to Candidate (together with Annexes C and D)<br>
 2) List of sites not to be selected.<br>
 
-All candidates must familarise themselves with the requirements/format of the examination stated herein for compliance and submit thier selection of sites to Mr Ng Chin Sing (email to: <a href="mailto: ng_chin_sing@sla.gov.sg">ng_chin_sing@sla.gov.sg</a>) and copy Deputy Registar, Ms Mitsy Ng (email to: <a href="mailto: mitsy_ng@sla.gov.sg">mitsy_ng@sla.gov.sg</a>) between **25 April 2023 and 22 May 2023.**
+All candidates must familarise themselves with the requirements/format of the examination stated herein for compliance and submit their selection of sites to Mr Ng Chin Sing (email to: <a href="mailto: ng_chin_sing@sla.gov.sg">ng_chin_sing@sla.gov.sg</a>) and copy Deputy Registar, Ms Mitsy Ng (email to: <a href="mailto: mitsy_ng@sla.gov.sg">mitsy_ng@sla.gov.sg</a>) between **25 April 2023 and 22 May 2023.**
 <br>
 
 Attachment enclosed: <br>
