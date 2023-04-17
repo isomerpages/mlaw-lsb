@@ -62,7 +62,7 @@ image: ""
 </tbody></table>
 
 {:start="2"}
-2. Eligible candidates may apply for the examinations by completing and submitting the attached registration form (scanned copy via email) together with the examination fees to the Registrar, Mr Derick Tan () and Assistant Registrar, Ms Mitsy Ng (). Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
+2. Eligible candidates may apply for the examinations by completing and submitting the attached registration form (scanned copy via email) together with the examination fees to the Registrar, Mr Derick Tan (derick_tan@sla.gov.sg) and Assistant Registrar, Ms Mitsy Ng (mitsy_ng@sla.gov.sg). Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
 3. I would like to bring your attention to the “Instructions to Candidate” attached together with this Notice. All candidates are to familiarise themselves with the requirements and format of the examinations for compliance.
 
@@ -104,7 +104,7 @@ image: ""
 
 <u>B. E-payment (bank transfer via Internet Banking)</u><br>
 * Transfer the amount to LSB corporate account number **UOB 201-319-249-0**
-* Notify LSB that you have transferred the money by noting down the bank transaction number and send it to Ms Mitsy Ng (). Alternatively, you can take a screenshot of the bank transfer transaction page and send to Ms Mitsy Ng ().
+* Notify LSB that you have transferred the money by noting down the bank transaction number and send it to Ms Mitsy Ng (mitsy_ng@sla.gov.sg). Alternatively, you can take a screenshot of the bank transfer transaction page and send to Ms Mitsy Ng (mitsy_ng@sla.gov.sg).
 
 <u>C. PayNow Corporate</u><br>
 * You can make PayNow payments to LSB through UEN number **T08GB0026H**
