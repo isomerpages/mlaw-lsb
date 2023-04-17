@@ -62,7 +62,7 @@ image: ""
 </tbody></table>
 
 {:start="2"}
-2. Eligible candidates may apply for the examinations by completing and submitting the attached registration form (scanned copy via email) together with the examination fees to the Registrar, Mr Derick Tan (derick_tan@sla.gov.sg) and Assistant Registrar, Ms Mitsy Ng (mitsy_ng@sla.gov.sg). Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
+2. Eligible candidates may apply for the examinations by completing and submitting the attached registration form (scanned copy via email) together with the examination fees to the Registrar, Mr Derick Tan (email to: <a href="mailto:derick_tan@sla.gov.sg">derick_tan@sla.gov.sg</a>) and Assistant Registrar, Ms Mitsy Ng (email to: <a href="mailto:mitsy_ng@sla.gov.sg">mitsy_ng@sla.gov.sg</a>). Candidates are responsible for understanding and complying with the rules governing the examinations as set out in Part IV (Examinations) of the Land Surveyors Rules.
 
 3. I would like to bring your attention to the “Instructions to Candidate” attached together with this Notice. All candidates are to familiarise themselves with the requirements and format of the examinations for compliance.
 
