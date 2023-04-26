@@ -5,6 +5,8 @@ breadcrumb: Annual Reports
 ---
 ## ANNUAL REPORTS
 
+[Land Surveyors Board: 2022 Annual Report](https://go.gov.sg/lsb-ar-2022)
+<br>
 [Land Surveyors Board: 2021 Annual Report](/files/LSB_AR_2021.pdf)
 <br>
 [Land Surveyors Board : 2020 Annual Report](/files/LSBAnnualReport2020.pdf)<br>
