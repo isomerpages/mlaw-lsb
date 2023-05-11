@@ -121,4 +121,4 @@ Derick Tan<br>
 Registrar<br>
 Land Surveyors Board 
 
-[Instruction to Candidate](/files/Instructions_to_Candidate.pdf/)
+[Instruction to Candidate](/files/Instructions_to_Candidate.pdf)

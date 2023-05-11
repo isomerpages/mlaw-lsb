@@ -1,6 +1,6 @@
 ---
 title: "LSB Notice: LSB Directives on Land Survey and Geomatics Practices"
-permalink: /notices-and-announcements/notices/lsb-notice-lsb-directives-land-survey-and-geomatics-practices
+permalink: /notices-and-announcements/notices/lsb-notice-lsb-directives-land-survey-and-geomatics-practices/
 date: 2022-06-01
 layout: post
 description: ""

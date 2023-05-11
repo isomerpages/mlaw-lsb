@@ -34,7 +34,7 @@ The required forms to be completed and submitted to us for your renewal can be f
 
 
 
-(b) [CPD Summary Form](/files/CPD-Summary-Form.pdf/) <br>
+(b) [CPD Summary Form](/files/CPD-Summary-Form.pdf) <br>
 
 
 
