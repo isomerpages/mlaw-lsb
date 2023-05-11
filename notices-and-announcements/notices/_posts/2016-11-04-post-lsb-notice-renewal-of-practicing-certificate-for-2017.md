@@ -34,7 +34,7 @@ Your current Practicing Certificate will expire on 31st Dec 2016 and you may sub
 The requisite forms are attached and may also be downloaded from Land Surveyors Board's website (attached above for easy ref):<br>
 
 (a) [Application for Practicing Certificate Form 5](/files/LSBForm5-Application-for-Practising-Certificate.doc/)(DOC, 41.5KB), and <br>
-(b) [CPD Summary Form (ANNEX E)](/files/CPDSummaryForm_AnnexE.pdf/)(42.1KB)* <br>
+(b) [CPD Summary Form (ANNEX E)](/files/CPDSummaryForm_AnnexE.pdf)(42.1KB)* <br>
 
 (<sup>*</sup>Arising from the recent CPD review presented at the LSB-SISV Joint Seminar 2016 on Sat, 8th October 2016, an updated CPD summary form will be announced in due time for the renewal of practicing certificates for year 2018 onwards).
 

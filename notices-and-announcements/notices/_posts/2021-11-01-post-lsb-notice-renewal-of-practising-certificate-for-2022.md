@@ -37,7 +37,7 @@ The required forms to be completed and submitted to the LSB can be found in the 
 
 
 
-(b) [CPD Summary Form](/files/CPD_Summary_Form_revised.pdf/) <br>
+(b) [CPD Summary Form](/files/CPD_Summary_Form_revised.pdf) <br>
 
 
 
