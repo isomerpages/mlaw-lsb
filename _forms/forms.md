@@ -9,7 +9,8 @@ breadcrumb: Forms
 
 [LSB Log Book and Explanatory Notes](/files/LSBLogBookandExplanatoryNotes-v1.3.docx){:target="_blank"}
 
-[Application For Registration Of Surveyors (Form 1)](/files/linkclick0317.doc){:target="_blank"} - (DOC, 45KB)
+[Application For Registration Of Surveyors (Form 1)](https://go.gov.sg/application-for-registration-of-surveyors-form-1)
+<br>
 
 [Application For Practising Certificate (Form 5)](/files/linkclickbc26.doc){:target="_blank"} - (DOC, 41KB)
 
