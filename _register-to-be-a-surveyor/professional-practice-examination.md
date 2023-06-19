@@ -63,7 +63,7 @@ Candidates are expected to have a working knowledge of regulations and case laws
 
 **See samples of past years examination papers below**
 
-[2022](/files/2022.pdf), [2021](/files/2021.pdf), [2020](/files/2020.pdf), [2019](/files/2019.pdf), [2018](/files/2018.pdf), [2017](/files/2017.PDF), [2016](/files/2016.pdf), [2015](/files/2015.pdf), [2014](/files/2014.pdf), [2013](/files/2013.pdf), [2012](/files/2012.pdf), [2011](/files/2011.pdf), [2010](/files/2010.pdf), [2009](/files/2009.pdf), [2008](/files/2008.pdf)
+[2022](/files/2022cadalaw.pdf), [2021](/files/2021.pdf), [2020](/files/2020.pdf), [2019](/files/2019.pdf), [2018](/files/2018.pdf), [2017](/files/2017.PDF), [2016](/files/2016.pdf), [2015](/files/2015.pdf), [2014](/files/2014.pdf), [2013](/files/2013.pdf), [2012](/files/2012.pdf), [2011](/files/2011.pdf), [2010](/files/2010.pdf), [2009](/files/2009.pdf), [2008](/files/2008.pdf)
 
 * the practical Examinations in the following subjects:
 
