@@ -34,7 +34,7 @@ I. Bank Transfer via Internet Banking or ATM
 
 II. PayNow
 * Paynow to LSB through UEN number **T08GB0026H** or scan the QR code below
-* Include your **full name in the Reference** when making payment. <br>
+* Include your **full name in the Reference** when making payment <br>
 
 ![register QR code](/images/LSB_paynow_qr_code.jpg){:style="height: 236px; width:236px"}
 
@@ -83,7 +83,7 @@ II. PayNow
 
 (c) Any incomplete application, such as forms not signed, not accompanied by the correct fee, incomplete CPD Summary Form etc, will be subject to rejection.
 
-(d) Hard copy application forms and cheques are not accepted and will not be processed.
+(d) Hardcopy application forms and cheques are not accepted and will not be processed.
 
 **(5) Collection**
 
