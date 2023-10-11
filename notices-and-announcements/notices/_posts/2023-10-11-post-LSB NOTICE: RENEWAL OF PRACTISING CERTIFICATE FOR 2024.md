@@ -38,3 +38,38 @@ II. PayNow
 
 ![register QR code](/images/LSB_paynow_qr_code.jpg){:style="height: 236px; width:236px"}
 
+(ii) The amount payable is:
+
+<style type="text/css">
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+
+.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
+
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+
+</style>
+
+<table class="tg">
+
+  <tbody><tr>
+
+    <th class="tg-fymr"><span style="font-weight:bold">Renewal application </span><span style="font-weight:bold;text-decoration:underline">made and received</span><span style="text-decoration:underline"> BEFORE</span> 1 December 2022</th>
+
+    <th class="tg-fymr">SGD $300</th>
+
+  </tr>
+
+  <tr>
+
+    <td class="tg-0pky"><span style="font-weight:bold">Renewal application </span><span style="font-weight:bold;text-decoration:underline"> made and received on and AFTER</span><span style="font-weight:bold"> 1 December 2022</span></td>
+
+    <td class="tg-0pky"><span style="font-weight:bold">SGD $350</span></td>
+
+  </tr>
+
+</tbody></table>
