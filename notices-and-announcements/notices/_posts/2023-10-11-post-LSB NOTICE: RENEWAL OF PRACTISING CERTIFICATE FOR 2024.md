@@ -75,6 +75,7 @@ II. PayNow
 </tbody></table>
 
 **4. To note**
+
 (a) All applications forms must be legibly completed.
 
 (b) Firms with more than one practising Registered Surveyor are to ensure that the name and address of practice are the same on all its application forms, unless otherwise intended.
