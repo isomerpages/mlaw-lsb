@@ -86,9 +86,17 @@ II. PayNow
 (d) Hard copy application forms and cheques are not accepted and will not be processed.
 
 **(5) Collection**
+
+
 We will inform you when the practising certificate is ready for collection.
 
-Regards <br>
-Derick Tan <br>
-Registrar<br>
+Regards
+
+
+Derick Tan
+
+
+Registrar
+
+
 Land Surveyors Board
