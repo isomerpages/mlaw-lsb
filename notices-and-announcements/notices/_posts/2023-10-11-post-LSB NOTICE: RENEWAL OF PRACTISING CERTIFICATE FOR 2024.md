@@ -20,4 +20,14 @@ The required forms to be completed and submitted to the LSB can be found in the 
 
 (b) CPD Summary Form
 
-Please complete, sign, scan and email the completed forms to the Deputy Registrar, Ms Mitsy Ng
+Please complete, sign, scan and email the completed forms to the Deputy Registrar, Ms Mitsy Ng [mitsy_ng@sla.gov.sg]
+
+**3. Fees**
+
+A reminder that the LSB is **no longer accepting payment by cheque.**
+
+(i) Payment for the following prescibed fees can be made by one of the following methods:
+
+I. Bank Transfer via Internet Banking or ATM
+*  Transfer the amount to LSB corporate account  **UOB 201-319-249-0**
+*  Notify LSB that you have transferred the money by noting down the bank transaction number and proof of the bank transfer transaction record/receipt by sending it to the Deputy Registrar, Ms Mitsy Ng [mitsy_ng@sla.gov.sg].
