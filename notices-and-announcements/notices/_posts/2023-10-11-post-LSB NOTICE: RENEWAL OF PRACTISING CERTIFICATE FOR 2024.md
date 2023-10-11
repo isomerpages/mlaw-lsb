@@ -37,3 +37,4 @@ II. PayNow
 * Include your **full name in the Reference** when making payment. <br>
 
 ![register QR code](/images/LSB_paynow_qr_code.jpg){:style="height: 236px; width:236px"}
+
