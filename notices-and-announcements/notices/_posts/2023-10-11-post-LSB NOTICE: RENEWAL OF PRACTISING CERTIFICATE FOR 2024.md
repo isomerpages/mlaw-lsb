@@ -58,7 +58,7 @@ II. PayNow
 
   <tbody><tr>
 
-    <th class="tg-fymr"><span style="font-weight:bold">Renewal application </span><span style="font-weight:bold;text-decoration:underline">made and received</span><span style="text-decoration:underline"> BEFORE</span> 1 December 2022</th>
+    <th class="tg-fymr"><span style="font-weight:bold">Renewal application </span><span style="font-weight:bold;text-decoration:underline">made and received</span><span style="text-decoration:underline"> BEFORE</span> 1 December 2023</th>
 
     <th class="tg-fymr">SGD $300</th>
 
@@ -66,10 +66,27 @@ II. PayNow
 
   <tr>
 
-    <td class="tg-0pky"><span style="font-weight:bold">Renewal application </span><span style="font-weight:bold;text-decoration:underline"> made and received on and AFTER</span><span style="font-weight:bold"> 1 December 2022</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Renewal application </span><span style="font-weight:bold;text-decoration:underline"> made and received on and AFTER</span><span style="font-weight:bold"> 1 December 2023</span></td>
 
     <td class="tg-0pky"><span style="font-weight:bold">SGD $350</span></td>
 
   </tr>
 
 </tbody></table>
+
+**4. To note**
+(a) All applications forms must be legibly completed.
+
+(b) Firms with more than one practising Registered Surveyor are to ensure that the name and address of practice are the same on all its application forms, unless otherwise intended.
+
+(c) Any incomplete application, such as forms not signed, not accompanied by the correct fee, incomplete CPD Summary Form etc, will be subject to rejection.
+
+(d) Hard copy application forms and cheques are not accepted and will not be processed.
+
+**(5) Collection**
+We will inform you when the practising certificate is ready for collection.
+
+Regards
+Derick Tan
+Registrar
+Land Surveyors Board
