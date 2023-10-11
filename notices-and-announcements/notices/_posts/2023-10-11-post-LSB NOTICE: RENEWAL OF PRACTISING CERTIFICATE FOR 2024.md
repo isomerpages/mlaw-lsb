@@ -6,18 +6,18 @@ layout: post
 description: ""
 image: ""
 ---
-##To: All Practising Registered Surveyors
+# To: All Practising Registered Surveyors
 
-**LSB NOTICE: RENEWAL OF PRACTISING CERTIFICATE FOR 2024
+**LSB NOTICE: RENEWAL OF PRACTISING CERTIFICATE FOR 2024**
 
 Applications for renewal of practising certificate for 2024 are now opened via **email only**.
 
-**2. Documents Required
+**2. Documents Required**
 
-The required forms to be completed and submitted to the LSB can be found in the "Forms" section of the LSB website[LSB website](https://lsb.mlaw.gov.sg), which are attached here for your convenience.
+The required forms to be completed and submitted to the LSB can be found in the "Forms" section of the [LSB website](https://lsb.mlaw.gov.sg), which are attached here for your convenience.
 
-(a) [Application for Practising Certificate (Form 5)](/files/LSBForm5-Application-for-Practising- Certificate.doc), and <br>
+(a) [Application for Practising Certificate (Form 5)](/files/LSBForm5-Application-for-Practising-Certificate.doc) ,  and <br>
 
-(b) [CPD Summary Form]
+(b) CPD Summary Form
 
 Please complete, sign, scan and email the completed forms to the Deputy Registrar, Ms Mitsy Ng
