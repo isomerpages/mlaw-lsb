@@ -95,8 +95,6 @@ Regards
 
 Derick Tan
 
-
 Registrar
-
 
 Land Surveyors Board
