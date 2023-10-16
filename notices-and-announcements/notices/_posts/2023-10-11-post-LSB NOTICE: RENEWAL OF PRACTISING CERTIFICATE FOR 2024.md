@@ -90,11 +90,8 @@ II. PayNow
 
 We will inform you when the practising certificate is ready for collection.
 
-Regards
+Regards <br>
 
-
-Derick Tan
-
-Registrar
-
+Derick Tan <br>
+Registrar <br>
 Land Surveyors Board
