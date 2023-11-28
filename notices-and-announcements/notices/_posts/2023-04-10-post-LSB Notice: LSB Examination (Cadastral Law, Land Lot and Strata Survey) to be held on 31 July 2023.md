@@ -6,6 +6,7 @@ date: 2023-04-10
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 The Land Surveyors Board (LSB) Examinations in the subjects of cadastral law, land lot and strata survey is now open for applications by eligible persons. <br>
 
@@ -153,7 +154,7 @@ Method 2 via QR code:![register QR code](/images/lsb-exams-2023.png)
 **G. Other Important Details**<br>
 8\. In the event of any pandemic outbreak, all candidates must adhere to the prevailing government directives. <br>
 
-9\. The LSB would appreciate if you could inform interested persons on the content of this LSB Notice. Please contact Deputy Registrar, Ms Mitsy Ng (email to: <a href="mailto: mitsy_ng@sla.gov.sg">mitsy_ng@sla.gov.sg</a>) if you have questions on this examination . <br>
+9\. The LSB would appreciate if you could inform interested persons on the content of this LSB Notice. Please contact Deputy Registrar, Ms Mitsy Ng (email to: <a href="mailto: mitsy_ng@sla.gov.sg">mitsy_ng@sla.gov.sg</a>) if you have question on this examination . <br>
 
 Regards<br>
 Derick Tan <br>
