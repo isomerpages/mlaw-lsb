@@ -156,8 +156,8 @@ ol{
 			Singapore 576580<br>
 			Tel: -</td>
 			</tr>
-			
-    <tr><td><a name="F"></a>Foo Jong Kan</td>
+			<tr>
+      <td><a name="F"></a>Foo Jong Kan</td>
     <td>34</td>
     <td>
         J K Foo Consortium Pte Ltd<br>
@@ -574,10 +574,9 @@ ol{
     <td>49</td>
     <td>
         Wang &amp; EF Tan Associates<br>
-        9 Tampines Grande<br>
-        #02-00 Asia Green<br>
-        Singapore 528735<br>
-        Tel: 69111936</td>
+        48A Serangoon Garden Way<br>
+        Singapore 556060<br>
+        Tel: - </td>
   </tr>
   <tr>
     <td><a name="T"></a>Tan Eng Liang</td>
