@@ -2,6 +2,7 @@
 title: List of Practising Registered Surveyors
 permalink: /find-a-surveyor/list-of-practising-registered-surveyors/
 description: ""
+variant: markdown
 ---
 <style>
 ol{
@@ -346,16 +347,7 @@ ol{
         Tel: 68997971</td>
   </tr>
   <tr>
-    <td><a name="L"></a>Lim Chin Tian</td>
-    <td>52</td>
-    <td>
-        Land Transport Authority<br>
-        1 Hampshire Road<br>
-        Singapore 219428<br>
-        Tel: -</td>
-  </tr>
-  <tr>
-    <td><a name="L"></a>Lim Loy Chin</td>
+   <td><a name="L"></a>Lim Loy Chin</td>
     <td>98</td>
     <td>
         Housing &amp; Development Board<br>
@@ -406,9 +398,8 @@ ol{
     <td>45</td>
     <td>
         H Y Loi Consultants<br>
-        10 Genting Road<br>
-        #02-00 The Blue Building<br>
-        Singapore 349473<br>
+        12 Jalan Khamis<br>
+        Singapore 577858<br>
         Tel: -</td>
   </tr>
   <tr>
