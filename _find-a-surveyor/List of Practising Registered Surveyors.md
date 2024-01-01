@@ -528,7 +528,7 @@ ol{
         7030, Ang Mo Kio Avenue 5<br>
         #08-01, NorthStar @ AMK<br>
         Singapore 569880<br>
-        Tel: 68014387</td> 
+        Tel: - </td> 
   </tr>
   <tr>
     <td><a name="T"></a>Tan Boong Ping</td>
