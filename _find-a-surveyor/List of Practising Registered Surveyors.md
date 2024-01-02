@@ -2,6 +2,7 @@
 title: List of Practising Registered Surveyors
 permalink: /find-a-surveyor/list-of-practising-registered-surveyors/
 description: ""
+variant: markdown
 ---
 <style>
 ol{
@@ -155,8 +156,8 @@ ol{
 			Singapore 576580<br>
 			Tel: -</td>
 			</tr>
-			
-    <tr><td><a name="F"></a>Foo Jong Kan</td>
+			<tr>
+      <td><a name="F"></a>Foo Jong Kan</td>
     <td>34</td>
     <td>
         J K Foo Consortium Pte Ltd<br>
@@ -346,16 +347,7 @@ ol{
         Tel: 68997971</td>
   </tr>
   <tr>
-    <td><a name="L"></a>Lim Chin Tian</td>
-    <td>52</td>
-    <td>
-        Land Transport Authority<br>
-        1 Hampshire Road<br>
-        Singapore 219428<br>
-        Tel: -</td>
-  </tr>
-  <tr>
-    <td><a name="L"></a>Lim Loy Chin</td>
+   <td><a name="L"></a>Lim Loy Chin</td>
     <td>98</td>
     <td>
         Housing &amp; Development Board<br>
@@ -406,9 +398,8 @@ ol{
     <td>45</td>
     <td>
         H Y Loi Consultants<br>
-        10 Genting Road<br>
-        #02-00 The Blue Building<br>
-        Singapore 349473<br>
+        12 Jalan Khamis<br>
+        Singapore 577858<br>
         Tel: -</td>
   </tr>
   <tr>
@@ -537,7 +528,7 @@ ol{
         7030, Ang Mo Kio Avenue 5<br>
         #08-01, NorthStar @ AMK<br>
         Singapore 569880<br>
-        Tel: 68014387</td> 
+        Tel: - </td> 
   </tr>
   <tr>
     <td><a name="T"></a>Tan Boong Ping</td>
@@ -583,10 +574,9 @@ ol{
     <td>49</td>
     <td>
         Wang &amp; EF Tan Associates<br>
-        9 Tampines Grande<br>
-        #02-00 Asia Green<br>
-        Singapore 528735<br>
-        Tel: 69111936</td>
+        48A Serangoon Garden Way<br>
+        Singapore 556060<br>
+        Tel: - </td>
   </tr>
   <tr>
     <td><a name="T"></a>Tan Eng Liang</td>
