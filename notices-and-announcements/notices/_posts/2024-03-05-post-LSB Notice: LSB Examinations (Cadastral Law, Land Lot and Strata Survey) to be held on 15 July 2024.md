@@ -41,7 +41,7 @@ by candidates taking the cadastral law written examination.</p>
 <p></p>
 <p>Attachment enclosed:</p>
 <p>[Instructions_to_Candidate_CadastralLaw2023.pdf](/files/instructions_to_candidate_cadastrallaw2023.pdf)&lt;br&gt;</p>
-<p><strong><u>D. Mode of Application</u></strong> 
+<p><strong><u>D. Mode of Application</u></strong>
 </p>
 <p>4. Eligible persons may apply to sit for the examination by completing
 and submitting the online registration form by accessing the link below.
