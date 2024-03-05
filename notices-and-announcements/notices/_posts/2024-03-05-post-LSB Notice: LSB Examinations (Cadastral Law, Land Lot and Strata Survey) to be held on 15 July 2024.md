@@ -122,7 +122,7 @@ Mitsy Ng) before the closing time and date of:</p>
 <p><strong><u>B. Important Details for Practical Examinations</u></strong>
 </p>
 <p>2. I would like to bring your attention to the documents attached:</p>
-<p>a) Instructions to Candidate (together with Annexes C and D)</p>
+<p>a) Instructions to Candidate (together with Annexes C and D).</p>
 <p>b) List of sites not to be selected.</p>
 <p>All candidates must familarise themselves with the requirements/format
 of the examination stated herein for compliance and submit their selection
@@ -156,8 +156,10 @@ governing the examination as set out in Part IV (Examinations) of the Land
 Surveyors Rules.</p>
 <p><strong><u>Online registration form</u></strong>
 </p>
-<p>Method 1 via URL:</p>
-<p>Method 2 via QR code:</p>
+<p>Method 1 via URL: <a href="https://go.gov.sg/lsb-exam-registration-2024" rel="noopener noreferrer nofollow" target="_blank">Online registration form_2024</a>
+</p>
+<p>Method 2 via QR code: <strong><a href="https://go.gov.sg/lsb-exam-registration-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lsb-exam-registration-2024</a></strong>
+</p>
 <p></p>
 <p><strong><u>E. Mode of payment (Payment by cheque will not be accepted)</u></strong> &lt;br&gt;</p>
 <p>5. E-payment (Bank Transfer via Internet Banking or ATM)</p>
