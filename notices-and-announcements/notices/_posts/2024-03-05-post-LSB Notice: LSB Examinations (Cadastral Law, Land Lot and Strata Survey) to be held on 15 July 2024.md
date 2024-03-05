@@ -33,16 +33,19 @@ minutes before the start of the examinations):</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Written Examination</p>
+<p><strong><u>Written Examination</u></strong>
+</p>
 <p>Cadastral Law</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>15 July 2024 (Monday)</p>
+<p><strong><u>15 July 2024 (Monday)</u></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>9.00am - 12.00pm</p>
+<p><strong>9.00am - 12.00pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Land Authority</p>
@@ -51,6 +54,47 @@ minutes before the start of the examinations):</p>
 <p>Revenue House</p>
 <p>55 Newton Road</p>
 <p>Singapore 307987</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Period of Examination</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oral and Practical Examination</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Land Lot Survey</p>
+</li>
+<li>
+<p>Stratra Survey</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 weeks for both subjects (8 weeks total including weekends and Public
+Holidays, regardless of one or two subjects taken) from date of commncement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -69,7 +113,6 @@ minutes before the start of the examinations):</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p><strong><u>B. Important Details for Practical Examinations</u></strong>
 </p>
