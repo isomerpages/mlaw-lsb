@@ -33,7 +33,7 @@ minutes before the start of the examinations):</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Written Examination</u></strong>
+<p><u>Written Examination</u>
 </p>
 <p>Cadastral Law</p>
 </td>
@@ -71,7 +71,7 @@ minutes before the start of the examinations):</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <p></p>
 <p></p>
 <table>
@@ -92,7 +92,8 @@ minutes before the start of the examinations):</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Oral and Practical Examination</p>
+<p><u>Oral and Practical Examination</u>
+</p>
 <p></p>
 <p>1. Land Lot Survey</p>
 <p>2. Strata Survey</p>
@@ -127,20 +128,6 @@ Holidays, regardless of one or two subjects taken) from date of commencement</p>
 <p></p>
 <p>All subjects must be completed and submitted to the Deputy Registrar (Ms
 Mitsy Ng) before the closing time and date of:</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
