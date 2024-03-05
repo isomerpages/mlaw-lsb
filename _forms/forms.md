@@ -2,18 +2,19 @@
 title: Forms
 permalink: /forms/forms/
 breadcrumb: Forms
+variant: tiptap
 ---
-## FORMS
-
-[LSB Exam Declaration and Indemnity Form](/files/lsb_exam_declaration_indemnity_form_2023.pdf)
-
-[LSB Log Book and Explanatory Notes](/files/LSBLogBookandExplanatoryNotes-v1.3.docx){:target="_blank"}
-
-[Application For Registration Of Surveyors (Form 1)](https://go.gov.sg/application-for-registration-of-surveyors-form-1)
+<h2>FORMS</h2>
+<p><a href="/files/lsb_exam_declaration_indemnity_form_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">LSB Exam Declaration and Indemnity Form</a>
+</p>
+<p><a href="/files/LSBLogBookandExplanatoryNotes-v1.3.docx" rel="noopener noreferrer nofollow" target="_blank">LSB Log Book and Explanatory Notes</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/application-for-registration-of-surveyors-form-1" rel="noopener noreferrer nofollow" target="_blank">Application For Registration Of Surveyors (Form 1)</a> 
 <br>
-
-[Application For Practising Certificate (Form 5)](/files/linkclickbc26.doc){:target="_blank"} - (DOC, 41KB)
-
-[Application For Licence (Form 8)](/files/linkclick32a1.doc){:target="_blank"} - (DOC, 69KB)
-
-[CPD Summary Form – Requirement for renewal of practising certificate](/files/CPD_Summary_Form_Apr2022_Final_Published.pdf)
+</p>
+<p><a href="/files/linkclickbc26.doc" rel="noopener noreferrer nofollow" target="_blank">Application For Practising Certificate (Form 5)</a>{:target="_blank"}
+- (DOC, 41KB)</p>
+<p><a href="/files/linkclick32a1.doc" rel="noopener noreferrer nofollow" target="_blank">Application For Licence (Form 8)</a>{:target="_blank"}
+- (DOC, 69KB)</p>
+<p><a href="/files/CPD_Summary_Form_Apr2022_Final_Published.pdf" rel="noopener noreferrer nofollow" target="_blank">CPD Summary Form – Requirement for renewal of practising certificate</a>
+<a href="/files/LSB_Exam_Declaration_and_Indemnity_Form__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">LSB exam declaration and indemnity form_2024</a>
+</p>
