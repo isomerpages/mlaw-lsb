@@ -160,7 +160,7 @@ Surveyors Rules.</p>
 </p>
 <p>Method 2 via QR code</p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_lsb_exam_registration_2024__1_.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_lsb_exam_registration_2024__1_.png">
 </div>
 <p></p>
 <p></p>
