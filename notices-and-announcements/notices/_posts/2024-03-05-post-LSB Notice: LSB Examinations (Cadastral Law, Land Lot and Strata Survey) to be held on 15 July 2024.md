@@ -15,7 +15,60 @@ persons.</p>
 </p>
 <p>1. The schedule is as follows (All candidates to be present at least 5
 minutes before the start of the examinations):</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Written Examination</p>
+<p>Cadastral Law</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+<p>15 July 2024 (Monday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>9.00am - 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Land Authority</p>
+<p>Training Rooms</p>
+<p>Level 13</p>
+<p>Revenue House</p>
+<p>55 Newton Road</p>
+<p>Singapore 307987</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p><strong><u>B. Important Details for Practical Examinations</u></strong>
