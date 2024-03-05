@@ -15,7 +15,7 @@ variant: tiptap
 - (DOC, 41KB)</p>
 <p><a href="/files/linkclick32a1.doc" rel="noopener noreferrer nofollow" target="_blank">Application For Licence (Form 8)</a>{:target="_blank"}
 - (DOC, 69KB)</p>
-<p><a href="/files/CPD_Summary_Form_Apr2022_Final_Published.pdf" rel="noopener noreferrer nofollow" target="_blank">CPD Summary Form – Requirement for renewal of practising certificate</a> 
+<p><a href="/files/CPD_Summary_Form_Apr2022_Final_Published.pdf" rel="noopener noreferrer nofollow" target="_blank">CPD Summary Form – Requirement for renewal of practising certificate</a>
 </p>
-<p><a href="/files/LSB_Exam_Declaration_and_Indemnity_Form__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Exam and Indemnity Form_2024</a>
+<p><a href="/files/LSB_Exam_Declaration_and_Indemnity_Form__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">LSB exam declaration and indemnity form _2024</a>
 </p>
