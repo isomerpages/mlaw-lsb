@@ -158,7 +158,7 @@ Surveyors Rules.</p>
 </p>
 <p>Method 1 via URL: <a href="https://go.gov.sg/lsb-exam-registration-2024" rel="noopener noreferrer nofollow" target="_blank">Online registration form_2024</a>
 </p>
-<p>Method 2 via QR code: <strong><a href="https://go.gov.sg/lsb-exam-registration-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lsb-exam-registration-2024</a></strong>
+<p>Method 2 via QR code<strong><a href="https://go.gov.sg/lsb-exam-registration-2024" rel="noopener noreferrer nofollow" target="_blank"> </a></strong>
 </p>
 <p></p>
 <p><strong><u>E. Mode of payment (Payment by cheque will not be accepted)</u></strong> &lt;br&gt;</p>
