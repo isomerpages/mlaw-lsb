@@ -30,17 +30,94 @@ copy Deputy Registrar, Ms Mitsy Ng (email to: <a href="mailto:mitsy_ng@sla.gov.s
 </p>
 <p></p>
 <p>Attachment enclosed:</p>
-<p>[Instructions_ to_Candidate_Practical2023.pdf](/files/instructions_to_candidate_practical2023.pdf)&lt;br&gt;</p>
-<p>[LSB_Exam_2023_Checklist_Practical_Annex_C](/files/lsb_exam_2023_checklist_practical_annex_c.pdf)&lt;br&gt;</p>
-<p>[LSB_Exam_2023_Checklist_Practical_Annex_D](/files/lsb_exam_2023_checklist_practical_annex_d.pdf)&lt;br&gt;</p>
-<p>[List_of_sites_not_to_to_selected_for_LSB_exam_2023.pdf](/files/list_of_sites_not_to_be_selected_for_lsb_exam_2023.pdf)&lt;br&gt;</p>
+<p>[<a href="/files/Instructions_to_Candidate_Practical_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Instruction to Candidate_Practical 2024</a>]</p>
+<p><a href="/files/LSB_Exam_2024_Checklist_Practical_Annex_C_.pdf" rel="noopener noreferrer nofollow" target="_blank">LSB Exam 2024 Checklist_Practical (Annex C)]</a>
+</p>
+<p>[<a href="/files/LSB_Exam_2024_Checklist_Practical_Annex_D_.pdf" rel="noopener noreferrer nofollow" target="_blank">LSB Exam 2024 Checklist_Practical (Annex D)]</a>
+</p>
+<p>[<a href="/files/List_of_sites_not_to_be_selected_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">List of sites not to be selected_2024]</a>
+</p>
 <p><strong><u>C. Important Details for Cadastral Law Examination</u></strong>
 </p>
 <p>3. The Instructions to Candidate are attached as enclosed for compliance
 by candidates taking the cadastral law written examination.</p>
 <p></p>
 <p>Attachment enclosed:</p>
-<p>[Instructions_to_Candidate_CadastralLaw2023.pdf](/files/instructions_to_candidate_cadastrallaw2023.pdf)&lt;br&gt;</p>
+<p>[<a href="/files/Instructions_to_Candidate_Cadastral_Law_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Instruction to Candidate_Cadastral Law 2024]</a>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>D. Mode of Application</u></strong>
 </p>
 <p>4. Eligible persons may apply to sit for the examination by completing
