@@ -164,7 +164,7 @@ Surveyors Rules.</p>
 </div>
 <p></p>
 <p></p>
-<p><strong><u>E. Mode of payment (Payment by cheque will not be accepted)</u></strong> 
+<p><strong><u>E. Mode of payment (Payment by cheque will not be accepted)</u></strong>
 </p>
 <p>5. E-payment (Bank Transfer via Internet Banking or ATM)</p>
 <p>- Transfer the amount to LSB corporate account number <strong>UOB 201-319-249-0</strong>
