@@ -164,7 +164,8 @@ Surveyors Rules.</p>
 </div>
 <p></p>
 <p></p>
-<p><strong><u>E. Mode of payment (Payment by cheque will not be accepted)</u></strong> &lt;br&gt;</p>
+<p><strong><u>E. Mode of payment (Payment by cheque will not be accepted)</u></strong> 
+</p>
 <p>5. E-payment (Bank Transfer via Internet Banking or ATM)</p>
 <p>- Transfer the amount to LSB corporate account number <strong>UOB 201-319-249-0</strong>
 </p>
@@ -174,6 +175,9 @@ the online registration form</p>
 <p>- You can make PayNow payments to LSB through UEN number <strong>T08GB0026H</strong> or
 scan the QR code below</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PayNow QR code" src="/images/LSB_paynow_qr_code.jpg">
+</div>
 <p></p>
 <p>- Include your name for reference when making payment and attach the proof
 of payment in the online application form</p>
