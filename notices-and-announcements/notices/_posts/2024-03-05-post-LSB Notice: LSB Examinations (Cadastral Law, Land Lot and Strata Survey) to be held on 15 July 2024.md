@@ -38,7 +38,6 @@ minutes before the start of the examinations):</p>
 <p>Cadastral Law</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong><u>15 July 2024 (Monday)</u></strong>
 </p>
 </td>
@@ -56,8 +55,25 @@ minutes before the start of the examinations):</p>
 <p>Singapore 307987</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
 <table>
 <tbody>
 <tr>
