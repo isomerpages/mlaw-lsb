@@ -31,11 +31,11 @@ persons. &lt;br&gt;</p>
 <p>&lt;/td&gt;</p>
 <p>&lt;td&gt;</p>
 <p>&lt;p style="font-size: 1rem;"&gt;</p>
-<p>	<strong><u>15 July 2024 (Monday)</u></strong>&lt;/p&gt;</p>
+<p><strong><u>15 July 2024 (Monday)</u></strong>&lt;/p&gt;</p>
 <p>&lt;/td&gt;</p>
 <p>&lt;td&gt;</p>
 <p>&lt;p style="font-size: 1rem;"&gt;</p>
-<p>	<strong>9.00 am - 12.00 pm</strong> &lt;/p&gt;</p>
+<p><strong>9.00 am - 12.00 pm</strong> &lt;/p&gt;</p>
 <p>&lt;/td&gt;</p>
 <p>&lt;td&gt;</p>
 <p>&lt;p style="font-size: 1rem;"&gt;</p>
@@ -160,13 +160,18 @@ of payment in the online application form</p>
 together with the fees to be paid must be completed before the closing
 date of <strong><u>7 April 2024</u></strong><u>.</u>&lt;br&gt;</p>
 <p><strong><u>G. Other Important Details</u></strong>&lt;br&gt;</p>
-<p>8\. In the event of any pandemic outbreak, all candidates must adhere
-to the prevailing government directives. &lt;br&gt;</p>
-<p>9\. The LSB would appreciate if you could inform interested persons on
+<p>8\. The LSB would appreciate if you could inform interested persons on
 the content of this LSB Notice. Please contact Deputy Registrar, Ms Mitsy
 Ng (email to: &lt;a href="mailto: <a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>"&gt;<a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>&lt;/a&gt;)
 if you have question on this examination . &lt;br&gt;</p>
 <p><strong><u>H. Tutorial Sessions by SISV on Cadastral Law</u></strong>&lt;br&gt;</p>
+<p>9\. To prepare candidates in the written exam, SISV is considering offering
+tutorial sessions. To gauge whether to proceed with the tutorial sessions,
+please contact Ms Manisah Jalil(email to: &lt;a href="mailto: <a href="mailto: </span><a target=" rel="noopener noreferrer nofollow" target="_blank"><u>manisah@sisv.org.sg</u></a>"&gt;
+<a href="mailto: </span><a target=" rel="noopener noreferrer nofollow" target="_blank"><u>manisah@sisv.org.sg</u>
+</a>&lt;/a&gt;) to indicate your interest on the tutorial sessions. Please
+note that LSB does not receive any fee for the sessons and interested persons
+will have to liaise with SISV directly.</p>
 <p>Regards&lt;br&gt;</p>
 <p>Derick Tan &lt;br&gt;</p>
 <p>Registrar &lt;br&gt;</p>
