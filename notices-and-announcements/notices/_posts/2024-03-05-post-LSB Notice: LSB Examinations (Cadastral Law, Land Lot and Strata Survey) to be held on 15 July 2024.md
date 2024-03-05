@@ -68,33 +68,49 @@ minutes before the start of the examinations):</p>
 <p>Period of Examination</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time</p>
+<p>Commencement (Date, Time and Place)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Venue</p>
+<p>Closing Date and Time of Examination</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Oral and Practical Examination</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Land Lot Survey</p>
-</li>
-<li>
-<p>Stratra Survey</p>
-</li>
-</ol>
+<p></p>
+<p>1. Land Lot Survey</p>
+<p>2. Strata Survey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 weeks for both subjects (8 weeks total including weekends and Public
-Holidays, regardless of one or two subjects taken) from date of commncement</p>
+Holidays, regardless of one or two subjects taken) from date of commencement</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><u>15 July 2024 (Monday)</u></strong>
+</p>
+<p><strong>2.30pm</strong>
+</p>
 <p></p>
+<p>Singapore Land Authority</p>
+<p>Training Rooms Level 13</p>
+<p>Revenue House</p>
+<p>55 Newton Road</p>
+<p>Singapore 307987</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><u>9 September 2024 (Monday)</u></strong>
+</p>
+<p><strong>2.30pm</strong>
+</p>
 <p></p>
+<p>Singapore Land Authority</p>
+<p>Level 14</p>
+<p>Revenue House</p>
+<p>55 Newton Road</p>
+<p>Singapore 307987</p>
+<p></p>
+<p>All subjects must be completed and submitted to the Deputy Registrar (Ms
+Mitsy Ng) before the closing time and date of:</p>
 </td>
 </tr>
 <tr>
