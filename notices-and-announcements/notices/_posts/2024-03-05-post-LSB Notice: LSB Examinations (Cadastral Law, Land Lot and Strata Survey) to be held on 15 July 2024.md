@@ -30,12 +30,13 @@ copy Deputy Registrar, Ms Mitsy Ng (email to: <a href="mailto:mitsy_ng@sla.gov.s
 </p>
 <p></p>
 <p>Attachment enclosed:</p>
-<p>[<a href="/files/Instructions_to_Candidate_Practical_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Instruction to Candidate_Practical 2024</a>]</p>
-<p><a href="/files/LSB_Exam_2024_Checklist_Practical_Annex_C_.pdf" rel="noopener noreferrer nofollow" target="_blank">LSB Exam 2024 Checklist_Practical (Annex C)]</a>
+<p><a href="/files/Instructions_to_Candidate_Practical_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Instruction to Candidate_Practical 2024</a>
 </p>
-<p>[<a href="/files/LSB_Exam_2024_Checklist_Practical_Annex_D_.pdf" rel="noopener noreferrer nofollow" target="_blank">LSB Exam 2024 Checklist_Practical (Annex D)]</a>
+<p><a href="/files/LSB_Exam_2024_Checklist_Practical_Annex_C_.pdf" rel="noopener noreferrer nofollow" target="_blank">LSB Exam 2024 Checklist_Practical (Annex C)</a>
 </p>
-<p>[<a href="/files/List_of_sites_not_to_be_selected_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">List of sites not to be selected_2024]</a>
+<p><a href="/files/LSB_Exam_2024_Checklist_Practical_Annex_D_.pdf" rel="noopener noreferrer nofollow" target="_blank">LSB Exam 2024 Checklist_Practical (Annex D)</a>
+</p>
+<p><a href="/files/List_of_sites_not_to_be_selected_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">List of sites not to be selected_2024</a>
 </p>
 <p><strong><u>C. Important Details for Cadastral Law Examination</u></strong>
 </p>
@@ -43,81 +44,8 @@ copy Deputy Registrar, Ms Mitsy Ng (email to: <a href="mailto:mitsy_ng@sla.gov.s
 by candidates taking the cadastral law written examination.</p>
 <p></p>
 <p>Attachment enclosed:</p>
-<p>[<a href="/files/Instructions_to_Candidate_Cadastral_Law_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Instruction to Candidate_Cadastral Law 2024]</a>
+<p><a href="/files/Instructions_to_Candidate_Cadastral_Law_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Instruction to Candidate_Cadastral Law 2024</a>
 </p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><u>D. Mode of Application</u></strong>
 </p>
 <p>4. Eligible persons may apply to sit for the examination by completing
@@ -127,10 +55,9 @@ governing the examination as set out in Part IV (Examinations) of the Land
 Surveyors Rules.</p>
 <p><strong><u>Online registration form</u></strong>
 </p>
-<p>Method 1 via URL: &lt;a href="<a href="https://form.gov.sg/6423b32c72513d00129cea91&quot;>(https://form.gov.sg/6423b32c72513d00129cea91)</a><br>" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6423b32c72513d00129cea91"&gt;(https://form.gov.sg/6423b32c72513d00129cea91)&lt;/a&gt;&lt;br&gt;</a>
-</p>
-<p>Method 2 via QR code:![register QR code](/images/lsb-exams-2023.png)</p>
-<p>{:style="height:236px; width:236px"}</p>
+<p>Method 1 via URL:</p>
+<p>Method 2 via QR code:</p>
+<p></p>
 <p><strong><u>E. Mode of payment (Payment by cheque will not be accepted)</u></strong> &lt;br&gt;</p>
 <p>5. E-payment (Bank Transfer via Internet Banking or ATM)</p>
 <p>- Transfer the amount to LSB corporate account number <strong>UOB 201-319-249-0</strong>
@@ -140,8 +67,8 @@ the online registration form</p>
 <p>6. PayNow</p>
 <p>- You can make PayNow payments to LSB through UEN number <strong>T08GB0026H</strong> or
 scan the QR code below</p>
-<p>![register QR code](/images/LSB_paynow_qr_code.jpg){:style="height:236px;
-width: 236px"}</p>
+<p></p>
+<p></p>
 <p>- Include your name for reference when making payment and attach the proof
 of payment in the online application form</p>
 <p><strong><u>F. Deadline for registration</u></strong>
