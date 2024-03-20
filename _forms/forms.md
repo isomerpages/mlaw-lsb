@@ -7,7 +7,8 @@ variant: tiptap
 <h2>FORMS</h2>
 <p><a href="/files/lsb_exam_declaration_indemnity_form_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">LSB Exam Declaration and Indemnity Form</a>
 </p>
-<p><a href="/files/LSBLogBookandExplanatoryNotes-v1.3.docx" rel="noopener noreferrer nofollow" target="_blank">LSB Log Book and Explanatory Notes</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/n582vv" rel="noopener noreferrer nofollow" target="_blank">LSB Log Book and Explanatory Notes</a>
+</p>
 <p><a href="https://go.gov.sg/application-for-registration-of-surveyors-form-1" rel="noopener noreferrer nofollow" target="_blank">Application For Registration Of Surveyors (Form 1)</a> 
 <br>
 </p>
