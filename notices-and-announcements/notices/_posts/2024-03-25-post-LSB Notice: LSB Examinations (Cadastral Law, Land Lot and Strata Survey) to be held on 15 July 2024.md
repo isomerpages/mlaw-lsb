@@ -113,7 +113,7 @@ Holidays, regardless of one or two subjects taken) from date of commencement</p>
 <p>Singapore 307987</p>
 <p></p>
 <p>All subjects must be completed and submitted to the Deputy Registrar (Ms
-Mitsy Ng) before the closing time and date of:</p>
+Mitsy Ng) before the closing time and date.</p>
 </td>
 </tr>
 </tbody>
