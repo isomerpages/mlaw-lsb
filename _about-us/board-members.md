@@ -1,21 +1,19 @@
 ---
-title: 'Board Members'
+title: Board Members
 permalink: /about-us/board-members/
-breadcrumb: 'Board Members'
-
+breadcrumb: Board Members
+variant: markdown
 ---
-
-
 ## BOARD MEMBERS
 
 ##### **President of the Board**
 **Mr Soh Kheng Peng** <br>
 c/o Singapore Land Authority <br>
 55 Newton Road <br>
-#10-01 Revenue House <br>
+#14-01 Revenue House <br>
 Singapore 307987 <br>
 Tel: (65) 64783699 <br>
-Email: <soh_kheng_peng@sla.gov.sg>
+Email: 
 <br>
 
 ##### **Members of the Board**
@@ -25,7 +23,7 @@ YJP Surveyors Pte Ltd <br>
 #05-00 The Blue Building <br>
 Singapore 349473 <br>
 Tel: (65) 67430938 <br>
-Email: <andrewyap@yjpsurveyors.com> 
+Email:  
 <br>
 
 **Mr Lee Eng Soon** <br>
@@ -34,7 +32,7 @@ JTC Summit <br>
 8 Jurong Town Hall Road <br>
 Singapore 609434 <br> 
 Tel: (65) 68833116 <br>
-Email: <Lee_Eng_Soon@jtc.gov.sg> 
+Email:  
 <br>
 
 **Mr Mak Weng Tat** <br>
@@ -43,7 +41,7 @@ Chartered Survey Services Consultants Pte Ltd<br>
 #07-44 Northstar@AMK <br>
 Singapore 569880 <br>
 Tel: (65) 63583282 <br>
-Email: <chartsvy@singnet.com.sg>
+Email: 
 <br>
 
 **Mr Leong Kin Weng** <br>
@@ -52,7 +50,7 @@ Surbana Jurong Consultants Pte Ltd <br>
 #01-01 Connection One <br>
 Singapore 150168 <br>
 Tel: (65) 62481409 <br>
-Email: <kinweng.leong@surbanajurong.com> 
+Email:  
 <br>
 
 **Mr Christopher Lee Teck Kim**  <br>
@@ -61,16 +59,16 @@ Precision Survey Consultants Pte Ltd <br>
 #08-17 ARK@Gambas<br> 
 Singapore 757087<br>
 Tel: (65) 62996663 <br>
-Email: <Christopher@precisionsurvey.com.sg> 
+Email:  
 <br>
 
 **Ms Teo Hui Ying** <br>
 c/o Singapore Land Authority <br>
 55 Newton Road <br>
-#10-01 Revenue House <br>
+#14-01 Revenue House <br>
 Singapore 307987 <br>
 Tel: (65) 64783528 <br>
-Email: <teo_hui_ying@sla.gov.sg> 
+Email:  
 <br> 
 
 ##### **Registrar**
@@ -78,7 +76,7 @@ Email: <teo_hui_ying@sla.gov.sg>
 **Mr Derick Tan** <br> 
 c/o Singapore Land Authority <br>
 55 Newton Road <br>
-#10-01 Revenue House <br>
+#14-01 Revenue House <br>
 Singapore 307987 <br>
 Tel: (65) 64783604 <br> 
-Email: <Derick_TAN@sla.gov.sg> <br>
+Email:  <br>
