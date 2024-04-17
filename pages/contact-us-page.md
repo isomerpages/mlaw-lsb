@@ -1,16 +1,14 @@
 ---
-title: 'Contact Us'
+title: Contact Us
 permalink: /contact-us/
-breadcrumb: 'Contact Us'
-
+breadcrumb: Contact Us
+variant: markdown
 ---
-
-
 ## CONTACT US
 
 LAND SURVEYORS BOARD<br>
 c/o Singapore Land Authority<br>
-55 Newton Road, #12-01,<br>
+55 Newton Road, #14-01,<br>
 Revenue House, Singapore 307987<br>
 
 
