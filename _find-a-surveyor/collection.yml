@@ -1,0 +1,7 @@
+collections:
+  find-a-surveyor:
+    output: true
+    order:
+      - List of Corporations, Partnerships and Limited Liability Partnerships.md
+      - List of Practising Registered Surveyors.md
+      - List of Suspended Registered Surveyors from Practice.md

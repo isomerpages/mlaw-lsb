@@ -1,0 +1,20 @@
+logo: /images/lsb_logo.JPG
+links:
+  - title: About Us
+    url: /about-us/overview/
+    collection: about-us
+  - title: Find a Surveyor
+    url: /find-a-surveyor/list-of-licensed-companies/
+    collection: find-a-surveyor
+  - title: Register to be a Surveyor
+    url: /register-to-be-a-surveyor/overview/
+    collection: register-to-be-a-surveyor
+  - title: Guidelines
+    url: /guidelines-and-policies/land-surveyors-act/
+    collection: guidelines-and-policies
+  - title: Forms
+    url: /forms/forms
+  - title: Notices
+    resource_room: true
+  - title: Lsb 50th anniversary
+    collection: lsb-50th-anniversary
