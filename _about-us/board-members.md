@@ -17,23 +17,23 @@ YJP Surveyors Pte Ltd
 <br>
 
 **Mr Lee Eng Soon** <br>
-JTC Corporation <br> 
+JTC Corporation
 <br>
 
 **Mr Mak Weng Tat** <br>
-Chartered Survey Services Consultants Pte Ltd<br>
+Chartered Survey Services Consultants Pte Ltd
 <br>
 
 **Mr Leong Kin Weng** <br>
-Surbana Jurong Consultants Pte Ltd <br> 
+Surbana Jurong Consultants Pte Ltd 
 <br>
 
 **Mr Christopher Lee Teck Kim**  <br>
-Precision Survey Consultants Pte Ltd <br> 
+Precision Survey Consultants Pte Ltd 
 <br>
 
 **Ms Teo Hui Ying** <br>
- Singapore Land Authority <br>
+ Singapore Land Authority 
 <br> 
 
 ##### **Registrar**
