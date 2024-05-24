@@ -2,9 +2,12 @@
 title: Annual Reports
 permalink: /about-us/annual-reports/
 breadcrumb: Annual Reports
+variant: markdown
 ---
 ## ANNUAL REPORTS
 
+[Land Surveyors Board:2023 Annual Report](https://go.gov.sg/lsb-ar-2023)
+<br>
 [Land Surveyors Board: 2022 Annual Report](https://go.gov.sg/lsb-ar-2022)
 <br>
 [Land Surveyors Board: 2021 Annual Report](/files/LSB_AR_2021.pdf)
