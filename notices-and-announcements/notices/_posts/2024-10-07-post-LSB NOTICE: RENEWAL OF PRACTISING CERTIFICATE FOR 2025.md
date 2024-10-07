@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p> <strong>To: All Practising Registered Surveyors</strong>
+<p><strong>To: All Practising Registered Surveyors</strong>
 </p>
 <p><strong>LSB NOTICE: RENEWAL OF PRACTISING CERTIFICATE FOR 2025</strong>
 </p>
@@ -43,7 +43,40 @@ scan the QR code below</p>
 <p>![register QR code](/images/LSB_paynow_qr_code.jpg){:style="height: 236px;
 width:236px"}</p>
 <p>(ii) The amount payable is:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Renewal application <u>made and received BEFORE </u>1 December 2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>SGD $300</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Renewal application <u>made and received on and AFTER</u> 1 December 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SGD $350</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>4. To note</strong>
 </p>
