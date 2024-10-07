@@ -36,12 +36,11 @@ following methods:</p>
 transaction number and proof of the bank transfer transaction record/receipt
 by sending it to the Deputy Registrar, Ms Mitsy Ng (email to : <a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mitsy_ng@sla.gov.sg</u></a>)</p>
 <p>II. PayNow</p>
-<p><em>Paynow to LSB through UEN number </em><strong>T08GB0026H o</strong>r
+<p><em>Paynow to LSB through UEN number </em><strong>T08GB0026H </strong>or
 scan the QR code below</p>
-<p><em>Include your </em>*full name in the Reference** when making payment
-&lt;br&gt;</p>
-<p>![register QR code](/images/LSB_paynow_qr_code.jpg){:style="height: 236px;
-width:236px"}</p>
+<p><em>Include your </em><strong>full name in the Reference </strong>when
+making payment</p>
+<p></p>
 <p>(ii) The amount payable is:</p>
 <table style="minWidth: 50px">
 <colgroup>
