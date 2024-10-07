@@ -41,6 +41,7 @@ scan the QR code below</p>
 <p><em>Include your </em><strong>full name in the Reference </strong>when
 making payment</p>
 <p></p>
+<p></p>
 <p>(ii) The amount payable is:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -95,3 +96,5 @@ be processed.</p>
 <p>Derick Tan</p>
 <p>Registrar</p>
 <p>Land Surveyors Board</p>
+<p></p>
+<p></p>
