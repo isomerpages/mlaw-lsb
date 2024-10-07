@@ -7,8 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>To: All Practising Registered Surveyors</strong>
-</p>
+<h4><strong>To: All Practising Registered Surveyors</strong></h4>
 <p><strong>LSB NOTICE: RENEWAL OF PRACTISING CERTIFICATE FOR 2025</strong>
 </p>
 <p>Applications for renewal of practising certificate for 2025 are now opened
