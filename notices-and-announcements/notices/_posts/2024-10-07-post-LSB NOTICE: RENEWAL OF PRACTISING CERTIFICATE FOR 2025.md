@@ -17,8 +17,10 @@ via <strong>email only</strong>.</p>
 <p>The required forms to be completed and submitted to the LSB can be found
 in the "Forms" section of the <a href="https://lsb.mlaw.gov.sg" rel="noopener nofollow" target="_blank">LSB website</a>, which are attached here
 for your convenience.</p>
-<p>(a) Application for Practising Certificate (Form 5), and</p>
-<p>(b) CPD Summary Form</p>
+<p>(a) <a href="https://lsb.mlaw.gov.sg/files/linkclickbc26.doc" rel="noopener nofollow" target="_blank">Application for Practising Certificate (Form 5)</a>,
+and</p>
+<p>(b) <a href="/files/CPD_Summary_Form_Apr2022_Final_Published.pdf" rel="noopener noreferrer nofollow" target="_blank">CPD Summary Form</a>
+</p>
 <p>Please complete, sign, scan and email the completed forms to the Deputy
 Registrar, Ms Mitsy Ng (email to : <a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>)</p>
 <p></p>
