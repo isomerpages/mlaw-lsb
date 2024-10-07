@@ -42,6 +42,9 @@ scan the QR code below</p>
 <p><em>Include your </em><strong>full name in the Reference </strong>when
 making payment</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/LSB_paynow_qr_code.jpg">
+</div>
 <p></p>
 <p>(ii) The amount payable is:</p>
 <table style="minWidth: 50px">
