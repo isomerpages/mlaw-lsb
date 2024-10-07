@@ -31,15 +31,15 @@ Registrar, Ms Mitsy Ng (email to: &lt;a href="mailto: <a href="mailto:mitsy_ng@s
 <p>(i) Payment for the following prescibed fees can be made by one of the
 following methods:</p>
 <p>I. Bank Transfer via Internet Banking or ATM</p>
-<p><em>  Transfer the amount to LSB corporate account  </em>*UOB 201-319-249-0**</p>
+<p><em>Transfer the amount to LSB corporate account </em>*UOB 201-319-249-0**</p>
 <p>* Notify LSB that you have transferred the money by noting down the bank
 transaction number and proof of the bank transfer transaction record/receipt
 by sending it to the Deputy Registrar, Ms Mitsy Ng (email to: &lt;a href="mailto:
 <a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>"&gt;<a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>&lt;/a&gt;).</p>
 <p>II. PayNow</p>
-<p><em> Paynow to LSB through UEN number </em>*T08GB0026H** or scan the QR
+<p><em>Paynow to LSB through UEN number </em>*T08GB0026H** or scan the QR
 code below</p>
-<p><em> Include your </em>*full name in the Reference** when making payment
+<p><em>Include your </em>*full name in the Reference** when making payment
 &lt;br&gt;</p>
 <p>![register QR code](/images/LSB_paynow_qr_code.jpg){:style="height: 236px;
 width:236px"}</p>
