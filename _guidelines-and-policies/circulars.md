@@ -15,8 +15,8 @@ variant: markdown
   </tr>
   <tr>
 		<td> Circular 1/2024</td>
-		<td> 30 Oct 2024</td>
-		<td>(/files/CIRCULAR_1_2024.pdf)[1/2024]
+		<td> 30 Oct 2024
+			</td><td>[1/2024][](/files/CIRCULAR_1_2024.pdf)
 	</td>
 	</tr>
 	<tr>
