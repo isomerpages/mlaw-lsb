@@ -4,7 +4,7 @@ permalink: /guidelines-and-policies/circulars/
 breadcrumb: Circulars
 variant: markdown
 ---
-[Circular 1/2024]()## CIRCULARS
+# Circulars
 
 
 <table>
