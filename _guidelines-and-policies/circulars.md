@@ -16,8 +16,8 @@ variant: markdown
   <tr>
 		<td> Circular 1/2024</td>
 		<td> 30 Oct 2024</td>
-		<td>
-	</td>
+		<td><a href="/files/1-2024.pdf">
+	</a></td>
 	</tr>
 	<tr>
 		<td> Circular 1/2022</td>
