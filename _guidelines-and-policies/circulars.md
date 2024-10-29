@@ -2,11 +2,12 @@
 title: Circulars
 permalink: /guidelines-and-policies/circulars/
 breadcrumb: Circulars
+variant: markdown
 ---
-## CIRCULARS
+[Circular 1/2024]()## CIRCULARS
 
 <table>
-	 <tr>
+	 <tbody><tr>
     <th>Circulars</th>
     <th>Date</th>
     <th>Link</th>
@@ -111,4 +112,4 @@ breadcrumb: Circulars
     <td>1 Mar 2000</td>
     <td><a href="/files/linkclick6e5a.pdf" target="_blank">(158KB)</a></td>
   </tr>
-</table>
+</tbody></table>
