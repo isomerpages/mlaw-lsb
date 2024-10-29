@@ -43,7 +43,8 @@ variant: tiptap
 <p>8 Apr 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/LSB_Circular_1-2022_CPD_Publication_8Apr2022.pdf" rel="noopener nofollow" target="_blank">2/2022</a>
+</p>
 </td>
 </tr>
 <tr>
