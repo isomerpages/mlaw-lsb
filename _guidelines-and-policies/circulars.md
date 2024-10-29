@@ -6,6 +6,7 @@ variant: markdown
 ---
 [Circular 1/2024]()## CIRCULARS
 
+
 <table>
 	 <tbody><tr>
     <th>Circulars</th>
@@ -13,6 +14,12 @@ variant: markdown
     <th>Link</th>
   </tr>
   <tr>
+		<td> Circular 1/2024</td>
+		<td> 30 Oct 2024</td>
+		<td>
+	</td>
+	</tr>
+	<tr>
 		<td> Circular 1/2022</td>
 		<td> 8 Apr 2022</td>
 		<td><a href="/files/LSB_Circular_1-2022_CPD_Publication_8Apr2022.pdf"></a></td>
