@@ -20,7 +20,7 @@ in the "Forms" section of the <a href="https://lsb.mlaw.gov.sg/forms/forms/" rel
 attached here for your convenience.</p>
 <p>(a) <a href="https://lsb.mlaw.gov.sg/files/linkclickbc26.doc" rel="noopener noreferrer nofollow" target="_blank">Application for Practising Certificate (Form 5)</a>,
 and</p>
-<p>(b) <a href="CPD_Summary_Form_Apr2022_Final_Published" rel="noopener nofollow" target="_blank">CPD Summary Form</a>
+<p>(b) <a href="https://lsb.mlaw.gov.sg/files/CPD_Summary_Form_Apr2022_Final_Published.pdf" rel="noopener nofollow" target="_blank">CPD Summary Form</a>
 </p>
 <p>Please complete, sign, scan and email the completed forms to the Deputy
 Registrar, Ms Mitsy Ng (email to : <a rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>)</p>
@@ -47,7 +47,6 @@ scan the QR code below</p>
 <p><em>Include your </em><strong>full name in the Reference </strong>when
 making payment</p>
 <p>&nbsp;</p>
-<p></p>
 <p>(ii) The amount payable is:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -97,9 +96,11 @@ by the correct fee, incomplete CPD Summary Form etc, will be subject to
 rejection.</p>
 <p>(d) Hardcopy application forms and cheques are not accepted and will not
 be processed.</p>
+<p></p>
 <p><strong>(5) Collection</strong>
 </p>
 <p>We will inform you when the practising certificate is ready for collection.</p>
+<p></p>
 <p>Regards</p>
 <p>Derick Tan</p>
 <p>Registrar</p>
