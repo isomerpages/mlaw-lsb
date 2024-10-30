@@ -24,8 +24,7 @@ and</p>
 </p>
 <p>Please complete, sign, scan and email the completed forms to the Deputy
 Registrar, Ms Mitsy Ng (email to : <a rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>)</p>
-<p>&nbsp;</p>
-<p><strong>3. Fees</strong>
+<p>&nbsp;<strong>3. Fees</strong>
 </p>
 <p>A reminder that the LSB is <strong>no longer accepting payment by cheque.</strong>
 </p>
@@ -42,7 +41,7 @@ by sending it to the Deputy Registrar, Ms Mitsy Ng (email to : <a rel="noopener 
 scan the QR code below</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LSB_paynow_qr_code.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LSB_paynow_qr_code.jpg">
 </div>
 <p></p>
 <p><em>Include your </em><strong>full name in the Reference </strong>when
