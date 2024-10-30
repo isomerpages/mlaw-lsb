@@ -41,7 +41,7 @@ by sending it to the Deputy Registrar, Ms Mitsy Ng (email to : <a rel="noopener 
 scan the QR code below</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LSB_paynow_qr_code.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LSB_paynow_qr_code.jpg">
 </div>
 <p></p>
 <p><em>Include your </em><strong>full name in the Reference </strong>when
