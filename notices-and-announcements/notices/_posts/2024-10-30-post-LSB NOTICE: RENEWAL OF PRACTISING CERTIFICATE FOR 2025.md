@@ -84,7 +84,7 @@ making payment</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>4. To note</strong>
 </p>
 <p>(a) All applications forms must be legibly completed.</p>
