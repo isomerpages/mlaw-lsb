@@ -157,7 +157,7 @@ with any of the following:</p>
 <p>BSc (Hons) in Urban Informatics and Smart Cities</p>
 </li>
 <li>
-<p><strong>*</strong>MSc in Geomatics
+<p>MSc in Geomatics <strong>*</strong>
 <br>( Footnote- Recognised only when paired with an appropriate Bachelor’s
 Degree accepted by LSB)</p>
 </li>
