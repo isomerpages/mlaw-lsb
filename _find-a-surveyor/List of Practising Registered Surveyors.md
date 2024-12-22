@@ -525,10 +525,10 @@ ol{
     <td>65</td>
     <td>
         BT Survey Consultant<br>
-        7030, Ang Mo Kio Avenue 5<br>
-        #08-01, NorthStar @ AMK<br>
-        Singapore 569880<br>
-        Tel: - </td> 
+       8 New Industrial Road<br>
+        #05-01/02 LHK3<br>
+        Singapore 536200<br>
+        Tel: 68765881 </td> 
   </tr>
   <tr>
     <td><a name="T"></a>Tan Boong Ping</td>
