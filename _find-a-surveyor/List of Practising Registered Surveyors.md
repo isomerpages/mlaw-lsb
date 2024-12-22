@@ -564,10 +564,10 @@ ol{
     <td>89</td>
     <td>
         JTRS Registered Surveyor<br>
-        14 Arumugam Road #03-09<br>
-        LTC Building C<br>
-        Singapore 409959<br>
-        Tel: 67431216</td>
+        12 Arumugam Road #03-11<br>
+        LTC Building B<br>
+        Singapore 409958<br>
+        Tel: -</td>
     </tr>
     <tr>
     <td><a name="T"></a>Tan Eng Fei</td>
