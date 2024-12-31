@@ -5,7 +5,62 @@ description: ""
 variant: markdown
 ---
 <h2>List of Practising Registered Surveyors</h2>
-<h4><a href="#A" rel="noopener nofollow" target="_blank">A</a>|<a href="#B" rel="noopener nofollow" target="_blank">B</a>|<a href="#C" rel="noopener nofollow" target="_blank">C</a>|<a href="#D" rel="noopener nofollow" target="_blank">D</a>|<a href="#E" rel="noopener nofollow" target="_blank">E</a>|<a href="#F" rel="noopener nofollow" target="_blank">F</a>|<a href="#G" rel="noopener nofollow" target="_blank">G</a>|<a href="#H" rel="noopener nofollow" target="_blank">H</a>|<a href="#I" rel="noopener nofollow" target="_blank">I</a>|<a href="#J" rel="noopener nofollow" target="_blank">J</a>|<a href="#K" rel="noopener nofollow" target="_blank">K</a>|<a href="#L" rel="noopener nofollow" target="_blank">L</a>|<a href="#M" rel="noopener nofollow" target="_blank">M</a>|<a href="#N" rel="noopener nofollow" target="_blank">N</a>|<a href="#O" rel="noopener nofollow" target="_blank">O</a>|<a href="#P" rel="noopener nofollow" target="_blank">P</a>|<a href="#Q" rel="noopener nofollow" target="_blank">Q</a>|<a href="#R" rel="noopener nofollow" target="_blank">R</a>|<a href="#S" rel="noopener nofollow" target="_blank">S</a>|<a href="#T" rel="noopener nofollow" target="_blank">T</a>|<a href="#U" rel="noopener nofollow" target="_blank">U</a>|<a href="#V" rel="noopener nofollow" target="_blank">V</a>|<a href="#W" rel="noopener nofollow" target="_blank">W</a>|<a href="#X" rel="noopener nofollow" target="_blank">X</a>|<a href="#Y" rel="noopener nofollow" target="_blank">Y</a>|<a href="#Z" rel="noopener nofollow" target="_blank">Z</a><br><br>Note:This list refers to practising certificates issued by the Land Surveyors Board under section 15 of the Land Surveyors Act 1991 to registered surveyors to engage in survey work in Singapore.</h4>
+
+<ol>
+  <li><a href="#A">A </a></li>
+  <li>|</li>
+  <li><a href="#B">B </a></li>
+  <li>|</li>
+  <li><a href="#C">C </a></li>
+  <li>|</li>
+  <li><a href="#D">D </a></li>
+  <li>|</li>
+  <li><a href="#E">E </a></li>
+  <li>|</li>
+  <li><a href="#F">F </a></li>
+  <li>|</li>
+  <li><a href="#G">G </a></li>
+  <li>|</li>
+  <li><a href="#H">H </a></li>
+  <li>|</li>
+  <li><a href="#I">I </a></li>
+  <li>|</li>
+  <li><a href="#J">J </a></li>
+  <li>|</li>
+  <li><a href="#K">K </a></li>
+  <li>|</li>
+  <li><a href="#L">L </a></li>
+  <li>|</li>
+  <li><a href="#M">M </a></li>
+  <li>|</li>
+  <li><a href="#N">N </a></li>
+  <li>|</li>
+  <li><a href="#O">O </a></li>
+  <li>|</li>
+  <li><a href="#P">P </a></li>
+  <li>|</li>
+  <li><a href="#Q">Q </a></li>
+  <li>|</li>
+  <li><a href="#R">R </a></li>
+  <li>|</li>
+  <li><a href="#S">S </a></li>
+  <li>|</li>
+  <li><a href="#T">T </a></li>
+  <li>|</li>
+  <li><a href="#U">U </a></li>
+  <li>|</li>
+  <li><a href="#V">V </a></li>
+  <li>|</li>
+  <li><a href="#W">W </a></li>
+  <li>|</li>
+  <li><a href="#X">X </a></li>
+  <li>|</li>
+  <li><a href="#Y">Y </a></li>
+  <li>|</li>
+  <li><a href="#Z">Z </a></li>
+</ol><br>
+
+Note:This list refers to practising certificates issued by the Land Surveyors Board under section 15 of the Land Surveyors Act 1991 to registered surveyors to engage in survey work in Singapore.
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
