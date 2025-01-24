@@ -92,7 +92,7 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ang Phar Teng</p>
+	<p><a id="A"></a>Ang Phar Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>73</p>
@@ -107,7 +107,7 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ang Soo Cheng</p>
+<p><a id="A"></a>Ang Soo Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>91</p>
@@ -122,7 +122,7 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Christopher Chai Kok Vui</p>
+<p><a id="C"></a>Christopher Chai Kok Vui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>77</p>
@@ -136,7 +136,7 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chan Wei Hoong</p>
+<p><a id="C"></a>Chan Wei Hoong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>117</p>
@@ -151,7 +151,7 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chia Aik Kok</p>
+<p><a id="C"></a>Chia Aik Kok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23</p>
@@ -166,7 +166,7 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Keng Guan</p>
+<p><a id="C"></a>Chua Keng Guan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>99</p>
@@ -182,7 +182,7 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Limin Clara</p>
+<p><a id="C"></a>Chua Limin Clara</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>114</p>
