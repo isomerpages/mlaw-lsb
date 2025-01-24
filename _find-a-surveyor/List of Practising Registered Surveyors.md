@@ -506,10 +506,10 @@ to engage in survey work in Singapore.</p>
 <p>122</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Land Authority</p>
-<p>55 Newton Road</p>
-<p>Singapore 307987</p>
-<p>Tel: 64783646</p>
+<br>Singapore Land Authority
+<br>55 Newton Road
+<br>Singapore 307987
+<br>Tel: 64783646<p></p>
 </td>
 </tr>
 <tr>
