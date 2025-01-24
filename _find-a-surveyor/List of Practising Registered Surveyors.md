@@ -4,7 +4,17 @@ permalink: /find-a-surveyor/list-of-practising-registered-surveyors/
 description: ""
 variant: markdown
 ---
-<h2>List of Practising Registered Surveyors</h2>
+<style>
+ol{
+    list-style: none;
+    margin-left: 0;
+  } 
+ li{   
+    display: inline;
+  }
+ </style>
+## List of Practising Registered Surveyors
+
 <ol>
   <li><a href="#A">A </a></li>
   <li>|</li>
