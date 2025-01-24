@@ -2,75 +2,196 @@
 title: List of Practising Registered Surveyors
 permalink: /find-a-surveyor/list-of-practising-registered-surveyors/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<style>
-ol{
-    list-style: none;
-    margin-left: 0;
-  } 
- li{   
-    display: inline;
-  }
- </style>
-
 <h2>List of Practising Registered Surveyors</h2>
-
-<ol>
-  <li><a href="#A">A </a></li>
-  <li>|</li>
-  <li><a href="#B">B </a></li>
-  <li>|</li>
-  <li><a href="#C">C </a></li>
-  <li>|</li>
-  <li><a href="#D">D </a></li>
-  <li>|</li>
-  <li><a href="#E">E </a></li>
-  <li>|</li>
-  <li><a href="#F">F </a></li>
-  <li>|</li>
-  <li><a href="#G">G </a></li>
-  <li>|</li>
-  <li><a href="#H">H </a></li>
-  <li>|</li>
-  <li><a href="#I">I </a></li>
-  <li>|</li>
-  <li><a href="#J">J </a></li>
-  <li>|</li>
-  <li><a href="#K">K </a></li>
-  <li>|</li>
-  <li><a href="#L">L </a></li>
-  <li>|</li>
-  <li><a href="#M">M </a></li>
-  <li>|</li>
-  <li><a href="#N">N </a></li>
-  <li>|</li>
-  <li><a href="#O">O </a></li>
-  <li>|</li>
-  <li><a href="#P">P </a></li>
-  <li>|</li>
-  <li><a href="#Q">Q </a></li>
-  <li>|</li>
-  <li><a href="#R">R </a></li>
-  <li>|</li>
-  <li><a href="#S">S </a></li>
-  <li>|</li>
-  <li><a href="#T">T </a></li>
-  <li>|</li>
-  <li><a href="#U">U </a></li>
-  <li>|</li>
-  <li><a href="#V">V </a></li>
-  <li>|</li>
-  <li><a href="#W">W </a></li>
-  <li>|</li>
-  <li><a href="#X">X </a></li>
-  <li>|</li>
-  <li><a href="#Y">Y </a></li>
-  <li>|</li>
-  <li><a href="#Z">Z </a></li>
-</ol><br>
-
-Note:This list refers to practising certificates issued by the Land Surveyors Board under section 15 of the Land Surveyors Act 1991 to registered surveyors to engage in survey work in Singapore.
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="#A" rel="noopener noreferrer nofollow" target="_blank">A</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#B" rel="noopener noreferrer nofollow" target="_blank">B</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#C" rel="noopener noreferrer nofollow" target="_blank">C</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#D" rel="noopener noreferrer nofollow" target="_blank">D</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#E" rel="noopener noreferrer nofollow" target="_blank">E</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#F" rel="noopener noreferrer nofollow" target="_blank">F</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#G" rel="noopener noreferrer nofollow" target="_blank">G</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#H" rel="noopener noreferrer nofollow" target="_blank">H</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#I" rel="noopener noreferrer nofollow" target="_blank">I</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#J" rel="noopener noreferrer nofollow" target="_blank">J</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#K" rel="noopener noreferrer nofollow" target="_blank">K</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#L" rel="noopener noreferrer nofollow" target="_blank">L</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#M" rel="noopener noreferrer nofollow" target="_blank">M</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#N" rel="noopener noreferrer nofollow" target="_blank">N</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#O" rel="noopener noreferrer nofollow" target="_blank">O</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#P" rel="noopener noreferrer nofollow" target="_blank">P</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#Q" rel="noopener noreferrer nofollow" target="_blank">Q</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#R" rel="noopener noreferrer nofollow" target="_blank">R</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#S" rel="noopener noreferrer nofollow" target="_blank">S</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#T" rel="noopener noreferrer nofollow" target="_blank">T</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#U" rel="noopener noreferrer nofollow" target="_blank">U</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#V" rel="noopener noreferrer nofollow" target="_blank">V</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#W" rel="noopener noreferrer nofollow" target="_blank">W</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#X" rel="noopener noreferrer nofollow" target="_blank">X</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#Y" rel="noopener noreferrer nofollow" target="_blank">Y</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#Z" rel="noopener noreferrer nofollow" target="_blank">Z</a>
+</p>
+</li>
+</ol>
+<p>
+<br>
+</p>
+<p>Note:This list refers to practising certificates issued by the Land Surveyors
+Board under section 15 of the Land Surveyors Act 1991 to registered surveyors
+to engage in survey work in Singapore.</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -375,6 +496,20 @@ Note:This list refers to practising certificates issued by the Land Surveyors Bo
 <br>#07-12 ARC 380
 <br>Singapore 209000
 <br>Tel: 62931566</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lau Kum Weng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>122</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Land Authority</p>
+<p>55 Newton Road</p>
+<p>Singapore 307987</p>
+<p>Tel: 64783646</p>
 </td>
 </tr>
 <tr>
@@ -1001,57 +1136,185 @@ Note:This list refers to practising certificates issued by the Land Surveyors Bo
 <p>
 <br>
 </p>
-
-<ol>
-  <li><a href="#A">A </a></li>
-  <li>|</li>
-  <li><a href="#B">B </a></li>
-  <li>|</li>
-  <li><a href="#C">C </a></li>
-  <li>|</li>
-  <li><a href="#D">D </a></li>
-  <li>|</li>
-  <li><a href="#E">E </a></li>
-  <li>|</li>
-  <li><a href="#F">F </a></li>
-  <li>|</li>
-  <li><a href="#G">G </a></li>
-  <li>|</li>
-  <li><a href="#H">H </a></li>
-  <li>|</li>
-  <li><a href="#I">I </a></li>
-  <li>|</li>
-  <li><a href="#J">J </a></li>
-  <li>|</li>
-  <li><a href="#K">K </a></li>
-  <li>|</li>
-  <li><a href="#L">L </a></li>
-  <li>|</li>
-  <li><a href="#M">M </a></li>
-  <li>|</li>
-  <li><a href="#N">N </a></li>
-  <li>|</li>
-  <li><a href="#O">O </a></li>
-  <li>|</li>
-  <li><a href="#P">P </a></li>
-  <li>|</li>
-  <li><a href="#Q">Q </a></li>
-  <li>|</li>
-  <li><a href="#R">R </a></li>
-  <li>|</li>
-  <li><a href="#S">S </a></li>
-  <li>|</li>
-  <li><a href="#T">T </a></li>
-  <li>|</li>
-  <li><a href="#U">U </a></li>
-  <li>|</li>
-  <li><a href="#V">V </a></li>
-  <li>|</li>
-  <li><a href="#W">W </a></li>
-  <li>|</li>
-  <li><a href="#X">X </a></li>
-  <li>|</li>
-  <li><a href="#Y">Y </a></li>
-  <li>|</li>
-  <li><a href="#Z">Z </a></li>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="#A" rel="noopener noreferrer nofollow" target="_blank">A</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#B" rel="noopener noreferrer nofollow" target="_blank">B</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#C" rel="noopener noreferrer nofollow" target="_blank">C</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#D" rel="noopener noreferrer nofollow" target="_blank">D</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#E" rel="noopener noreferrer nofollow" target="_blank">E</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#F" rel="noopener noreferrer nofollow" target="_blank">F</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#G" rel="noopener noreferrer nofollow" target="_blank">G</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#H" rel="noopener noreferrer nofollow" target="_blank">H</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#I" rel="noopener noreferrer nofollow" target="_blank">I</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#J" rel="noopener noreferrer nofollow" target="_blank">J</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#K" rel="noopener noreferrer nofollow" target="_blank">K</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#L" rel="noopener noreferrer nofollow" target="_blank">L</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#M" rel="noopener noreferrer nofollow" target="_blank">M</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#N" rel="noopener noreferrer nofollow" target="_blank">N</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#O" rel="noopener noreferrer nofollow" target="_blank">O</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#P" rel="noopener noreferrer nofollow" target="_blank">P</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#Q" rel="noopener noreferrer nofollow" target="_blank">Q</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#R" rel="noopener noreferrer nofollow" target="_blank">R</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#S" rel="noopener noreferrer nofollow" target="_blank">S</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#T" rel="noopener noreferrer nofollow" target="_blank">T</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#U" rel="noopener noreferrer nofollow" target="_blank">U</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#V" rel="noopener noreferrer nofollow" target="_blank">V</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#W" rel="noopener noreferrer nofollow" target="_blank">W</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#X" rel="noopener noreferrer nofollow" target="_blank">X</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#Y" rel="noopener noreferrer nofollow" target="_blank">Y</a>
+</p>
+</li>
+<li>
+<p>|</p>
+</li>
+<li>
+<p><a href="#Z" rel="noopener noreferrer nofollow" target="_blank">Z</a>
+</p>
+</li>
 </ol>
+<p></p>
