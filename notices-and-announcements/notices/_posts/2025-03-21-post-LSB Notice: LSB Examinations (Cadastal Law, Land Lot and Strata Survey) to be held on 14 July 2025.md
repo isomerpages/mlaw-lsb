@@ -187,7 +187,7 @@ the online registration form</p>
 scan the QR code below</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LSB_paynow_qr_code.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LSB_paynow_qr_code.jpg">
 </div>
 <p></p>
 <p>- Include your name for reference when making payment and attach the proof
