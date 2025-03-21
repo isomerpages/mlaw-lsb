@@ -186,8 +186,9 @@ the online registration form</p>
 <p>- You can make PayNow payments to LSB through UEN number <strong>T08GB0026H</strong> or
 scan the QR code below</p>
 <p></p>
-<p><strong>Image</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LSB_paynow_qr_code.jpg">
+</div>
 <p></p>
 <p>- Include your name for reference when making payment and attach the proof
 of payment in the online application form</p>
@@ -215,3 +216,4 @@ liaise with SISV directly.</p>
 <p>Derick Tan</p>
 <p>Registrar</p>
 <p>Land Surveyors Board</p>
+<p></p>
