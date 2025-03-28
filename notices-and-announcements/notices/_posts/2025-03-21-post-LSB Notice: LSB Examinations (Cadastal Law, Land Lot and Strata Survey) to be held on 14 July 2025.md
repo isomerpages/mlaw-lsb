@@ -179,8 +179,10 @@ Surveyors Rules.</p>
 </p>
 <p>Method 1 via URL:</p>
 <p>Method 2 via QR code</p>
-<p><strong>Image</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_lsb_exam_registration_2025.png">
+</div>
 <p></p>
 <p></p>
 <p><strong><u>E. Mode of payment (Payment by cheque will not be accepted)</u></strong>
