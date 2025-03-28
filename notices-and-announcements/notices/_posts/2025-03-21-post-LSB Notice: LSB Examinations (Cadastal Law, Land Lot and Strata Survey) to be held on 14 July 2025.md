@@ -151,7 +151,14 @@ and copy Deputy Registrar, Ms Mitsy Ng (email to: <a href="mailto:ng_chin_sing@s
 </p>
 <p></p>
 <p>Attachment enclosed:</p>
-<p></p>
+<p><a href="/files/Instructions_to_Candidate__Practical_2025.pdf" rel="noopener nofollow" target="_blank">Instructions_to_Candidate_Practical_2025</a>
+</p>
+<p><a href="/files/Annex_C_Prctical_Exam_Checklist_Land_2025.pdf" rel="noopener nofollow" target="_blank">Annex_C_Practical_Exam_Checklist_Land_2025</a>
+</p>
+<p><a href="/files/Annex_D_Practical_Exam_Checklist_Strata_2025.pdf" rel="noopener nofollow" target="_blank">Annex_D_Practical_Exam_Checklist_Strata_2025</a>
+</p>
+<p><a href="/files/List_of_exam_site_not_to_be_selected_2025.pdf" rel="noopener nofollow" target="_blank">List_of_sites_not_to_be_selected_2025</a>
+</p>
 <p></p>
 <p><strong><u>C. Important Details for Cadastral Law Examination</u></strong>
 </p>
@@ -159,7 +166,8 @@ and copy Deputy Registrar, Ms Mitsy Ng (email to: <a href="mailto:ng_chin_sing@s
 by candidates taking the cadastral law written examination.</p>
 <p></p>
 <p>Attachment enclosed:</p>
-<p></p>
+<p><a href="/files/Instructions_to_Candidate_Cadastral_Law_2025.pdf" rel="noopener nofollow" target="_blank">Instructions_to_Candidates_Cadastral_Law_2025</a>
+</p>
 <p><strong><u>D. Mode of Application</u></strong>
 </p>
 <p>4. Eligible persons may apply to sit for the examination by completing
