@@ -45,7 +45,16 @@ Board.</p>
 <p>ii. Royal Melbourne Institute of Technology,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Applied Sciences (Land Surveying);</p>
+<p>Bachelor of Applied Science (Land Surveying);</p>
+</li>
+<li>
+<p>Bachelor of Applied Science (Surveying);</p>
+</li>
+<li>
+<p>Bachelor of Applied Science (Surveying) (Honours);</p>
+</li>
+<li>
+<p>Bachelor of Surveying (Honours).</p>
 </li>
 </ul>
 </li>
