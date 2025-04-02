@@ -267,6 +267,6 @@ paired with an appropriate Bachelor’s Degree accepted by LSB.</p>
 </ol>
 <p><strong><sup>*</sup> <em>List is subject to periodic review and update.</em></strong>
 </p>
-<p><strong><sup>*</sup> <em>If your degree is not listed, please check with the Board directly.</em></strong>
+<p><strong><em><sup>*</sup> If your educational qualification is not listed, please contact us.</em></strong>
 </p>
 <p></p>
