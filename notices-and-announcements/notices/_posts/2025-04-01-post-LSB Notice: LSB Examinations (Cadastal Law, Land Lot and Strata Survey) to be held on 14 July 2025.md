@@ -132,11 +132,11 @@ Holidays, regardless of one or two subjects taken) from date of commencement</p>
 <p>55 Newton Road</p>
 <p>Singapore 307987</p>
 <p></p>
-<p>All subjects must be completed and submitted electronically through the
-individual unique link provided to candidates before the closing time and
-date.</p>
+<p>All subjects must be completed and final examination files submitted electronically
+through the individual unique link provided to candidates before the closing
+time and date.</p>
 <p></p>
-<p>Submission should be made to the Deputy Registrar (Ms Mitsy Ng).</p>
+<p></p>
 </td>
 </tr>
 </tbody>
