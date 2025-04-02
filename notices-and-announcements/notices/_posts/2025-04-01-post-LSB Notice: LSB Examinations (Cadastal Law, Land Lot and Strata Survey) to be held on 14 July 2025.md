@@ -218,12 +218,11 @@ Ng (email to: <a href="mailto:ng_chin_sing@sla.gov.sg" rel="noopener noreferrer 
 if you have question on this examination.</p>
 <p><strong><u>H. Tutorial Sessions by SISV on Cadastral Law</u></strong>
 </p>
-<p>9. To prepare candidates in the written exam, SISV is considering offering
-tutorial sessions. To gauge whether to proceed with the tutorial sessions,
-please contact Ms Manisah Jalil (email to: <a href="mailto:ng_chin_sing@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>manisah@sisv.org.sg</u></a>) to
-indicate your interest on the tutorial sessions. Please note that LSB does
-not receive any fee for the sessions and interested persons will have to
-liaise with SISV directly.</p>
+<p>9. LSB does not offer tutorial sessions. Interested persons may check
+with Ms Manisah Jalil (email to: <a href="mailto:ng_chin_sing@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>manisah@sisv.org.sg</u></a>) whether
+there is such an offering. Please note that LSB does not receive any fee
+for any of such offerings and interested persons will have to liaise with
+SISV directly (including payment, if any).</p>
 <p>Regards</p>
 <p>Derick Tan</p>
 <p>Registrar</p>
