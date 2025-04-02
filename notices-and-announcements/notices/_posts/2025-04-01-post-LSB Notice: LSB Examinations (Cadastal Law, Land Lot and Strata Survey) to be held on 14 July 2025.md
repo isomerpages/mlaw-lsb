@@ -134,7 +134,9 @@ Holidays, regardless of one or two subjects taken) from date of commencement</p>
 <p></p>
 <p>All subjects must be completed and submitted electronically through the
 individual unique link provided to candidates before the closing time and
-date. Submission should be made to the Deputy Registrar (Ms Mitsy Ng).</p>
+date.</p>
+<p></p>
+<p>Submission should be made to the Deputy Registrar (Ms Mitsy Ng).</p>
 </td>
 </tr>
 </tbody>
