@@ -149,8 +149,8 @@ time and date.</p>
 <p>b) List of sites not to be selected.</p>
 <p>All candidates must familarise themselves with the requirements/format
 of the examination stated herein for compliance and submit their selection
-of sites to Mr Ng Chin Sing (email to: <a href="mailto:ng_chin_sing@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_chin_sing@sla.gov.sg</u></a>)
-and copy Deputy Registrar, Ms Mitsy Ng (email to: <a href="mailto:ng_chin_sing@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mitsy_ng@sla.gov.sg</u></a>) between <strong><u>29 April 2025 and 26 May 2025</u>.</strong>
+of sites to Mr Ng Chin Sing (ng_chin_sing@sla.gov.sg) and copy Deputy Registrar,
+Ms Mitsy Ng (mitsy_ng@sla.gov.sg) between <strong><u>29 April 2025 and 26 May 2025</u>.</strong>
 </p>
 <p></p>
 <p>Attachment enclosed:</p>
@@ -216,15 +216,14 @@ date of <strong><u>28 April 2025</u></strong><u>.</u>
 </p>
 <p>8. The LSB would appreciate if you could inform interested persons on
 the content of this LSB Notice. Please contact Deputy Registrar, Ms Mitsy
-Ng (email to: <a href="mailto:ng_chin_sing@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mitsy_ng@sla.gov.sg</u></a>)
-if you have question on this examination.</p>
+Ng (mitsy_ng@sla.gov.sg) if you have question on this examination.</p>
 <p><strong><u>H. Tutorial Sessions by SISV on Cadastral Law</u></strong>
 </p>
 <p>9. LSB does not offer tutorial sessions. Interested persons may check
-with Ms Manisah Jalil (email to: <a href="mailto:ng_chin_sing@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>manisah@sisv.org.sg</u></a>) whether
-there is such an offering. Please note that LSB does not receive any fee
-for any of such offerings and interested persons will have to liaise with
-SISV directly (including payment, if any).</p>
+with Ms Manisah Jalil (manisah@sisv.org.sg) whether there is such an offering.
+Please note that LSB does not receive any fee for any of such offerings
+and interested persons will have to liaise with SISV directly (including
+payment, if any).</p>
 <p>Regards</p>
 <p>Derick Tan</p>
 <p>Registrar</p>
