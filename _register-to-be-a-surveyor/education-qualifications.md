@@ -45,7 +45,16 @@ Board.</p>
 <p>ii. Royal Melbourne Institute of Technology,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Applied Sciences (Land Surveying);</p>
+<p>Bachelor of Applied Science (Land Surveying);</p>
+</li>
+<li>
+<p>Bachelor of Applied Science (Surveying);</p>
+</li>
+<li>
+<p>Bachelor of Applied Science (Surveying) (Honours);</p>
+</li>
+<li>
+<p>Bachelor of Surveying (Honours).</p>
 </li>
 </ul>
 </li>
@@ -258,3 +267,6 @@ paired with an appropriate Bachelor’s Degree accepted by LSB.</p>
 </ol>
 <p><strong><sup>*</sup> <em>List is subject to periodic review and update.</em></strong>
 </p>
+<p><strong><em><sup>*</sup> If your educational qualification is not listed, please contact us.</em></strong>
+</p>
+<p></p>

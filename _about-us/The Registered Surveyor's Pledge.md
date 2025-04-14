@@ -1,7 +1,8 @@
 ---
 title: The Registered Surveyor's Pledge
-permalink: /about-us/permalink/
+permalink: /about-us/registered-surveyor-pledge/
 description: ""
+variant: tiptap
 ---
 ### The Registered Surveyor's Pledge
 
