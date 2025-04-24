@@ -115,7 +115,15 @@ with any of the following:</p>
 </ul>
 </li>
 <li>
-<p>viii. University of Tasmania,</p>
+<p>viii. UniSQ,</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bachelor of Surveying (Honours);</p>
+</li>
+</ul>
+</li>
+<li>
+<p>ix. University of Tasmania,</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bachelor of Surveying.</p>
