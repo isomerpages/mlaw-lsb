@@ -973,11 +973,24 @@ to engage in survey work in Singapore.</p>
 <p>108</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Housing &amp; Development Board
-<br>HDB Hub
-<br>480 Lorong 6 Toa Payoh
-<br>Singapore 310480
-<br>Tel: 64903449</p>
+<p>11 Li Hwan Terrace
+<br>Singapore 556940
+<br>Tel: - </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a id="W"></a>Wong Chen Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JTC Corporation
+<br>The JTC Summit
+<br>8 Jurong Town Hall
+<br> Singapore 609434
+<br> Tel: 68855186</p>
 </td>
 </tr>
 <tr>
