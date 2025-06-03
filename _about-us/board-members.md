@@ -24,16 +24,16 @@ JTC Corporation
 Chartered Survey Services Consultants Pte Ltd
 <br>
 
-**Mr Leong Kin Weng** <br>
-Surbana Jurong Consultants Pte Ltd 
+**Mr Victor Khoo** <br>
+Singapore Land Authority 
 <br>
 
 **Mr Christopher Lee Teck Kim**  <br>
 Precision Survey Consultants Pte Ltd 
 <br>
 
-**Ms Teo Hui Ying** <br>
- Singapore Land Authority 
+**Mr Lim Pia Lian** <br>
+Land Transport Authority
 <br> 
 
 ##### **Registrar**
