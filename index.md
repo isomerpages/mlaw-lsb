@@ -23,9 +23,8 @@ sections:
   - resources:
       title: Notices and Announcements
       subtitle: Get More Information
+      id: resources
       button: More
-      url: /notices-and-announcements/
 description: Description
 image: /images/isomer-logo.svg
 ---
-
