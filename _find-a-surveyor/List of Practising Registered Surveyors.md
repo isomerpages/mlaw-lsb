@@ -282,7 +282,7 @@ to engage in survey work in Singapore.</p>
 <br>Blk 9003 Tampines Street 93
 <br>#03-150
 <br>Singapore 528837
-<br>Tel: 62602778</p>
+<br>Tel: -</p>
 </td>
 </tr>
 <tr>
