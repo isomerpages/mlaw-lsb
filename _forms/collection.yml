@@ -2,4 +2,5 @@ collections:
   forms:
     output: true
     order:
+      - Available Payment Methods.md
       - forms.md
