@@ -4,6 +4,7 @@ permalink: /available-payment-methods/
 variant: tiptap
 description: ""
 ---
+<h2><strong>Available Payment Methods</strong></h2>
 <p>We accept payment via <strong>PayNow</strong> and <strong>internet banking</strong>.
 Please refer to the following instructions for payment via PayNow and internet
 banking:</p>
