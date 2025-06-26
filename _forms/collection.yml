@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - forms.md
+      - Available Payment Methods.md
