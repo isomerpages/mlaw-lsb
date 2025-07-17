@@ -945,7 +945,7 @@ to engage in survey work in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1Survey Associates
-<br>Blk 125 Bukit Merah Lane 1
+<br>125 Bukit Merah Lane 1
 <br>#03-176
 <br>Singapore 150125
 <br>Tel: 6285 6182</p>
