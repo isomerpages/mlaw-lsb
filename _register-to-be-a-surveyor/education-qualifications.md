@@ -196,20 +196,6 @@ paired with an appropriate Bachelor’s Degree accepted by LSB.</p>
 </ul>
 </li>
 <li>
-<p><u>NETHERLANDS</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>i. TU Delft,</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>MSc in Geomatics.</p>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
 <p><u>NEW ZEALAND</u>
 </p>
 <ul data-tight="true" class="tight">
