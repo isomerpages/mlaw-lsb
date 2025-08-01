@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Service standards.md
       - overview.md
       - what-we-do.md
       - board-members.md
@@ -10,4 +9,5 @@ collections:
       - The Registered Surveyor's Pledge.md
       - promotional-video.md
       - annual-reports.md
+      - Service standards.md
       - contact-us.md
