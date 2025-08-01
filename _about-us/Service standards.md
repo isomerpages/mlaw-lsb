@@ -48,8 +48,8 @@ while maintaining high professional standards.</p>
 with all required supporting documents.</p>
 </li>
 <li>
-<p>Applications missing required documentation or containing incomplete information
-may require additional processing time.</p>
+<p>Time spent waiting for application with incomplete documentation or information
+to be re-submitted will not be counted in the processing time.</p>
 </li>
 <li>
 <p>Working days exclude weekends and public holidays.</p>
