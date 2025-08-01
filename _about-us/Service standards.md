@@ -40,7 +40,7 @@ while maintaining high professional standards.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Important Notes:</strong> 
+<p><strong>Important Notes:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
