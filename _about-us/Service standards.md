@@ -31,7 +31,7 @@ while maintaining high professional standards.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corporate Licence</p>
+<p>Licence for multidiscipline and corporate practice</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30 working days</p>
