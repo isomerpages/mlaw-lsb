@@ -4,8 +4,7 @@ permalink: /service-standards/
 variant: tiptap
 description: ""
 ---
-<p>The Land Surveyors Board (LSB) is committed to delivering efficient service
-while maintaining high professional standards.</p>
+<p>Starting 1 September 2025, LSB is committed to the following service standards.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
