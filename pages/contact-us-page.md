@@ -2,19 +2,21 @@
 title: Contact Us
 permalink: /contact-us/
 breadcrumb: Contact Us
-variant: markdown
+variant: tiptap
 ---
-## CONTACT US
-
-LAND SURVEYORS BOARD<br>
-c/o Singapore Land Authority<br>
-55 Newton Road, #14-01,<br>
-Revenue House, Singapore 307987<br>
-
-
-
-Email: mlaw_lsb_enquiry@mlaw.gov.sg<br>
-
-**Our Location**
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.760310105878!2d103.83995191389813!3d1.319518862041802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19e7aa79e175%3A0x1423374becf8890f!2sRevenue%20House!5e0!3m2!1sen!2ssg!4v1568687817017!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0;" title="Our location" alt="Our Location" allowfullscreen=""></iframe>
+<h2>CONTACT US</h2>
+<p>LAND SURVEYORS BOARD
+<br>c/o Singapore Land Authority
+<br>55 Newton Road, #14-01,
+<br>Revenue House, Singapore 307987
+<br>
+</p>
+<p>Email: mlaw_lsb_enquiry@mlaw.gov.sg
+<br>
+</p>
+<p><strong>Our Location</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.onemap.gov.sg/minimap/minimap.html?mapStyle=Default&amp;zoomLevel=17&amp;latLng=1.31959236004979,103.842143383889&amp;ewt=JTNDcCUzRSUzQ3N0cm9uZyUzRUxBTkQlMjBTVVJWRVlPUlMlMjBCT0FSRCUzQyUyRnN0cm9uZyUzRSUzQyUyRnAlM0UlMEElM0NwJTNFNTUlMjBOZXd0b24lMjBSb2FkJTNDJTJGcCUzRSUwQSUzQ3AlM0VSZXZlbnVlJTIwSG91c2UlMjAlMjMxNC0wMSUzQyUyRnAlM0UlMEElM0NwJTNFU2luZ2Fwb3JlJTIwMzA3OTg3JTNDJTJGcCUzRQ==&amp;popupWidth=200&amp;showPopup=true"></iframe>
+</div>
+<p></p>
