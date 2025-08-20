@@ -5,7 +5,7 @@ breadcrumb: Contact Us
 variant: tiptap
 ---
 <h2>CONTACT US</h2>
-<p>LAND SURVEYORS BOARD
+<p><strong>LAND SURVEYORS BOARD</strong> 
 <br>c/o Singapore Land Authority
 <br>55 Newton Road, #14-01,
 <br>Revenue House, Singapore 307987
