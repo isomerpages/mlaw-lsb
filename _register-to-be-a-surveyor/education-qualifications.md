@@ -182,6 +182,20 @@ paired with an appropriate Bachelor’s Degree accepted by LSB.</p>
 </ul>
 </li>
 <li>
+<p><u>INDONESIA</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>i. Institut Teknologi Bandung,</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bachelor of Science (Geodesy and Geomatics Engineering)</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
 <p><u>MALAYSIA</u>
 </p>
 <ul data-tight="true" class="tight">
