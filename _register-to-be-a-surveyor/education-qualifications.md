@@ -189,7 +189,7 @@ paired with an appropriate Bachelor’s Degree accepted by LSB.</p>
 <p>i. Institut Teknologi Bandung,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Science (Geodesy and Geomatics Engineering)</p>
+<p>Bachelor of Science (Geodesy and Geomatics Engineering).</p>
 </li>
 </ul>
 </li>
