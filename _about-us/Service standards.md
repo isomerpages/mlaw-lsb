@@ -4,9 +4,6 @@ permalink: /service-standards/
 variant: tiptap
 description: ""
 ---
-<p>This initiative is part of the Government’s wider efforts, led by the
-Inter-Ministerial Committee on Pro-Enterprise Rules Review, to review regulations
-and reduce compliance burden for businesses.</p>
 <p>Starting 1 September 2025, LSB is committed to the following service standards.</p>
 <p></p>
 <table style="minWidth: 50px">
@@ -41,7 +38,9 @@ and reduce compliance burden for businesses.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>This initiative is part of the Government’s wider efforts, led by the
+Inter-Ministerial Committee on Pro-Enterprise Rules Review, to review regulations
+and reduce compliance burden for businesses.</p>
 <p><strong>Important Notes:</strong>
 </p>
 <ul data-tight="true" class="tight">
