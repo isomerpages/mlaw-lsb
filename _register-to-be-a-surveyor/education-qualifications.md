@@ -224,6 +224,20 @@ paired with an appropriate Bachelor’s Degree accepted by LSB.</p>
 </ul>
 </li>
 <li>
+<p><u>ROMANIA</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>i. University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca,</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bachelor of Land Surveying and Cadastre Engineering.</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
 <p><u>UNITED KINGDOM</u>
 </p>
 <ul data-tight="true" class="tight">
