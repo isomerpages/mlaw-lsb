@@ -818,7 +818,7 @@ to engage in survey work in Singapore.</p>
 <br>18 Boon Lay Way
 <br>#06-121 Tradehub 21
 <br>Singapore 609966
-<br> Tel:-</p>
+<br> Tel: 96794259</p>
 </td>
 </tr>
 <tr>
