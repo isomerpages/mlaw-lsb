@@ -808,6 +808,21 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a id="T"></a>Tan Boong Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>92</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B P Tan Registered Surveyor
+<br>18 Boon Lay Way
+<br>#06-121 Tradehub 21
+<br>Singapore 609966
+<br> Tel:-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a id="T"></a>Tan Chee Meng</p>
 </td>
 <td rowspan="1" colspan="1">
