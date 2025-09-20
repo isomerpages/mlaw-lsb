@@ -232,7 +232,7 @@ paired with an appropriate Bachelor’s Degree accepted by LSB.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bachelor’s Degree - Field of Geodetic Engineering, Specialisation in Land
-Measurements/Surveying and Cadastre</p>
+Measurements/Surveying and Cadastre.</p>
 </li>
 </ul>
 </li>
