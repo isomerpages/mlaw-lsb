@@ -31,8 +31,7 @@ variant: tiptap
 <p>30 Sept 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="LSB_Circular_1_2025_Publication_Final_30Sep2025" rel="noopener nofollow" target="_blank">1/2025</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
