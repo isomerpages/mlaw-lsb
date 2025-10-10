@@ -42,6 +42,8 @@ by sending it to the Deputy Registrar, Ms Mitsy Ng (email to : <a href="https://
 scan the QR code below</p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
 <p><em>Include your </em><strong>full name in the Reference </strong>when
 making payment</p>
 <p>&nbsp;</p>
