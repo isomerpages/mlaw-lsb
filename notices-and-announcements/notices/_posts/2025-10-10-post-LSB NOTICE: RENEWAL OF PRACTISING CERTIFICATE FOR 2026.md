@@ -20,7 +20,7 @@ in the "Forms" section of the <a href="https://lsb.mlaw.gov.sg/forms/forms/" rel
 are attached here for your convenience.</p>
 <p>(a) <a href="https://lsb.mlaw.gov.sg/files/linkclickbc26.doc" rel="noopener noreferrer nofollow" target="_blank"><u>Application for Practising Certificate (Form 5)</u></a>,
 and</p>
-<p>(b) <a href="https://cms.isomer.gov.sg/files/cpd_summary_form_apr2022_final_published.pdf" rel="noopener nofollow" target="_blank"><u>CPD Summary Form</u></a>
+<p>(b) <a href="https://lsb.mlaw.gov.sg/files/cpd_summary_form_apr2022_final_published.pdf" rel="noopener nofollow" target="_blank"><u>CPD Summary Form</u></a>
 </p>
 <p>Please complete, sign, scan and email the completed forms to the Deputy
 Registrar, Ms Mitsy Ng (email to: <a href="mitsy_ng@sla.gov.sg" rel="noopener nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>) <strong><u>and</u></strong> Assistant
