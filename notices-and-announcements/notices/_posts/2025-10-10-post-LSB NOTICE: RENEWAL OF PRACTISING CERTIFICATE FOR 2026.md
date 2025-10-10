@@ -36,7 +36,8 @@ following methods:</p>
 </p>
 <p>** Notify LSB that you have transferred the money by noting down the bank
 transaction number and proof of the bank transfer transaction record/receipt
-by sending it to the Deputy Registrar, Ms Mitsy Ng (email to : <a href="https://lsb.mlaw.gov.sg/forms/forms/" rel="noopener noreferrer nofollow" target="_blank"><u>mitsy_ng@sla.gov.sg</u></a>)</p>
+by sending it to the Deputy Registrar, Ms Mitsy Ng (email to : <a href="https://lsb.mlaw.gov.sg/forms/forms/" rel="noopener noreferrer nofollow" target="_blank"><u>mitsy_ng@sla.gov.sg</u></a>) <strong><u>and</u></strong> Assistant
+Registrar, Ms Chui Mei Qi (email to: <a href="https://cms.isomer.gov.sg/sites/mlaw-lsb/resourceRoom/notices-and-announcements/resourceCategory/notices/editPage/chui_mei_qi@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chui_mei_qi@sla.gov.sg</u></a>).</p>
 <p>II. PayNow</p>
 <p><em>Paynow to LSB through UEN number </em><strong>T08GB0026H </strong>or
 scan the QR code below</p>
