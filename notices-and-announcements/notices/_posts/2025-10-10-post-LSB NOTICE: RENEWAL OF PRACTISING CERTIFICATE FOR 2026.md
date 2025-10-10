@@ -41,6 +41,9 @@ by sending it to the Deputy Registrar, Ms Mitsy Ng (email to : <a href="https://
 <p><em>Paynow to LSB through UEN number </em><strong>T08GB0026H </strong>or
 scan the QR code below</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LSB_paynow_qr_code.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
