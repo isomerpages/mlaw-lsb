@@ -23,8 +23,8 @@ and</p>
 <p>(b) <a href="https://cms.isomer.gov.sg/files/cpd_summary_form_apr2022_final_published.pdf" rel="noopener nofollow" target="_blank"><u>CPD Summary Form</u></a>
 </p>
 <p>Please complete, sign, scan and email the completed forms to both Deputy
-Registrar, Ms Mitsy Ng (email to : <a href="https://lsb.mlaw.gov.sg/forms/forms/" rel="noopener noreferrer nofollow" target="_blank"><u>mitsy_ng@sla.gov.sg</u></a>)
-and Assistant Registrar, Ms Chu Mei Qi (email to :chui_mei_qi@sla.gov.sg).</p>
+Registrar, Ms Mitsy Ng (email to: <a href="mitsy_ng@sla.gov.sg" rel="noopener nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>) and Assistant Registrar,
+Ms Chui Mei Qi (email to: <a href="chui_mei_qi@sla.gov.sg" rel="noopener nofollow" target="_blank">chui_mei_qi@sla.gov.sg</a>).</p>
 <p>&nbsp;<strong>3. Fees</strong>
 </p>
 <p>A reminder that the LSB is <strong>no longer accepting payment by cheque.</strong>
