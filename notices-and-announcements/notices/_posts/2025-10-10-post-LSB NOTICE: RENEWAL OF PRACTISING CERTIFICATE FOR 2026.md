@@ -22,8 +22,8 @@ are attached here for your convenience.</p>
 and</p>
 <p>(b) <a href="https://cms.isomer.gov.sg/files/cpd_summary_form_apr2022_final_published.pdf" rel="noopener nofollow" target="_blank"><u>CPD Summary Form</u></a>
 </p>
-<p>Please complete, sign, scan and email the completed forms to Deputy Registrar,
-Ms Mitsy Ng (email to: <a href="mitsy_ng@sla.gov.sg" rel="noopener nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>) <strong><u>and</u></strong> Assistant
+<p>Please complete, sign, scan and email the completed forms to the Deputy
+Registrar, Ms Mitsy Ng (email to: <a href="mitsy_ng@sla.gov.sg" rel="noopener nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>) <strong><u>and</u></strong> Assistant
 Registrar, Ms Chui Mei Qi (email to: <a href="chui_mei_qi@sla.gov.sg" rel="noopener nofollow" target="_blank">chui_mei_qi@sla.gov.sg</a>).</p>
 <p>&nbsp;<strong>3. Fees</strong>
 </p>
