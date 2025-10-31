@@ -11,8 +11,8 @@ variant: tiptap
 </p>
 <p><strong>LSB NOTICE: RENEWAL OF PRACTISING CERTIFICATE FOR 2026</strong>
 </p>
-<p>Applications for renewal of practising certificate for 2026 are now opened
-via <strong>email only</strong>.</p>
+<p>Applications for renewal of practising certificate for 2026 can be submitted
+from 1 November 2025 via <strong>email only</strong>.</p>
 <p><strong>2. Documents Required</strong>
 </p>
 <p>The required forms to be completed and submitted to the LSB can be found
