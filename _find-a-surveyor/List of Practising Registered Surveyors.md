@@ -582,22 +582,7 @@ to engage in survey work in Singapore.</p>
 <br>#07-44 Northstar@AMK
 <br>Singapore 569880
 <br>Tel: 63583282</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a id="M"></a>Lim Michael</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>113</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eagle Point Surveying &amp; Engineering
-<br>4C Evans Road
-<br>Singapore 259362
-<br>Tel: 63853752</p>
-</td>
-</tr>
+</td></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a id="N"></a>Ng Kwok Khuan</p>
@@ -760,21 +745,6 @@ to engage in survey work in Singapore.</p>
 <br>#05-01/02 LHK3
 <br>Singapore 536200
 <br>Tel: 68765881</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a id="T"></a>Tan Boong Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>92</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B P Tan Registered Surveyor
-<br>18 Boon Lay Way
-<br>#06-121 Tradehub 21
-<br>Singapore 609966
-<br> Tel: -</p>
 </td>
 </tr>
 <tr>
