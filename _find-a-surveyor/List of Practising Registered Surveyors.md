@@ -914,9 +914,11 @@ to engage in survey work in Singapore.</p>
 <p>108</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Li Hwan Terrace
-<br>Singapore 556940
-<br>Tel: - </p>
+<p>J K Foo Consortium Pte Ltd
+<br>3023 Ubi Road 3
+<br> #06-04 Ubiplex 1
+<br> Singapore 408663
+<br>Tel: 67427973 </p>
 </td>
 </tr>
 <tr>
