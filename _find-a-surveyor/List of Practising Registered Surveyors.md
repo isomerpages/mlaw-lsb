@@ -198,20 +198,6 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a id="D"></a>Ding Lidong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>120</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Landvision Registered Surveyor
-<br>5A, Jasmine Road
-<br>Singapore 576580
-<br>Tel: -</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a id="F"></a>Foo Jong Kan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,9 +265,9 @@ to engage in survey work in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Atlas Consulting Surveyors
-<br>Blk 9003 Tampines Street 93
-<br>#03-150
-<br>Singapore 528837
+<br>Blk 496 Tampines Ave 9
+<br>#06-528
+<br>Singapore 520496
 <br>Tel: -</p>
 </td>
 </tr>
@@ -468,32 +454,17 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a id="L"></a>Leong Kai Weng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>71</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Housing &amp; Development Board
-<br>HDB Hub
-<br>480 Lorong 6 Toa Payoh
-<br>Singapore 310480
-<br>Telephone: 64903063</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a id="L"></a>Leong Kin Weng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>59</p>
+<p>71</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Surbana Jurong Consultants Pte Ltd
 <br>Surbana Jurong Campus
 <br>38 Cleantech Loop #01-31
 <br>Singapore 636741
-<br>Tel: 62481409</p>
+	<br>Telephone: 62481409</p>
 </td>
 </tr>
 <tr>
@@ -509,21 +480,6 @@ to engage in survey work in Singapore.</p>
 <br>#11-02 Prestige Centre
 <br>Singapore 658071
 <br>Tel: 68997971</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a id="L"></a>Lim Loy Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>98</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Housing &amp; Development Board
-<br>HDB Hub
-<br>480 Lorong 6 Toa Payoh
-<br>Singapore 310480
-<br>Tel: 64903061</p>
 </td>
 </tr>
 <tr>
