@@ -264,10 +264,10 @@ to engage in survey work in Singapore.</p>
 <p>107</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Atlas Consulting Surveyors
-<br>Blk 496 Tampines Ave 9
-<br>#06-528
-<br>Singapore 520496
+<p>S L K Engineering &amp; Consultants Pte Ltd
+<br>28 Sin Ming Lane
+<br>#04-146
+<br>Singapore 573972
 <br>Tel: -</p>
 </td>
 </tr>
