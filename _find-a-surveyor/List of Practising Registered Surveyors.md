@@ -266,7 +266,7 @@ to engage in survey work in Singapore.</p>
 <td rowspan="1" colspan="1">
 <p>S L K Engineering &amp; Consultants Pte Ltd
 <br>28 Sin Ming Lane
-<br>#04-146
+<br>#04-146 Midview City
 <br>Singapore 573972
 <br>Tel: -</p>
 </td>
