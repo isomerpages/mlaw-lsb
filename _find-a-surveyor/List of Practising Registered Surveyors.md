@@ -234,11 +234,11 @@ to engage in survey work in Singapore.</p>
 <p>85</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Advance Survey Consultant Pte Ltd
-<br>40 Jalan Pemimpin,
-<br>#02-07, Tat Ann Building,
-<br>Singapore 577185
-<br>Tel: 62502713</p>
+<p>Ascend Registered Surveyor &amp; Associates
+<br>180 Bencoolen Street,
+<br>#01-14, The Bencoolen,
+<br>Singapore 189646
+<br>Tel: -</p>
 </td>
 </tr>
 <tr>
