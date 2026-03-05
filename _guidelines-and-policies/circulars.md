@@ -300,4 +300,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/files/LSB_Circular_1_2026_ApprovedPublication_6Mar2026.pdf" rel="noopener nofollow" target="_blank">1/2026</a>
+</p>
