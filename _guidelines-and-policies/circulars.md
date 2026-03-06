@@ -25,6 +25,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Circular 1/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Mar 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/LSB_Circular_1_2026_ApprovedPublication_6Mar2026.pdf" rel="noopener nofollow" target="_blank">1/2026</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Circular 1/2025</p>
 </td>
 <td rowspan="1" colspan="1">
