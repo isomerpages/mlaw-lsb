@@ -7,7 +7,7 @@ sections:
       title: Land Surveyors Board
       subtitle: We regulate land surveying activities in Singapore to meet the
         nation’s needs
-      background: /images/test_logo.jpg
+      background: /images/Hero Banner-LSB.jpg
       button: Learn More
       url: /about-us/overview/
       key_highlights:
