@@ -154,14 +154,7 @@ copy Deputy Registrar, Ms Mitsy Ng (<a href="mailto:mitsy_ng@sla.gov.sg" rel="no
 </p>
 <p></p>
 <p>Attachment enclosed:</p>
-<p><a href="https://cms.isomer.gov.sg/files/Instructions_to_Candidate__Practical_2025.pdf" rel="noopener nofollow" target="_blank"><u>Instructions_to_Candidate_Practical_2025</u></a>
-</p>
-<p><a href="https://cms.isomer.gov.sg/files/Annex_C_Prctical_Exam_Checklist_Land_2025.pdf" rel="noopener nofollow" target="_blank"><u>Annex_C_Practical_Exam_Checklist_Land_2025</u></a>
-</p>
-<p><a href="https://cms.isomer.gov.sg/files/Annex_D_Practical_Exam_Checklist_Strata_2025.pdf" rel="noopener nofollow" target="_blank"><u>Annex_D_Practical_Exam_Checklist_Strata_2025</u></a>
-</p>
-<p><a href="https://cms.isomer.gov.sg/files/List_of_exam_site_not_to_be_selected_2025.pdf" rel="noopener nofollow" target="_blank"><u>List_of_sites_not_to_be_selected_2025</u></a>
-</p>
+<p></p>
 <p></p>
 <p><strong><u>C. Important Details for Cadastral Law Examination</u></strong>
 </p>
@@ -169,8 +162,7 @@ copy Deputy Registrar, Ms Mitsy Ng (<a href="mailto:mitsy_ng@sla.gov.sg" rel="no
 by candidates taking the cadastral law written examination.</p>
 <p></p>
 <p>Attachment enclosed:</p>
-<p><a href="https://cms.isomer.gov.sg/files/Instructions_to_Candidate_Cadastral_Law_2025.pdf" rel="noopener nofollow" target="_blank"><u>Instructions_to_Candidates_Cadastral_Law_2025</u></a>
-</p>
+<p></p>
 <p><strong><u>D. Mode of Application</u></strong>
 </p>
 <p>4. Eligible persons may apply to sit for the examination by completing
