@@ -48,7 +48,7 @@ minutes before the start of the examinations):</p>
 <p>Cadastral Law</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>14 July 2025 (Monday)</u></strong>
+<p><strong><u>20 July 2026 (Monday)</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,7 +109,7 @@ minutes before the start of the examinations):</p>
 Holidays, regardless of one or two subjects taken) from date of commencement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>14 July 2025 (Monday)</u></strong>
+<p><strong><u>20 July 2026 (Monday)</u></strong>
 </p>
 <p><strong>2.30pm</strong>
 </p>
@@ -121,7 +121,7 @@ Holidays, regardless of one or two subjects taken) from date of commencement</p>
 <p>Singapore 307987</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>8 September 2025 (Monday)</u></strong>
+<p><strong><u>14 September 2026(Monday)</u></strong>
 </p>
 <p><strong>2.30pm</strong>
 </p>
@@ -150,7 +150,7 @@ time and date.</p>
 <p>All candidates must familarise themselves with the requirements/format
 of the examination stated herein for compliance and submit their selection
 of sites to Mr Ng Chin Sing (<a href="mailto:ng_chin_sing@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chin_sing@sla.gov.sg</a>) and
-copy Deputy Registrar, Ms Mitsy Ng (<a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>) between <strong><u>29 April 2025 and 26 May 2025</u>.</strong>
+copy Deputy Registrar, Ms Mitsy Ng (<a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>) between <strong><u>4 May 2026 and 1 June 2026</u>.</strong>
 </p>
 <p></p>
 <p>Attachment enclosed:</p>
@@ -180,8 +180,7 @@ governing the examination as set out in Part IV (Examinations) of the Land
 Surveyors Rules.</p>
 <p><strong><u>Online registration form</u></strong>
 </p>
-<p>Method 1 via URL :<strong><a href="https://go.gov.sg/lsb-exam-registration-2025" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lsb-exam-registration-2025</u></a></strong>
-</p>
+<p>Method 1 via URL :</p>
 <p>Method 2 via QR code</p>
 <p></p>
 <p></p>
@@ -204,7 +203,7 @@ of payment in the online application form</p>
 </p>
 <p>7. All submission of applications through the online registration form
 together with the fees to be paid must be completed before the closing
-date of <strong><u>28 April 2025</u></strong><u>.</u>
+date of <strong><u>4 May 2026</u></strong><u>.</u>
 </p>
 <p><strong><u>G. Other Important Details</u></strong>
 </p>
