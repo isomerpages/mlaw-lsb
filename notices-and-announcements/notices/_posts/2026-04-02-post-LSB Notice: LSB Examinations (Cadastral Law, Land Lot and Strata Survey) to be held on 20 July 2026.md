@@ -150,7 +150,7 @@ time and date.</p>
 <p>All candidates must familarise themselves with the requirements/format
 of the examination stated herein for compliance and submit their selection
 of sites to Mr Ng Chin Sing (<a href="mailto:ng_chin_sing@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chin_sing@sla.gov.sg</a>) and
-copy Deputy Registrar, Ms Mitsy Ng (<a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>) between <strong><u>4 May 2026 and 1 June 2026</u>.</strong>
+copy Deputy Registrar, Ms Mitsy Ng (<a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>) between <strong><u>5 May 2026 and 1 June 2026</u>.</strong>
 </p>
 <p></p>
 <p>Attachment enclosed:</p>
