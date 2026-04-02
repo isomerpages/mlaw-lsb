@@ -154,7 +154,7 @@ copy Deputy Registrar, Ms Mitsy Ng (<a href="mailto:mitsy_ng@sla.gov.sg" rel="no
 </p>
 <p></p>
 <p>Attachment enclosed:</p>
-<p><a href="" rel="noopener nofollow" target="_blank">Instructions_to_Candidate_Practical_2026</a>
+<p><a href="Instructions_to_Candidate_Practical_Exam_2026_FINAL" rel="noopener nofollow" target="_blank">Instructions_to_Candidate_Practical_2026</a>
 </p>
 <p></p>
 <p><strong><u>C. Important Details for Cadastral Law Examination</u></strong>
