@@ -175,7 +175,8 @@ governing the examination as set out in Part IV (Examinations) of the Land
 Surveyors Rules.</p>
 <p><strong><u>Online registration form</u></strong>
 </p>
-<p>Method 1 via URL :</p>
+<p>Method 1 via URL : <a href="https://go.gov.sg/lsb-exam-registration-2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/lsb-exam-registration-2026</a>
+</p>
 <p>Method 2 via QR code</p>
 <p></p>
 <p></p>
