@@ -158,14 +158,18 @@ copy Deputy Registrar, Ms Mitsy Ng (<a href="mailto:mitsy_ng@sla.gov.sg" rel="no
 </p>
 <p><a href="/files/Annex_C_Practical_Exam_Checklist_Land_Lot_2026_FINAL.pdf" rel="noopener nofollow" target="_blank">Annex C_Practical Exam Checklist_Land Lot_2026</a>
 </p>
-<p></p>
+<p><a href="/files/Annex_D_Practical_Exam_Checklist_Strata_Lot_2026_FINAL.pdf" rel="noopener nofollow" target="_blank">Annex D_Practical Exam Checklist_Strata_Lot_2026</a>
+</p>
+<p><a href="/files/List_of_exam_site_not_to_be_selected_2026.pdf" rel="noopener nofollow" target="_blank">List of site not to be selected_2026</a>
+</p>
 <p><strong><u>C. Important Details for Cadastral Law Examination</u></strong>
 </p>
 <p>3. The Instructions to Candidate are attached as enclosed for compliance
 by candidates taking the cadastral law written examination.</p>
 <p></p>
 <p>Attachment enclosed:</p>
-<p></p>
+<p><a href="/files/Instructions_to_Candidate_Cadastral_Law_2026__FINAL.pdf" rel="noopener nofollow" target="_blank">Instructions to Candidate_Cadastral Law 2026</a>
+</p>
 <p><strong><u>D. Mode of Application</u></strong>
 </p>
 <p>4. Eligible persons may apply to sit for the examination by completing
