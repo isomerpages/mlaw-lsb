@@ -126,11 +126,7 @@ Holidays, regardless of one or two subjects taken) from date of commencement</p>
 <p><strong>2.30pm</strong>
 </p>
 <p></p>
-<p>Singapore Land Authority</p>
-<p>Level 14</p>
-<p>Revenue House</p>
-<p>55 Newton Road</p>
-<p>Singapore 307987</p>
+<p></p>
 <p></p>
 <p>All subjects must be completed and final examination files submitted electronically
 through the individual unique link provided to candidates before the closing
