@@ -121,7 +121,7 @@ Holidays, regardless of one or two subjects taken) from date of commencement</p>
 <p>Singapore 307987</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>14 September 2026(Monday)</u></strong>
+<p><strong><u>14 September 2026 (Monday)</u></strong>
 </p>
 <p><strong>2.30pm</strong>
 </p>
