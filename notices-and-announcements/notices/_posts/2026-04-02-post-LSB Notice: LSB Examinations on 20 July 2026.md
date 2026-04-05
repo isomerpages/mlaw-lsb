@@ -8,8 +8,8 @@ image: ""
 variant: tiptap
 ---
 <p>The Land Surveyors Board (LSB) Examinations in the subjects of cadastral
-law, land lot and strata survey are now open for applications by eligible
-persons.</p>
+law written examination, land lot and strata survey oral and practical
+examinations are now open for applications by eligible persons.</p>
 <p><strong><u>A. Date/Time/Venue</u></strong>
 </p>
 <p>1. The schedule is as follows (All candidates to be present at least 5
