@@ -155,7 +155,7 @@ copy Deputy Registrar, Ms Mitsy Ng (<a href="mailto:mitsy_ng@sla.gov.sg" rel="no
 </p>
 <p><a href="/files/Annex_D_Practical_Exam_Checklist_Strata_Lot_2026_FINAL.pdf" rel="noopener nofollow" target="_blank">Annex D_Practical Exam Checklist_Strata_Lot_2026</a>
 </p>
-<p><a href="/files/List_of_exam_site_not_to_be_selected_2026.pdf" rel="noopener nofollow" target="_blank">List of site not to be selected_2026</a>
+<p><a href="/files/List_of_exam_site_not_to_be_selected_for_2026_.pdf" rel="noopener nofollow" target="_blank">List_of_exam_site_not_to_be_selected_for_2026</a>
 </p>
 <p><strong><u>C. Important Details for Cadastral Law Examination</u></strong>
 </p>
