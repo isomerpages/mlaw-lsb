@@ -147,7 +147,8 @@ of the examination stated herein for compliance and submit their selection
 of sites to Mr Ng Chin Sing (<a href="mailto:ng_chin_sing@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chin_sing@sla.gov.sg</a>) and
 copy Deputy Registrar, Ms Mitsy Ng (<a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>) between <strong><u>5 May 2026 and 1 June 2026</u>.</strong>
 </p>
-<p></p>
+<p><strong>Practical Exam Site Acceptance Deadline: 22 June 2026 (Monday)</strong>
+</p>
 <p>Attachment enclosed:</p>
 <p><a href="/files/Instructions_to_Candidate_Practical_Exam_2026_FINAL.pdf" rel="noopener nofollow" target="_blank">Instructions_to_Candidate_Practical_2026</a>
 </p>
