@@ -19,5 +19,5 @@ variant: tiptap
 </p>
 <p><a href="/files/LSB_Exam_Declaration_and_Indemnity_Form_2025.pdf" rel="noopener nofollow" target="_blank">LSB_Exam_Declaration_indemnity_form_2025</a>
 </p>
-<p><a href="/files/LSB_Exam_Declaration_and_Indemnity_Form__2026_.pdf" rel="noopener nofollow" target="_blank">LSB Exam Declaration and Indemnity Form_2026</a>
+<p><a href="/files/LSB_Exam_Declaration_and_Indemnity_Form__2026_.pdf" rel="noopener nofollow" target="_blank">LSB_Exam_Declaration_and_Indemnity_Form_2026</a>
 </p>
