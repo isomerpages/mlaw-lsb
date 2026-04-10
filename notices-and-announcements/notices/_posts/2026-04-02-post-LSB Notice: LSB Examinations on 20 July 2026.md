@@ -216,7 +216,7 @@ if you have question on this examination.</p>
 <p><strong><u>H. Tutorial Sessions by SISV on Cadastral Law</u></strong>
 </p>
 <p>9. LSB does not offer tutorial sessions. Interested persons may check
-with Ms Manisah Jalil (<a href="mailto:manisah@sisv.org.sg" rel="noopener noreferrer nofollow" target="_blank">manisah@sisv.org.sg</a>) whether there
+with SISV, Ms Manisah Jalil (<a href="mailto:manisah@sisv.org.sg" rel="noopener noreferrer nofollow" target="_blank">manisah@sisv.org.sg</a>) whether there
 is such an offering. Please note that LSB does not receive any fee for
 any of such offerings and interested persons will have to liaise with SISV
 directly (including payment, if any).</p>
