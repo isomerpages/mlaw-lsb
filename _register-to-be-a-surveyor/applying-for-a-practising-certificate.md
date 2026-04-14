@@ -1,18 +1,16 @@
 ---
-title: 'Applying for a Practising Certificate'
+title: Applying for a Practising Certificate
 permalink: /register-to-be-a-surveyor/applying-for-a-practising-certificate/
-breadcrumb: 'Applying for a Practising Certificate'
-
+breadcrumb: Applying for a Practising Certificate
+variant: markdown
 ---
-
-
 ## APPLYING FOR A PRACTISING CERTIFICATE
 
 **1. Application for or Renewing a Practising Certificate** 
 
 A registered surveyor who wishes to practise cadastral surveys in Singapore is required to apply to LSB for a Practising Certificate.
 
-**Application form & fee**
+**Application form &amp; fee**
 
 * [Form 5](/files/linkclick5d0c.doc) (DOC, 46KB)
 * S$300
@@ -27,7 +25,7 @@ Until 31 December of the year of issue
 
 * If he is not applying for the first time after registration, the surveyor must also have obtained the requisite Continuing Professional Development (CPD) units by successfully completing any survey related activity or non-survey related activity 12 months prior to the date on which he applies for a Practising Certificate.
 
-* Please submit the [CPD Summary Form](/files/linkclick895a.doc){:target="_blank"}(DOC, 46KB) which states the number of CPD units together with Form 5 for the renewal of your Practicing Certificate.
+* Please submit the [CPD Summary Form](/files/cpd_summary_form_apr2022_final_published.pdf) which states the number of CPD units together with Form 5 for the renewal of your Practicing Certificate.
 
 Please submit your applications and fees to:
 
@@ -38,4 +36,4 @@ c/o Singapore Land Authority, 55 Newton Road,<br>
 Tel: (65) 6478 3593<br>
 Fax: (65) 6323 9937
 
-Email: <mlaw_lsb_enquiry@mlaw.gov.sg>
+Email:
