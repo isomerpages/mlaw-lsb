@@ -1,17 +1,16 @@
 ---
-title: 'Applying for a Licence'
+title: Applying for a Licence
 permalink: /register-to-be-a-surveyor/applying-for-a-licence/
-breadcrumb: 'Applying for a Licence'
-
+breadcrumb: Applying for a Licence
+variant: markdown
 ---
-
-
 ## APPLYING FOR A LICENCE
 
 A corporation or partnership which intends to provide cadastral survey services is required to have a licence granted by LSB.
 
-**Application form & fee**
+**Application form &amp; fee**
 
+* [Form 8](https://lsb.mlaw.gov.sg/forms/forms/)
 * [Form 8](/files/linkclick2e89.doc) (DOC, 99KB)
 * S$500
 
@@ -59,9 +58,9 @@ Please submit your applications and fees to:
 
 **The Registrar Land Surveyors Board**<br> 
 c/o Singapore Land Authority, 55 Newton Road,<br>
-#12-01, Revenue House, Singapore 307987
+#14-01, Revenue House, Singapore 307987
 
 Tel: (65) 6478 3593<br>
 Fax: (65) 6323 9937
 
-Email: <mlaw_lsb_enquiry@mlaw.gov.sg>
+Email:
