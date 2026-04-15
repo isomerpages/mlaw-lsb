@@ -31,7 +31,7 @@ Please submit your applications and fees to:
 
 **The Registrar Land Surveyors Board**<br>
 c/o Singapore Land Authority, 55 Newton Road,<br>
-#12-01, Revenue House, Singapore 307987
+#14-01, Revenue House, Singapore 307987
 
 Tel: (65) 6478 3593<br>
 Fax: (65) 6323 9937
