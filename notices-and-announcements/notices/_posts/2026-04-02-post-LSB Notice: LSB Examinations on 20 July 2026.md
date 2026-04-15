@@ -147,7 +147,9 @@ of the examination stated herein for compliance and submit their selection
 of sites to Mr Ng Chin Sing (<a href="mailto:ng_chin_sing@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chin_sing@sla.gov.sg</a>) and
 copy Deputy Registrar, Ms Mitsy Ng (<a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>) between <strong><u>5 May 2026 and 1 June 2026</u>.</strong>
 </p>
-<p><strong>Practical Exam Site Acceptance Deadline: 22 June 2026 (Monday)</strong>
+<p>Apart from submitting their selection of sites to LSB within the stipulated
+period, candidates must ensure all queries are attended to promptly as
+all sites must be accepted by <strong><u>22 June 2026 (Monday)</u></strong>
 </p>
 <p>Attachment enclosed:</p>
 <p><a href="/files/Instructions_to_Candidate_Practical_Exam_2026_FINAL.pdf" rel="noopener nofollow" target="_blank">Instructions_to_Candidate_Practical_2026</a>
@@ -158,7 +160,7 @@ copy Deputy Registrar, Ms Mitsy Ng (<a href="mailto:mitsy_ng@sla.gov.sg" rel="no
 </p>
 <p><a href="/files/List_of_exam_site_not_to_be_selected_for_2026_.pdf" rel="noopener nofollow" target="_blank">List_of_exam_site_not_to_be_selected_for_2026</a>
 </p>
-<p><strong><u>C. Important Details for Cadastral Law Examination</u></strong>
+<p><strong><u>C. Important Details for Cadastral Law Written Examination</u></strong>
 </p>
 <p>3. The Instructions to Candidate are attached as enclosed for compliance
 by candidates taking the cadastral law written examination.</p>
@@ -201,9 +203,9 @@ scan the QR code below</p>
 <p></p>
 <p>- Include your name for reference when making payment and attach the proof
 of payment in the online application form</p>
-<p><strong><u>F. Deadline for registration</u></strong>
+<p><strong><u>F. Deadline for Application</u></strong>
 </p>
-<p>7. All submission of applications through the online registration form
+<p>7. All submission of applications through the online application form
 together with the fees to be paid must be completed before the closing
 date of <strong><u>4 May 2026</u></strong><u>.</u>
 </p>
