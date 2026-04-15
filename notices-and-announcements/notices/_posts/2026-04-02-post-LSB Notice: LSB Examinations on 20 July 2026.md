@@ -149,7 +149,7 @@ copy Deputy Registrar, Ms Mitsy Ng (<a href="mailto:mitsy_ng@sla.gov.sg" rel="no
 </p>
 <p>Apart from submitting their selection of sites to LSB within the stipulated
 period, candidates must ensure all queries are attended to promptly as
-all sites must be accepted by <strong><u>22 June 2026 (Monday).</u></strong>
+all sites must be accepted by <strong><u>22 June 2026.</u></strong>
 </p>
 <p>Attachment enclosed:</p>
 <p><a href="/files/Instructions_to_Candidate_Practical_Exam_2026_FINAL.pdf" rel="noopener nofollow" target="_blank">Instructions_to_Candidate_Practical_2026</a>
