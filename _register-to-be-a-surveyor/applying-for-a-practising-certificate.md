@@ -36,4 +36,4 @@ c/o Singapore Land Authority, 55 Newton Road,<br>
 Tel: (65) 6478 3593<br>
 Fax: (65) 6323 9937
 
-Email:
+Email: mlaw_lsb_enquiry@mlaw.gov.sg
