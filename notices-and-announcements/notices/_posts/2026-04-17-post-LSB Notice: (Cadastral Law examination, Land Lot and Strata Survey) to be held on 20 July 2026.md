@@ -182,7 +182,7 @@ Surveyors Rules.</p>
 <p>Method 2 via QR code</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_lsb_exam_registration_2026.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_lsb_exam_registration_2026.png">
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -198,7 +198,7 @@ the online registration form</p>
 scan the QR code below</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LSB_paynow_qr_code.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/LSB_paynow_qr_code.jpg">
 </div>
 <p>&nbsp;</p>
 <p>- Include your name for reference when making payment and attach the proof
