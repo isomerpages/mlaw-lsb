@@ -181,6 +181,9 @@ Surveyors Rules.</p>
 </p>
 <p>Method 2 via QR code</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_lsb_exam_registration_2026.png">
+</div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>E. Mode of payment (Payment by cheque will not be accepted)</strong>
