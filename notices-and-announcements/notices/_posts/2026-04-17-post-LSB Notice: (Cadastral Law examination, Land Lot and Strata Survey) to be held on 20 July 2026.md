@@ -152,14 +152,15 @@ candidates must ensure all queries are attended to promptly as all sites
 must be accepted by <strong>22 June 2026.</strong>
 </p>
 <p>Attachment enclosed:</p>
-<p><a href="https://cms.isomer.gov.sg/files/Instructions_to_Candidate_Practical_Exam_2026_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Instructions_to_Candidate_Practical_2026</a>
+<p><a href="/files/Instructions_to_Candidate_Practical_Exam_2026_FINAL.pdf" rel="noopener nofollow" target="_blank">Instruction to Candidate_Practical_2026</a>
 </p>
-<p><a href="https://cms.isomer.gov.sg/files/Annex_C_Practical_Exam_Checklist_Land_Lot_2026_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex C_Practical Exam Checklist_Land Lot_2026</a>
+<p><a href="/files/Annex_C_Practical_Exam_Checklist_Land_Lot_2026_FINAL.pdf" rel="noopener nofollow" target="_blank">Annex C_Practical Exam Checklist_Land Lot_2026</a>
 </p>
-<p><a href="https://cms.isomer.gov.sg/files/Annex_D_Practical_Exam_Checklist_Strata_Lot_2026_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex D_Practical Exam Checklist_Strata_Lot_2026</a>
+<p><a href="/files/Annex_D_Practical_Exam_Checklist_Strata_Lot_2026_FINAL.pdf" rel="noopener nofollow" target="_blank">Annex D_Practical Exam Checklist_Strata Lot_2026</a>
 </p>
-<p><a href="https://cms.isomer.gov.sg/files/List_of_exam_site_not_to_be_selected_for_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">List_of_exam_site_not_to_be_selected_for_2026</a>
+<p><a href="/files/List_of_exam_site_not_to_be_selected_for_2026_.pdf" rel="noopener nofollow" target="_blank">List of exam sites not to be selected for 2026</a>
 </p>
+<p></p>
 <p><strong>C. Important Details for Cadastral Law Written Examination</strong>
 </p>
 <p>3. The Instructions to Candidate are attached as enclosed for compliance
