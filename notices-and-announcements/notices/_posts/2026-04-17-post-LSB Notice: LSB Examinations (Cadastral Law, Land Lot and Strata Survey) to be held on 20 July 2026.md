@@ -167,7 +167,7 @@ must be accepted by <strong>22 June 2026.</strong>
 by candidates taking the cadastral law written examination.</p>
 <p>&nbsp;</p>
 <p>Attachment enclosed:</p>
-<p><a href="https://cms.isomer.gov.sg/files/Instructions_to_Candidate_Cadastral_Law_2026__FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Instructions to Candidate_Cadastral Law 2026</a>
+<p><a href="/files/Instructions_to_Candidate_Cadastral_Law_2026__FINAL.pdf" rel="noopener nofollow" target="_blank">Instructions to Candidate_Cadastral Law_2026</a>
 </p>
 <p><strong>D. Mode of Application</strong>
 </p>
