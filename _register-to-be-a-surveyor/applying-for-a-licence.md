@@ -11,7 +11,7 @@ A corporation or partnership which intends to provide cadastral survey services 
 **Application form &amp; fee**
 
 * [Form 8](https://lsb.mlaw.gov.sg/forms/forms/)
-* S$500
+* S$1000
 
 **Validity of Licence**
 
