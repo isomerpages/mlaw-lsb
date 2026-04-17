@@ -12,5 +12,5 @@ To qualify as a Registered Surveyor, one must:
 * Fulfill [1 year's practical survey work experience](https://lsb.mlaw.gov.sg/forms/forms/) under the supervision of a surveyor with a Practicing Certificate
 * Pass the [Professional Practice Examination](/register-to-be-a-surveyor/professional-practice-examination/)
 * Pass the [Professional Interview](/register-to-be-a-surveyor/professional-interview/)
-* Apply to the Land Surveyors Board on prescribed form [Form 1](https://lsb.mlaw.gov.sg/forms/forms/) together with application fees of S$100. 
+* Apply to the Land Surveyors Board on prescribed form [Form 1](https://lsb.mlaw.gov.sg/forms/forms/) together with application fees of S$200. 
 * Upon the Board's approval, the applicant, on payment of a fee of $100,  is issued with a certificate of registration duly signed by the Registrar.
