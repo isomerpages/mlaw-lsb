@@ -144,8 +144,8 @@ time and date.</p>
 <p>b) List of sites not to be selected.</p>
 <p>All candidates must familarise themselves with the requirements/format
 of the examination stated herein for compliance and submit their selection
-of sites to Mr Ng Chin Sing (email to: <a href="ng_chin_sing@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chin_sing@sla.gov.sg</a>) and copy Deputy
-Registrar, Ms Mitsy Ng (email to: <a href="mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>) between <strong>5 May 2026 and 1 June 2026.</strong>
+of sites to Mr Ng Chin Sing (email to: <a href="mailto:ng_chin_sing@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chin_sing@sla.gov.sg</a>) and
+copy Deputy Registrar, Ms Mitsy Ng (email to: <a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>) between <strong>5 May 2026 and 1 June 2026.</strong>
 </p>
 <p>Apart from submitting their selection of sites within the stipulated period,
 candidates must ensure all queries are attended to promptly as all sites
@@ -213,15 +213,15 @@ date of <strong>4 May 2026</strong><u>.</u>
 </p>
 <p>8. The LSB would appreciate if you could inform interested persons on
 the content of this LSB Notice. Please contact Deputy Registrar, Ms Mitsy
-Ng (email to: <a href="mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>)
+Ng (email to: <a href="mailto:mitsy_ng@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mitsy_ng@sla.gov.sg</a>)
 if you have question on this examination.</p>
 <p><strong>H. Tutorial Sessions by SISV on Cadastral Law</strong>
 </p>
 <p>9. LSB does not offer tutorial sessions. Interested persons may check
-with SISV, Ms Manisah Jalil (email to: <a href="manisah@sisv.org.sg" rel="noopener noreferrer nofollow" target="_blank">manisah@sisv.org.sg</a>) whether there is such
-an offering. Please note that LSB does not receive any fee for any of such
-offerings and interested persons will have to liaise with SISV directly
-(including payment, if any).</p>
+with SISV, Ms Manisah Jalil (email to: <a href="mailto:manisah@sisv.org.sg" rel="noopener noreferrer nofollow" target="_blank">manisah@sisv.org.sg</a>) whether there
+is such an offering. Please note that LSB does not receive any fee for
+any of such offerings and interested persons will have to liaise with SISV
+directly (including payment, if any).</p>
 <p>Regards</p>
 <p>Derick Tan</p>
 <p>Registrar</p>
