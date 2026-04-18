@@ -207,8 +207,7 @@ of payment in the online application form</p>
 </p>
 <p>7. All submission of applications through the online application form
 together with the fees to be paid must be completed before the closing
-date of <strong>4 May 2026</strong><u>.</u>
-</p>
+date of <strong>4 May 2026</strong>.</p>
 <p><strong>G. Other Important Details</strong>
 </p>
 <p>8. The LSB would appreciate if you could inform interested persons on
