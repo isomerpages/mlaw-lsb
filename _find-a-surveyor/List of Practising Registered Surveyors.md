@@ -599,6 +599,21 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a id="L"></a> Loi Pui Hui Jansen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> 128</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> YJP Surveyors Pte Ltd
+<br>10 Genting Road
+<br> #05-00 The Blue Building
+<br>Singapore 349473
+<br> Tel: 67430938
+</p></td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a id="L"></a>Low Lee Luang</p>
 </td>
 <td rowspan="1" colspan="1">
