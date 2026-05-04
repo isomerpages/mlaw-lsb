@@ -198,6 +198,20 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a id="D"></a>Ding Lidong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>120</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Landvision Registered Surveyor
+<br>5A Jasmine Road
+<br>Singapore 576580
+<br>Tel:-</p>
+</td>
+</tr>
+
+<tr><td rowspan="1" colspan="1">
 <p><a id="F"></a>Foo Jong Kan</p>
 </td>
 <td rowspan="1" colspan="1">
