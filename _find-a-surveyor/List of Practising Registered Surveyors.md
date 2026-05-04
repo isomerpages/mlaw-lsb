@@ -422,6 +422,21 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a id="L"></a>Lee Guo Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>127</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> Lee Boon Haw Surveyors Pte Ltd
+<br> 150 Changi Road
+<br> #03-06 Guthrie Building
+<br> Singapore 419973
+<br> Tel: 63466296</p>
+</td>
+</tr>
+
+<tr><td rowspan="1" colspan="1">
 <p><a id="L"></a>Christopher Lee Teck Kim</p>
 </td>
 <td rowspan="1" colspan="1">
