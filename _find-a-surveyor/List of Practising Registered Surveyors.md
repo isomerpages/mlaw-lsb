@@ -549,7 +549,7 @@ to engage in survey work in Singapore.</p>
 <p>YJP Surveyors Pte Ltd
 <br>10 Genting Road 
 <br>#05-00 The Blue Building
-<br>Singapore 349743
+<br>Singapore 349473
 <br>Tel: 67430938</p>
 </td>
 </tr>
