@@ -210,7 +210,6 @@ to engage in survey work in Singapore.</p>
 <br>Tel:-</p>
 </td>
 </tr>
-
 <tr><td rowspan="1" colspan="1">
 <p><a id="F"></a>Foo Jong Kan</p>
 </td>
