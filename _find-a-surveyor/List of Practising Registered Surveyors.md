@@ -198,6 +198,19 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a id="D"></a>Ding Lidong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>120</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Landvision Registered Surveyor
+<br>5A Jasmine Road
+<br>Singapore 576580
+<br>Tel:-</p>
+</td>
+</tr>
+<tr><td rowspan="1" colspan="1">
 <p><a id="F"></a>Foo Jong Kan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -409,6 +422,21 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a id="L"></a>Lee Guo Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>127</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> Lee Boon Haw Surveyors Pte Ltd
+<br> 150 Changi Road
+<br> #03-06 Guthrie Building
+<br> Singapore 419973
+<br> Tel: 63466296</p>
+</td>
+</tr>
+
+<tr><td rowspan="1" colspan="1">
 <p><a id="L"></a>Christopher Lee Teck Kim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -512,6 +540,21 @@ to engage in survey work in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a id="L"></a>Lim Michael</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>113</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YJP Surveyors Pte Ltd
+<br>10 Genting Road 
+<br>#05-00 The Blue Building
+<br>Singapore 349473
+<br>Tel: 67430938</p>
+</td>
+</tr>
+
+<tr><td rowspan="1" colspan="1">
 <p><a id="L"></a>Liu Nam Thiam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -553,6 +596,21 @@ to engage in survey work in Singapore.</p>
 <br>Singapore 577858
 <br>Tel: -</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a id="L"></a> Loi Pui Hui Jansen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> 128</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> YJP Surveyors Pte Ltd
+<br>10 Genting Road
+<br> #05-00 The Blue Building
+<br>Singapore 349473
+<br> Tel: 67430938
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
