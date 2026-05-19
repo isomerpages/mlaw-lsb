@@ -459,9 +459,9 @@ to engage in survey work in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ace Land Survey
-<br>2 Kallang Pudding Road
-<br>Mactech Building #05-02
-<br>Singapore 349307
+<br>627A Aljunied Road
+<br>Biztech Centre #07-01
+<br>Singapore 389842
 <br>Tel: 67442380</p>
 </td>
 </tr>
