@@ -6,8 +6,8 @@ variant: markdown
 ---
 ## ANNUAL REPORTS
 
-[Land Surveyors Board: 2025 Annual Report]
-(https://go.gov.sg/lsb-ar-2025)
+
+[Land Surveyors Board: 2025 Annual Report](https://go.gov.sg/lsb-ar-2025)
 <br>
 [Land Surveyors Board: 2024 Annual Report](https://go.gov.sg/lsb-ar-2024)
 <br>
