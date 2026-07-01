@@ -182,20 +182,20 @@ Note: This list refers to licenses issued by the Land Surveyors Board under sect
         Tel: 62481409</td>
   </tr>
   <tr>
+		<td><a id="S"></a>SYSENG (S) PTE LTD</td>
+			<td>
+				31 Changi South Avenue 2<br>
+				Tritech Building<br>
+				Singapore 486478<br>
+				Tel:68482567</td>
+			</tr>
+			<tr>
     <td><a id="T"></a>TANG TUCK KIM REGISTERED SURVEYOR PTE LTD</td>
     <td>
         2 Kallang Avenue<br>
         #09-29 CT Hub<br>
         Singapore 339407<br>
         Tel: 63399660</td>
-  </tr>
-  <tr>
-    <td><a id="T"></a>SYSENG (S) PTE LTD</td>
-    <td>
-        31 Changi South Avenue 2<br>
-        Tritech Building<br>
-        Singapore 486478<br>
-        Tel: 68482567</td>
   </tr>
   <tr>
     <td><a id="U"></a>UNITED SURVEYORS PTE LTD</td>
