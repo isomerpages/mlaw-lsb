@@ -1002,7 +1002,7 @@ to engage in survey work in Singapore.</p>
 <p>118</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tritech Engineering &amp; Testing (Singapore) Pte Ltd
+<p>SysEng (S) Pte Ltd
 <br>31 Changi South Avenue 2
 <br>Tritech Building
 <br>Singapore 486478
