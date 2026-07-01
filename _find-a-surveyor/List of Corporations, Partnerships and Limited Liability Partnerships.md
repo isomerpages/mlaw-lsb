@@ -190,7 +190,7 @@ Note: This list refers to licenses issued by the Land Surveyors Board under sect
         Tel: 63399660</td>
   </tr>
   <tr>
-    <td><a id="T"></a>SysEng (S) PTE LTD</td>
+    <td><a id="T"></a>SYSENG (S) PTE LTD</td>
     <td>
         31 Changi South Avenue 2<br>
         Tritech Building<br>
