@@ -2,6 +2,7 @@
 title: List of Corporations, Partnerships and Limited Liability Partnerships
 permalink: /find-a-surveyor/list-of-corporations-partnerships-limited-liability-partnerships/
 description: ""
+variant: markdown
 ---
 <style>
 ol{
@@ -189,7 +190,7 @@ Note: This list refers to licenses issued by the Land Surveyors Board under sect
         Tel: 63399660</td>
   </tr>
   <tr>
-    <td><a id="T"></a>TRITECH ENGINEERING &amp; TESTING (SINGAPORE) PTE LTD</td>
+    <td><a id="T"></a>SYSENG (S) PTE LTD</td>
     <td>
         31 Changi South Avenue 2<br>
         Tritech Building<br>
