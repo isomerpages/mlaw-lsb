@@ -521,7 +521,7 @@ to engage in survey work in Singapore.</p>
 <p>Land Transport Authority
 <br>1 Hampshire Road
 <br>Singapore 219428
-<br>Tel: 63961761</p>
+<br>Tel: -</p>
 </td>
 </tr>
 <tr>
