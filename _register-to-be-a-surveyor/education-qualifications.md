@@ -118,7 +118,7 @@ with any of the following:</p>
 <p>viii. UniSQ,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Surveying (Honours);</p>
+<p>Bachelor of Surveying (Honours).</p>
 </li>
 </ul>
 </li>
