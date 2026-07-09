@@ -162,10 +162,10 @@ with any of the following:</p>
 <p>i. East China University of Technology,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor Degree of Engineering - Speciality in Geomatics Engineering.</p>
+<p>Bachelor Degree of Engineering - Specialty in Geomatics Engineering.</p>
 </li>
 <li>
-<p>Bacheloe Degree of Engineering - Speciality in Surveying and Mapping Engineering.</p>
+<p>Bachelor Degree of Engineering - Specialty in Surveying and Mapping Engineering.</p>
 </li>
 </ul>
 </li>
