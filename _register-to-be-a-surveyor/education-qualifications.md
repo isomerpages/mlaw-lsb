@@ -34,10 +34,10 @@ Board.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>i. Curtin University</p>
+<p>i. Curtin University,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Surveying;</p>
+<p>Bachelor of Surveying.</p>
 </li>
 </ul>
 </li>
@@ -45,13 +45,13 @@ Board.</p>
 <p>ii. Royal Melbourne Institute of Technology,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Applied Science (Land Surveying);</p>
+<p>Bachelor of Applied Science (Land Surveying).</p>
 </li>
 <li>
-<p>Bachelor of Applied Science (Surveying);</p>
+<p>Bachelor of Applied Science (Surveying).</p>
 </li>
 <li>
-<p>Bachelor of Applied Science (Surveying) (Honours);</p>
+<p>Bachelor of Applied Science (Surveying)(Honours).</p>
 </li>
 <li>
 <p>Bachelor of Surveying (Honours).</p>
@@ -62,10 +62,10 @@ Board.</p>
 <p>iii. University of Melbourne,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Surveying;</p>
+<p>Bachelor of Surveying.</p>
 </li>
 <li>
-<p>Bachelor of Geomatic Engineering (Honours);</p>
+<p>Bachelor of Geomatic Engineering (Honours).</p>
 </li>
 <li>
 <p>Master of Engineering (Spatial) <u>OR</u> Master of Engineering (Geomatics)
@@ -86,7 +86,7 @@ with any of the following:</p>
 <p>iv. University of New South Wales,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Surveying;</p>
+<p>Bachelor of Surveying.</p>
 </li>
 </ul>
 </li>
@@ -94,7 +94,7 @@ with any of the following:</p>
 <p>v. University of Newcastle,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Surveying;</p>
+<p>Bachelor of Surveying.</p>
 </li>
 </ul>
 </li>
@@ -102,7 +102,7 @@ with any of the following:</p>
 <p>vi. University of South Australia,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Geoinformatics and Surveying;</p>
+<p>Bachelor of Geoinformatics and Surveying.</p>
 </li>
 </ul>
 </li>
@@ -110,7 +110,7 @@ with any of the following:</p>
 <p>vii. University of Southern Queensland,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Spatial Science (Honours) (Surveying);</p>
+<p>Bachelor of Spatial Science (Honours) (Surveying).</p>
 </li>
 </ul>
 </li>
@@ -140,7 +140,7 @@ with any of the following:</p>
 <p>i. University of Calgary,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Geomatics Engineering;</p>
+<p>Bachelor of Geomatics Engineering.</p>
 </li>
 </ul>
 </li>
@@ -155,6 +155,23 @@ with any of the following:</p>
 </ul>
 </li>
 <li>
+<p><u>CHINA</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>i. East China University of Technology,</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bachelor Degree of Engineering - Speciality in Geomatics Engineering.</p>
+</li>
+<li>
+<p>Bacheloe Degree of Engineering - Speciality in Surveying and Mapping Engineering.</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
 <p><u>HONG KONG</u>
 </p>
 <ul data-tight="true" class="tight">
@@ -162,16 +179,16 @@ with any of the following:</p>
 <p>i. The Hong Kong Polytechnic University,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Science in Geomatics [Land Surveying];</p>
+<p>Bachelor of Science in Geomatics [Land Surveying].</p>
 </li>
 <li>
 <p>Bachelor of Science in Geomatics [Utility Management and Surveying].</p>
 </li>
 <li>
-<p>BSc (Hons) in Land Surveying and Geo-Informatics</p>
+<p>BSc (Hons) in Land Surveying and Geo-Informatics.</p>
 </li>
 <li>
-<p>BSc (Hons) in Urban Informatics and Smart Cities</p>
+<p>BSc (Hons) in Urban Informatics and Smart Cities.</p>
 </li>
 <li>
 <p>MSc in Geomatics <sup>*</sup><em><br></em><sup>*</sup>Recognised only when
@@ -254,7 +271,7 @@ Measurements/Surveying and Cadastre.</p>
 <p>ii. University College London,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Engineering in Geoinformatics;</p>
+<p>Bachelor of Engineering in Geoinformatics.</p>
 </li>
 </ul>
 </li>
@@ -262,7 +279,7 @@ Measurements/Surveying and Cadastre.</p>
 <p>iii. University of East London,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Surveying and Mapping Sciences (Honours);</p>
+<p>Bachelor of Surveying and Mapping Sciences (Honours).</p>
 </li>
 </ul>
 </li>
@@ -278,7 +295,7 @@ Measurements/Surveying and Cadastre.</p>
 <p>v. Newcastle University,</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>BEng Honours in Geospatial Surveying and Mapping;</p>
+<p>BEng Honours in Geospatial Surveying and Mapping.</p>
 </li>
 <li>
 <p>MSci Honours in Mapping and Geospatial Data Science (4 years).</p>
