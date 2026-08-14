@@ -7,7 +7,7 @@ variant: markdown
 ## BOARD MEMBERS
 
 ##### **President of the Board**
-**Mr Soh Kheng Peng** <br>
+**Dr. Victor Khoo** <br>
 Land Surveyors Board
 <br>
 
@@ -24,8 +24,8 @@ JTC Corporation
 Chartered Survey Services Consultants Pte Ltd
 <br>
 
-**Mr Victor Khoo** <br>
-Singapore Land Authority 
+**Ms Loh Suat Yen** <br>
+Housing &amp; Development Board 
 <br>
 
 **Mr Christopher Lee Teck Kim**  <br>
